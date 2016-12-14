@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Text is fantastic."
+title:  "Section 2."
 date:   2016-05-21 21:12:29 -0700
 tags: [text, jekyll]
-excerpt: "I'm suddenly a huge fan of text files."
+excerpt: "Section 2."
 tag:
 - markdown 
 - text
