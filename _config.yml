@@ -2,7 +2,7 @@
 title:              Research Tips and Strategies
 bio:                'Mostly a place to jot things down.'
 description:        "Mostly a place to jot things down."
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 # Notebook icon by Bruno Castro from the Noun Project
