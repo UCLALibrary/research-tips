@@ -9,7 +9,7 @@ logo:               'assets/img/logo.png'
 # background:         'assets/img/placeholder-big-disc.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://dmcwo.github.io/research-tips
+url:                https://dmcwo.github.io/research-tips
 
 # Jekyll
 permalink:          /:title/
