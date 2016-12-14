@@ -5,10 +5,10 @@
 
 <div class="PageNavigation">
     {% if page.previous.url %}
-    <a class="btn prev" href="{{page.previous.url}}"><span><i class="fa fa-chevron-left" aria-hidden="true"></span> {{page.previous.title}}</a>
+    <a class="btn prev" href="{{site.url}}/{{page.previous.url}}"><span><i class="fa fa-chevron-left" aria-hidden="true"></span> {{page.previous.title}}</a>
     {% endif %}
     {% if page.next.url %}
-    <a class="btn next" href="{{page.next.url}}">{{page.next.title}} <i class="fa fa-chevron-right" aria-hidden="true"></a>
+    <a class="btn next" href="{{site.url}}/{{page.next.url}}">{{page.next.title}} <i class="fa fa-chevron-right" aria-hidden="true"></a>
     {% endif %}
 </div>
 
