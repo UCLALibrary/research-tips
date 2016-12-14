@@ -1,14 +1,15 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Notebook
+bio:                'Mostly a place to jot things down.'
+description:        "Mostly a place to jot things down."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+# Notebook icon by Bruno Castro from the Noun Project
+# background:         'assets/img/placeholder-big-disc.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://dmcwo.github.io/research-tips
+url:                http://dmcwo.github.io/Notebook-Moon/
 
 # Jekyll
 permalink:          /:title/
@@ -21,12 +22,21 @@ kramdown:
   toc_levels:       1..6
   enable_coderay:   false
 mathjax:            true
+future:             true
 sass:
   sass_dir:         _sass
   style:            compressed
 
+# Collections
+collections:
+    presentations:
+        output: true
+        permalink: /presentations/:path/
+
+
+
 # Comments
-# disqus_shortname:   taylantatli
+# disqus_shortname:   disqus_username
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,18 +48,18 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            dmcwo
+# facebook:           username
+github:             dmcwo
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          doug-worsham
 #xing:              username
-instagram:          username
+# instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -68,7 +78,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: http://dmcwo.github.io/research-tips
+    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

@@ -1,0 +1,37 @@
+<div > <!--formerly class="post-list"-->
+    {% for presentation in site.presentations reversed %}
+        <ul>
+            <li>
+            	{% if presentation.abstract %}
+            		<a href="{{ site.url }}{{ presentation.url }}">{{ presentation.title }}</a>.
+                {% else %}
+                	{{ presentation.title | append: ". " }}
+                {% endif %}
+                {% if presentation.hidedayindate %}
+                                {{ presentation.date | date: '%B, %Y' | append: ". " }}
+                {% else %}
+                                {{ presentation.date | date: '%B %d, %Y' | append: ". "}}
+                {% endif %}
+
+                {% if presentation.meetingname %}
+                                {{ presentation.meetingname | append: ". " }}
+                {% endif %}
+                            {% if presentation.place %}
+                                {{ presentation.place | append: ". " }}
+                {% endif %}
+                {% if presentation.copresenters %}
+                                {{ presentation.copresenters | prepend: "With: " | append: "."}}
+                {% endif %}
+                             {% if presentation.slideurl %}
+                                <a style="text-decoration: none;" href="{{ presentation.slideurl }}"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+                             {% endif %}
+                             {% if presentation.handouturl %}
+                             <a style="text-decoration: none;" href="{{ presentation.handouturl }}"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
+                             {% endif %}
+                             {% if presentation.meetingurl %}
+                                <a style="text-decoration: none;" href="{{ presentation.meetingurl }}"><i class="fa fa-calendar" aria-hidden="true"></i> Event Page</a>
+                             {% endif %}
+            </li>
+        </ul>
+    {% endfor %}
+</div>

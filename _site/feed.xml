@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.5">Jekyll</generator><link href="http://dmcwo.github.io/Notebook-Moon//feed.xml" rel="self" type="application/atom+xml" /><link href="http://dmcwo.github.io/Notebook-Moon//" rel="alternate" type="text/html" /><updated>2016-10-22T22:12:09-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//</id><title>Notebook</title><subtitle>Mostly a place to jot things down.</subtitle><entry><title>Creating a Drupal-like content type in Jekyll for Presentations</title><link href="http://dmcwo.github.io/Notebook-Moon//jekyll-collection-drupal-content-type-for-presentations/" rel="alternate" type="text/html" title="Creating a Drupal-like content type in Jekyll for Presentations" /><published>2016-06-25T19:12:29-07:00</published><updated>2016-06-25T19:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//jekyll-collection-drupal-content-type-for-presentations</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//jekyll-collection-drupal-content-type-for-presentations/">&lt;p&gt;I’ll probably always be a big fan of &lt;a href=&quot;http://drupal.org&quot;&gt;Drupal&lt;/a&gt;. I absolutely loved working with Drupal to create platforms for communities to build and share knowledge together. But for a small, personal site like this one, it feels like a bit much. As &lt;a href=&quot;https://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/&quot;&gt;others have said&lt;/a&gt;, running a server and a database, and keeping up with all the associated updates and patches, begins to feel like overhead, and for me, ultimately ends up becoming an excuse to not actually write anything! That said, running something in a hosted WordPress environment doesn’t give adequate opportunities to tinker with things under the hood. So lately, I’ve felt like &lt;a href=&quot;jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; comes to the rescue by providing just the right balance of tinkering-time and a focus on content. As if I had any lingering doubts, I recently learned that &lt;a href=&quot;http://jekyllrb.com/docs/collections/&quot;&gt;Jekyll’s collections&lt;/a&gt; function quite a bit like Drupal’s content types + views framework. In other words, &lt;em&gt;you can make Drupal-like content types in Jekyll&lt;/em&gt;. Brilliant.&lt;/p&gt;
+
+&lt;p&gt;To get started learning how this works, I read through &lt;a href=&quot;http://ben.balter.com/2015/02/20/jekyll-collections/&quot;&gt;Ben Balter’s splendid tutorial&lt;/a&gt; -  essential reading to get your footing with jekyll collections.&lt;/p&gt;
+
+&lt;p&gt;Next up, I decided to try to build a &lt;em&gt;presentations&lt;/em&gt; collection to store and display information about professional conference presentations.&lt;/p&gt;
+
+&lt;p&gt;Here’s a basic outline of how I approached this:&lt;/p&gt;
+
+&lt;h3 id=&quot;initial-content-and-metadata&quot;&gt;Initial content and metadata&lt;/h3&gt;
+
+&lt;p&gt;First I created a &lt;code class=&quot;highlighter-rouge&quot;&gt;_presentations&lt;/code&gt; directory.  This directory will function just like Jekyll’s standard &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory, in that it will hold markdown files describing each presentation.&lt;/p&gt;
+
+&lt;p&gt;Then, I took a look at how &lt;a href=&quot;http://zotero.org&quot;&gt;Zotero&lt;/a&gt; handles presentations to come up with an initial set of metadata for each presentation. This metadata gets stored in the &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front matter&lt;/a&gt; in each presentation’s markdown file. Each of the lines in the front matter functions a bit like a simple &lt;em&gt;field&lt;/em&gt; in a Drupal content type. Here’s &lt;a href=&quot;http://github.com/dmcwo/Notebook-Moon/_presentations/2000-09-22-presentation-example.md&quot;&gt;an example&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: presentation
+title: &quot;&quot;
+date: 1990-01-01
+copresenters: 
+meetingname: 
+meetingurl: 
+place: 
+abstract: &quot;&quot;
+slideurl: 
+handouturl: 
+feature: 
+permalink: presentations/short-title/
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Next, I created &lt;a href=&quot;https://github.com/dmcwo/Notebook-Moon/tree/gh-pages/_presentations&quot;&gt;a few markdown files&lt;/a&gt; in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_presentations&lt;/code&gt; folder following this format.&lt;/p&gt;
+
+&lt;h3 id=&quot;set-up-a-listoverview-page&quot;&gt;Set up a list/overview page&lt;/h3&gt;
+
+&lt;p&gt;The next step was to create a &lt;code class=&quot;highlighter-rouge&quot;&gt;presentations&lt;/code&gt; directory and an &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt; file. There’s not much to this file. It is pretty much just going to refer to a new Jekyll &lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; called &lt;code class=&quot;highlighter-rouge&quot;&gt;presentation-list&lt;/code&gt; that we will define in a bit.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: presentation-list
+title: All Presentations
+excerpt: &quot;A List of Presentations&quot;
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Then, I copied &lt;code class=&quot;highlighter-rouge&quot;&gt;layouts/post-list.html&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;layouts/presentation-list.html&lt;/code&gt;and then adapted for the &lt;code class=&quot;highlighter-rouge&quot;&gt;presentations&lt;/code&gt; collection. It is a rather long file, so &lt;a href=&quot;https://github.com/dmcwo/Notebook-Moon/blob/gh-pages/_layouts/presentation-list.html&quot;&gt;take a look to get the full story&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The basic idea here is to look through each &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_presentations&lt;/code&gt; folder, and then display the metadata defined in the front matter, formatting w/ html/css however you like. It was helpful for me to add the &lt;code class=&quot;highlighter-rouge&quot;&gt;hidedayindate&lt;/code&gt; variable to the front matter, because for some of my presentations I only had the day and month recorded.&lt;/p&gt;
+
+&lt;p&gt;There’s a series of &lt;code class=&quot;highlighter-rouge&quot;&gt;if&lt;/code&gt; statements that display things like links to handouts and conference venues, but only if these “fields” are defined in the &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; files.&lt;/p&gt;
+
+&lt;h3 id=&quot;telling-jekyll-about-the-collection&quot;&gt;Telling Jekyll about the collection&lt;/h3&gt;
+
+&lt;p&gt;Next up, I added the following to &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Collections
+collections:
+    presentations:
+        output: true
+        permalink: /presentations/:path/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;That’s it! Now we’ve got &lt;a href=&quot;http://dmcwo.com/presentations/&quot;&gt;a list of presentations&lt;/a&gt;, and &lt;a href=&quot;http://dmcwo.com//presentations/liw-digital-research-notebook/&quot;&gt;an individual page for each presentation&lt;/a&gt;. Pretty cool!&lt;/p&gt;
+
+&lt;h4 id=&quot;other-useful-things-i-ran-into-as-i-worked-on-this&quot;&gt;Other useful things I ran into as I worked on this:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ben Balter’s &lt;a href=&quot;http://ben.balter.com/2015/02/20/jekyll-collections/&quot;&gt;great tutorial&lt;/a&gt; was &lt;em&gt;really, really&lt;/em&gt; helpful.&lt;/li&gt;
+  &lt;li&gt;Jekyll has some &lt;a href=&quot;http://jekyllrb.com/docs/collections/&quot;&gt;documentation on collections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;This is another &lt;a href=&quot;https://mademistakes.com/articles/jekyll-style-guide/&quot;&gt;walk-through on Jekyll collections&lt;/a&gt;, covering what seems to me to be a pretty fancy use case: using a jekyll collection to build a site style guide.&lt;/li&gt;
+  &lt;li&gt;Some &lt;a href=&quot;http://alanwsmith.com/jekyll-liquid-date-formatting-examples&quot;&gt;much needed help figuring out the different options for formatting dates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Something I need to return to so I can figure out how to &lt;a href=&quot;http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html&quot;&gt;make jekyll display upcoming presentations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Goes over some &lt;a href=&quot;https://github.com/jekyll/jekyll/issues/2515&quot;&gt;front matter sorting options&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="tinkering" /><category term="presentations" /><category term="jekyll" /><category term="Drupal" /><summary>I’ll probably always be a big fan of Drupal. I absolutely loved working with Drupal to create platforms for communities to build and share knowledge together. But for a small, personal site like this one, it feels like a bit much. As others have said, running a server and a database, and keeping up with all the associated updates and patches, begins to feel like overhead, and for me, ultimately ends up becoming an excuse to not actually write anything! That said, running something in a hosted WordPress environment doesn’t give adequate opportunities to tinker with things under the hood. So lately, I’ve felt like Jekyll comes to the rescue by providing just the right balance of tinkering-time and a focus on content. As if I had any lingering doubts, I recently learned that Jekyll’s collections function quite a bit like Drupal’s content types + views framework. In other words, you can make Drupal-like content types in Jekyll. Brilliant.</summary></entry><entry><title>FYE, critical librarianship, and healthy discontent at LIW2016</title><link href="http://dmcwo.github.io/Notebook-Moon//liw-notes-critical-foundations/" rel="alternate" type="text/html" title="FYE, critical librarianship, and healthy discontent at LIW2016" /><published>2016-06-15T17:12:29-07:00</published><updated>2016-06-15T17:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//liw-notes-critical foundations</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//liw-notes-critical-foundations/">&lt;p&gt;Four key questions framed this &lt;a href=&quot;https://liw16.sched.org/event/5yjS/critical-foundations-intersections-between-critical-librarianship-and-first-year-experience&quot;&gt;conversational panel session&lt;/a&gt; on the intersections between fye and critical librarianship, but many more came up in discussion. &lt;a href=&quot;http://twitter.com/kevinseeber&quot;&gt;@kevinseeber&lt;/a&gt; played MC alongside &lt;a href=&quot;http://twitter.com/JessicaCritten&quot;&gt;@JessicaCritten&lt;/a&gt;,  &lt;a href=&quot;http://twitter.com/nope4evr&quot;&gt;@nope4evr&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/dani28&quot;&gt;@dani28&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/critlib?src=hash&quot;&gt;#critlib&lt;/a&gt; You know it&amp;#39;s engaging when you have a 90 minute 1hour session and a five person panel of four! Fabulous session! Thanks all&lt;/p&gt;&amp;mdash; margy maclibrarian (@margymaclibrary) &lt;a href=&quot;https://twitter.com/margymaclibrary/status/741034226091462656&quot;&gt;June 9, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;So true!&lt;/p&gt;
+
+&lt;p&gt;The conversation got started with:&lt;/p&gt;
+
+&lt;h3 id=&quot;in-what-ways-does-the-philosophy-behind-critical-librarianshipcritlib-complement-or-run-counter-to-the-philosophy-behind-fye-liw16&quot;&gt;In what ways does the philosophy behind critical librarianship/#critlib complement, or run counter to, the philosophy behind FYE? #liw16&lt;/h3&gt;
+
+&lt;p&gt;An interesting start, as it quickly made me realize I hadn’t taken a critical look at FYE, or its history. The discussion here walked through the somewhat complicated origin story for FYE programs, and then raised a number of interesting questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Are some FYE programs overly focused on homogeneity?&lt;/li&gt;
+  &lt;li&gt;How do we balance the need for orientation and foundational skills with calls for more individualized and tailored research processes and instructional practices?&lt;/li&gt;
+  &lt;li&gt;Is there inherent complexity in creating systems and structures from a critical framework (that often involves critique of systems and structures)?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/kevinseeber&quot;&gt;@kevinseeber&lt;/a&gt; provided a potential antidote to these concerns, or at least the beginnings of one, by offering:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I like to think about small fye - the experiences of students in their first year on campus. What are their existing foundational experiences?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This led an audience member to reflect that there are different types of FYE programs – some built around academic themes (e.g., common books), some revolving around a pre-planned sequence of experiences, and others offering an “open-menu” approach to FYE where there are many options and pathways.&lt;/p&gt;
+
+&lt;p&gt;As the conversation turned to questioning how can we teach the workings of an academic system while also being engaged in its critique, another audience member offered:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We can help students learn an academic language of critique. If they don’t have that language, they can’t critique that language.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;what-barriers-eg-seeing-students-as-entering-with-a-deficit-exist-to-bringing-critlib-into-the-fye-curriculum&quot;&gt;What barriers (e.g., seeing students as entering with a deficit) exist to bringing #critlib into the FYE curriculum?&lt;/h3&gt;
+
+&lt;p&gt;The concept of “deficit” seems to be pervasive on campuses, and it is clear we need a new way of thinking about this.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt; Comment: It&amp;#39;s not a deficit to be able to do your homework, work two part-time jobs, and take care of your mom. &lt;a href=&quot;https://twitter.com/hashtag/critlib?src=hash&quot;&gt;#critlib&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lisa Hubbell (@lisahubbell) &lt;a href=&quot;https://twitter.com/lisahubbell/status/741029247314100224&quot;&gt;June 9, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;It is surprising how often academic professionals mention students’ perceived “lack of readiness” for university level work. Recently I have wondered if these conversations need to be reframed in terms of &lt;em&gt;university’s&lt;/em&gt; lack of readiness - both pedagogically and in terms of campus climate - for its own students?&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-we-introduce-critlib-into-the-fye-curriculum-at-a-level-that-transcends-patchwork-attempts-by-individuals&quot;&gt;How can we introduce #critlib into the FYE curriculum at a level that transcends patchwork attempts by individuals?&lt;/h3&gt;
+
+&lt;p&gt;Inevitably, we veered here into tricky territory when someone wondered where the one-shot came from ….?&lt;/p&gt;
+
+&lt;p&gt;While the implication may have been that perhaps the one-shot was externally imposed, it seems that, at least at some universities, the one-shot was the thing that previous cohorts of librarians were advocating for …. At our organization I have heard that much of the political work behind the standards involved a tremendous advocacy effort to highlight the importance of IL, and that this advocacy effort led to wider adoption of the one-shot, both by instructors and librarians.&lt;/p&gt;
+
+&lt;p&gt;I began to wonder: should we view the one-shot as a useful step toward greater connections between the library and the curriculum, or as a mis-step?&lt;/p&gt;
+
+&lt;p&gt;I tend to want to view things like this developmentally, but perhaps I’ll get a chance to think and write more on that later….&lt;/p&gt;
+
+&lt;h3 id=&quot;what-approaches-to-bringing-critlib-into-the-fye-curriculum-havehave-not-worked-on-your-campus-liw16&quot;&gt;What approaches to bringing #critlib into the FYE curriculum have/have not worked on your campus? #liw16&lt;/h3&gt;
+
+&lt;p&gt;On no! The working / not working assessment dichotomy appears again!&lt;/p&gt;
+
+&lt;p&gt;The ensuing conversation on assessment prompted the &lt;em&gt;top tweet&lt;/em&gt; of the conference:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;We need to think about how assessment benefits students, not the library&amp;#39;s ability to demonstrate its value&amp;quot; &lt;a href=&quot;https://twitter.com/nope4evr&quot;&gt;@nope4evr&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/critlib?src=hash&quot;&gt;#critlib&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julia Glassman (@juliaglassman) &lt;a href=&quot;https://twitter.com/juliaglassman/status/741031085446832128&quot;&gt;June 9, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;So true!&lt;/p&gt;
+
+&lt;p&gt;At other points during this session the panelists and the audience questioned whether the phrase “evidence-based practice” potentially privileges quantitative methodology and ultimately neoliberal/corporate educational practice.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;When &amp;quot;evidence-based&amp;quot; is a dogwhistle for &amp;quot;privileged&amp;quot; &lt;a href=&quot;https://twitter.com/hashtag/critlib?src=hash&quot;&gt;#critlib&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julia Glassman (@juliaglassman) &lt;a href=&quot;https://twitter.com/juliaglassman/status/741021492897402880&quot;&gt;June 9, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;These conversations were a part of what I found to be a healthy discontent at LIW with our current professional dialogs on assessment. Questioning asssessment was a strong theme throughout, and the conference helped me begin to give voice to some of the things I have found unsettling about how we often talk about (and implement) assessment.&lt;/p&gt;
+
+&lt;p&gt;I’m hoping in my own personal practice as well as in wider conversations about library services, to discuss assessment more developmentally. Rather than trying to classify something in the &lt;em&gt;worked&lt;/em&gt; or &lt;em&gt;didn’t work&lt;/em&gt; boxes, I’m wondering if we might ask questions like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How did this program benefit learners and researchers?&lt;/li&gt;
+  &lt;li&gt;What was the impact both academically and in terms of the &lt;em&gt;whole learner&lt;/em&gt;? How do we know?&lt;/li&gt;
+  &lt;li&gt;Did we give opportunities for learners and researchers to not only provide feedback, but co-create our next steps? What did we learn and how can we improve? What’s next (for everyone involved)? Did we expand the adjacent possible?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Well after the alotted time for the session had passed, the panelists and quite a few of us in the audience stuck around for more discussion. My notes on the session rounded out with this very student- and learning- centered call to remember to honor the knowledge in the room:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt; &lt;a href=&quot;https://twitter.com/margymaclibrary&quot;&gt;@margymaclibrary&lt;/a&gt; Encourage students to see their own lives as academic subjects, worthy of study. &lt;a href=&quot;https://twitter.com/hashtag/critlib?src=hash&quot;&gt;#critlib&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lisa Hubbell (@lisahubbell) &lt;a href=&quot;https://twitter.com/lisahubbell/status/741032100384538624&quot;&gt;June 9, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;For even more on this session check out &lt;a href=&quot;https://storify.com/GinaKesslerLee/critlib-at-liw16&quot;&gt;this series of tweets on storify&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This note is part of &lt;a href=&quot;/tags/#liw2016&quot;&gt;a short series of reflections on Library Instruction West 2016&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><category term="liw2016" /><category term="critical pedagogy" /><category term="FYE" /><category term="assessment" /><summary>Four key questions framed this conversational panel session on the intersections between fye and critical librarianship, but many more came up in discussion. @kevinseeber played MC alongside @JessicaCritten,  @nope4evr and @dani28.</summary></entry><entry><title>Thresholds, maybe; concepts, yes?</title><link href="http://dmcwo.github.io/Notebook-Moon//liw-thresholds-maybe-concepts-yes/" rel="alternate" type="text/html" title="Thresholds, maybe; concepts, yes?" /><published>2016-06-15T17:12:29-07:00</published><updated>2016-06-15T17:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//liw-thresholds-maybe-concepts-yes</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//liw-thresholds-maybe-concepts-yes/">&lt;p&gt;Just when it started to seem as if debates around the &lt;em&gt;&lt;a href=&quot;http://www.ala.org/acrl/standards/ilframework&quot;&gt;Framework&lt;/a&gt;&lt;/em&gt; were beginning to settle, the conversation sparked by &lt;a href=&quot;https://twitter.com/An_Baer&quot;&gt;Andrea Baer&lt;/a&gt;’s &lt;a href=&quot;https://liw16.sched.org/event/5yjh/lofty-conversations-grounded-teaching-threshold-concepts-decoding-the-disciplines-and-our-pedagogical-praxis&quot;&gt;excellent session&lt;/a&gt; at LIW &lt;sup id=&quot;fnref:fn-baer&quot;&gt;&lt;a href=&quot;#fn:fn-baer&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; had me questioning again.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt;  &lt;a href=&quot;https://twitter.com/An_Baer&quot;&gt;@An_Baer&lt;/a&gt;  Looking froward to seeing this come together &lt;a href=&quot;https://t.co/E1dMcWOl2e&quot;&gt;pic.twitter.com/E1dMcWOl2e&lt;/a&gt;&lt;/p&gt;&amp;mdash; margy maclibrarian (@margymaclibrary) &lt;a href=&quot;https://twitter.com/margymaclibrary/status/741347974295343104&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;The areas of concern that came up during the session were not in the mold of previous &lt;em&gt;standards v. framework&lt;/em&gt; debates, but instead centered on more philosophical questions about whether or not a &lt;em&gt;threshold&lt;/em&gt; is quite the right metaphor for thinking about learning. Admittedly, I hadn’t thought much about the metaphor, and it was interesting to start considering questions like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Does the thresholds metaphor make learning seem like an all or nothing endeavor  - i.e., if there is a &lt;em&gt;threshold&lt;/em&gt; doesn’t that imply that all learners are situated either before or after a fixed point?&lt;/li&gt;
+  &lt;li&gt;Does this “fixed point” mindset evoke an overly linear depiction of research?&lt;/li&gt;
+  &lt;li&gt;When we talk about &lt;em&gt;learning hurdles&lt;/em&gt; do we imply that everyone is racing toward some pre-determined destination?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m intrigued by these questions, as they relate to a question I have been musing on since the introduction of the &lt;em&gt;Framework&lt;/em&gt;: given how often we focus our conversations on &lt;em&gt;challenges&lt;/em&gt;, &lt;em&gt;stumbling blocks&lt;/em&gt;, and now &lt;em&gt;hurdles&lt;/em&gt; and &lt;em&gt;thresholds&lt;/em&gt; - might it be refreshing (and potentially even useful) to start flipping the conversation to also focus on &lt;em&gt;breakthroughs&lt;/em&gt; and  &lt;em&gt;progress points&lt;/em&gt; and &lt;em&gt;big leaps forward&lt;/em&gt;. Perhaps if we approached the threshold metaphor with a focus on &lt;em&gt;both&lt;/em&gt; the &lt;em&gt;challenges&lt;/em&gt; and the &lt;em&gt;breakthroughs&lt;/em&gt; it might be easier to see the framework in terms of pathways (plural) rather than as a singular, linear, universal.&lt;/p&gt;
+
+&lt;p&gt;I think this works for me as I continue to explore the Framework in my personal teaching practice, where I feel like the value of the &lt;em&gt;concepts&lt;/em&gt; overshadows the potential complexities of the &lt;em&gt;threshold&lt;/em&gt; aspect.&lt;/p&gt;
+
+&lt;p&gt;Along these lines, Andrea Baer’s very practical suggestion to:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Take the pieces that work for us&amp;quot; on threshold concepts and theory &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ilana Stonebraker (@librarianilana) &lt;a href=&quot;https://twitter.com/librarianilana/status/741360177287286785&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;helped pave the way forward to what for me was ultimately the most valuable part of the presentation:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;7 steps in Decoding the Disciplines - good resource &lt;a href=&quot;https://t.co/USQQNbxixT&quot;&gt;https://t.co/USQQNbxixT&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt;&lt;/p&gt;&amp;mdash; Carrie Moran (@DigitalCarrie) &lt;a href=&quot;https://twitter.com/DigitalCarrie/status/741353818747609088&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I really liked the connections that the presenter drew here between the “Decoding the Disciplines” approach and the framework. It seems that through this approach we’re likely to encounter many of the ideas (yes, perhaps even the &lt;em&gt;thresholds&lt;/em&gt;) discussed in the &lt;em&gt;Framework&lt;/em&gt; - better yet, we’ll discover them framed in a language that makes sense for teachers and learners in the discipline.&lt;/p&gt;
+
+&lt;p&gt;In brief summary, the 7 steps for decoding the disciplines are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Identify “bottlenecks” (both cognitive and affective) to learning and creating in the discipline.&lt;/li&gt;
+  &lt;li&gt;Unpack the processes experts have developed (and often internalized) to address and get through these bottlenecks.&lt;/li&gt;
+  &lt;li&gt;Model and demonstrate these processes for learners.&lt;/li&gt;
+  &lt;li&gt;Give learners opportunities to practice and receive feedback.&lt;/li&gt;
+  &lt;li&gt;Consider how learners will be motivated.&lt;/li&gt;
+  &lt;li&gt;Assess the effectiveness of the models through analysis of learners’ work.&lt;/li&gt;
+  &lt;li&gt;Sharing your results with other educators.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For me, this bears resemblance to an instructional design model, and defines a very viable step forward for those of us looking to explore how the concepts in the framework connect with research skills instruction.&lt;/p&gt;
+
+&lt;h3 id=&quot;references-and-resources-mentioned-in-or-discovered-during-the-talk&quot;&gt;References and resources mentioned in or discovered during the talk&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adler-Kassner, Linda, Elizabeth A. Wardle, and Ray Land. 2015. &lt;a href=&quot;http://ucla.worldcat.org/oclc/911593897&quot;&gt;Naming what we know: threshold concepts of writing studies&lt;/a&gt;. https://muse.jhu.edu/books/9780874219906/.&lt;/li&gt;
+  &lt;li&gt;Pace, D., &amp;amp; Middendorf, J., Eds. (2004). Decoding the disciplines: Helping students learn disciplinary ways of thinking. New Directions for Teaching and Learning, 98. San Francisco: Jossey-Bass.&lt;/li&gt;
+  &lt;li&gt;“Decoding-Disciplines.” 2016. Accessed June 16. http://citl.indiana.edu/resources_files/teaching-resources1/decoding-disciplines1/index.php.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;This note is part of &lt;a href=&quot;/tags/#liw2016&quot;&gt;a short series of reflections on Library Instruction West 2016&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-baer&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://liw16.sched.org/event/5yjh/lofty-conversations-grounded-teaching-threshold-concepts-decoding-the-disciplines-and-our-pedagogical-praxis&quot;&gt;Lofty Conversations, Grounded Teaching: Threshold Concepts, Decoding the Disciplines, and Our Pedagogical Praxis&lt;/a&gt; &lt;a href=&quot;#fnref:fn-baer&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><category term="liw2016" /><category term="acrl framework" /><category term="library liaisons" /><category term="curriculum mapping" /><summary>Just when it started to seem as if debates around the Framework were beginning to settle, the conversation sparked by Andrea Baer’s excellent session at LIW 1 had me questioning again.
+
+
+  
+    
+      Lofty Conversations, Grounded Teaching: Threshold Concepts, Decoding the Disciplines, and Our Pedagogical Praxis &amp;#8617;</summary></entry><entry><title>LIW 2016 - Learning Spaces &amp;amp; Conference Events</title><link href="http://dmcwo.github.io/Notebook-Moon//liw-learning-spaces/" rel="alternate" type="text/html" title="LIW 2016 - Learning Spaces &amp; Conference Events" /><published>2016-06-14T17:12:29-07:00</published><updated>2016-06-14T17:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//liw-learning-spaces</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//liw-learning-spaces/">&lt;p&gt;One of the many wonderful things about Library Instruction West was getting a chance to explore the &lt;a href=&quot;http://lib.utah.edu/index&quot;&gt;University of Utah’s Marriott Library&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/files/img/liw16/imagine_1080.jpg&quot; alt=&quot;Imagine in giant letters on the library windows&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;happy-hallways&quot;&gt;Happy hallways&lt;/h3&gt;
+
+&lt;p&gt;Oddly, a hallway was a highlight for me, but perhaps that shouldn’t be so odd - perhaps more library hallways should get this kind of attention. I loved the big red spinning things - though do be careful if you decide to &lt;a href=&quot;https://twitter.com/LibrarianHollyL/status/741029315567968257&quot;&gt;try to sit in one&lt;/a&gt;. I also really liked this placement of browsing collections, as well as the booth-style study lounges along the side (with ample outlets and fancy kitchen countertops!).&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+  	&lt;img src=&quot;/files/img/liw16/red-things_1080.jpg&quot; alt=&quot;interesting red chairs&quot; /&gt;
+    &lt;img src=&quot;/files/img/liw16/red-thing-and-books_1080.jpg&quot; alt=&quot;browsing collection of recent fiction&quot; /&gt;
+    &lt;img src=&quot;/files/img/liw16/hallway-lounge_1080.jpg&quot; alt=&quot;nice study booths&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;academic-services-hub&quot;&gt;Academic Services Hub&lt;/h3&gt;
+
+&lt;p&gt;The library has &lt;a href=&quot;http://lib.utah.edu/services/&quot;&gt;a suite of academic services&lt;/a&gt;, including a research consultation space, little cubicles for campus advising, and a &lt;a href=&quot;http://lib.utah.edu/services/digital-scholarship-lab/index.php&quot;&gt;digital scholarship lab&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;/files/img/liw16/consultation-space_1080.jpg&quot; alt=&quot;Research Consultations&quot; /&gt;
+&lt;img src=&quot;/files/img/liw16/college-advising_1080.jpg&quot; alt=&quot;College advising in the library&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;There were plenty of cozy chairs all around, as well as ample group study space. Many of the group study rooms came outfitted with iMacs.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;/files/img/liw16/cozy-chairs_1080.jpg&quot; alt=&quot;Cozy cahirs&quot; /&gt;
+&lt;img src=&quot;/files/img/liw16/group-study_1080.jpg&quot; alt=&quot;Group study room with iMac&quot; /&gt;
+&lt;img src=&quot;/files/img/liw16/large-group-study-room_1080.jpg&quot; alt=&quot;Large group study room&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As I wandered around, I found a large, open floorplan computer lab with a few surprises - an accessibility room adjacent to the lab, a small collection of linux workstations, and ….&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;/files/img/liw16/accessibility-room_1080.jpg&quot; alt=&quot;Accessibility room adjacent to a large open floorplan computer lab.&quot; /&gt;
+&lt;img src=&quot;/files/img/liw16/linux-workstations_1080.jpg&quot; alt=&quot;LInux workstations in the computer lab&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;a tidy little area for 3D printing.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;/files/img/liw16/3d-printing-1_1080.jpg&quot; alt=&quot;3D printing area 1&quot; /&gt;
+&lt;img src=&quot;/files/img/liw16/3d-printing-2_1080.jpg&quot; alt=&quot;3D printing area 2&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Powder 3D printing vs plastic at the Marriott Library. Wow! &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt; &lt;a href=&quot;https://t.co/CrvFgF1CJD&quot;&gt;pic.twitter.com/CrvFgF1CJD&lt;/a&gt;&lt;/p&gt;&amp;mdash; Bridget Nowlin (@bknowlin) &lt;a href=&quot;https://twitter.com/bknowlin/status/741319910538678276&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;The social events at the conference are certainly worth a mention, in particular the &lt;a href=&quot;http://tracyaviary.org/&quot;&gt;Tracy Aviary&lt;/a&gt;, which featured these lovely folks:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Getting social at Tracy Aviary. Thanks for the fun evening! &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt; &lt;a href=&quot;https://t.co/an1AIq3aMN&quot;&gt;pic.twitter.com/an1AIq3aMN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Emily Glenn (@ejglenn030) &lt;a href=&quot;https://twitter.com/ejglenn030/status/741101907582672901&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;this rather elegant creature:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Peacock showing off for the librarians at Tracy Aviary last night! &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt; &lt;a href=&quot;https://t.co/0j7C4DZ2kT&quot;&gt;pic.twitter.com/0j7C4DZ2kT&lt;/a&gt;&lt;/p&gt;&amp;mdash; Emily Bullough (@leap4emily) &lt;a href=&quot;https://twitter.com/leap4emily/status/741317035095822341&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;and quite more Macaw-flying-right-over-head than I’m used to:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Rembrandt the Macaw @ &lt;a href=&quot;https://twitter.com/hashtag/liw16?src=hash&quot;&gt;#liw16&lt;/a&gt;! &lt;a href=&quot;https://t.co/YSlO2OnadI&quot;&gt;pic.twitter.com/YSlO2OnadI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Liz King (@liblizking) &lt;a href=&quot;https://twitter.com/liblizking/status/741070544401928192&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;All in all, a splendidly organized conference.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This note is part of &lt;a href=&quot;/tags/#liw2016&quot;&gt;a short series of reflections on Library Instruction West 2016&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><category term="learning spaces" /><category term="liw2016" /><summary>One of the many wonderful things about Library Instruction West was getting a chance to explore the University of Utah’s Marriott Library.</summary></entry><entry><title>Coding a presentation</title><link href="http://dmcwo.github.io/Notebook-Moon//coding-presentations/" rel="alternate" type="text/html" title="Coding a presentation" /><published>2016-06-02T19:12:29-07:00</published><updated>2016-06-02T19:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//coding-presentations</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//coding-presentations/">&lt;p&gt;I recently ran across a set of online presentation slides with a readable, responsive design. I took a look at the source, and it seemed like they were written with &lt;a href=&quot;https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations&quot;&gt;R&lt;/a&gt;. Presentations in HTML/Markdown? Wow. More things to turn into text!&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;I started to think about preparing presentations, and perhaps &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot;&gt;instructional tutorials&lt;/a&gt; in text, using markdown — i.e., &lt;code class=&quot;highlighter-rouge&quot;&gt;coding&lt;/code&gt; my presentations. Why? &lt;sup id=&quot;fnref:fn-why&quot;&gt;&lt;a href=&quot;#fn:fn-why&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;I did a little tinkering and looking around and decided to start by trying out &lt;a href=&quot;https://github.com/hakimel/reveal.js&quot;&gt;Reveal.js&lt;/a&gt;. Here’s what I did&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cloned &lt;a href=&quot;https://github.com/hakimel/reveal.js&quot;&gt;Reveal.js&lt;/a&gt; to make a local copy.&lt;/li&gt;
+  &lt;li&gt;Created a new branch of the &lt;a href=&quot;&quot;&gt;repository for this site&lt;/a&gt; called &lt;code class=&quot;highlighter-rouge&quot;&gt;presentations&lt;/code&gt; to experiment.&lt;/li&gt;
+  &lt;li&gt;Created a &lt;code class=&quot;highlighter-rouge&quot;&gt;presentations&lt;/code&gt; directory at the root of the site.&lt;/li&gt;
+  &lt;li&gt;Copied &lt;code class=&quot;highlighter-rouge&quot;&gt;reveal.js&lt;/code&gt; files into the new &lt;code class=&quot;highlighter-rouge&quot;&gt;presentations&lt;/code&gt; directory  &lt;sup id=&quot;fnref:fn-wondering&quot;&gt;&lt;a href=&quot;#fn:fn-wondering&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;Navigated to the local repository in terminal and did &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; to make sure I could test this out. Works!&lt;/li&gt;
+  &lt;li&gt;Started thinking about a naming convention for presentations. Also thinking about whether or not I should try to use a jekyll naming convention for the presentation files (i.e., treat them like jekyll posts)  and then try to make an &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt; page to fit in w/ the rest of the site…. would that be better? It would automatically update &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt; as new presentations are created….&lt;/li&gt;
+  &lt;li&gt;Realized I don’t know enough about how to do that yet, so decided to start by just manually linking to presentations from current &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt; works well enough ….&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here’s an example embedded in an iframe:&lt;/p&gt;
+
+&lt;iframe width=&quot;80%&quot; height=&quot;400&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;http://dmcwo.github.io/tutorials/tutorial-a-generic-tutorial.html#/&quot;&gt;
+Visit &lt;a href=&quot;http://dmcwo.github.io/tutorials/tutorial-a-generic-tutorial.html#/&quot;&gt;full version&lt;/a&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;small&gt;See &lt;a href=&quot;http://dmcwo.github.io/tutorials/tutorial-a-generic-tutorial.html#/&quot;&gt;full version&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dmcwo.github.io/Notebook-Moon//presentations/&quot;&gt;Here’s some demos from w/in this jekyll site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/presentations/&quot;&gt;Here’s what it looks like so far&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-why&quot;&gt;
+      &lt;p&gt;It is similar, I think, to the &lt;a href=&quot;http://jmcglone.com/notes/2014/05/03/using-github-to-create-and-host-a-personal-website&quot;&gt;reasoning&lt;/a&gt; behind making a switch from WordPress to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; — it seems nice to switch to simpler tools, and keep content in simple, and hopefully more enduring formats. &lt;a href=&quot;#fnref:fn-why&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn-wondering&quot;&gt;
+      &lt;p&gt;I’m still wondering if I should use the sub-module feature for this sort of thing ….? &lt;a href=&quot;#fnref:fn-wondering&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><category term="tinkering" /><category term="presentations" /><category term="markdown" /><category term="html" /><category term="reveal.js" /><summary>I recently ran across a set of online presentation slides with a readable, responsive design. I took a look at the source, and it seemed like they were written with R. Presentations in HTML/Markdown? Wow. More things to turn into text!</summary></entry><entry><title>Footnotes and markdown</title><link href="http://dmcwo.github.io/Notebook-Moon//footnotes-in-markdown/" rel="alternate" type="text/html" title="Footnotes and markdown" /><published>2016-05-28T08:12:29-07:00</published><updated>2016-05-28T08:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//footnotes-in-markdown</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//footnotes-in-markdown/">&lt;p&gt;Footnotes are good&lt;!--break--&gt;:&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-footnotes&quot;&gt;Basic footnotes&lt;/h2&gt;
+
+&lt;p&gt;I just learned you can add a footnote in markdown with &lt;code class=&quot;highlighter-rouge&quot;&gt;[^fn-title-of-footnote]&lt;/code&gt;, e.g.,:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;As global librarians, we can stop treating the library as a destination and start treating it as a hub.[^fn-wilkinson]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Then, at the bottom of the page, add the name of the footnote again, followed by &lt;code class=&quot;highlighter-rouge&quot;&gt;:&lt;/code&gt; and then text that you want to appear as a footnote:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[^fn-wilkinson]: [Skills That Transfer: Transliteracy and the Global Librarian (ACRL/NY 2011 Symposium)](http://www.slideshare.net/lanewilkinson)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;fancier-footnotes-of-course&quot;&gt;Fancier Footnotes? Of course.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.bigfootjs.com/&quot;&gt;Bigfoot&lt;/a&gt; brings some fanciness to footnotes. To get it going, &lt;a href=&quot;http://www.bigfootjs.com/&quot;&gt;download the javascript files from the bigfoot site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I put the &lt;code class=&quot;highlighter-rouge&quot;&gt;bigfoot-default.css&lt;/code&gt; file in jekyll’s &lt;code class=&quot;highlighter-rouge&quot;&gt;css&lt;/code&gt; folder. I then created a &lt;code class=&quot;highlighter-rouge&quot;&gt;js&lt;/code&gt; folder and put the &lt;code class=&quot;highlighter-rouge&quot;&gt;bigfoot.js&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;bigfoot.min.js&lt;/code&gt; files in it.&lt;/p&gt;
+
+&lt;p&gt;Next, I added the following to &lt;code class=&quot;highlighter-rouge&quot;&gt;head.html&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;!-- JS --&amp;gt;
+&amp;lt;!-- bigfoot footnotes from http://www.bigfootjs.com/ --&amp;gt;
+&amp;lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script type=&quot;text/javascript&quot; src=&quot;/js/bigfoot.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script type=&quot;text/javascript&quot;&amp;gt;
+    $.bigfoot();
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;/css/bigfoot-default.css&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It works!&lt;/p&gt;
+
+&lt;p&gt;Now, some experimentation:&lt;/p&gt;
+
+&lt;h3 id=&quot;text-footnote&quot;&gt;Text footnote&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;As global librarians, we can stop treating the library as a destination and start treating it as a hub.&lt;sup id=&quot;fnref:fn-wilkinson-text&quot;&gt;&lt;a href=&quot;#fn:fn-wilkinson-text&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;text-footnote-w-link&quot;&gt;Text footnote w/ link&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As global librarians, we can stop treating the library as a destination and start treating it as a hub.&lt;sup id=&quot;fnref:fn-wilkinson-text-link&quot;&gt;&lt;a href=&quot;#fn:fn-wilkinson-text-link&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;image-footnotes-w-links&quot;&gt;Image footnotes w/ links?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As global librarians, we can stop treating the library as a destination&lt;sup id=&quot;fnref:fn-wilkinson-image-1&quot;&gt;&lt;a href=&quot;#fn:fn-wilkinson-image-1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; and start treating it as a hub.&lt;sup id=&quot;fnref:fn-wilkinson-image-2&quot;&gt;&lt;a href=&quot;#fn:fn-wilkinson-image-2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Apologies in advance for the many footnotes to come….&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-wilkinson-text&quot;&gt;
+      &lt;p&gt;Skills That Transfer: Transliteracy and the Global Librarian (ACRL/NY 2011 Symposium)] - http://www.slideshare.net/lanewilkinson &lt;a href=&quot;#fnref:fn-wilkinson-text&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn-wilkinson-text-link&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/lanewilkinson&quot;&gt;Skills That Transfer: Transliteracy and the Global Librarian (ACRL/NY 2011 Symposium)&lt;/a&gt; &lt;a href=&quot;#fnref:fn-wilkinson-text-link&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn-wilkinson-image-1&quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;https://www.evernote.com/l/AN8xIQlpDWRJ5YTdu-s4Duz2GgcluNYWM6cB/image.png&quot; alt=&quot;Skills That Transfer: Transliteracy and the Global Librarian (ACRL/NY 2011 Symposium&quot; /&gt; &lt;a href=&quot;http://www.slideshare.net/lanewilkinson&quot;&gt;Skills That Transfer: Transliteracy and the Global Librarian (ACRL/NY 2011 Symposium)&lt;/a&gt; &lt;a href=&quot;#fnref:fn-wilkinson-image-1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn-wilkinson-image-2&quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;https://www.evernote.com/l/AN-C4CqLTcZPNbNptPEcwWGBMCsWDLz8f_sB/image.png&quot; alt=&quot;Skills That Transfer: Transliteracy and the Global Librarian - ACRL/NY 2011 Symposium&quot; /&gt; &lt;a href=&quot;http://www.slideshare.net/lanewilkinson&quot;&gt;Skills That Transfer: Transliteracy and the Global Librarian (ACRL/NY 2011 Symposium)&lt;/a&gt; &lt;a href=&quot;#fnref:fn-wilkinson-image-2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><category term="tinkering" /><category term="footnotes" /><summary>Footnotes are good:</summary></entry><entry><title>Notebooks 📓</title><link href="http://dmcwo.github.io/Notebook-Moon//notebooks/" rel="alternate" type="text/html" title="Notebooks 📓" /><published>2016-05-26T21:12:29-07:00</published><updated>2016-05-26T21:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//notebooks</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//notebooks/">&lt;p&gt;I’ve been thinking, continually, about notebooks. I’ve always wanted to be one of those people with shelves of moleskines, each one full of ideas and dreamwork. I’m not sure when it started. Certainly before I held (and smelled) a &lt;a href=&quot;http://www.library.ucla.edu/arts/elmer-belt-library-vinciana&quot;&gt;Leonardo facsimile&lt;/a&gt;.&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;By that time, I’d already been lucky enough to work on course projects with names like &lt;em&gt;The Garden of Searching for Dreams&lt;/em&gt; and &lt;em&gt;The Cavern of Slanting Moon and Three Stars&lt;/em&gt; which were, at heart, collaborative notebooks designed to help students explore and reflect on literary texts. For those, as well as later Collaborative Sites projects like the &lt;em&gt;Mexican Migration Portfolio&lt;/em&gt; and &lt;em&gt;Literature and Place&lt;/em&gt;, it was my job to build the &lt;em&gt;empty&lt;/em&gt; notebook – at first in &lt;a href=&quot;http://drupal.org&quot;&gt;Drupal&lt;/a&gt; and then later in &lt;a href=&quot;http://www.openatrium.com/#!/&quot;&gt;Open Atrium&lt;/a&gt;. I would put together the features, the foundation, the scaffolding, but ultimately each of those sites, at the point I handed it over, was an empty notebook. And I’d watch, as the semester unfolded, each site fill up with pictures and images and tags and ideas.&lt;/p&gt;
+
+&lt;section id=&quot;photos3&quot;&gt;
+  &lt;img src=&quot;https://www.evernote.com/l/AN9QgpF8jMJJ5aH-7MTDgY_l-OtSP8WTejUB/image.png&quot; alt=&quot;The Cavern of Slanting Moon and Three Stars&quot; /&gt;
+  &lt;img src=&quot;http://blogs.library.ucla.edu/special/files/2011/11/Belt-Vinciana-bookplate-full-web-300x254.jpg&quot; alt=&quot;Leonardo&#39;s Sketches&quot; /&gt;
+  &lt;img src=&quot;https://www.evernote.com/l/AN-9GZYQmhhFcKCY5oxfgxE0oxOSffGkGDsB/image.png&quot; alt=&quot;Literature and Place&quot; /&gt;
+&lt;/section&gt;
+
+&lt;p&gt;And then there was the time I decided to try to build &lt;a href=&quot;https://web.archive.org/web/20080703041339/http://newsobama.org/?&quot;&gt;a lumbrous online news clipping thingamawotzit&lt;/a&gt; that ultimately aggregated a bit too much news. It was a notebook, too; and again, it was a notebook full of other people’s writing and images.&lt;/p&gt;
+
+&lt;p&gt;Most recently, I’ve been working on a &lt;a href=&quot;http://j.mp/my-notebook&quot;&gt;digital research notebook&lt;/a&gt; to help students get started with the research and writing process.&lt;/p&gt;
+
+&lt;p&gt;That’s a lot of notebook-making, w/o any writing of notes….&lt;/p&gt;
+
+&lt;center&gt; 📓 📕 📗 📘 📔 📒 📚  &lt;/center&gt;
+
+&lt;p&gt;With this notebook, I’m hoping to both create it, &lt;em&gt;and&lt;/em&gt; write in it. I’ve been really inspired by &lt;a href=&quot;http://notebook.jasonheppler.org/&quot;&gt;Jason Heppler’s Open History Notebook&lt;/a&gt; and other similar projects I’ve run into recently&lt;sup id=&quot;fnref:fn-example-notebooks&quot;&gt;&lt;a href=&quot;#fn:fn-example-notebooks&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. These public note taking sites live out many of the things I aspire to with notebooks: I like the focus on publishing process (and process as scholarship), as well as the way that making the architecture of the notebook is an integral part of the creative act of writing the notes.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-example-notebooks&quot;&gt;
+      &lt;p&gt;e.g., &lt;a href=&quot;https://en.wikipedia.org/w/index.php?title=Open_notebook_science&amp;amp;oldid=719360582&quot;&gt;Open Notebook Science&lt;/a&gt;, &lt;a href=&quot;https://electricarchaeology.ca/2015/10/06/an-elegant-open-notebook/&quot;&gt;An Elegant Open Notebook&lt;/a&gt;, and &lt;a href=&quot;http://notebook.lincolnmullen.com/&quot;&gt;Welcome to My Research Notebook&lt;/a&gt;. &lt;a href=&quot;#fnref:fn-example-notebooks&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><category term="notebooks" /><summary>I’ve been thinking, continually, about notebooks. I’ve always wanted to be one of those people with shelves of moleskines, each one full of ideas and dreamwork. I’m not sure when it started. Certainly before I held (and smelled) a Leonardo facsimile.</summary></entry><entry><title>Jekyll posts and google fonts.</title><link href="http://dmcwo.github.io/Notebook-Moon//a-post-about-pages/" rel="alternate" type="text/html" title="Jekyll posts and google fonts." /><published>2016-05-21T09:20:29-07:00</published><updated>2016-05-21T09:20:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//a-post-about-pages</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//a-post-about-pages/">&lt;p&gt;Today created my first &lt;a href=&quot;https://jekyllrb.com/docs/pages/&quot;&gt;Jekyll pages&lt;/a&gt; and also learned a bit about using google fonts w/ jekyll. Here’s how you do it:&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;First, head over to &lt;a href=&quot;https://www.google.com/fonts&quot;&gt;https://www.google.com/fonts&lt;/a&gt; and find your favorite font(s). You can add a bunch of fonts to a “collection” or just choose one and click the “quick use” icon. That’s what I did with a font called &lt;a href=&quot;https://www.google.com/fonts/specimen/Arvo&quot;&gt;Arvo&lt;/a&gt;, just to test out the process. Here’s the code generated by quick use:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;link href=&#39;https://fonts.googleapis.com/css?family=Arvo:400,400italic,700,700italic&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To add it to jekyll, paste this code into the &lt;code class=&quot;highlighter-rouge&quot;&gt;head.html&lt;/code&gt; file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;includes&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;Next, edit your &lt;code class=&quot;highlighter-rouge&quot;&gt;main.scss&lt;/code&gt; to start using the font on your site. Just as an example, this would set Arvo as the base font for the site:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$base-font-family: &#39;Arvo&#39;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Fun!&lt;/p&gt;
+
+&lt;p&gt;Next up, maybe something like &lt;a href=&quot;http://jdp.org.uk/jekyll/2015/06/01/next-and-previous-posts-in-jekyll.html&quot;&gt;next and previous buttons&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And also, maybe I’ll work on creating a zotero citation export format to markdown, so that Zotero can export something like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* [Writing, Searching, Thinking, Learning: Cross-Training Peer Research and Writing Tutors to Maximize Student Success](http://www.loexconference.org/sessions.html). Presented at the LOEX Annual Conference in Grand Rapids, MI on May 10, 2014.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;which will then display like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.loexconference.org/sessions.html&quot;&gt;Writing, Searching, Thinking, Learning: Cross-Training Peer Research and Writing Tutors to Maximize Student Success&lt;/a&gt;. Presented at the LOEX Annual Conference in Grand Rapids, MI on May 10, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More things to learn&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.w3schools.com/howto/howto_js_accordion.asp&quot;&gt;Accordians&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.w3schools.com/bootstrap/default.asp&quot;&gt;Bootstrap&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><category term="jekyll" /><category term="google fonts" /><summary>Today created my first Jekyll pages and also learned a bit about using google fonts w/ jekyll. Here’s how you do it:</summary></entry><entry><title>Text is the best.</title><link href="http://dmcwo.github.io/Notebook-Moon//text-is-the-best/" rel="alternate" type="text/html" title="Text is the best." /><published>2016-05-20T21:12:29-07:00</published><updated>2016-05-20T21:12:29-07:00</updated><id>http://dmcwo.github.io/Notebook-Moon//text-is-the-best</id><content type="html" xml:base="http://dmcwo.github.io/Notebook-Moon//text-is-the-best/">&lt;p&gt;I’m suddenly a huge fan of text files. Blogging w/ just text files – why is that so cool? For some reason, it really is. I first got started playing around with &lt;a href=&quot;jekyllrb.com&quot;&gt;jekyll&lt;/a&gt; and then learned about &lt;a href=&quot;http://howto.p2pu.org/&quot;&gt;course-in-a-box&lt;/a&gt; both of which made me think that static is the new dynamic, for real.&lt;/p&gt;
+
+&lt;p&gt;Not that it is all text. I just learned that if you can make this happen, too:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../files/img/window-straws.jpg&quot; alt=&quot;Straws in a window&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What’s next after that? Maybe more text?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/learn/learn-git&quot;&gt;Git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/xml/default.asp&quot;&gt;xml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.markdowntutorial.com/&quot;&gt;markdown&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;more markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and then, maybe, these, too:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/specializations/social-science&quot;&gt;Social Science Specialization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/specializations/data-mining&quot;&gt;Date Mining Specialization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="markdown" /><category term="text" /><summary>I&#39;m suddenly a huge fan of text files.</summary></entry></feed>

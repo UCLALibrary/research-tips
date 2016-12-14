@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About
+tags: [about, Jekyll, theme, moon, thank you's]
 date: 2016-03-21
-comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+ 
+## Hi there! I'm [Doug](http://dmcwo.com)
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+This notebook is an experimental and evolving place for me to take notes on the things I’m doing and creating. I'm hoping to write here about learning, libraries, knowledge building communities, instructional design, the creative process, and the diverse practices of researchers and writers.
 
-## Preview
+Significant inspiration for this online notebook came from the discovery of several [open research notebooks](https://www.zotero.org/groups/543491/items/tag/notebook).
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## technical ty's:
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+This site is created with [jekyll](jekyllrb.com), and benefits from an only very slightly modified version of the <a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> theme.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+The very classy "Notebook icon" on the homepage is by [Bruno Castro](http://thenounproject.com/brunocast/#) from the [Noun Project](https://thenounproject.com).
