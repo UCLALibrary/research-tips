@@ -1,5 +1,5 @@
 # Site
-title:              Notebook
+title:              Research Tips and Strategies
 bio:                'Mostly a place to jot things down.'
 description:        "Mostly a place to jot things down."
 reading_time:       true
@@ -9,7 +9,7 @@ logo:               'assets/img/logo.png'
 # background:         'assets/img/placeholder-big-disc.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://dmcwo.github.io/Notebook-Moon/
+url:                http://dmcwo.github.io/research-tips
 
 # Jekyll
 permalink:          /:title/
