@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Search Strategically"
-date:   2010-01-04
+date:   2010-01-05
 description: Rather than trying to construct one perfect search, plan on trying several experimental searches.
 # image: featuredimagehere
 ---
