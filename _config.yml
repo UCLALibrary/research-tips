@@ -1,84 +1,28 @@
-# Site
-title:              Research Tips and Strategies
-bio:                'Mostly a place to jot things down.'
-description:        "Mostly a place to jot things down."
-reading_time:       false
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-# Notebook icon by Bruno Castro from the Noun Project
-# background:         'assets/img/placeholder-big-disc.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://dmcwo.github.io/research-tips
+title: Research Tips and Strategies
+description: A collection of tips and strategies to help you get started on your research projects
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-future:             true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Collections
-collections:
-    presentations:
-        output: true
-        permalink: /presentations/:path/
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 20
 
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
 
+# social:
+#   github: brianmaierjr
+#   twitter: brianmaierjr
+#   facebook: brianmaierjr
+#   email: brimaidesigns@gmail.com
 
-# Comments
-# disqus_shortname:   disqus_username
-
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-twitter:            dmcwo
-# facebook:           username
-github:             dmcwo
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          doug-worsham
-#xing:              username
-# instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-
-# Gems
-gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+# google_analytics: "UA-"
