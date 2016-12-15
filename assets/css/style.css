@@ -328,7 +328,7 @@ th {
 .button-secondary,
 .button-tertiary,
 .button__outline {
-    background-color: #2e8b57;
+    background-color: #224A86;
     display: inline-block;
     position: relative;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -358,7 +358,7 @@ th {
 .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f
+    background-color: #224A86
 }
 
 .button:active,
@@ -386,12 +386,12 @@ th {
 
 .button__outline {
     background-color: transparent;
-    border: 3px solid #2e8b57;
-    color: #2e8b57
+    border: 3px solid #224A86;
+    color: #224A86
 }
 
 .button__outline:hover {
-    background-color: #2e8b57;
+    background-color: #224A86;
     color: #fff
 }
 
@@ -423,7 +423,7 @@ input[type=password]:focus,
 input[type=number]:focus,
 input[type=search]:focus,
 textarea:focus {
-    border: 1px solid #2e8b57
+    border: 1px solid #224A86
 }
 
 input[type=text].full-width,
@@ -805,12 +805,12 @@ body ul {
 }
 
 ::-moz-selection {
-    background: #2e8b57;
+    background: #224A86;
     color: white
 }
 
 ::selection {
-    background: #2e8b57;
+    background: #224A86;
     color: white
 }
 
@@ -836,11 +836,11 @@ object {
 }
 
 a {
-    color: #2e8b57
+    color: #3283BE
 }
 
 a:hover {
-    color: #1b5233
+    color: #00FFFF
 }
 
 .nav-collapse {
@@ -858,7 +858,7 @@ a:hover {
 .nav-collapse ul li {
     width: 100%;
     display: block;
-    background: #2e8b57;
+    background: #224A86;
     border-bottom: 2px solid #349e63
 }
 
@@ -895,7 +895,7 @@ a:hover {
     float: right;
     line-height: 2em;
     margin-top: .5em;
-    background-color: #2e8b57;
+    background-color: #224A86;
     border-radius: 4px;
     padding: 0 .5em;
     color: white;
@@ -908,7 +908,7 @@ a:hover {
 
 .nav-toggle:hover {
     color: white;
-    background-color: #21653f
+    background-color: #224A86
 }
 
 .noList {
@@ -996,7 +996,7 @@ dd {
     content: "";
     position: absolute;
     top: -1.25em;
-    background: #2e8b57;
+    background: #224A86;
     display: block;
     height: 2px;
     width: 150px;
@@ -1007,7 +1007,7 @@ dd {
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: #2e8b57;
+    background: #224A86;
     display: block;
     height: 2px;
     width: 150px;
@@ -1186,7 +1186,7 @@ dd {
 }
 
 .footer-links ul li a svg .outer-shape {
-    fill: #2e8b57
+    fill: #224A86
 }
 
 .footer-links ul li a svg .inner-shape {
@@ -1194,7 +1194,7 @@ dd {
 }
 
 .footer-links ul li:hover a svg .outer-shape {
-    fill: #21653f
+    fill: #224A86
 }
 
 .pagination .next {

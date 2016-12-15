@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Search Strategically"
+title:  "Search Experimentally"
 date:   2010-01-05
 description: Rather than trying to construct one perfect search, plan on trying several experimental searches.
 # image: featuredimagehere
 ---
 
-<p class="intro"><span class="dropcap">R</span>ather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Seek out interdisciplinary perspectives on your topic by trying out your searches in more than one database.</p>
+<p class="intro"><span class="dropcap">R</span>ather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.</p>
 
 
-### Strategy:
+### Strategy 1:
 
 Find one or more <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> related to your project. Choose a few databases and search tools and start exploring.
 
@@ -19,6 +19,16 @@ Turn your notes, ideas, and questions about your topic into keywords for search.
 	<img src="{{ '/assets/img/content/from-keywords-to-search-2.jpg' | prepend: site.baseurl }}" alt="Turn your notes and ideas on your topic into keywords for search"> 
 	<figcaption>This example search shows how you can turn your notes and ideas on your topic into keywords in a database search.</figcaption>
 </figure>
+
+### Strategy 2:
+
+Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.
+
+<figure>
+	<img src="{{ '/assets/img/content/database-filtering-tools.jpg' | prepend: site.baseurl }}" alt="Web of Science search filters"> 
+	<figcaption>Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results.</figcaption>
+</figure>
+
 
 ### Tips:
 
