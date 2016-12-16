@@ -38,3 +38,13 @@ Most databases have a set of powerful filtering tools, usually on the left side 
 <li>In your initial searches expect that sometimes you wil find too many results, and other times not enough. Be patient as you use your initial searches to explore your topic and build the collection of keywords you are using for search.</li>
 <li>As you find keywords that seem to be working, remember to <em>mix and match</em> with other keywords to see if you uncover any new or unexpected results.</li>
 </ol>
+
+#### Embed this research strategy
+
+Would you like to embed this research strategy into your own site? Just copy and paste the code below. <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank">Preview</a>
+
+```
+
+<iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
+
+```
