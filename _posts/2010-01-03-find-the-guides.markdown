@@ -18,6 +18,6 @@ Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.lib
 <ol class="tiplist">
 <li>Consider using more than one research guide to help you find interdisciplinary perspectives on your topic.</li>
 
-<li>Learn more about how to get the most out of research guides in this quick video:
+<li>Learn how to get the most out of research guides in this quick video:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li>
