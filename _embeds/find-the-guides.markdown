@@ -6,7 +6,7 @@ description: Find the guide that's right for you! UCLA Library staff have put to
 # image: featuredimagehere
 ---
 
-<p class="intro"><span class="dropcap">G</span>oogle is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.</p>
+<p class="intro"><span class="dropcap">G</span>oogle is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> can help you find the best databases and search tools for your topic, so that you will more quickly find the information you need.</p>
 
 
 ### Give it a try:
