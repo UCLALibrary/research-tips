@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: embed
 title:  "Turn Questions into Keywords"
 date:   2010-01-02
 description: Improve the effectiveness of your searches by generating a variety of keywords.
