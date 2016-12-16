@@ -11,7 +11,7 @@ description: Find the guide that's right for you! UCLA Library staff have put to
 
 ### Strategy:
 
-Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.library.ucla.edu</a> to find one or more research guides related to your topic or course.
+Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.library.ucla.edu</a> to find one or more research guides related to your topic or course. Then, visit the "articles" tab on the guides and choose the databases you would like to use to explore your topic.
 
 ### Tips:
 
