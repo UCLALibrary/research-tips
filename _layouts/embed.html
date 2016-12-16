@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+{% include head.html %}
+
+<body>
+<div style="padding: 50px;">   
+<div class="post">
+  {% if page.image %}
+    <div class="featuredImage">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+      </div>
+  {% endif %}
+  <h1 class="postTitle">{{ page.title }}</h1>
+  <!-- <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p> -->
+  
+    <h3>Does it work?</h3>
+    
+  {{ content }}
+
+</div>
+    </div>
+    
+    {% include scripts.html %}
+</body>

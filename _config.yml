@@ -6,6 +6,12 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
+# Collections
+collections:
+    embeds:
+        output: true
+        permalink: /embeds/:path/
+
 markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
