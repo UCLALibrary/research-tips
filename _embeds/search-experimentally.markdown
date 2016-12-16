@@ -9,7 +9,7 @@ description: Rather than trying to construct one perfect search, plan on trying 
 <p class="intro"><span class="dropcap">R</span>ather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.</p>
 
 
-### Strategy 1:
+### Give it a try:
 
 Find one or more <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> related to your project. Choose a few databases and search tools and start exploring.
 
@@ -20,7 +20,7 @@ Turn your notes, ideas, and questions about your topic into keywords for search.
 	<figcaption>This example search shows how you can turn your notes and ideas on your topic into keywords in a database search.</figcaption>
 </figure>
 
-### Strategy 2:
+### What's next?
 
 Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.
 

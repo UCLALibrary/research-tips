@@ -16,7 +16,7 @@ description: Improve the effectiveness of your searches by generating a variety 
 -->
 <img src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> 
 
-### Strategy:
+### Give it a try:
 
 First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.
 
@@ -25,6 +25,5 @@ First, identify the core concepts in one of your research questions. Then, gener
 <ol class="tiplist">
 <li>Ask your instructor or a researcher in the field for their advice on the best keywords to use for your search.</li>
 
-<li>Watch this quick video on crafting a savvy search strategy for more ideas on generating keywords for search:
-
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/bgnGGK_21sE?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li>
+<li>Watch this quick video on <a href="https://youtu.be/bgnGGK_21sE?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" target="_blank">crafting a savvy search strategy</a> for more ideas on generating keywords for search</li>
+</ol>
