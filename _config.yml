@@ -1,10 +1,10 @@
 title: Research Tips and Strategies
 description: A collection of tips and strategies to help you get started on your research projects
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
+url: https://dmcwo.github.io/research-tips
+baseurl: "/research-tips"
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: :title/
 
 # Collections
 collections:

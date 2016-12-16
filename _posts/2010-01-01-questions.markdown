@@ -35,3 +35,15 @@ Before you search, start by brainstorming a list questions. Write down all the q
 </li>
 
 <li>Want to talk about it? Set up a <a href="http://library.ucla.edu/questions">free research consultation</a> to get help developing your ideas.</li>
+</ol>
+
+### Embed this research strategy
+
+Would you like to embed this research strategy into your own site? Just copy and paste the code below:
+
+```
+<iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"</iframe>
+
+```
+
+<a href="{{ site.url }}/embeds{{ page.url }}" target="_blank">Preview</a>
