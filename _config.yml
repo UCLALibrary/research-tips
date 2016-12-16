@@ -23,10 +23,10 @@ navigation:
  - title: About
    url: /about
 
-# social:
-#   github: brianmaierjr
-#   twitter: brianmaierjr
-#   facebook: brianmaierjr
-#   email: brimaidesigns@gmail.com
+social:
+   github: dmcwo
+   twitter: dmcwo
+#   facebook: 
+#   email: 
 
 # google_analytics: "UA-"
