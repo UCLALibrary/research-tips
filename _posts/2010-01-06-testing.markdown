@@ -8,14 +8,6 @@ tags: [example, another example, a third example]
 # image: content/music-antelope-valley.jpg
 ---
 
-<h2>Simple Collapsible</h2>
-  <a href="#demo" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
-  <div id="demo" class="collapse">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </div>
-
 {% include _tips/testing.markdown %}
 
 #### Embed this research strategy
@@ -27,5 +19,3 @@ Would you like to embed this research strategy into your own site? Just copy and
 <iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
 
 ```
-
-
