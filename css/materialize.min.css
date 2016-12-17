@@ -3850,6 +3850,7 @@ input[type=range]+.thumb {
     }
 }
 
+/*
 nav {
     color: #fff;
     background-color: #ee6e73;
@@ -3857,6 +3858,7 @@ nav {
     height: 56px;
     line-height: 56px
 }
+
 
 nav.nav-extended {
     height: auto
@@ -4038,6 +4040,8 @@ nav .input-field label.active {
     -webkit-transform: translateY(0);
     transform: translateY(0)
 }
+
+*/
 
 .navbar-fixed {
     position: relative;
