@@ -24,25 +24,29 @@ Before you search, start by brainstorming a list questions. Write down all the q
 
 ### Tips
 
-<ol class="tiplist">
-
-<li>Need help generating questions? Check out our quick video tutorial on developing a research question:
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe>
+<ul class="collapsible popout" data-collapsible="expandable">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Need help generating questions? Check out our quick video tutorial on developing a research question.</div>
+      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Want to see some examples of undergraduate research projects at UCLA? <em>From the lab to the studio</em> shows how UCLA students are exploring their passions in their research:</div>
+      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></p></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help developing your ideas.</div>
+      <div class="collapsible-body"><p style="button"><a href="http://calendar.library.ucla.edu/booking/powell-consultations" target="_blank">free research consultation</a>"</p></div>
+    </li>
+  </ul>
 
-<li>Get examples of UCLA undergraduate research projects:
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe>
-</li>
+### Embed this research strategy
 
-<li>Want to talk about it? Set up a <a href="http://library.ucla.edu/questions">free research consultation</a> to get help developing your ideas.</li>
-</ol>
-
-#### Embed this research strategy
-
-Would you like to embed this research strategy into your own site? Just copy and paste the code below. <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank">Preview</a>
+Would you like to embed this research strategy into your own site? Just copy and paste the code below: <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank" class="badge"><i class="material-icons">pageview</i>Preview</a>
 
 ```
 
 <iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
 
 ```
+
+<a href="{{ site.url }}/embeds{{ page.url }}" target="_blank" class="waves-effect waves-light btn"><i class="material-icons left">pageview</i>Preview</a>
