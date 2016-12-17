@@ -16,7 +16,7 @@ description: Improve the effectiveness of your searches by generating a variety 
 -->
 <img src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> 
 
-### Strategy:
+### Give it a try:
 
 First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.
 
