@@ -522,10 +522,7 @@ th:last-child {
     border-radius: 3px;
     padding: 20px;
     background: #343642;
-    color: #C1C2C3;
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
+    color: #C1C2C3
 }
 
 .highlight .hll {
