@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Start with Driving Questions"
+title:  "Start with your Questions"
 date:   2010-01-01
 description: Before you search, start by brainstorming a list questions.
+category: questions
 tags: [example, another example, a third example]
 # image: content/music-antelope-valley.jpg
 ---
+
+test
 
 <p class="intro"><span class="dropcap">Q</span>uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
 

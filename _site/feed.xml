@@ -5,9 +5,9 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://dmcwo.github.io/research-tips/research-tips/</link>
     <atom:link href="https://dmcwo.github.io/research-tips/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Dec 2016 22:48:53 -0800</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2016 22:48:53 -0800</lastBuildDate>
-    <generator>Jekyll v3.1.5</generator>
+    <pubDate>Thu, 22 Dec 2016 17:13:38 -0800</pubDate>
+    <lastBuildDate>Thu, 22 Dec 2016 17:13:38 -0800</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       
       <item>
@@ -199,7 +199,7 @@ Inmensae subtilitatis, obscuris et malesuada fames. Ambitioni dedisse scripsisse
       
       <item>
         <title>Find the Right Research Guides for your Project</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;G&lt;/span&gt;oogle is great, but for your research project, you&#39;re likely going to need more than even Google can provide. UCLA Library&#39;s &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;G&lt;/span&gt;oogle is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
@@ -226,7 +226,7 @@ Would you like to embed this research strategy into your own site? Just copy and
 &lt;/ol&gt;
 </description>
         
-          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;G&lt;/span&gt;oogle is great, but for your research project, you&#39;re likely going to need more than even Google can provide. UCLA Library&#39;s &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;G&lt;/span&gt;oogle is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
 
 </description>
         
@@ -290,8 +290,10 @@ Would you like to embed this research strategy into your own site? Just copy and
     
       
       <item>
-        <title>Start with Driving Questions</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Q&lt;/span&gt;uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.&lt;/p&gt;
+        <title>Start with your Questions</title>
+        <description>&lt;p&gt;test&lt;/p&gt;
+
+&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Q&lt;/span&gt;uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.&lt;/p&gt;
 
 &lt;!--
 &lt;figure&gt;
@@ -336,7 +338,7 @@ Would you like to embed this research strategy into your own site? Just copy and
 &lt;p&gt;&lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/questions/&quot; target=&quot;_blank&quot; class=&quot;waves-effect waves-light btn&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;pageview&lt;/i&gt;Preview&lt;/a&gt;&lt;/p&gt;
 </description>
         
-          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Q&lt;/span&gt;uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.&lt;/p&gt;
+          <description>&lt;p&gt;test&lt;/p&gt;
 
 </description>
         
@@ -350,6 +352,8 @@ Would you like to embed this research strategy into your own site? Just copy and
         
         <category>a third example</category>
         
+        
+        <category>questions</category>
         
       </item>
       
