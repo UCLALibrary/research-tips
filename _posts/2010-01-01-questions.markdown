@@ -8,8 +8,6 @@ tags: [example, another example, a third example]
 # image: content/music-antelope-valley.jpg
 ---
 
-test
-
 <p class="intro"><span class="dropcap">Q</span>uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
 
 <!--
