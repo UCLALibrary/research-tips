@@ -17,9 +17,9 @@ Visit <a href="http://www.library.ucla.edu/use/computers-computing-services/conn
 
 ### Tips:
 
-<ol class="tiplist">
+<ul class="tiplist">
 <li>Be sure to configure your computer for off-campus access before you leave campus!</li>
-</ol>
+</ul>
 
 #### Embed this research strategy
 

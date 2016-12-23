@@ -22,12 +22,13 @@ First, identify the core concepts in one of your research questions. Then, gener
 
 ### Tips:
 
-<ol class="tiplist">
+<ul class="tiplist">
 <li>Ask your instructor or a researcher in the field for their advice on the best keywords to use for your search.</li>
 
 <li>Watch this quick video on crafting a savvy search strategy for more ideas on generating keywords for search:
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/bgnGGK_21sE?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li>
+</ul>
 
 #### Embed this research strategy
 

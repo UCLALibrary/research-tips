@@ -44,10 +44,10 @@ Before you search, start by brainstorming a list questions. Write down all the q
 
 Would you like to embed this research strategy into your own site? Just copy and paste the code below: <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank" class="badge"><i class="material-icons">pageview</i>Preview</a>
 
-```
+~~~ html
 
 <iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
 
-```
+~~~
 
 <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank" class="waves-effect waves-light btn"><i class="material-icons left">pageview</i>Preview</a>

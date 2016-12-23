@@ -32,12 +32,12 @@ Most databases have a set of powerful filtering tools, usually on the left side 
 
 ### Tips:
 
-<ol class="tiplist">
+<ul class="tiplist">
 <li>Start with multi-disciplinary search tools like Web of Science, Academic Search Complete, or ArticlesPlus to explore your topic. </li>
 <li>Use your initial searches to collect new keywords for future searches. You may find useful new keywords in titles, abstracts, and subject headings.</li>
 <li>In your initial searches expect that sometimes you wil find too many results, and other times not enough. Be patient as you use your initial searches to explore your topic and build the collection of keywords you are using for search.</li>
 <li>As you find keywords that seem to be working, remember to <em>mix and match</em> with other keywords to see if you uncover any new or unexpected results.</li>
-</ol>
+</ul>
 
 #### Embed this research strategy
 
