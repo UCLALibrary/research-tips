@@ -5,8 +5,8 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://dmcwo.github.io/research-tips/research-tips/</link>
     <atom:link href="https://dmcwo.github.io/research-tips/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Dec 2016 21:02:50 -0800</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2016 21:02:50 -0800</lastBuildDate>
+    <pubDate>Thu, 22 Dec 2016 23:19:16 -0800</pubDate>
+    <lastBuildDate>Thu, 22 Dec 2016 23:19:16 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -39,6 +39,22 @@
       &lt;div class=&quot;collapsible-body&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet.&lt;/p&gt;&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
+
+&lt;h3 id=&quot;modals&quot;&gt;Modals&lt;/h3&gt;
+
+&lt;!-- Modal Trigger --&gt;
+&lt;p&gt;&lt;a class=&quot;modal-trigger waves-effect waves-light btn&quot; href=&quot;#modal1&quot;&gt;Modal&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- Modal Structure --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;h4&gt;Modal Header&lt;/h4&gt;
+      &lt;p&gt;A bunch of text&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Agree&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;!-- begin embed code --&gt;
 

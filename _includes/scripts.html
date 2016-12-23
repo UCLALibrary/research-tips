@@ -8,6 +8,18 @@
 <!--Materialize-->
 <!--Import jQuery before materialize.js-->
       <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> <!-- Two of these? Earlier version above. Problem? -->
-      <script type="text/javascript" src="{{ "/assets/js/materialize/materialize.min.js" | prepend: site.baseurl }}"></script>
+      <script type="text/javascript" src="{{ "/assets/js/materialize.js" | prepend: site.baseurl }}"></script>
+
+<script type="text/javascript" src="{{ "/assets/js/materialize-readies.js" | prepend: site.baseurl }}"></script>
+
+{% if page.specialjsfeatures == true %}
+
+<script type="text/javascript" src="{{ "/assets/js/materialize-special-readies.js" | prepend: site.baseurl }}"></script>
+
+{% endif %}
 
 <!--End Materialize-->
+
+
+
+
