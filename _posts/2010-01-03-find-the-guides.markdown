@@ -3,6 +3,7 @@ layout: post
 title:  "Find the Right Research Guides for your Project"
 date:   2010-01-03
 description: Find the guide that's right for you! UCLA Library staff have put together hundreds of guides for hundreds of subjects, courses, and special topics.
+category: find-the-guides
 # image: featuredimagehere
 ---
 
