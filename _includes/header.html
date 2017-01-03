@@ -1,14 +1,16 @@
- <div class="header">
-     <div class="container">
-         <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-         <nav class="nav-collapse">
-             <ul class="noList">
-                 {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
-                 <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-                     <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-                 </li> 
-                 {% endfor %}
-             </ul>
-         </nav>
-     </div>
- </div><!-- end .header -->
+<nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container"><a id="logo-container" href="{{ site.baseurl }}/" class="brand-logo"> {{ site.title }} </a>
+     <ul class="right hide-on-med-and-down">
+      {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+            {% else %}
+              {% assign domain = site.url | append: site.baseurl %}
+            {% endif %}
+            <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+         </ul>
+        {% include side-nav.html %}
+    </div>
+  </nav>
+<!-- end .header -->
