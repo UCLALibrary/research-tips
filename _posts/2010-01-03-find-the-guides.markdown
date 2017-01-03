@@ -23,12 +23,3 @@ Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.lib
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li>
 </ul>
 
-#### Embed this research strategy
-
-Would you like to embed this research strategy into your own site? Just copy and paste the code below. <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank">Preview</a>
-
-```
-
-<iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
-
-```

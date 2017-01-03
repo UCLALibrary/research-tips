@@ -11,6 +11,9 @@ layout: default
   <!-- <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p> -->
 {{ content }}
 
+{% include embed-and-share.html %}
+
+
 <!-- *** -->
 <!-- POST NAVIGATION with cards-->
 <!-- *** -->
@@ -21,9 +24,9 @@ layout: default
     {% if page.previous.url %}
     <!-- Card 1 -->
         <div class="col s6">
-          <div class="card blue lighten-1 hoverable">
+          <div class="card hoverable">
             <a href="{{ page.previous.url | prepend: site.baseurl }}">
-                <div class="card-content white-text">
+                <div class="card-content">
               <!--<span class="card-title waves-effect"><a href="{{ page.previous.url | prepend: site.baseurl }}"><i class="material-icons">chevron_left</i>&nbsp;{{ page.previous.title }}</a></span>-->
                 <i class="material-icons">chevron_left</i>&nbsp;{{ page.previous.title }}
               <!--<p>I am a very simple card. I am good at containing small bits of information.
@@ -44,9 +47,9 @@ layout: default
     {% if page.next.url %}  
         <!-- Card 2 -->
             <div class="col s6">
-          <div class="card blue lighten-1 hoverable">
+          <div class="card hoverable">
               <a href="{{ page.next.url | prepend: site.baseurl }}">
-              <div class="card-content white-text">
+              <div class="card-content" style="text-align: right;">
               <!--<span class="card-title waves-effect"><a href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}&nbsp;<i class="material-icons">chevron_right</i></a></span>-->
                   {{ page.next.title }}&nbsp;<i class="material-icons">chevron_right</i>
             </div>

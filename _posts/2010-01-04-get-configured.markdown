@@ -21,12 +21,3 @@ Visit <a href="http://www.library.ucla.edu/use/computers-computing-services/conn
 <li>Be sure to configure your computer for off-campus access before you leave campus!</li>
 </ul>
 
-#### Embed this research strategy
-
-Would you like to embed this research strategy into your own site? Just copy and paste the code below. <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank">Preview</a>
-
-```
-
-<iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
-
-```

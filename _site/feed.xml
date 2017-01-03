@@ -5,25 +5,14 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://dmcwo.github.io/research-tips/research-tips/</link>
     <atom:link href="https://dmcwo.github.io/research-tips/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Dec 2016 23:32:37 -0800</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2016 23:32:37 -0800</lastBuildDate>
+    <pubDate>Tue, 03 Jan 2017 11:24:36 -0800</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2017 11:24:36 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
       <item>
         <title>Testing things</title>
-        <description>&lt;div class=&quot;fixed-action-btn click-to-toggle&quot;&gt;
-    &lt;a class=&quot;btn-floating btn-large blue lighten-1&quot;&gt;
-      &lt;i class=&quot;large material-icons&quot;&gt;share&lt;/i&gt;
-    &lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a class=&quot;btn-floating green lighten-1&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;code&lt;/i&gt;Embed this tip.&lt;/a&gt;
-      &lt;/li&gt;
-        
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;something&quot;&gt;Something&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;something&quot;&gt;Something&lt;/h3&gt;
 
 &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
     &lt;li&gt;
@@ -40,106 +29,9 @@
     &lt;/li&gt;
   &lt;/ul&gt;
 
-&lt;h3 id=&quot;modals&quot;&gt;Modals&lt;/h3&gt;
-
-&lt;!-- Modal Trigger --&gt;
-&lt;p&gt;&lt;a class=&quot;modal-trigger waves-effect waves-light btn&quot; href=&quot;#modal1&quot;&gt;Modal&lt;/a&gt;&lt;/p&gt;
-
-&lt;!-- Modal Structure --&gt;
-&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
-    &lt;div class=&quot;modal-content&quot;&gt;
-      &lt;h4&gt;Modal Header&lt;/h4&gt;
-      &lt;p&gt;A bunch of text&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;modal-footer&quot;&gt;
-      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Agree&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- begin embed code --&gt;
-
-&lt;h5&gt;Embed this research strategy&lt;/h5&gt;
-
-&lt;p&gt;Would you like to embed this research strategy into your own site? Just copy and paste the code below:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;
-    &lt;pre class=&quot;highlight&quot;&gt;
-        &lt;code&gt;
-            &amp;lt;iframe src=&quot;https://dmcwo.github.io/research-tips/embeds/testing/&quot; width=&quot;80%&quot; height=&quot;600px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;
-        &lt;/code&gt;
-    &lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/testing/&quot; target=&quot;_blank&quot;&gt;Preview&lt;/a&gt;&lt;/p&gt;
-
-&lt;!-- end embed code --&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;!-- this is the the thing that includes the content
-&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Q&lt;/span&gt;uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.&lt;/p&gt;
-
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Quid securi etiam tamquam eu fugiat nulla pariatur. Non equidem invideo, miror magis posuere velit aliquet. Praeterea iter est quasdam res quas ex communi.
-Contra legem facit qui id facit quod lex prohibet. Fictum, deserunt mollit anim laborum astutumque! Gallia est omnis divisa in partes tres, quarum. Ab illo tempore, ab est sed immemorabili.
-Donec sed odio operae, eu vulputate felis rhoncus. Quisque ut dolor gravida, placerat libero vel, euismod. Idque Caesaris facere voluntate liceret: sese habere.
-Quis aute iure reprehenderit in voluptate velit esse. A communi observantia non est recedendum. Plura mihi bona sunt, inclinet, amari petere vellent. Quam temere in vitiis, legem sancimus haerentia.
-Inmensae subtilitatis, obscuris et malesuada fames. Ambitioni dedisse scripsisse iudicaretur. Magna pars studiorum, prodita quaerimus. Tu quoque, Brute, fili mi, nihil timor populi, nihil!
-
-&lt;!--
-&lt;figure&gt;
-	&lt;img src=&quot;/research-tips/assets/img/content/climate-change-psychology-480.jpg&quot; alt=&quot;Question map examples&quot;&gt; 
-	&lt;figcaption&gt;What are you curious about? What questions do you hope to answer in your project?&lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-
-&lt;p&gt;&lt;img src=&quot;/research-tips/assets/img/content/question-map-examples.jpg&quot; alt=&quot;Example question maps&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;strategy&quot;&gt;Strategy:&lt;/h3&gt;
-
-&lt;p&gt;Before you search, start by brainstorming a list questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!&lt;/p&gt;
-
-&lt;h3 id=&quot;tips&quot;&gt;Tips&lt;/h3&gt;
-
-&lt;ol class=&quot;tiplist&quot;&gt;
-
-&lt;li&gt;Need help generating questions? Check out our quick video tutorial on developing a research question:
-    &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;/li&gt;
-
-&lt;li&gt;Get examples of UCLA undergraduate research projects:
-&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/li&gt;
-
-&lt;li&gt;Want to talk about it? Set up a &lt;a href=&quot;http://library.ucla.edu/questions&quot;&gt;free research consultation&lt;/a&gt; to get help developing your ideas.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;–&amp;gt;&lt;/p&gt;
-
-&lt;!-- previous embed approach
-#### Embed this research strategy
-
-Would you like to embed this research strategy into your own site? Just copy and paste the code below. &lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/testing/&quot; target=&quot;_blank&quot;&gt;Preview&lt;/a&gt;
-
-```
-
-&lt;iframe src=&quot;https://dmcwo.github.io/research-tips/embeds/testing/&quot; width=&quot;80%&quot; height=&quot;600px&quot;&gt;&lt;/iframe&gt;
-
-```
---&gt;
 </description>
         
-          <description>&lt;div class=&quot;fixed-action-btn click-to-toggle&quot;&gt;
-    &lt;a class=&quot;btn-floating btn-large blue lighten-1&quot;&gt;
-      &lt;i class=&quot;large material-icons&quot;&gt;share&lt;/i&gt;
-    &lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a class=&quot;btn-floating green lighten-1&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;code&lt;/i&gt;Embed this tip.&lt;/a&gt;
-      &lt;/li&gt;
-        
-    &lt;/ul&gt;
-&lt;/div&gt;
+          <description>&lt;h3 id=&quot;something&quot;&gt;Something&lt;/h3&gt;
 
 </description>
         
@@ -193,15 +85,6 @@ Would you like to embed this research strategy into your own site? Just copy and
 &lt;li&gt;As you find keywords that seem to be working, remember to &lt;em&gt;mix and match&lt;/em&gt; with other keywords to see if you uncover any new or unexpected results.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;embed-this-research-strategy&quot;&gt;Embed this research strategy&lt;/h4&gt;
-
-&lt;p&gt;Would you like to embed this research strategy into your own site? Just copy and paste the code below. &lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/search-experimentally/&quot; target=&quot;_blank&quot;&gt;Preview&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&amp;lt;iframe src=&quot;https://dmcwo.github.io/research-tips/embeds/search-experimentally/&quot; width=&quot;80%&quot; height=&quot;600px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 </description>
         
           <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;R&lt;/span&gt;ather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.&lt;/p&gt;
@@ -233,15 +116,6 @@ Would you like to embed this research strategy into your own site? Just copy and
 &lt;li&gt;Be sure to configure your computer for off-campus access before you leave campus!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;embed-this-research-strategy&quot;&gt;Embed this research strategy&lt;/h4&gt;
-
-&lt;p&gt;Would you like to embed this research strategy into your own site? Just copy and paste the code below. &lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/get-configured/&quot; target=&quot;_blank&quot;&gt;Preview&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&amp;lt;iframe src=&quot;https://dmcwo.github.io/research-tips/embeds/get-configured/&quot; width=&quot;80%&quot; height=&quot;600px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 </description>
         
           <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;S&lt;/span&gt;et up your computer to access library resources from off-campus.&lt;/p&gt;
@@ -275,15 +149,6 @@ Would you like to embed this research strategy into your own site? Just copy and
 &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;embed-this-research-strategy&quot;&gt;Embed this research strategy&lt;/h4&gt;
-
-&lt;p&gt;Would you like to embed this research strategy into your own site? Just copy and paste the code below. &lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/find-the-guides/&quot; target=&quot;_blank&quot;&gt;Preview&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&amp;lt;iframe src=&quot;https://dmcwo.github.io/research-tips/embeds/find-the-guides/&quot; width=&quot;80%&quot; height=&quot;600px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 </description>
         
           <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;G&lt;/span&gt;oogle is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
@@ -325,15 +190,6 @@ Would you like to embed this research strategy into your own site? Just copy and
 &lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;https://www.youtube.com/embed/bgnGGK_21sE?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;embed-this-research-strategy&quot;&gt;Embed this research strategy&lt;/h4&gt;
-
-&lt;p&gt;Would you like to embed this research strategy into your own site? Just copy and paste the code below. &lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/turn-questions-into-keywords/&quot; target=&quot;_blank&quot;&gt;Preview&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&amp;lt;iframe src=&quot;https://dmcwo.github.io/research-tips/embeds/turn-questions-into-keywords/&quot; width=&quot;80%&quot; height=&quot;600px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 </description>
         
           <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;D&lt;/span&gt;evelop your questions into keywords before you search. Try thinking about your topic from a variety of perspectives to generate a big list of keywords for each core concept.&lt;/p&gt;
@@ -360,7 +216,9 @@ Would you like to embed this research strategy into your own site? Just copy and
 &lt;/figure&gt;
 --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/research-tips/assets/img/content/question-map-examples.jpg&quot; alt=&quot;Example question maps&quot; /&gt;&lt;/p&gt;
+&lt;!-- consider adding a carousel with multiple examples: http://materializecss.com/carousel.html --&gt;
+
+&lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/question-map-examples.jpg&quot; alt=&quot;Example question maps&quot; data-caption=&quot;Example question maps&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
@@ -382,18 +240,6 @@ Would you like to embed this research strategy into your own site? Just copy and
       &lt;div class=&quot;collapsible-body&quot;&gt;&lt;p style=&quot;button&quot;&gt;&lt;a href=&quot;http://calendar.library.ucla.edu/booking/powell-consultations&quot; target=&quot;_blank&quot;&gt;free research consultation&lt;/a&gt;&quot;&lt;/p&gt;&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
-
-&lt;h3 id=&quot;embed-this-research-strategy&quot;&gt;Embed this research strategy&lt;/h3&gt;
-
-&lt;p&gt;Would you like to embed this research strategy into your own site? Just copy and paste the code below: &lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/questions/&quot; target=&quot;_blank&quot; class=&quot;badge&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://dmcwo.github.io/research-tips/embeds/questions/&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;80%&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;600px&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://dmcwo.github.io/research-tips/embeds/questions/&quot; target=&quot;_blank&quot; class=&quot;waves-effect waves-light btn&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;pageview&lt;/i&gt;Preview&lt;/a&gt;&lt;/p&gt;
 </description>
         
           <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Q&lt;/span&gt;uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.&lt;/p&gt;

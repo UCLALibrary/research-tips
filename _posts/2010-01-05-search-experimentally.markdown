@@ -39,12 +39,3 @@ Most databases have a set of powerful filtering tools, usually on the left side 
 <li>As you find keywords that seem to be working, remember to <em>mix and match</em> with other keywords to see if you uncover any new or unexpected results.</li>
 </ul>
 
-#### Embed this research strategy
-
-Would you like to embed this research strategy into your own site? Just copy and paste the code below. <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank">Preview</a>
-
-```
-
-<iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
-
-```

@@ -1,11 +1,31 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
-@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
 
+/***************
+Customized
+***************/
 
+/* setting font to serif. consider pairing with raleway */
+html {
+    font-family: 'Lora', serif;
+  }
+
+/* more interesting intro paragraphs */
+
+body .intro {
+    font-size: 1.75em;
+    line-height: 1.7;
+    margin-bottom: 40px;
+}
+
+body p, ul, ol {
+        font-size: 1.25em;
+}
+
+/* this would benefit from more interesting styling */
 blockquote {
     margin: 1.5em 40px
 }
 
+/* code stuff */
 p,
 pre {
     margin: 1.5em 0
@@ -24,12 +44,10 @@ samp {
     font-size: 1em
 }
 
-
-/***************
-Customized
-***************/
+/* i don't think i'm using this */
 
 .videocontainer {
     width: 70%;
     margin: auto;
 }
+

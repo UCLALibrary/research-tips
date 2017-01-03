@@ -33,7 +33,7 @@
 // 1. Colors
 // ==========================================================================
 
-$primary-color: #2AB8F6; // color("materialize-red", "lighten-2") !default;
+$primary-color: color("green", "lighten-1"); // #2AB8F6; color("materialize-red", "lighten-2") !default;
 $primary-color-light: lighten($primary-color, 15%) !default;
 $primary-color-dark: darken($primary-color, 15%) !default;
 
@@ -286,7 +286,7 @@ $h6-fontsize: 1rem !default;
 // 21. Footer
 // ==========================================================================
 
-$footer-bg-color: $primary-color !default;
+$footer-bg-color: #2AB8F6; // $primary-color !default;
 
 
 // 22. Flow Text

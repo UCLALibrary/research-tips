@@ -20,10 +20,12 @@
     <!--Fonts-->
       <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Lora|Open+Sans|Open+Sans+Condensed:300|PT+Serif" rel="stylesheet">
+    
     
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="/research-tips/assets/css/style.css">
     <link rel="stylesheet" href="/research-tips/assets/css/materialize.css">
+    <link rel="stylesheet" href="/research-tips/assets/css/style.css">
     <!--[if IE 8]><link rel="stylesheet" href="/research-tips/assets/css/ie.css"><![endif]-->
     <link rel="canonical" href="https://dmcwo.github.io/research-tips/research-tips/questions/">
 
@@ -87,7 +89,9 @@
 </figure>
 -->
 
-<p><img src="/research-tips/assets/img/content/question-map-examples.jpg" alt="Example question maps" /></p>
+<!-- consider adding a carousel with multiple examples: http://materializecss.com/carousel.html -->
+
+<p><img class="responsive-img materialboxed" src="/research-tips/assets/img/content/question-map-examples.jpg" alt="Example question maps" data-caption="Example question maps" /></p>
 
 <h3 id="give-it-a-try">Give it a try:</h3>
 
@@ -110,17 +114,57 @@
     </li>
   </ul>
 
-<h3 id="embed-this-research-strategy">Embed this research strategy</h3>
 
-<p>Would you like to embed this research strategy into your own site? Just copy and paste the code below: <a href="https://dmcwo.github.io/research-tips/embeds/questions/" target="_blank" class="badge"><i class="material-icons">pageview</i>Preview</a></p>
+<!-- begin embed code -->
 
-<div class="language-html highlighter-rouge"><pre class="highlight"><code>
-<span class="nt">&lt;iframe</span> <span class="na">src=</span><span class="s">"https://dmcwo.github.io/research-tips/embeds/questions/"</span> <span class="na">width=</span><span class="s">"80%"</span> <span class="na">height=</span><span class="s">"600px"</span><span class="nt">&gt;&lt;/iframe&gt;</span>
+<!-- this places a floating button in the bottom right corner -->
+<div class="fixed-action-btn">
+    <a class="btn-floating btn-large blue lighten-1" href="#modal1">
+      <i class="large material-icons">code</i>
+    </a>
 
-</code></pre>
+</div>
+  
+  
+
+
+<!-- This is the content of the Modal that pops up -->
+<div id="modal1" class="modal modal-fixed-footer">
+    <div class="modal-content">
+      <h4>Embed this research strategy</h4>
+      <p>Copy and paste the html code below to embed this research strategy into your site:</p>
+      
+      <div class="highlighter-rouge">
+<pre class="highlight">
+<code>&lt;iframe src="https://dmcwo.github.io/research-tips/embeds/questions/" width="80%" height="600px"&gt;&lt;/iframe&gt;</code>
+</pre>
+    </div>
+      
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Got it!</a>
+    </div>
 </div>
 
-<p><a href="https://dmcwo.github.io/research-tips/embeds/questions/" target="_blank" class="waves-effect waves-light btn"><i class="material-icons left">pageview</i>Preview</a></p>
+<!-- end embed code -->
+
+
+<!-- in the future, this can be used to build in multiple ways to share -->
+<!--
+<div class="fixed-action-btn toolbar">
+    <a class="btn-floating btn-large blue lighten-1" href="#modal1">
+      <i class="large material-icons">share</i>
+    </a>
+        <ul>
+      <li class="waves-effect waves-light">
+        <a href="#modal1"><i class="material-icons">code</i> Embed</a>
+      </li>
+      <li class="waves-effect waves-light">
+        <a href="#modal1"><i class="material-icons">email</i> Email</a>
+      </li>
+    </ul>
+</div>
+-->
 
 
 <!-- *** -->
@@ -136,9 +180,9 @@
       
         <!-- Card 2 -->
             <div class="col s6">
-          <div class="card blue lighten-1 hoverable">
+          <div class="card hoverable">
               <a href="/research-tips/turn-questions-into-keywords/">
-              <div class="card-content white-text">
+              <div class="card-content" style="text-align: right;">
               <!--<span class="card-title waves-effect"><a href="/research-tips/turn-questions-into-keywords/">Turn Questions into Keywords&nbsp;<i class="material-icons">chevron_right</i></a></span>-->
                   Turn Questions into Keywords&nbsp;<i class="material-icons">chevron_right</i>
             </div>

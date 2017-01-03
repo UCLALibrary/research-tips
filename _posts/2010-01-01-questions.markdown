@@ -17,7 +17,9 @@ tags: [example, another example, a third example]
 </figure>
 -->
 
-<img src="{{ '/assets/img/content/question-map-examples.jpg' | prepend: site.baseurl }}" alt="Example question maps"> 
+<!-- consider adding a carousel with multiple examples: http://materializecss.com/carousel.html -->
+
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/question-map-examples.jpg' | prepend: site.baseurl }}" alt="Example question maps" data-caption="Example question maps"> 
 
 ### Give it a try:
 
@@ -39,15 +41,3 @@ Before you search, start by brainstorming a list questions. Write down all the q
       <div class="collapsible-body"><p style="button"><a href="http://calendar.library.ucla.edu/booking/powell-consultations" target="_blank">free research consultation</a>"</p></div>
     </li>
   </ul>
-
-### Embed this research strategy
-
-Would you like to embed this research strategy into your own site? Just copy and paste the code below: <a href="{{ site.url }}/embeds{{ page.url }}" target="_blank" class="badge"><i class="material-icons">pageview</i>Preview</a>
-
-~~~ html
-
-<iframe src="{{ site.url }}/embeds{{ page.url }}" width="80%" height="600px"></iframe>
-
-~~~
-
-<a href="{{ site.url }}/embeds{{ page.url }}" target="_blank" class="waves-effect waves-light btn"><i class="material-icons left">pageview</i>Preview</a>
