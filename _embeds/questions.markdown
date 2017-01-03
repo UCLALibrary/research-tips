@@ -1,6 +1,6 @@
 ---
 layout: embed
-title:  "Start with Driving Questions"
+title:  "Start with Questions"
 date:   2010-01-01
 ---
 
