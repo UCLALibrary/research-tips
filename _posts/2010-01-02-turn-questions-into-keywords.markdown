@@ -18,7 +18,7 @@ First, identify the core concepts in one of your research questions. Then, gener
 
 ### Tips:
 
-<ul class="collapsible popout" data-collapsible="expandable">
+<ul class="collapsible" data-collapsible="expandable">
     <li>
       <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Watch this quick video on crafting a savvy search strategy for more ideas on generating keywords for search:</div>
       <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/bgnGGK_21sE?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li></div>
@@ -26,11 +26,9 @@ First, identify the core concepts in one of your research questions. Then, gener
     <li>
       <div class="collapsible-header"><i class="material-icons">chat</i>Get expert advice:</div>
       <div class="collapsible-body">
-      <ul>
           <p>Ask your instructor or a researcher in the field for their advice on the best keywords to use for your search.</p>
           <p>Ask a librarian <a href="http://library.ucla.edu/questions" target="_blank">24/7 chat service</a>.</p>
           <p>Set up a <a href="http://library.ucla.edu/questions" target="_blank">research consultation at a UCLA Library</a>.</p>
-      </ul>
       </div>
     </li>
   </ul>

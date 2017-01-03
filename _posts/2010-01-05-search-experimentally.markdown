@@ -16,27 +16,35 @@ Find one or more <a href="http://guides.library.ucla.edu" target="_blank">resear
 
 Turn your notes, ideas, and questions about your topic into keywords for search. If the database you are using has an "advanced search" use it! Advanced search will allow you to experiment with using a variety of keyword synomyms to explore your topic. 
 
-<figure>
-	<img src="{{ '/assets/img/content/from-keywords-to-search-2.jpg' | prepend: site.baseurl }}" alt="Turn your notes and ideas on your topic into keywords for search"> 
-	<figcaption>This example search shows how you can turn your notes and ideas on your topic into keywords in a database search.</figcaption>
-</figure>
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/from-keywords-to-search-2.jpg' | prepend: site.baseurl }}" alt="Turn your notes and ideas on your topic into keywords for search" data-caption="Turn your notes and ideas on your topic into keywords for search."> 
 
 ### What's next?
 
 Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.
 
-<figure>
-	<img src="{{ '/assets/img/content/database-filtering-tools.jpg' | prepend: site.baseurl }}" alt="Web of Science search filters"> 
-	<figcaption>Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results.</figcaption>
-</figure>
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/database-filtering-tools.jpg' | prepend: site.baseurl }}" alt="Web of Science search filters" data-caption="Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results."> 
 
 
 ### Tips:
 
-<ul class="tiplist">
-<li>Start with multi-disciplinary search tools like Web of Science, Academic Search Complete, or ArticlesPlus to explore your topic. </li>
-<li>Use your initial searches to collect new keywords for future searches. You may find useful new keywords in titles, abstracts, and subject headings.</li>
-<li>In your initial searches expect that sometimes you wil find too many results, and other times not enough. Be patient as you use your initial searches to explore your topic and build the collection of keywords you are using for search.</li>
-<li>As you find keywords that seem to be working, remember to <em>mix and match</em> with other keywords to see if you uncover any new or unexpected results.</li>
-</ul>
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">stars</i>If you're not sure which database to use, try starting with a multi-disciplinary database like Web of Science, Academic Search Complete, or ArticlesPlus to explore your topic.</div>
+      <div class="collapsible-body"></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">stars</i>Use your initial searches to collect new keywords for future searches. You may find useful new keywords in titles, abstracts, and subject headings.</div>
+      <div class="collapsible-body"></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">stars</i>In your initial searches expect that sometimes you wil find too many results, and other times not enough. Be patient as you use your initial searches to explore your topic and build the collection of keywords you are using for search.</div>
+      <div class="collapsible-body">
+      </div>
+    </li>
+        <li>
+      <div class="collapsible-header"><i class="material-icons">stars</i>As you find keywords that seem to be working, remember to <em>mix and match</em> with other keywords to see if you uncover any new or unexpected results.</div>
+      <div class="collapsible-body">
+      </div>
+    </li>
+  </ul>
 

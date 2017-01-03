@@ -16,11 +16,20 @@ Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.lib
 
 ### Tips:
 
-<ul class="tiplist">
-<li>Consider using more than one research guide to help you find interdisciplinary perspectives on your topic.</li>
-
-<li>Learn how to get the most out of research guides in this quick video:
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li>
-</ul>
-
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">stars</i>Consider using more than one research guide to help you find interdisciplinary perspectives on your topic.</div>
+      <div class="collapsible-body"></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Learn how to get the most out of research guides in this quick video:</div>
+      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help with research guides:</div>
+      <div class="collapsible-body">
+        <p>Ask a librarian <a href="http://library.ucla.edu/questions" target="_blank">24/7 chat service</a>.</p>
+          <p>Set up a <a href="http://library.ucla.edu/questions" target="_blank">research consultation at a UCLA Library</a>.</p>
+      </div>
+    </li>
+  </ul>
