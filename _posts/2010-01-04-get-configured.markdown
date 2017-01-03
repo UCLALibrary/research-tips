@@ -7,9 +7,9 @@ category: get-configured
 # image: featuredimagehere
 ---
 
-<p class="intro"><span class="dropcap">S</span>et up your computer to access library resources from off-campus.</p>
+<p class="intro">Set up your computer to access library resources from off-campus.</p>
 
-The Library's online subscription resources (databases, electronic journals, or e-books) can always be accessed from computers and wireless networks on campus. However, to access these resources from off-campus, you will need to set up your computer with either *proxy* or *VPN*. Don't worry, it is easy, and both the library and the staff at Bruin OnLine can help.
+<p class="flow-text">The Library's online subscription resources (databases, electronic journals, or e-books) can always be accessed from computers and wireless networks on campus. However, to access these resources from off-campus, you will need to set up your computer with either *proxy* or *VPN*. Don't worry, it is easy, and both the library and the staff at Bruin OnLine can help.</p>
 
 
 ### Give it a try:

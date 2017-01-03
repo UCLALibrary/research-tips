@@ -12,15 +12,15 @@ category: search-experimentally
 
 ### Give it a try:
 
-Find one or more <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> related to your project. Choose a few databases and search tools and start exploring.
+<p class="flow-text">Find one or more <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> related to your project. Choose a few databases and search tools and start exploring.</p>
 
-Turn your notes, ideas, and questions about your topic into keywords for search. If the database you are using has an "advanced search" use it! Advanced search will allow you to experiment with using a variety of keyword synomyms to explore your topic. 
+<p class="flow-text">Turn your notes, ideas, and questions about your topic into keywords for search. If the database you are using has an "advanced search" use it! Advanced search will allow you to experiment with using a variety of keyword synomyms to explore your topic.</p> 
 
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/from-keywords-to-search-2.jpg' | prepend: site.baseurl }}" alt="Turn your notes and ideas on your topic into keywords for search" data-caption="Turn your notes and ideas on your topic into keywords for search."> 
 
 ### What's next?
 
-Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.
+<p class="flow-text">Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.</p>
 
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/database-filtering-tools.jpg' | prepend: site.baseurl }}" alt="Web of Science search filters" data-caption="Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results."> 
 

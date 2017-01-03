@@ -5,8 +5,8 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://dmcwo.github.io/research-tips/</link>
     <atom:link href="https://dmcwo.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Jan 2017 15:42:35 -0800</pubDate>
-    <lastBuildDate>Tue, 03 Jan 2017 15:42:35 -0800</lastBuildDate>
+    <pubDate>Tue, 03 Jan 2017 15:47:31 -0800</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2017 15:47:31 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -16,15 +16,15 @@
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
-&lt;p&gt;Find one or more &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; related to your project. Choose a few databases and search tools and start exploring.&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;Find one or more &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; related to your project. Choose a few databases and search tools and start exploring.&lt;/p&gt;
 
-&lt;p&gt;Turn your notes, ideas, and questions about your topic into keywords for search. If the database you are using has an “advanced search” use it! Advanced search will allow you to experiment with using a variety of keyword synomyms to explore your topic.&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;Turn your notes, ideas, and questions about your topic into keywords for search. If the database you are using has an &quot;advanced search&quot; use it! Advanced search will allow you to experiment with using a variety of keyword synomyms to explore your topic.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/from-keywords-to-search-2.jpg&quot; alt=&quot;Turn your notes and ideas on your topic into keywords for search&quot; data-caption=&quot;Turn your notes and ideas on your topic into keywords for search.&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h3&gt;
 
-&lt;p&gt;Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/database-filtering-tools.jpg&quot; alt=&quot;Web of Science search filters&quot; data-caption=&quot;Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results.&quot; /&gt;&lt;/p&gt;
 
@@ -70,9 +70,9 @@
       
       <item>
         <title>Get configured</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;S&lt;/span&gt;et up your computer to access library resources from off-campus.&lt;/p&gt;
+        <description>&lt;p class=&quot;intro&quot;&gt;Set up your computer to access library resources from off-campus.&lt;/p&gt;
 
-&lt;p&gt;The Library’s online subscription resources (databases, electronic journals, or e-books) can always be accessed from computers and wireless networks on campus. However, to access these resources from off-campus, you will need to set up your computer with either &lt;em&gt;proxy&lt;/em&gt; or &lt;em&gt;VPN&lt;/em&gt;. Don’t worry, it is easy, and both the library and the staff at Bruin OnLine can help.&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;The Library's online subscription resources (databases, electronic journals, or e-books) can always be accessed from computers and wireless networks on campus. However, to access these resources from off-campus, you will need to set up your computer with either *proxy* or *VPN*. Don't worry, it is easy, and both the library and the staff at Bruin OnLine can help.&lt;/p&gt;
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
@@ -88,7 +88,7 @@
   &lt;/ul&gt;
 </description>
         
-          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;S&lt;/span&gt;et up your computer to access library resources from off-campus.&lt;/p&gt;
+          <description>&lt;p class=&quot;intro&quot;&gt;Set up your computer to access library resources from off-campus.&lt;/p&gt;
 
 </description>
         
@@ -109,7 +109,7 @@
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
-&lt;p&gt;Visit &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;http://guides.library.ucla.edu&lt;/a&gt; to find one or more research guides related to your topic or course. Then, visit the “articles” tab on the guides and choose the databases you would like to use to explore your topic.&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;Visit &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;http://guides.library.ucla.edu&lt;/a&gt; to find one or more research guides related to your topic or course. Then, visit the &quot;articles&quot; tab on the guides and choose the databases you would like to use to explore your topic.&lt;/p&gt;
 
 &lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
 
@@ -155,7 +155,7 @@
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
-&lt;p&gt;First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.&lt;/p&gt;
 
 &lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
 
@@ -199,7 +199,7 @@
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
-&lt;p&gt;Before you search, start by brainstorming a list questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;Before you search, start by brainstorming a list questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!&lt;/p&gt;
 
 &lt;h3 id=&quot;tips&quot;&gt;Tips&lt;/h3&gt;
 

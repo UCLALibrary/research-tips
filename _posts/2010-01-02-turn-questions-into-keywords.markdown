@@ -14,7 +14,7 @@ category: turn-questions-into-keywords
 
 ### Give it a try:
 
-First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.
+<p class="flow-text">First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.</p>
 
 ### Tips:
 

@@ -12,7 +12,7 @@ category: find-the-guides
 
 ### Give it a try:
 
-Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.library.ucla.edu</a> to find one or more research guides related to your topic or course. Then, visit the "articles" tab on the guides and choose the databases you would like to use to explore your topic.
+<p class="flow-text">Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.library.ucla.edu</a> to find one or more research guides related to your topic or course. Then, visit the "articles" tab on the guides and choose the databases you would like to use to explore your topic.</p>
 
 ### Tips:
 
