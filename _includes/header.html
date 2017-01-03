@@ -7,7 +7,7 @@
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
-            <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li><a label="{{ link.title }}" href="{{ domain }}{{ link.url }}"><i class="material-icons">{{ link.icon }}</i></a></li>
           {% endfor %}
          </ul>
         {% include side-nav.html %}
