@@ -4196,7 +4196,7 @@ nav .input-field label.active {
   position: fixed;
 }
 
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 600px) {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
     height: 64px;
     line-height: 64px;

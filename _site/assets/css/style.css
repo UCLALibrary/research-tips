@@ -44,10 +44,51 @@ samp {
     font-size: 1em
 }
 
-/* i don't think i'm using this */
+/* i don't think i'm using this - there is something better in materialize, i think */
 
 .videocontainer {
     width: 70%;
     margin: auto;
 }
 
+/* heading improvements? */
+
+.postTitle {
+    font-size: 2em;
+    font-weight: 700;
+    /* font-variant: small-caps; */
+}
+
+
+
+/* attempt to fix nav container dissappearing and displaying weird site title at small screen width */
+
+@media only screen and (max-width: 599px) {
+  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 30px;
+    line-height: 30px;
+  }
+  .navbar-fixed {
+    height: 30px;
+  }
+  #logo-container {
+        /* display: none; */
+        font-size: 1em;
+    }
+    .postTitle {
+        font-size: 1.25em;
+    }
+}
+
+@media only screen and (max-width: 319px) {
+  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 30px;
+    line-height: 30px;
+  }
+  .navbar-fixed {
+    height: 30px;
+  }
+  #logo-container {
+         display: none; /* drop the site title at very small screen widths, but leave hamburger menu */
+    }
+}

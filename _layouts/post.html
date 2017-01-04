@@ -46,7 +46,7 @@ layout: default
 
     {% if page.next.url %}  
         <!-- Card 2 -->
-            <div class="col s6">
+            <div class="col s6"> <!-- offset-s6 should have worked -->
           <div class="card hoverable">
               <a href="{{ page.next.url | prepend: site.baseurl }}">
               <div class="card-content" style="text-align: right;">
