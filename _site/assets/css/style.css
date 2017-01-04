@@ -92,3 +92,18 @@ samp {
          display: none; /* drop the site title at very small screen widths, but leave hamburger menu */
     }
 }
+
+
+#embedded {
+    background-color: #3C3F41; padding: 10px;
+}
+
+.embeddtainer {
+    border-radius: 10px; background-color: white; padding-top: 25px; padding-bottom: 25px; padding-left: 50px; padding-right: 50px;
+}
+
+
+@media only screen and (max-width: 599px) {
+    #embedded {padding: 0px;}
+    .embeddtainer {padding-left: 15px; padding-right: 15px;}
+    }
