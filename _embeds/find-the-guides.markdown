@@ -1,6 +1,6 @@
 ---
 layout: embed
-title:  "Find the Right Research Guides for your Project"
+title:  "Find the Right Research Guides"
 date:   2010-01-03
 ---
 
