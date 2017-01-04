@@ -1,6 +1,4 @@
-![preview Research Tips](https://www.evernote.com/l/AN_3mKCvJsVMw5mJfFxDesLP4IO3n5lxsxYB/image.png)
-
-Research tips and strategies is an experiment in making research and writing tips as embeddable as YouTube videos.
+> Research tips and strategies is an experiment in making research and writing tips as embeddable as YouTube videos.
 
 ## Features
 
@@ -12,3 +10,5 @@ Research tips and strategies is an experiment in making research and writing tip
 ## License
 
 CC - [Attribution-NonCommercial-ShareAlike 4.0 International CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![preview Research Tips](https://www.evernote.com/l/AN_3mKCvJsVMw5mJfFxDesLP4IO3n5lxsxYB/image.png)
