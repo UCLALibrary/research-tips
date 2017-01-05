@@ -17,9 +17,13 @@ layout: default
           <a href="{{ post.url | prepend: site.baseurl }}">
             Read More
           </a>
-          <a href="#modal-{{ post.category}}">
-            &lt; Embed &gt;
+          <a class="rightaction" href="#modal-{{ post.category}}" aria-label="Embed code">
+            <i class="fa fa-code" aria-hidden="true"></i>
+              <!-- &lt; Embed &gt; -->
           </a>
+            <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a class="rightaction" href="https://facebook.com/sharer.php?u={{site.url}}{{ site.baseurl }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" aria-label="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <!-- ty: https://superdevresources.com/share-buttons-jekyll/ -->
         </div>
       </div>
     </div>
