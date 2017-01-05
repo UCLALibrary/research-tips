@@ -51,6 +51,14 @@ samp {
     margin: auto;
 }
 
+
+/* Card customization */
+
+.card-action .rightaction {
+    float: right;
+}
+
+
 /* heading improvements? */
 
 .postTitle {
