@@ -12,7 +12,7 @@ category: questions
 
 ### Give it a try:
 
-<p class="flow-text">Before you search, start by brainstorming a list questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!</p>
+<p class="flow-text">Before you search, start by brainstorming a list of questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!</p>
 
 ### Tips
 
