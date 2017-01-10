@@ -3300,6 +3300,7 @@ nav ul a span.badge {
   text-align: right;
 }
 
+/* custom navigate-left fix */
 /* this was messing with the left nav button */
 /*
 .center, .center-align {
