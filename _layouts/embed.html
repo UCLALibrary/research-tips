@@ -1,26 +1,80 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-
-{% include head.html %}
-
-<body id="embedded">
+<html>
     
-<div class="embeddtainer">
-<div class="post">
-  {% if page.image %}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
-      </div>
-  {% endif %}
-  <!--<h1 class="postTitle">{{ page.title }}</h1>-->
-  <!-- <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p> -->    
-  {{ content }}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Start with Questions</title>
+    <!--Fonts, Styles, etc-->
+    <!--Import Google Fonts, Icons-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300|PT+Serif" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
+    <!--Font Awesome-->
+    <script src="https://use.fontawesome.com/c7408e4f19.js"></script>
+    <!-- Materialize Stylesheets -->
+    <link rel="stylesheet" href="{{ "/assets/reveal/css/materialize4reveal.css"  | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+    <!--[if IE 8]><link rel="stylesheet" href="../assets/css/ie.css"><![endif]-->
+    <!-- Reveal.js Stylesheets -->
+    <link rel="stylesheet" href="{{ "/assets/reveal/css/reveal.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/reveal/css/theme/simple.css" | prepend: site.baseurl }}">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="{{ "/assets/reveal/lib/css/zenburn.css" | prepend: site.baseurl }}">
+    <!-- Custom reveal css -->
+    <link rel="stylesheet" href="{{ "/assets/reveal/css/custom.css" | prepend: site.baseurl }}">
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? '{{ "/assets/reveal/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/assets/reveal/css/print/paper.css" | prepend: site.baseurl }}';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+</head>
 
-</div>
+<body id="embeds-slide">
+    <div class="reveal">
+        <div class="slides">
+            <!-- Begin Content -->
+            {{ content }}
+            <!-- End Content -->
+        </div>
     </div>
-    {% include footer-embed.html %}
-    {% include scripts.html %}    
+    <script src="{{ "/assets/reveal/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/reveal/js/reveal.js" | prepend: site.baseurl }}"></script>
+    <script>
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            history: true, // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                {
+                    src: '{{ "/assets/reveal/plugin/markdown/marked.js" | prepend: site.baseurl }}'
+                }
+                , {
+                    src: '{{ "/assets/reveal/plugin/markdown/markdown.js" | prepend: site.baseurl }}'
+                }
+                , {
+                    src: '{{ "/assets/reveal/plugin/notes/notes.js" | prepend: site.baseurl }}'
+                    , async: true
+                }
+                , {
+                    src: '{{ "/assets/reveal/plugin/highlight/highlight.js" | prepend: site.baseurl }}'
+                    , async: true
+                    , callback: function () {
+                        hljs.initHighlightingOnLoad();
+                    }
+                }
+				]
+        });
+    </script>
+    <!-- Materialize Scripts -->
+    <!--Materialize-->
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <!-- Two of these? Earlier version above. Problem? -->
+    <script type="text/javascript" src="{{ "/assets/js/materialize.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/assets/js/materialize-readies.js" | prepend: site.baseurl }}"></script>
 </body>
+
+</html>
