@@ -1,49 +1,67 @@
 ---
-layout: compress
+layout: default
 ---
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
-<head>
-    {% include head.html %}
-</head>
-<body>
-    {% include nav.html %}
-    <!-- Header -->
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
-                    {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    {% endif %}
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
-                </div>
-                {{ content }}
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
+{% if page.image %}
+    <div class="featuredImage">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+      </div>
+  {% endif %}
+
+<h1 class="postTitle">{{ page.title }}</h1>
+  <!-- <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p> -->
+{{ content }}
+
+{% include embed-and-share.html %}
+
+
+<!-- *** -->
+<!-- POST NAVIGATION with cards-->
+<!-- *** -->
+
+<hr>
+
+<div class="row">
+    {% if page.previous.url %}
+    <!-- Card 1 -->
+        <div class="col s6">
+          <div class="card hoverable">
+            <a href="{{ page.previous.url | prepend: site.baseurl }}">
+                <div class="card-content">
+              <!--<span class="card-title waves-effect"><a href="{{ page.previous.url | prepend: site.baseurl }}"><i class="material-icons">chevron_left</i>&nbsp;{{ page.previous.title }}</a></span>-->
+                <i class="material-icons">chevron_left</i>&nbsp;{{ page.previous.title }}
+              <!--<p>I am a very simple card. I am good at containing small bits of information.
+              I am convenient because I require little markup to use effectively.</p>-->
             </div>
+                </a>
+            <!--
+            <div class="card-action">
+              <a href="#">This is a link</a>
+              <a href="#">This is a link</a>
+            </div>
+            -->
+          </div>
         </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
-    </header>
-    {% include scripts.html %}
-    {% if site.mathjax == true %}
-    <!-- MathJax -->
-    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
-</body>
-</html>
+    
+
+    {% if page.next.url %}  
+        <!-- Card 2 -->
+            <div class="col s6"> <!-- offset-s6 should have worked -->
+          <div class="card hoverable">
+              <a href="{{ page.next.url | prepend: site.baseurl }}">
+              <div class="card-content" style="text-align: right;">
+              <!--<span class="card-title waves-effect"><a href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}&nbsp;<i class="material-icons">chevron_right</i></a></span>-->
+                  {{ page.next.title }}&nbsp;<i class="material-icons">chevron_right</i>
+            </div>
+            </a>
+            <!--
+            <div class="card-action">
+              <a href="#">This is a link</a>
+              <a href="#">This is a link</a>
+            </div>
+            -->
+          </div>
+        </div>
+    {% endif %}
+    
+</div>

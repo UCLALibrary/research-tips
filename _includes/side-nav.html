@@ -1,0 +1,19 @@
+<ul id="slide-out" class="side-nav">
+<li><div class="divider"></div></li>
+    
+{% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+            {% else %}
+              {% assign domain = site.url | append: site.baseurl %}
+            {% endif %}
+            <li><a href="{{ domain }}{{ link.url }}"><i class="material-icons">{{ link.icon }}</i>{{ link.title }}</a></li>
+{% endfor %}
+    
+    <li><div class="divider"></div></li>
+    <li><a class="subheader">Research Tips</a></li>    
+    {% for post in site.posts reversed %}
+    <li class="truncate waves-effect"><a href="{{ post.url | prepend: site.baseurl }}"><i class="material-icons">keyboard_arrow_right</i> {{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+<a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a> 
