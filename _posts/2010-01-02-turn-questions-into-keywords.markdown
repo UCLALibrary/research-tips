@@ -21,7 +21,7 @@ category: turn-questions-into-keywords
 <ul class="collapsible" data-collapsible="expandable">
     <li>
       <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Watch this quick video on crafting a savvy search strategy for more ideas on generating keywords for search:</div>
-      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/bgnGGK_21sE?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></li></div>
+      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/bgnGGK_21sE?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons">chat</i>Get expert advice:</div>
