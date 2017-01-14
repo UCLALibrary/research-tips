@@ -76,6 +76,12 @@
     <script type="text/javascript" src="{{ "/assets/js/materialize.js" | prepend: site.baseurl }}"></script>
     <script type="text/javascript" src="{{ "/assets/js/materialize-readies.js" | prepend: site.baseurl }}"></script>
     
+    {% if page.specialjsfeatures == true %}
+
+    <script type="text/javascript" src="{{ "/assets/js/materialize-special-readies.js" | prepend: site.baseurl }}"></script>
+
+    {% endif %}
+    
 <!--Google Analytics -->
 
 <script>
