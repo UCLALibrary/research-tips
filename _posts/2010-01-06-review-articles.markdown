@@ -21,19 +21,20 @@ category: review articles
 
 <p class="flow-text">Unlike typical research articles, review articles do not present any original primary research. For that reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
 
-### Tips
-
+### How do I Find a Review Articles? 
+<p>Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
+</p>
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Need help generating questions? Check out our quick video tutorial on developing a research question:</div>
+      <div class="collapsible-header">For Web of Science you simply type in your search terms and once the results pop up you can select “REVIEW” under the “Document Types” tab on the left side of the page. Then click refine to see only the results that are considered review articles. </div>
       <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Want to see some examples of undergraduate research projects at UCLA? <em>From the lab to the studio</em> shows how UCLA students are exploring their passions in their research:</div>
-      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
+      <div class="collapsible-header">For Google Scholar you simply add the term “review” or “review article” at the end of your search terms. Just be careful to check that your results is really a review article by making sure there is no “methods” or “results” sections. 
+</div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help developing your ideas:</div>
+      <div class="collapsible-header">Review Journals?</div>
       <div class="collapsible-body">
         <p>Ask a librarian <a href="http://library.ucla.edu/questions" target="_blank">24/7 chat service</a>.</p>
           <p>Set up a <a href="http://library.ucla.edu/questions" target="_blank">research consultation at a UCLA Library</a>.</p>
