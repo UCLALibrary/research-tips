@@ -27,5 +27,6 @@ category: review articles
 </li>
    <li>For Google Scholar you simply add the term “review” or “review article” at the end of your search terms. Just be careful to check that your results is really a review article by making sure there is no “methods” or “results” sections. 
    </li>
-<li>Review Journals?</li>
+   <li>Review Journals?
+   </li>
 </ul>
