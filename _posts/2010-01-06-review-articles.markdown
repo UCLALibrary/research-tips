@@ -6,13 +6,20 @@ description: Before you search, start by brainstorming a list questions.
 category: review articles
 ---
 
-<p class="intro"><span class="dropcap">Q</span>uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
+### What is a Review Article and How Can I Use it?
+
+<p class="intro"><span class="dropcap">I</span>f you’re looking for an efficient way to get an overview of a body of research on your topic, a review article is a great place to start. 
+</p>
+<p>A review article summarizes the state of research in a specific field and analyzes connections, possible disagreements, and gaps between a range of sources within the field. You can use a review article to get a better understanding of the current state of research on a topic, to identify unanswered research questions, or to find relevant sources. A review article’s bibliography is a fantastic starting point for finding and organizing sources. 
+</p>
+<p>Reading a review article will save you time and might ultimately give you a more well-rounded and coherent understanding of your topic. 
+.</p>
 
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/question-map-examples.jpg' | prepend: site.baseurl }}" alt="Example question maps" data-caption="Example question maps"> 
 
-### Give it a try:
+### Heads Up:
 
-<p class="flow-text">Before you search, start by brainstorming a list of questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!</p>
+<p class="flow-text">Unlike typical research articles, review articles do not present any original primary research. For that reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
 
 ### Tips
 
