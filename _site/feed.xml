@@ -5,9 +5,52 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://dmcwo.github.io/research-tips/</link>
     <atom:link href="https://dmcwo.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2017 15:58:21 -0800</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2017 15:58:21 -0800</lastBuildDate>
+    <pubDate>Sat, 21 Jan 2017 21:22:13 -0800</pubDate>
+    <lastBuildDate>Sat, 21 Jan 2017 21:22:13 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      
+      <item>
+        <title>Find and Use Review Articles</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;f you’re looking for an efficient way to get an overview of a body of research on your topic, a review article is a great place to start. 
+&lt;/p&gt;
+&lt;p&gt;A review article summarizes the state of research in a specific field and analyzes connections, possible disagreements, and gaps between a range of sources within the field. You can use a review article to get a better understanding of the current state of research on a topic, to identify unanswered research questions, or to find relevant sources. A review article’s bibliography is a fantastic starting point for finding and organizing sources. 
+&lt;/p&gt;
+&lt;p&gt;Reading a review article will save you time and might ultimately give you a more well-rounded and coherent understanding of your topic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/question-map-examples.jpg&quot; alt=&quot;Example question maps&quot; data-caption=&quot;Example question maps&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;heads-up&quot;&gt;Heads Up:&lt;/h3&gt;
+
+&lt;p class=&quot;flow-text&quot;&gt;Unlike typical research articles, review articles do not present any original primary research. For that reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-i-find-a-review-articles&quot;&gt;How do I Find a Review Articles?&lt;/h3&gt;
+&lt;p&gt;Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
+&lt;/p&gt;
+&lt;p&gt;*For Web of Science you simply type in your search terms and once the results pop up you can select “REVIEW” under the “Document Types” tab on the left side of the page. Then click refine to see only the results that are considered review articles.&lt;/p&gt;
+
+&lt;p&gt;*For Google Scholar you simply add the term “review” or “review article” at the end of your search terms. Just be careful to check that your results is really a review article by making sure there is no “methods” or “results” sections.&lt;/p&gt;
+
+&lt;p&gt;*Review Journals?&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;f you’re looking for an efficient way to get an overview of a body of research on your topic, a review article is a great place to start. 
+&lt;/p&gt;
+&lt;p&gt;A review article summarizes the state of research in a specific field and analyzes connections, possible disagreements, and gaps between a range of sources within the field. You can use a review article to get a better understanding of the current state of research on a topic, to identify unanswered research questions, or to find relevant sources. A review article’s bibliography is a fantastic starting point for finding and organizing sources. 
+&lt;/p&gt;
+&lt;p&gt;Reading a review article will save you time and might ultimately give you a more well-rounded and coherent understanding of your topic.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 06 Jan 2010 00:00:00 -0800</pubDate>
+        <link>https://dmcwo.github.io/research-tips/review-articles/</link>
+        <guid isPermaLink="true">https://dmcwo.github.io/research-tips/review-articles/</guid>
+        
+        
+        <category>review articles</category>
+        
+      </item>
+      
     
       
       <item>
@@ -229,6 +272,10 @@
         <pubDate>Fri, 01 Jan 2010 00:00:00 -0800</pubDate>
         <link>https://dmcwo.github.io/research-tips/questions/</link>
         <guid isPermaLink="true">https://dmcwo.github.io/research-tips/questions/</guid>
+        
+        <category>getting started</category>
+        
+        <category>research questions</category>
         
         
         <category>questions</category>
