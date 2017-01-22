@@ -4,6 +4,9 @@ title:  "Start with your Questions"
 date:   2010-01-01
 description: Before you search, start by brainstorming a list questions.
 category: questions
+tags:
+- getting started
+- research questions
 ---
 
 <p class="intro"><span class="dropcap">Q</span>uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
