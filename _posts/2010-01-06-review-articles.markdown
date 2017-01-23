@@ -21,9 +21,9 @@ category: review articles
 ### How do I Find a Review Articles? 
 <p>Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
 </p>
-<ul class="browser-default"><li>For Web of Science you simply type in your search terms and once the results pop up you can select “REVIEW” under the “Document Types” tab on the left side of the page. Then click refine to see only the results that are considered review articles. 
+<ul class="browser-default"><li>For <b>Web of Science</b> you simply type in your search terms and once the results pop up you can select “REVIEW” under the “Document Types” tab on the left side of the page. Then click refine to see only the results that are considered review articles. 
 </li>
-<li>For Google Scholar you simply add the term “review” or “review article” at the end of your search terms. Just be careful to check that your results is really a review article by making sure there is no “methods” or “results” sections. 
+<li>For <b>Google Scholar</b> you simply add the term “review” or “review article” at the end of your search terms. Just be careful to check that your results is really a review article by making sure there is no “methods” or “results” sections. 
 </li>
 <li>Review Journals?
 </li>
