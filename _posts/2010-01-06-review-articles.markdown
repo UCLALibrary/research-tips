@@ -17,7 +17,7 @@ category: review articles
 
 ### Heads Up:
 
-<p class="flow-text">Unlike typical research articles, review articles do not present any original primary research. For that reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
+<p>Unlike typical research articles, review articles do not present any original primary research. For that reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
 
 ### How do I Find a Review Articles? 
 <p>Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
