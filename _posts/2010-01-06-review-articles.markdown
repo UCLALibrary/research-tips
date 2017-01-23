@@ -12,7 +12,7 @@ category: review articles
 </p>
 <p>Reading a review article will save you time and might ultimately give you a more well-rounded and coherent understanding of your topic.</p>
 
-<img class="responsive-img materialboxed" src="{{ 'research tips/assets/img/content/Screen Shot 2017-01-23 at 12.29.27 PM.png
+<img class="responsive-img materialboxed" src="{{ 'research-tips/assets/img/content/Screen Shot 2017-01-23 at 12.29.27 PM.png
 888160c' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
 
 ### Heads Up:
