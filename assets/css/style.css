@@ -123,3 +123,16 @@ samp {
     #embedded {padding: 5px;}
     .embeddtainer {padding-left: 15px; padding-right: 15px;}
     }
+
+
+
+/* css ul fix? */
+ul.browser-default {
+  padding-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+ul.browser-default li {
+  list-style-type: initial;
+}
+/* end *.
