@@ -67,6 +67,33 @@ samp {
     /* font-variant: small-caps; */
 }
 
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2.6rem;
+    margin-top: 40px;
+}
+
+h4 {
+    font-size: 2rem;
+}
+
+h5 {
+    font-size: 1.5rem;
+    font-variant: small-caps;
+}
+
+h6 {
+    font-size: 1.25rem;
+    font-variant: small-caps;
+}
+
 
 
 /* attempt to fix nav container dissappearing and displaying weird site title at small screen width */
