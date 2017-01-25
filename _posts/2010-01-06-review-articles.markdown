@@ -103,8 +103,8 @@ Finding a review article is relatively simple, though it varies slightly dependi
     </td>
     </tr>
     <tr>
-        <td><img class="responsive-img materialboxed imagestep" src="http://placehold.it/400x300?text=placeholder+for+sample+abstract" alt="placeholder image"></td>
-        <td><img class="responsive-img materialboxed imagestep" src="http://placehold.it/400x300?text=placeholder+for+sample+abstract" alt="placeholder image"></td>
+        <td><img class="/assets/img/content/review_example.png" alt="placeholder image"></td>
+        <td><img class="responsive-img materialboxed imagestep" src="/assets/img/content/research_example.png" alt="placeholder image"></td>
     </tr>
 </table>
 
