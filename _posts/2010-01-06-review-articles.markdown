@@ -2,7 +2,7 @@
 layout: post
 title:  "Find and Use Review Articles"
 date:   2010-01-06
-description: Before you search, start by brainstorming a list questions.
+description: Review articles give you an efficient way to get an overview of a body of research on your topic.
 category: review articles
 ---
 
