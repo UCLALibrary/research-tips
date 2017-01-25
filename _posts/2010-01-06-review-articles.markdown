@@ -21,10 +21,51 @@ category: review articles
 ### How do I Find a Review Articles? 
 <p>Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
 </p>
-<ul class="browser-default"><li>For <b>Web of Science</b> you simply type in your search terms and once the results pop up you can select “REVIEW” under the “Document Types” tab on the left side of the page. Then click refine to see only the results that are considered review articles. 
-</li>
-<li>For <b>Google Scholar</b> you simply add the term “review” or “review article” at the end of your search terms. Just be careful to check that your results is really a review article by making sure there is no “methods” or “results” sections. 
-</li>
-<li>Review Journals?
-</li>
-</ul>
+
+<div class="row z-depth-2 hoverable blue lighten-5">
+    <div class="col s12">
+        <h4>Web of Science</h4>
+        For <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong> you simply type in your search terms and once the results pop up you can select “REVIEW” under the “Document Types” tab on the left side of the page. Then click "Refine" to see only the results classified as review articles.
+    </div>
+    <div class="col s4">
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-search-wastewater.png' | prepend: site.baseurl }}" alt="Create a search in Web of Science" data-caption="Start by searching Web of Science using keywords on your topic.">
+       <h5>Start with a search in Web of Science.</h5>
+    </div>
+    <div class="col s4">
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles." data-caption="On the left side of the screen, look for the Document Types filter. Under Document Types click the checkbox next to Review and then click Refine.">
+       <h5>Under "Document Types" click the checkbox next to "Review" and then click "Refine."</h5>
+    </div>
+    <div class="col s4">
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review-results.png' | prepend: site.baseurl }}" alt="Search results containing review articles" data-caption="Now your search results should be a list of review articles. Note that you can sort your results by Times Cited and filter your results by discipline.">
+       <h5>You have found a list of review articles! Note that you can continue to sort and filter your results.</h5>
+    </div>
+</div>
+
+
+<div class="row z-depth-2 hoverable blue lighten-5">
+    <div class="col s12">
+        <h4>Google Scholar</h4> 
+    </div>
+    <div class="col s4">
+        <img class="responsive-img materialboxed imagestep" src="http://placehold.it/600x400" alt="placeholder image">
+    </div>
+    <div class="col s8">
+        <h5>In google scholar add <em>review</em>, <em>"literature review"</em>, or <em>review article</em> to your search terms.</h5>
+        <p>Be sure to check that your results really are review articles by making sure there is no “methods” or “results” sections.</p>
+    </div>
+</div>
+
+
+<div class="row z-depth-2 hoverable blue lighten-5">
+    <div class="col s12">
+        <h4>UCLA Library Journal Search</h4>
+    </div>
+    <div class="col s4">
+        <img class="responsive-img materialboxed imagestep" src="http://placehold.it/600x400" alt="placeholder image">
+    </div>
+    <div class="col s8">
+       <h5>From the <a href="http://library.ucla.edu" target="_blank">UCLA Library homepage</a>, click the "Journals" tab.</h5>
+       <h5>Search for your discipline or subject area, and <em>Review</em> (e.g., <em>Sociology Review</em> or <em>Psychology Review</em>)</h5>
+       <h5>Be sure to change the drop-down menu to "Contains"</h5>
+    </div>
+</div>
