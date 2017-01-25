@@ -8,7 +8,7 @@ category: review articles
 
 <p class="intro"><span class="dropcap">I</span>f you’re looking for an efficient way to get an overview of a body of research on your topic, a review article is a great place to start. 
 </p>
-<p>A review article summarizes the state of research in a specific area, describing connections and disagreements between researchers, and pointing out gaps in knowledge and directions for future research. You can use a review article to get a better understanding of the existing research on a topic, to identify unanswered research questions, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. 
+<p>A review article summarizes the state of research in a specific area, describes connections and disagreements between researchers, points out gaps in knowledge, and suggests directions for future research. You can use a review article to get a better understanding of the existing research on a topic, to identify unanswered research questions, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. 
 </p>
 <p>Reading a review article will save you time and might ultimately give you a more well-rounded and coherent understanding of your topic.</p>
 
