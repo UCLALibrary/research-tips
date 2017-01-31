@@ -5,8 +5,8 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://dmcwo.github.io/research-tips/</link>
     <atom:link href="https://dmcwo.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jan 2017 12:10:08 -0800</pubDate>
-    <lastBuildDate>Wed, 25 Jan 2017 12:10:08 -0800</lastBuildDate>
+    <pubDate>Tue, 31 Jan 2017 13:41:47 -0800</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 13:41:47 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -87,18 +87,19 @@
 
 &lt;table&gt;
     &lt;tr&gt;
-    &lt;th&gt;In primary research articles:&lt;/th&gt;
-    &lt;th&gt;In review articles:&lt;/th&gt;
+    &lt;th&gt;&lt;h4&gt;In primary research articles:&lt;/h4&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;h4&gt;In review articles:&lt;/h4&gt;&lt;/th&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-    &lt;td&gt;
+    &lt;td valign=&quot;top&quot;&gt;
         &lt;ul class=&quot;browser-default&quot;&gt;
             &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
             &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
-            &lt;li&gt;the focus is often narrower, investingating specific research questions.&lt;/li&gt;
+            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
+            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/td&gt;
-    &lt;td&gt;
+    &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
         &lt;ul class=&quot;browser-default&quot;&gt;
             &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
             &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
@@ -107,8 +108,22 @@
     &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td&gt;&lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;http://placehold.it/400x300?text=placeholder+for+sample+abstract&quot; alt=&quot;placeholder image&quot; /&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;http://placehold.it/400x300?text=placeholder+for+sample+abstract&quot; alt=&quot;placeholder image&quot; /&gt;&lt;/td&gt;
+        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
+        &lt;h5&gt;Primary research article abstract&lt;/h5&gt;
+        &lt;/td&gt;
+        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
+        &lt;h5&gt;Review article abstract&lt;/h5&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp;amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
+        &lt;/td&gt;
+        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp;amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
+        &lt;/td&gt;
     &lt;/tr&gt;
 &lt;/table&gt;
 

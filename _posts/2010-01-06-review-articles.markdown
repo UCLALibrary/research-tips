@@ -82,11 +82,11 @@ Finding a review article is relatively simple, though it varies slightly dependi
 
 <table>
     <tr>
-    <th>In primary research articles:</th>
-    <th>In review articles:</th>
+    <th><h4>In primary research articles:</h4></th>
+    <th><h4>In review articles:</h4></th>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
         <ul class="browser-default">
             <li>the abstracts often talk about performing a study, or conducting an investigation;</li>
             <li>the articles often contain a methods section or describe how the original research was performed;</li>
@@ -94,7 +94,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
             <li>while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.</li>
         </ul>
     </td>
-    <td>
+    <td valign="top" style="vertical-align: top;">
         <ul class="browser-default">
             <li>the abstracts often talk about summarizing existing evidence;</li>
             <li>the articles often do not include a methods section;</li>
@@ -103,8 +103,22 @@ Finding a review article is relatively simple, though it varies slightly dependi
     </td>
     </tr>
     <tr>
-        <td><img class="/assets/img/content/review_example.png" alt="placeholder image"></td>
-        <td><img class="responsive-img materialboxed imagestep" src="/assets/img/content/research_example.png" alt="placeholder image"></td>
+        <td  valign="top" style="vertical-align: top;" >
+        <h5>Primary research article abstract</h5>
+        </td>
+        <td  valign="top" style="vertical-align: top;" >
+        <h5>Review article abstract</h5>
+        </td>
+    </tr>
+    <tr>
+        <td  valign="top" style="vertical-align: top;">
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-primary-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., & Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.</p>
+        </td>
+        <td valign="top" style="vertical-align: top;">
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-review-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Tottenham, N., & Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.</p>
+        </td>
     </tr>
 </table>
 
