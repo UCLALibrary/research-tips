@@ -6,7 +6,7 @@ description: Review articles give you an efficient way to get an overview of a b
 category: review articles
 ---
 
-<p class="intro"><span class="dropcap">L</span>ooking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
+<p class="intro">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
 </p>
 <p>A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
 

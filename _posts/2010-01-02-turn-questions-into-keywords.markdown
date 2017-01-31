@@ -7,7 +7,7 @@ category: turn-questions-into-keywords
 # image: featuredimagehere
 ---
 
-<p class="intro"><span class="dropcap">D</span>evelop your questions into keywords before you search. Try thinking about your topic from a variety of perspectives to generate a big list of keywords for each core concept.</p>
+<p class="intro">Develop your questions into keywords before you search. Try thinking about your topic from a variety of perspectives to generate a big list of keywords for each core concept.</p>
 
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?" data-caption="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> 
 

@@ -7,7 +7,7 @@ category: search-experimentally
 # image: featuredimagehere
 ---
 
-<p class="intro"><span class="dropcap">R</span>ather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.</p>
+<p class="intro">Rather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.</p>
 
 
 ### Give it a try:

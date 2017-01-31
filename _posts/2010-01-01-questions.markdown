@@ -9,7 +9,7 @@ tags:
 - research questions
 ---
 
-<p class="intro"><span class="dropcap">Q</span>uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
+<p class="intro">Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
 
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/question-map-examples.jpg' | prepend: site.baseurl }}" alt="Example question maps" data-caption="Example question maps"> 
 
