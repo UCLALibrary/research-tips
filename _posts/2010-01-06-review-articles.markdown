@@ -116,7 +116,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
         </div>
         <div class="col s12">
             <h6>Example abstract:</h6>
-            <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/review_example.png' | prepend: site.baseurl }}" alt="In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic." data-caption="The abstract for a primary research article discusses a study or investigation.">
+            <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-review-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic." data-caption="The abstract for a primary research article discusses a study or investigation.">
         <p style="font-size: small;">Tottenham, N., & Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.</p>
         </div>
     </div>
