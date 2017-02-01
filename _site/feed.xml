@@ -5,8 +5,8 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://dmcwo.github.io/research-tips/</link>
     <atom:link href="https://dmcwo.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jan 2017 13:47:36 -0800</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 13:47:36 -0800</lastBuildDate>
+    <pubDate>Tue, 31 Jan 2017 16:53:29 -0800</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 16:53:29 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -34,6 +34,8 @@
 &lt;h3 id=&quot;heads-up&quot;&gt;Heads Up:&lt;/h3&gt;
 
 &lt;p&gt;Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.&lt;/p&gt;
+
+&lt;p&gt;Also note that for most senior theses in the sciences, the proper place to cite a review article is in the first few paragraphs of your introduction.  By placing references to a review article in your early intro, you give your reader a place to go for more information if they are unfamiliar with your field.&lt;/p&gt;
 
 &lt;p&gt;Be sure to review the writing prompt and check with your instructor to be sure!&lt;/p&gt;
 
@@ -85,6 +87,76 @@
 
 &lt;h3&gt;How do I know if an article is a &lt;em&gt;Review Article&lt;/em&gt; or a &lt;em&gt;Primary Research Article?&lt;/em&gt;&lt;/h3&gt;
 
+&lt;div class=&quot;row z-depth-2&quot;&gt;
+    &lt;div class=&quot;col s12&quot;&gt;
+      &lt;ul class=&quot;tabs&quot;&gt;
+        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a class=&quot;active&quot; href=&quot;#primary&quot;&gt;Primary Research Articles&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a href=&quot;#review&quot;&gt;Review Articles&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div id=&quot;primary&quot; class=&quot;col s12&quot;&gt;
+        &lt;h4&gt;In primary research articles:&lt;/h4&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+            &lt;ul class=&quot;browser-default&quot;&gt;
+            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
+            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
+            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
+            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+        &lt;h6&gt;Example abstract:&lt;/h6&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp;amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&quot;review&quot; class=&quot;col s12&quot;&gt;
+        &lt;h4&gt;In review articles:&lt;/h4&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+            &lt;ul class=&quot;browser-default&quot;&gt;
+            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
+            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
+            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+            &lt;h6&gt;Example abstract:&lt;/h6&gt;
+            &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp;amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- grid approach
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 z-depth-2&quot;&gt;
+        &lt;h4&gt;In primary research articles:&lt;/h4&gt;
+        &lt;ul class=&quot;browser-default&quot;&gt;
+            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
+            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
+            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
+            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h5&gt;Primary research article - example abstract:&lt;/h5&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col m12 l6 z-depth-2&quot;&gt;
+        &lt;h4&gt;In review articles:&lt;/h4&gt;
+        &lt;ul class=&quot;browser-default&quot;&gt;
+            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
+            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
+            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+
+&lt;!-- this was the table approach
 &lt;table&gt;
     &lt;tr&gt;
     &lt;th&gt;&lt;h4&gt;In primary research articles:&lt;/h4&gt;&lt;/th&gt;
@@ -108,24 +180,26 @@
     &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
+        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot; &gt;
         &lt;h5&gt;Primary research article abstract&lt;/h5&gt;
         &lt;/td&gt;
-        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
+        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot; &gt;
         &lt;h5&gt;Review article abstract&lt;/h5&gt;
         &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp;amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
+        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
         &lt;/td&gt;
         &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp;amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
+        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
         &lt;/td&gt;
     &lt;/tr&gt;
 &lt;/table&gt;
+
+--&gt;
 
 </description>
         

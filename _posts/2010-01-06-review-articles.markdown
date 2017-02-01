@@ -29,6 +29,8 @@ category: review articles
 
 <p>Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
 
+<p>Also note that for most senior theses in the sciences, the proper place to cite a review article is in the first few paragraphs of your introduction.  By placing references to a review article in your early intro, you give your reader a place to go for more information if they are unfamiliar with your field.</p>
+
 <p>Be sure to review the writing prompt and check with your instructor to be sure!</p>
 
 ### How do I Find a Review Articles? 
@@ -80,6 +82,78 @@ Finding a review article is relatively simple, though it varies slightly dependi
 
 <h3>How do I know if an article is a <em>Review Article</em> or a <em>Primary Research Article?</em></h3>
 
+<div class="row z-depth-2">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s6"><a class="active" href="#primary">Primary Research Articles</a></li>
+        <li class="tab col s6"><a href="#review">Review Articles</a></li>
+      </ul>
+    </div>
+    <div id="primary" class="col s12">
+        <h4>In primary research articles:</h4>
+        <div class="col s12">
+            <ul class="browser-default">
+            <li>the abstracts often talk about performing a study, or conducting an investigation;</li>
+            <li>the articles often contain a methods section or describe how the original research was performed;</li>
+            <li>the focus is often narrower, investingating specific research questions;</li>
+            <li>while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.</li>
+        </ul>
+        </div>
+        <div class="col s12">
+        <h6>Example abstract:</h6>
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-primary-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., & Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.</p>
+        </div>
+    </div>
+    <div id="review" class="col s12">
+        <h4>In review articles:</h4>
+        <div class="col s12">
+            <ul class="browser-default">
+            <li>the abstracts often talk about summarizing existing evidence;</li>
+            <li>the articles often do not include a methods section;</li>
+            <li>the focus is often on summarizing and analyzing a broad set of questions related to a research area.</li>
+            </ul>
+        </div>
+        <div class="col s12">
+            <h6>Example abstract:</h6>
+            <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-review-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Tottenham, N., & Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.</p>
+        </div>
+    </div>
+</div>
+        
+        
+<!-- grid approach
+
+<div class="row">
+    <div class="col s12 z-depth-2">
+        <h4>In primary research articles:</h4>
+        <ul class="browser-default">
+            <li>the abstracts often talk about performing a study, or conducting an investigation;</li>
+            <li>the articles often contain a methods section or describe how the original research was performed;</li>
+            <li>the focus is often narrower, investingating specific research questions;</li>
+            <li>while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.</li>
+        </ul>
+        <h5>Primary research article - example abstract:</h5>
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-primary-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., & Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.</p>
+    </div>
+    <div class="col m12 l6 z-depth-2">
+        <h4>In review articles:</h4>
+        <ul class="browser-default">
+            <li>the abstracts often talk about summarizing existing evidence;</li>
+            <li>the articles often do not include a methods section;</li>
+            <li>the focus is often on summarizing and analyzing a broad set of questions related to a research area.</li>
+        </ul>
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-review-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Tottenham, N., & Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.</p>
+    </div>
+</div>
+
+-->
+
+
+<!-- this was the table approach
 <table>
     <tr>
     <th><h4>In primary research articles:</h4></th>
@@ -122,6 +196,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
     </tr>
 </table>
 
+-->
 
 
 
