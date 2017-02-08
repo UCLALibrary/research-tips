@@ -15,8 +15,8 @@ tags:
 
 ### Give it a try:
 
-<p class="flow-text">Click the link below to open up the planner and follow the instructions to make a copy into your Drive. Input the due date of one of your upcoming assignments and get started!</p>
-<p>https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/edit?usp=sharing </p>
+<p class="flow-text"><a href="http://bit.ly/paper-planner" target="_blank">Open up the planner</a> and follow the instructions to make a copy into your Drive: <a href="http://bit.ly/paper-planner"target="_blank">http://bit.ly/paper-planner</a>
+<p>Input the due date of one of your upcoming assignments and get started!</p>
 
 ### Tips
 
