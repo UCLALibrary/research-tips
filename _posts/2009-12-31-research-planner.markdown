@@ -15,7 +15,7 @@ tags:
 
 ### Give it a try:
 
-<p class="flow-text"><a href="http://bit.ly/paper-planner" target="_blank">Open up the planner</a> and follow the instructions to make a copy into your Drive: <a href="http://bit.ly/paper-planner"target="_blank">http://bit.ly/paper-planner</a>
+<p class="flow-text"><a href="http://bit.ly/paper-planner" target="_blank">Open up the planner</a> and follow the instructions to make a copy into your Drive: <a href="http://bit.ly/paper-planner" target="_blank">http://bit.ly/paper-planner</a>
 <p>Input the due date of one of your upcoming assignments and get started!</p>
 
 ### Tips
