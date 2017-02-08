@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Research Planner"
+title:  "Research Paper Planner"
 date:   2010-01-01
-description: Break down your assignment and stay on top of your deadlines!
-category: questions
+description: Break down your assigment and stay on top of deadlines with this useful planner! 
+category: planner
 tags:
-- getting started
-- research questions
+- research planner
+- paper planner
 ---
 
-<p class="intro">Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
+<p class="intro">Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines and keep you accountable with progress tracking and other resources.</p>
 
-<img class="responsive-img materialboxed" src="{{ '/assets/img/content/question-map-examples.jpg' | prepend: site.baseurl }}" alt="Example question maps" data-caption="Example question maps"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hhv8PIFHvek" frameborder="0" allowfullscreen></iframe>
 
 ### Give it a try:
 
-<p class="flow-text">Before you search, start by brainstorming a list of questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!</p>
+<p class="flow-text">Click the link below to open up the planner and follow the instructions to make a copy into your Drive. Input the due date of one of your upcoming assignments and get started!</p>
+<p> https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/edit?usp=sharing </p>
 
 ### Tips
 
@@ -26,7 +27,7 @@ tags:
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Want to see some examples of undergraduate research projects at UCLA? <em>From the lab to the studio</em> shows how UCLA students are exploring their passions in their research:</div>
-      <div class="collapsible-body"><iframe width="100%" height="315" src="https://youtu.be/hhv8PIFHvek" frameborder="0" allowfullscreen></iframe></div>
+      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help developing your ideas:</div>
