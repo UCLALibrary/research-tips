@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research Paper Planner"
-date:   2010-01-01
+date:   2010-01-07
 description: Break down your assigment and stay on top of deadlines with this useful planner! 
 category: planner
 tags:
@@ -16,7 +16,7 @@ tags:
 ### Give it a try:
 
 <p class="flow-text">Click the link below to open up the planner and follow the instructions to make a copy into your Drive. Input the due date of one of your upcoming assignments and get started!</p>
-<p> https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/edit?usp=sharing </p>
+<p>https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/edit?usp=sharing </p>
 
 ### Tips
 
