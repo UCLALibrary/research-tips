@@ -1,7 +1,7 @@
 title: Research Tips and Strategies
 description: A collection of tips and strategies to help you get started on your research projects
 
-url: https://dmcwo.github.io
+url: https://uclalibrary.github.io
 baseurl: "/research-tips"
 paginate_path: "blog/page:num/"
 permalink: :title/
@@ -24,7 +24,7 @@ navigation:
    url: /about
 
 social:
-   github: dmcwo
+   github: uclalibrary
    twitter: dmcwo
 #   facebook: 
 #   email: 
