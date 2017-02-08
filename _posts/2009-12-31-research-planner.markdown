@@ -9,7 +9,8 @@ tags:
 - paper planner
 ---
 
-<p class="intro">Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines and keep you accountable with progress tracking and other resources.</p>
+<p class="intro">Tired of writing your paper the night before it's due?</p>
+<p>This Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhv8PIFHvek" frameborder="0" allowfullscreen></iframe>
 
