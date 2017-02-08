@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get Started with Zotero test test test"
+title:  "Get Started with Zotero"
 date:   2010-01-07
 description: Learn how to use Zotero, a free and easy citation tool. 
 category: Zotero
@@ -11,7 +11,7 @@ tags:
 
 <p class="intro">With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!</p>
 
-<iframe width="560" height="315" src="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" frameborder="0" allowfullscreen></iframe>
+<iframe class="embdedbox" src="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" frameborder="0" allowfullscreen></iframe>
 
 ### Give it a try:
 
