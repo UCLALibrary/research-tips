@@ -2,7 +2,7 @@
 layout: post
 title:  "Research Planner"
 date:   2010-01-01
-description: Before you search, start by brainstorming a list questions.
+description: Break down your assignment and stay on top of your deadlines!
 category: questions
 tags:
 - getting started
