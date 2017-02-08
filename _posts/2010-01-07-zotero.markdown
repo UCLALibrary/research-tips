@@ -3,15 +3,15 @@ layout: post
 title:  "Get Started with Zotero"
 date:   2010-01-07
 description: Learn how to use Zotero, a free and easy citation tool. 
-category: questions
+category: Zotero
 tags:
-- getting started
-- research questions
+- zotero
+- research 
 ---
 
-<p class="intro">Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
+<p class="intro">With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!</p>
 
-<img class="responsive-img materialboxed" src="{{ '/assets/img/content/question-map-examples.jpg' | prepend: site.baseurl }}" alt="Example question maps" data-caption="Example question maps"> 
+<iframe width="560" height="315" src="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" frameborder="0" allowfullscreen></iframe>
 
 ### Give it a try:
 
