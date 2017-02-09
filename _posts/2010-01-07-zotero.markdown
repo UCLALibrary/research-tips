@@ -49,18 +49,16 @@ tags:
     </div>
   </div>
             
+### Give it a try:
+
+<p class="flow-text">Want to get started? Check out our <a href="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" target="_blank">Zotero tutorial</a>:</p>
 
 <center>
   <iframe class="embedbox" src="https://uclalibrary.github.io/slides/tutorial-zotero-intro.html" width="95%" height="600px"></iframe>
 </center>
 
-### Give it a try:
-
-<p class="flow-text">Want to get started? Check out our <a href="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" target="_blank">Zotero tutorial</a>:</p>
-
-<iframe width="560" height="315" src="uclalibrary.github.io/slides/tutorial-zotero-intro.html"></iframe>
-
 ### Tips
+<!--- wondering what we should do for this? Maybe point to other resources? e.g., the Zotero research guide: http://guides.library.ucla.edu/zotero -->
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
