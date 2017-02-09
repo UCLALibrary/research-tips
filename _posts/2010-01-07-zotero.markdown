@@ -17,7 +17,7 @@ tags:
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-          <img src="http://lorempixel.com/400/300/nature">
+          <img src="http://lorempixel.com/400/300/nature/1">
           <span class="card-title">Card Title</span>
         </div>
         <div class="card-content">
@@ -28,7 +28,7 @@ tags:
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-          <img src="http://lorempixel.com/400/300/nature">
+          <img src="http://lorempixel.com/400/300/nature/2">
           <span class="card-title">Card Title</span>
         </div>
         <div class="card-content">
@@ -39,7 +39,7 @@ tags:
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-          <img src="http://lorempixel.com/400/300/nature">
+          <img src="http://lorempixel.com/400/300/nature/3">
           <span class="card-title">Card Title</span>
         </div>
         <div class="card-content">
