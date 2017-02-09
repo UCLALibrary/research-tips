@@ -11,11 +11,52 @@ tags:
 
 <p class="intro">With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=KK9J3ibHyRI" frameborder="0" allowfullscreen></iframe>
+### Three cool things you can do with Zotero?
+
+  <div class="row">
+    <div class="col s12 m4">
+      <div class="card">
+        <div class="card-image">
+          <img src="http://lorempixel.com/400/300/nature.jpg">
+          <span class="card-title">Card Title</span>
+        </div>
+        <div class="card-content">
+          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col s12 m4">
+      <div class="card">
+        <div class="card-image">
+          <img src="http://lorempixel.com/400/300/nature.jpg">
+          <span class="card-title">Card Title</span>
+        </div>
+        <div class="card-content">
+          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col s12 m4">
+      <div class="card">
+        <div class="card-image">
+          <img src="http://lorempixel.com/400/300/nature.jpg">
+          <span class="card-title">Card Title</span>
+        </div>
+        <div class="card-content">
+          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+            
+
+<iframe width="560" height="315" src="uclalibrary.github.io/slides/tutorial-zotero-intro.html"></iframe>
 
 ### Give it a try:
 
-<p class="flow-text">Want to get started? Check out our <a href="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" target="_blank">Zotero tutorial</a></p>
+<p class="flow-text">Want to get started? Check out our <a href="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" target="_blank">Zotero tutorial</a>:</p>
+
+<iframe width="560" height="315" src="uclalibrary.github.io/slides/tutorial-zotero-intro.html"></iframe>
 
 ### Tips
 
