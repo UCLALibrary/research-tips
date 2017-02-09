@@ -50,7 +50,9 @@ tags:
   </div>
             
 
-<iframe width="560" height="315" src="uclalibrary.github.io/slides/tutorial-zotero-intro.html"></iframe>
+<center>
+  <iframe class="embedbox" src="https://uclalibrary.github.io/slides/tutorial-zotero-intro.html" width="95%" height="600px"></iframe>
+</center>
 
 ### Give it a try:
 
