@@ -11,17 +11,17 @@ tags:
 
 <p class="intro">With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!</p>
 
-### Three cool things you can do with Zotero?
+<!-- Maybe here in the "diagram" space we can put 3 cool things you can do with Zotero with just text and images? -->
 
   <div class="row">
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/1">
-          <span class="card-title">Card Title</span>
+          <span class="card-title">Keep track of your sources</span>
         </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+          <p>Some more information about that.</p>
         </div>
       </div>
     </div>
@@ -29,10 +29,10 @@ tags:
       <div class="card">
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/2">
-          <span class="card-title">Card Title</span>
+          <span class="card-title">In text citations</span>
         </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+          <p>Some more info about that.</p>
         </div>
       </div>
     </div>
@@ -40,10 +40,10 @@ tags:
       <div class="card">
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/3">
-          <span class="card-title">Card Title</span>
+          <span class="card-title">Format your bibliography in seconds as you write</span>
         </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+          <p>Some more info about that.</p>
         </div>
       </div>
     </div>
