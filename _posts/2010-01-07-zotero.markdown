@@ -21,7 +21,7 @@ tags:
         </div>
         <div class="card-content">
         <span class="card-title"><center><b><u>Keep tricky track of your sources</u></b></center></span>
-        <p>>Zotero organizes all of your research sources within a single, searchable interface. Collect and index PDFs, images, snapshots of websites, and more.</p>
+        <p>Zotero organizes all of your research sources within a single, searchable interface. Collect and index PDFs, images, snapshots of websites, and more.</p>
         </div>
       </div>
     </div>
