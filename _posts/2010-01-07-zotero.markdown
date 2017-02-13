@@ -15,7 +15,7 @@ tags:
 
   <div class="row">
     <div class="col s12 m4">
-      <div class="card small">
+      <div class="card">
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/1">
         </div>
@@ -26,7 +26,7 @@ tags:
       </div>
     </div>
     <div class="col s12 m4">
-      <div class="card small">
+      <div class="card">
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/2">
         </div>
@@ -37,7 +37,7 @@ tags:
       </div>
     </div>
     <div class="col s12 m4">
-      <div class="card small">
+      <div class="card">
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/3">
         </div>
