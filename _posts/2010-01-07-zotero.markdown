@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get Started with Zotero"
+title:  "Get Started with Zotero!!!!"
 date:   2010-01-07
 description: Learn how to use Zotero, a free and easy citation tool. 
 category: Zotero
