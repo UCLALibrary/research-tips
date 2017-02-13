@@ -20,7 +20,7 @@ tags:
           <img src="http://lorempixel.com/400/300/nature/1">
         </div>
         <div class="card-content">
-          <span class="card-title">Keep track of your sources</span>
+        <span class="card-title"><small>Keep track of your sources</small></span>
           <p>Some more information about that.</p>
         </div>
       </div>
