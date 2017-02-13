@@ -31,7 +31,7 @@ tags:
           <img src="http://lorempixel.com/400/300/nature/2">
         </div>
         <div class="card-content">
-          <span class="card-title">In text citations</span>
+          <span class="card-title">Make in text citations fast</span>
           <p>With Zotero's custom toolbar, choose your style of citation, and then easily insert an in text citation!</p>
         </div>
       </div>
@@ -42,7 +42,7 @@ tags:
           <img src="http://lorempixel.com/400/300/nature/3">
         </div>
         <div class="card-content">
-          <span class="card-title">Create bibliographies in seconds!</span>
+          <span class="card-title">Create bibliographies in seconds</span>
           <p>Within Zotero, you can quickly select multiple references and make a bibilography with ease.</p>
         </div>
       </div>
