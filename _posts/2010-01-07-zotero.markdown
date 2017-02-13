@@ -43,7 +43,7 @@ tags:
         </div>
         <div class="card-content">
           <span class="card-title">Create bibliographies in seconds!</span>
-          <p>Some more info about that.</p>
+          <p>Within Zotero, you can quickly select multiple references and make a bibilography with ease.</p>
         </div>
       </div>
     </div>
