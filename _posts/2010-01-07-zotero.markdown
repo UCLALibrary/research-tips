@@ -32,7 +32,7 @@ tags:
         </div>
         <div class="card-content">
           <span class="card-title">In text citations</span>
-          <p>Some more info about that.</p>
+          <p>With Zotero's custom toolbar, choose your style of citation, and then easily insert an in text citation!</p>
         </div>
       </div>
     </div>
