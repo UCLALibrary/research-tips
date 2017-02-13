@@ -15,7 +15,7 @@ tags:
 
   <div class="row">
     <div class="col s12 m4">
-      <div class="card" style="height: 100%;>
+      <div class="card" style="height: 100%;">
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/1">
         </div>
