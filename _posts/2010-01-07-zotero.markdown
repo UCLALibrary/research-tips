@@ -20,7 +20,7 @@ tags:
           <img src="http://lorempixel.com/400/300/nature/1">
         </div>
         <div class="card-content">
-        <span class="card-title">Keep track of your sources</span>
+        <span class="card-title">Organize your sources</span>
         <p>Zotero organizes all of your research sources within a single, searchable interface.</p>
         </div>
       </div>
@@ -42,7 +42,7 @@ tags:
           <img src="http://lorempixel.com/400/300/nature/3">
         </div>
         <div class="card-content">
-          <span class="card-title">Create bibliographies in seconds</span>
+          <span class="card-title">Make bibliographies instantly</span>
           <p>Within Zotero, you can quickly select multiple references and make a bibilography with ease.</p>
         </div>
       </div>
