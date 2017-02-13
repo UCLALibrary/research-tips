@@ -21,7 +21,6 @@ tags:
         </div>
         <div class="card-content">
         <span class="card-title"><center><small><b><u>Keep track of your sources test line</u></b></small></center></span>
-      
         <p><small>Some more information about that.</small></p>
         </div>
       </div>
