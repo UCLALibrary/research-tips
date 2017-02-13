@@ -17,7 +17,7 @@ tags:
     <div class="col s12 m4">
       <div class="card" style="height: 100%;">
         <div class="card-image">
-          <img src="i.imgur.com/RuNqH56.gif">
+          <img src="http://i.imgur.com/RuNqH56.gif">
         </div>
         <div class="card-content">
         <span class="card-title">Organize your sources</span>
