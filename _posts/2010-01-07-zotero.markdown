@@ -20,10 +20,8 @@ tags:
           <img src="http://lorempixel.com/400/300/nature/1">
         </div>
         <div class="card-content">
-        <div overflow: scroll;>
         <span class="card-title"><center><small><b><u>Keep track of your sources scroll please??</u></b></small></center></span>
         <p><small>Zotero organizes all of your research sources within a single, searchable interface. Collect and index PDFs, images, snapshots of websites, and more.</small></p>
-        </div>
         </div>
       </div>
     </div>
