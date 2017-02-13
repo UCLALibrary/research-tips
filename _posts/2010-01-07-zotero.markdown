@@ -17,7 +17,7 @@ tags:
     <div class="col s12 m4">
       <div class="card" style="height: 100%;">
         <div class="card-image">
-          <blockquote class="imgur-embed-pub" lang="en" data-id="a/rehaA"><a href="//imgur.com/rehaA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+          <img src="http://imgur.com/a/rehaA" frameborder="0" allowfullscreen>
         </div>
         <div class="card-content">
         <span class="card-title">Organize your sources</span>
