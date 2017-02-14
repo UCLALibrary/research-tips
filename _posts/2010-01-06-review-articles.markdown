@@ -43,22 +43,6 @@ category: review articles
 
 Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
 
-<!--
-<div class="row z-depth-2 hoverable blue lighten-5">
-    <div class="col s12">
-        <h4>PubMed</h4>
-    </div>
-    <div class="col s12 m5">
-        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles in PubMed." data-caption="more directions.">
-    </div>
-    <div class="col s12 m7">
-        <p>After your initial search in <strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&tool=cdl" target="_blank">PubMed</a></strong>,</p>
-        <p>more directions.</p>
-        <p>more directions.</p>
-    </div>
-</div>
--->
-
 
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
@@ -74,21 +58,20 @@ Finding a review article is relatively simple, though it varies slightly dependi
     </div>
 </div>
 
-<!--
+
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
         <h4>PubMed</h4>
     </div>
     <div class="col s12 m5">
-        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles in PubMed." data-caption="more directions.">
+        <img class="responsive-img materialboxed imagestep" src="https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png" alt="Filter your results for review articles in PubMed." data-caption="more directions.">
     </div>
     <div class="col s12 m7">
-        <p>After your initial search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">PubMed</a></strong>,</p>
-        <p>more directions.</p>
-        <p>more directions.</p>
+        <p>After your initial search in <strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&tool=cdl" target="_blank">PubMed</a></strong>, look for the "Articles Types" filter on the left side of the page.</p>
+        <p>Click "Customize..." and then click the checkbox next to review article related filters.</p>
+        <p>Be sure to uncheck other article types if you would like to limit your search to review articles.</p>
     </div>
 </div>
--->
 
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
