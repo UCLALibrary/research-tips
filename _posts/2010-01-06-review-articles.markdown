@@ -8,6 +8,7 @@ category: review articles
 
 <p class="intro">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
 </p>
+<div class="row">
 <div class="col m12 l6">
 <p>A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
 
@@ -27,6 +28,7 @@ category: review articles
 
 <div class="col m12 l6">
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
+</div>
 </div>
 
 ### Heads Up:
