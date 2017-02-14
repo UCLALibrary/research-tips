@@ -70,6 +70,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
         <p>After your initial search in <strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&tool=cdl" target="_blank">PubMed</a></strong>, look for the "Articles Types" filter on the left side of the page.</p>
         <p>Click "Customize..." and then click the checkbox next to review article related filters.</p>
         <p>Be sure to uncheck other article types if you would like to limit your search to review articles.</p>
+        <p>Click "Show" to filter your search results.</p>
     </div>
 </div>
 
