@@ -52,7 +52,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
         <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles in PubMed." data-caption="more directions.">
     </div>
     <div class="col s12 m7">
-        <p>After your initial search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">PubMed</a></strong>,</p>
+        <p>After your initial search in <strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&tool=cdl" target="_blank">PubMed</a></strong>,</p>
         <p>more directions.</p>
         <p>more directions.</p>
     </div>
