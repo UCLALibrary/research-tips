@@ -9,7 +9,7 @@ category: review articles
 <p class="intro">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
 </p>
 <div class="row">
-<div class="col m12 l6">
+<div class="col m12 l4">
 <p>A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
 
 <ul class="browser-default">
@@ -19,17 +19,17 @@ category: review articles
     <li>point out gaps in knowledge and unanswered questions;</li>
     <li>suggest directions for future research.</li>
 </ul>
+</div>
+
+<div class="col m12 l8">
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
+</div>
+</div>
 
 <p>You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. 
 </p>
 
 <p>Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
-</div>
-
-<div class="col m12 l6">
-<img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
-</div>
-</div>
 
 ### Heads Up:
 
