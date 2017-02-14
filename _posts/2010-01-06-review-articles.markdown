@@ -8,6 +8,7 @@ category: review articles
 
 <p class="intro">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
 </p>
+<div class="col m12 l6">
 <p>A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
 
 <ul class="browser-default">
@@ -22,8 +23,11 @@ category: review articles
 </p>
 
 <p>Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
+</div>
 
+<div class="col m12 l6">
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
+</div>
 
 ### Heads Up:
 
@@ -36,6 +40,23 @@ category: review articles
 ### How do I Find a Review Articles? 
 
 Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
+
+<!--
+<div class="row z-depth-2 hoverable blue lighten-5">
+    <div class="col s12">
+        <h4>PubMed</h4>
+    </div>
+    <div class="col s12 m5">
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles in PubMed." data-caption="more directions.">
+    </div>
+    <div class="col s12 m7">
+        <p>After your initial search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">PubMed</a></strong>,</p>
+        <p>more directions.</p>
+        <p>more directions.</p>
+    </div>
+</div>
+-->
+
 
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
@@ -50,6 +71,22 @@ Finding a review article is relatively simple, though it varies slightly dependi
         <p>Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</p>
     </div>
 </div>
+
+<!--
+<div class="row z-depth-2 hoverable blue lighten-5">
+    <div class="col s12">
+        <h4>PubMed</h4>
+    </div>
+    <div class="col s12 m5">
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles in PubMed." data-caption="more directions.">
+    </div>
+    <div class="col s12 m7">
+        <p>After your initial search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">PubMed</a></strong>,</p>
+        <p>more directions.</p>
+        <p>more directions.</p>
+    </div>
+</div>
+-->
 
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
