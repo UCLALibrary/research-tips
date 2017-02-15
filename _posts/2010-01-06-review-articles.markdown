@@ -39,7 +39,7 @@ category: review articles
 
 <p>Be sure to review the writing prompt and check with your instructor to be sure!</p>
 
-### How do I Find a Review Articles? 
+### How do I Find Review Articles? 
 
 Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
 
