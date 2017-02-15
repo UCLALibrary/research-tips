@@ -35,7 +35,7 @@ tags:
           <p>With Zotero's custom toolbar, choose your style of citation, and then easily insert an in text citation.</p>
         </div>
       </div>
-  %  </div>
+    </div> -->
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
@@ -47,7 +47,7 @@ tags:
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
             
 ### Give it a try:
 
