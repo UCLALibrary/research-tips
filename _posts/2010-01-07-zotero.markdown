@@ -12,7 +12,7 @@ tags:
 <p class="intro">With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!</p>
 
 <!-- Maybe here in the "diagram" space we can put 3 cool things you can do with Zotero with just text and images? -->
-<center>
+
   <div class="row">
     <div class="col s12 m5">
       <div class="card" style="height: 100%;">
@@ -47,7 +47,7 @@ tags:
         </div>
       </div>
     </div>
-  </div> </center>
+  </div> 
             
 ### Give it a try:
 
