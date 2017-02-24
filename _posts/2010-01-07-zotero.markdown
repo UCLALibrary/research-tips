@@ -32,7 +32,7 @@ tags:
           <img src="https://www.evernote.com/l/AN90Y39KZKtBppT-51SD_4VPrZokfnAjamUB/image.png" alt="Zotero's plug-in for word allows you to create citations while writing a paper.">
         </div>
         <div class="card-content">
-          <span class="card-title">Cite while you write</span>
+          <span class="card-title">Cite as you write</span>
           <p>Choose your style of citation, and then easily insert an in-text citation.</p>
         </div>
       </div>
