@@ -39,11 +39,9 @@ tags:
     </div>
     <div class="col s12 m4">
       <div class="card">
-        <!--
         <div class="card-image">
-          <img src="http://i.imgur.com/srP9KnM.gif">
+          <img src="https://www.evernote.com/l/AN9ofhgS_rxB_o_EKsusvT_PPd2cCsR22XYB/image.png" alt="Make a biblography with copy and paste.">
         </div>
-        -->
         <div class="card-content">
           <span class="card-title">Make bibliographies instantly</span>
           <p>Select your sources and make a bibilography with ease.</p>
