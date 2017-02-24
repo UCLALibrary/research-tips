@@ -18,7 +18,7 @@ tags:
       <div class="card" style="height: 100%;">
         <!-- I think the side-by-side gifs might have made for too much motion on the screen. What do you think about stills?
         <div class="card-image">
-          <img src="http://i.imgur.com/RuNqH56.gif">
+          <img src="https://www.evernote.com/l/AN_wWphBniRDZ5ZAu2mY8n_emBfxLcOoGpQB/image.png" alt="Zotero library organized by class, paper, and topic">
         </div>
         -->
         <div class="card-content">
