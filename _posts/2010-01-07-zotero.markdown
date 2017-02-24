@@ -29,7 +29,7 @@ tags:
    <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-          <img src="https://www.evernote.com/l/AN90Y39KZKtBppT-51SD_4VPrZokfnAjamUB/image.png" alt="Zotero's plug-in for word allows you to create citations while writing a paper.">
+          <img src="https://www.evernote.com/l/AN9k1FX-_nRDJZ6Iz1vqF_LtFo_jD1j_sC4B/image.png" alt="Zotero's plug-in for word allows you to create citations while writing a paper.">
         </div>
         <div class="card-content">
           <span class="card-title">Cite as you write</span>
