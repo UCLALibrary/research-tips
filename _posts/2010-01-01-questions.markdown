@@ -21,7 +21,7 @@ tags:
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Need help generating questions? Check out our quick video tutorial on developing a research question:</div>
+      <div class="collapsible-header active"><i class="material-icons">ondemand_video</i>Need help generating questions? Check out our quick video tutorial on developing a research question:</div>
       <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
