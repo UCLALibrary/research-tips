@@ -18,7 +18,7 @@ tags:
       <div class="card" style="height: 100%;">
         <!-- I think the side-by-side gifs might have made for too much motion on the screen. What do you think about stills? -->
         <div class="card-image">
-          <img src="https://www.evernote.com/l/AN_wWphBniRDZ5ZAu2mY8n_emBfxLcOoGpQB/image.png" alt="Zotero library organized by class, paper, and topic">
+          <img style="max-height: 144px;" src="https://www.evernote.com/l/AN_wWphBniRDZ5ZAu2mY8n_emBfxLcOoGpQB/image.png" alt="Zotero library organized by class, paper, and topic">
         </div>
         <div class="card-content">
         <span class="card-title">Organize your sources</span>
@@ -29,7 +29,7 @@ tags:
    <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-          <img src="https://www.evernote.com/l/AN9k1FX-_nRDJZ6Iz1vqF_LtFo_jD1j_sC4B/image.png" alt="Zotero's plug-in for word allows you to create citations while writing a paper.">
+          <img style="max-height: 144px;" src="https://www.evernote.com/l/AN9k1FX-_nRDJZ6Iz1vqF_LtFo_jD1j_sC4B/image.png" alt="Zotero's plug-in for word allows you to create citations while writing a paper.">
         </div>
         <div class="card-content">
           <span class="card-title">Cite as you write</span>
@@ -40,7 +40,7 @@ tags:
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-          <img src="https://www.evernote.com/l/AN9ofhgS_rxB_o_EKsusvT_PPd2cCsR22XYB/image.png" alt="Make a biblography with copy and paste.">
+          <img style="max-height: 144px;" src="https://www.evernote.com/l/AN9ofhgS_rxB_o_EKsusvT_PPd2cCsR22XYB/image.png" alt="Make a biblography with copy and paste.">
         </div>
         <div class="card-content">
           <span class="card-title">Make bibliographies instantly</span>
