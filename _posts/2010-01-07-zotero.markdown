@@ -28,11 +28,9 @@ tags:
     </div>
    <div class="col s12 m4">
       <div class="card">
-        <!--
         <div class="card-image">
-          <img src="http://lorempixel.com/400/300/nature/2">
+          <img src="https://www.evernote.com/l/AN90Y39KZKtBppT-51SD_4VPrZokfnAjamUB/image.png" alt="Zotero's plug-in for word allows you to create citations while writing a paper.">
         </div>
-        -->
         <div class="card-content">
           <span class="card-title">Cite while you write</span>
           <p>Choose your style of citation, and then easily insert an in-text citation.</p>
