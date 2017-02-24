@@ -16,31 +16,37 @@ tags:
   <div class="row">
     <div class="col s12 m6">
       <div class="card" style="height: 100%;">
+        <!-- I think the side-by-side gifs might have made for too much motion on the screen. What do you think about stills?
         <div class="card-image">
           <img src="http://i.imgur.com/RuNqH56.gif">
         </div>
+        -->
         <div class="card-content">
         <span class="card-title">Organize your sources</span>
         <p>Zotero organizes all of your research sources within a single, searchable interface.</p>
         </div>
       </div>
     </div>
-   <!-- <div class="col s12 m4">
+   <div class="col s12 m4">
       <div class="card">
+        <!--
         <div class="card-image">
           <img src="http://lorempixel.com/400/300/nature/2">
         </div>
+        -->
         <div class="card-content">
           <span class="card-title">Make in text citations</span>
-          <p>With Zotero's custom toolbar, choose your style of citation, and then easily insert an in text citation.</p>
+          <p>With Zotero's custom toolbar, choose your style of citation, and then easily insert an in-text citation.</p>
         </div>
       </div>
-    </div> -->
+    </div>
     <div class="col s12 m6">
       <div class="card">
+        <!--
         <div class="card-image">
           <img src="http://i.imgur.com/srP9KnM.gif">
         </div>
+        -->
         <div class="card-content">
           <span class="card-title">Make bibliographies instantly</span>
           <p>Within Zotero, you can quickly select multiple references and make a bibilography with ease.</p>
