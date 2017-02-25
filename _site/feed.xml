@@ -5,8 +5,8 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://uclalibrary.github.io/research-tips/</link>
     <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 21:41:34 -0800</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 21:41:34 -0800</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2017 21:48:08 -0800</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2017 21:48:08 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -61,7 +61,7 @@
 &lt;p class=&quot;flow-text&quot;&gt;Want to get started? Check out our &lt;a href=&quot;http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/&quot; target=&quot;_blank&quot;&gt;Zotero tutorial&lt;/a&gt;:&lt;/p&gt;
 
 &lt;center&gt;
-  &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/slides/tutorial-zotero-intro.html&quot; width=&quot;95%&quot; height=&quot;600px&quot;&gt;&lt;/iframe&gt;
+  &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/research-tips/embeds/zotero/&quot; width=&quot;95%&quot; height=&quot;600px&quot;&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 &lt;!--
 &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;

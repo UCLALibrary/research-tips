@@ -58,7 +58,7 @@ tags:
 <p class="flow-text">Want to get started? Check out our <a href="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" target="_blank">Zotero tutorial</a>:</p>
 
 <center>
-  <iframe class="embedbox" src="https://uclalibrary.github.io/slides/tutorial-zotero-intro.html" width="95%" height="600px"></iframe>
+  <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/embeds/zotero/" width="95%" height="600px"></iframe>
 </center>
 <!--
 <ul class="collapsible" data-collapsible="expandable">
