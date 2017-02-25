@@ -2,6 +2,7 @@
 layout: embed
 title:  "Find the Right Research Guides"
 date:   2010-01-03
+theme:  simple
 ---
 
 <section style="text-align: left;">

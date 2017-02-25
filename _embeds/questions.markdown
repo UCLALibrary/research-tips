@@ -2,6 +2,7 @@
 layout: embed
 title:  "Start with Questions"
 date:   2010-01-01
+theme:  simple
 ---
 <section style="text-align: left;">
     <h3>Start with Questions</h3>

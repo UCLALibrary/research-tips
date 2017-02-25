@@ -2,6 +2,7 @@
 layout: embed
 title:  "Search Experimentally"
 date:   2010-01-05
+theme:  simple
 ---
 <section style="text-align: left;">
                 <h3>Search Experimentally</h3>

@@ -2,6 +2,7 @@
 layout: embed
 title:  "Get configured"
 date:   2010-01-04
+theme:  sky
 ---
 <section style="text-align: left;">
     <h3>Get Configured</h3>

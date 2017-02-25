@@ -52,7 +52,8 @@ body {
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: -0.08em;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  /* all uppercase was just too much */
   text-shadow: none;
   word-wrap: break-word; }
 

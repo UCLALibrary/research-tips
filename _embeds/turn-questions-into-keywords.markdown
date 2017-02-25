@@ -2,6 +2,7 @@
 layout: embed
 title:  "Turn Questions into Keywords"
 date:   2010-01-02
+theme:  simple
 ---
 
 <section style="text-align: left;">

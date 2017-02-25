@@ -3,6 +3,7 @@ layout: embed
 title:  "Testing Things"
 date:   2010-01-01
 specialjsfeatures: true
+theme:  sky
 ---
 <section style="text-align: left; height: 100%;">
     <h3>Start with Questions</h3>
