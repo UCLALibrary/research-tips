@@ -46,7 +46,7 @@ title: About this site
       <div class="col s12 m8">
         <h4>We're learners, too.</h4>
         <p>As a group of students, teachers, librarians, and academic support staff, we're constantly exploring new approaches to teaching and learning online.</p>
-        <p>Let us know your thoughts, feedback, and ideas for future projects!</p>
+        <p>Let us know your <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">thoughts, questions, feedback, and ideas for future projects!</a></p>
     </div>
 </div>
 
