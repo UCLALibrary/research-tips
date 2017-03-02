@@ -248,3 +248,33 @@ ul.browser-default li {
 .faq dd {
     padding-left: 50px;
 }
+
+/***************
+UCLA Colors
+***************/
+
+.ucla-color {
+  background-color: #3284bf !important;
+}
+
+.ucla-color-text {
+  color: #347bad !important;
+}
+
+.ucla-color.blue {
+  background-color: #3284bf !important;
+}
+
+.ucla-color.gold {
+  background-color: #ffe800 !important;
+}
+
+.ucla-color.two-dark-blue {
+  background-color: #1e4b87 !important;
+}
+
+.ucla-color.two-cerulean {
+  background-color: #f3989b !important;
+}
+
+

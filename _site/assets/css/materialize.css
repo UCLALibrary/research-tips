@@ -2552,7 +2552,7 @@ ul:not(.browser-default) li {
 }
 
 a {
-  color: #039be5;
+  color: #347bad;
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
 }
@@ -2868,7 +2868,7 @@ ul.staggered-list li {
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
-  background-color: #29b6f6;
+  background-color: #3284bf;
 }
 
 footer.page-footer .footer-copyright {
@@ -4632,14 +4632,14 @@ small {
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-floating) {
-  color: #ffab40;
+  color: #347bad;
   margin-right: 20px;
   transition: color .3s ease;
   text-transform: uppercase;
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-floating):hover {
-  color: #ffd8a6;
+  color: #1e4b87;
 }
 
 .card .card-reveal {
