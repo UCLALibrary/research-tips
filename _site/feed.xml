@@ -5,8 +5,8 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://uclalibrary.github.io/research-tips/</link>
     <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Mar 2017 15:26:17 -0800</pubDate>
-    <lastBuildDate>Thu, 02 Mar 2017 15:26:17 -0800</lastBuildDate>
+    <pubDate>Fri, 03 Mar 2017 18:30:23 -0800</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2017 18:30:23 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -472,13 +472,16 @@
       
       <item>
         <title>Turn Questions into Keywords</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Develop your questions into keywords before you search. Try thinking about your topic from a variety of perspectives to generate a big list of keywords for each core concept.&lt;/p&gt;
+        <description>&lt;p class=&quot;intro&quot;&gt;Develop your research questions into keywords before you search. Think about your topic from a variety of perspectives to generate a big list of keywords.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/how-safe-is-recycled-water.png&quot; alt=&quot;Multiple keywords can be generated from the research question - How safe is recycled water to drink?&quot; data-caption=&quot;Multiple keywords can be generated from the research question - How safe is recycled water to drink?&quot; /&gt;&lt;/p&gt;
+&lt;!--
+&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/how-safe-is-recycled-water.png&quot; alt=&quot;Multiple keywords can be generated from the research question - How safe is recycled water to drink?&quot; data-caption=&quot;Multiple keywords can be generated from the research question - How safe is recycled water to drink?&quot;&gt; --&gt;
+
+&lt;iframe src=&quot;/research-tips/embeds/turn-questions-into-keywords/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;379px&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
-&lt;p class=&quot;flow-text&quot;&gt;First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.&lt;/p&gt;
+&lt;p class=&quot;flow-text&quot;&gt;First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.&lt;/p&gt;
 
 &lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
 
@@ -499,7 +502,7 @@
 
 </description>
         
-          <description>&lt;p class=&quot;intro&quot;&gt;Develop your questions into keywords before you search. Try thinking about your topic from a variety of perspectives to generate a big list of keywords for each core concept.&lt;/p&gt;
+          <description>&lt;p class=&quot;intro&quot;&gt;Develop your research questions into keywords before you search. Think about your topic from a variety of perspectives to generate a big list of keywords.&lt;/p&gt;
 
 </description>
         

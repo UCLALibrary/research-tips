@@ -7,14 +7,18 @@ category: turn-questions-into-keywords
 # image: featuredimagehere
 ---
 
-<p class="intro">Develop your questions into keywords before you search. Try thinking about your topic from a variety of perspectives to generate a big list of keywords for each core concept.</p>
+<p class="intro">Develop your research questions into keywords before you search. Think about your topic from a variety of perspectives to generate a big list of keywords.</p>
 
-<img class="responsive-img materialboxed" src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?" data-caption="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> 
+<!--
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?" data-caption="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> -->
+
+<iframe src="{{ '/embeds/turn-questions-into-keywords/' | prepend: site.baseurl }}" frameborder="0" width="100%" height="379px"></iframe>
+
 
 
 ### Give it a try:
 
-<p class="flow-text">First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings as well as broader and narrower keywords for each core concept.</p>
+<p class="flow-text">First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.</p>
 
 ### Tips:
 
