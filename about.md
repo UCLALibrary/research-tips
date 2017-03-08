@@ -23,8 +23,8 @@ title: About this site
     </center>
       </div>
       <div class="col s12 m8">
-        <h4>We make quick and practical research and writing tips that you can view online.</h4>
-        <p>The WI+RE team develops and continually improves a toolbox of open-access online learning modules that can be used by both instructors and students.</p>
+      <h4>We make short, practical <a href="http://uclalibrary.github.io/research-tips/">research and writing tips</a> that you can quickly view online.</h4>
+        <p>The WI+RE team develops and continually improves a toolbox of open-access <a href="http://uclalibrary.github.io/research-tips/">online learning modules</a> that can be used by both instructors and students.</p>
         <!--<p>We want everything we create to be quick, practical, upbeat, and most importantly, useful.</p>-->
         <p>In each of our projects we strive to:</p>
         <ul class="browser-default">
@@ -73,7 +73,7 @@ title: About this site
         <h4>Development notes</h4>
         <p>This site is built in <a href="http://jekyllrb.com">Jekyll</a> hosted on <a href="http://github.com/uclalibrary/research-tips" target="_blank">github</a> and themed with a <a href="https://github.com/dmcwo/dr-jekylls-materials">jekyll version</a> of the fun and amazing <a href="http://materializecss.com/" target="_blank">materializecss</a> framework.</p>
 
-        <p>Want to collaborate? <a href="http://github.com/uclalibrary/research-tips" target="_blank">We would too</a>! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our repository on github</a> and let us know your ideas!</p>
+        <p>Want to collaborate? <a href="http://github.com/uclalibrary/research-tips" target="_blank">We would too</a>! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our code repository on github</a> and let us know your ideas!</p>
       </div>
 </div>
     
