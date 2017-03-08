@@ -71,7 +71,7 @@ title: About this site
         </center>
       </div>
       <div class="col s12 m8">
-        <h4>Development notes</h4>
+        <h4>Software Development Notes</h4>
         <p>This site is built in <a href="http://jekyllrb.com">Jekyll</a> hosted on <a href="http://github.com/uclalibrary/research-tips" target="_blank">github</a> and themed with a <a href="https://github.com/dmcwo/dr-jekylls-materials">jekyll version</a> of the fun and amazing <a href="http://materializecss.com/" target="_blank">materializecss</a> framework.</p>
 
         <p>Want to collaborate? We would too! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our code repository on github</a> and <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">let us know your ideas</a>!</p>
