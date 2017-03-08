@@ -45,7 +45,8 @@ title: About this site
       </div>
       <div class="col s12 m8">
         <h4>We're learners, too.</h4>
-        <p>As a group of students, teachers, librarians, and academic support staff, we're constantly exploring new approaches to teaching and learning online.</p>
+        <p>As a group of students, teachers, librarians, and academic support staff, we're constantly exploring new approaches to teaching and learning online.</p>''
+        <p>Our partners include UCLA's <a href="" target="_blank">Center for Digital Humanities</a>, <a href="" target="_blank">Library</a>, the <a href="" target="_blank">Undergraduate Research Centers</a>, <a href="" target="_blank">Writing Programs</a>, 
         <p>Let us know your <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">thoughts, questions, feedback, and ideas for future projects!</a></p>
     </div>
 </div>
@@ -73,7 +74,7 @@ title: About this site
         <h4>Development notes</h4>
         <p>This site is built in <a href="http://jekyllrb.com">Jekyll</a> hosted on <a href="http://github.com/uclalibrary/research-tips" target="_blank">github</a> and themed with a <a href="https://github.com/dmcwo/dr-jekylls-materials">jekyll version</a> of the fun and amazing <a href="http://materializecss.com/" target="_blank">materializecss</a> framework.</p>
 
-        <p>Want to collaborate? <a href="http://github.com/uclalibrary/research-tips" target="_blank">We would too</a>! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our code repository on github</a> and let us know your ideas!</p>
+        <p>Want to collaborate? We would too! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our code repository on github</a> and <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">let us know your ideas</a>!</p>
       </div>
 </div>
     
