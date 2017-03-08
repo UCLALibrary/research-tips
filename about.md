@@ -11,7 +11,7 @@ title: About this site
         </center>
       </div>
       <div class="col s12 m8">
-      <h4>Hey there Bruins!</h4>
+      <h4>Hey there, Bruins!</h4>
       <p>We're WI+RE (Writing Instruction + Research Education), a UCLA community focused on helping all learners succeed in their writing and research projects.</p>
       </div>
 </div>
@@ -45,7 +45,7 @@ title: About this site
       </div>
       <div class="col s12 m8">
         <h4>We're learners, too.</h4>
-        <p>As a group of students, teachers, librarians, and academic support staff, we're constantly exploring new approaches to teaching and learning online.</p>''
+        <p>As a group of students, teachers, librarians, and academic support staff across the UCLA campus, we're constantly exploring new approaches to teaching and learning online.</p>''
         <p>Our partners include the <a href="http://www.cdh.ucla.edu/" target="_blank">Center for Digital Humanities</a>, <a href="http://library.ucla.edu" target="_blank">UCLA Library</a>, the <a href="http://www.ucla.edu/research/undergraduate-research" target="_blank">Undergraduate Research Centers</a>, and <a href="http://wp.ucla.edu/" target="_blank">Writing Programs</a>.</p>
         <p>Let us know your <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">thoughts, questions, feedback, and ideas for future projects!</a></p>
     </div>
