@@ -11,7 +11,7 @@ theme:  sky
   <h2>Find and Use Review Articles</h2>
   <h3>Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. </h3>
   <p> A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
-                <ul>
+                <ul class="browser-default">
                     <li>summarize key research findings;</li>
                     <li>reference must-read articles;</li>
                     <li>describe current areas of agreement as well as controversies and debates;</li>
@@ -62,11 +62,11 @@ theme:  sky
   <!-- Slide 4: top level: How do I Find a Review Article?-->
 		<h3>How do I find a review article?</h3>
           	<p> Finding a review article is relatively simple, though it varies slightly depending on what database you are using. </p>
-            <ul>
-            <li> Web of Science </li>
-            <li> PubMed </li>
-            <li> UCLA Library Journal Search </li> 
-            <li> Google Scholar and ArticlesPlus </li>
+            <ul class="browser-default">
+	    <li> <a href="#4/1"> Web of Science </a> </li>
+	    <li> <a href="#4/2"> PubMed </a> </li>
+	    <li> <a href="#4/3"> UCLA Library Journal Search </a> </li> 
+            <li> <a href="#4/4"> Google Scholar and ArticlesPlus </a> </li>
             </ul>
    </section>
             
