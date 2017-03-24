@@ -9,8 +9,8 @@ theme:  sky
 <section style="text-align: left;">
 <!-- Slide 1: top level-->
   <h2>Find and Use Review Articles</h2>
-  <h3 style="font-size: 80%">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</h3>
-                <ul class="browser-default">
+  <h3 style="font-size: 90%">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</h3>
+                <ul class="browser-default" style="fot-size 90%">
                     <li>summarize key research findings;</li>
                     <li>reference must-read articles;</li>
                     <li>describe current areas of agreement as well as controversies and debates;</li>
@@ -37,7 +37,7 @@ theme:  sky
     <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="80%" alt="Review Article" data-caption="Review Article" frameborder="0"> </center>
+			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" Height="30%" alt="Review Article" data-caption="Review Article" frameborder="0"> </center>
 			<p style="font-size: 80%">You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
 			<p> <a href="#3/1"> Heads Up! </a> </p>
 			</section>	
@@ -71,7 +71,7 @@ theme:  sky
             
     <section style="text-align: left;">
     <!-- Slide 4: 2nd level: Web of Science -->
-    <div class="row z-depth-2">
+    <div>
     <div class="col s12">
        <h4>Web of Science</h4>
     </div>
@@ -88,7 +88,7 @@ theme:  sky
   
     <section style="text-align: left;">
     <!-- Slide 4: 3rd level: PubMed -->
-    <div class="row z-depth-2 hoverable blue lighten-5">
+    <div>
     <div class="col s12">
         <h4>PubMed</h4>
     </div>
@@ -106,7 +106,7 @@ theme:  sky
   
     <section style="text-align: left;">
     <!-- Slide 4: 4th level: UCLA Library Journal Search -->
-    <div class="row z-depth-2 hoverable blue lighten-5">
+    <div>
     <div class="col s12">
         <h4>UCLA Library Journal Search</h4>
     </div>
@@ -124,7 +124,7 @@ theme:  sky
   
    <section style="text-align: left;">
    <!-- Slide 4: 5th level: Google Scholar and ArticlesPlus -->
-   <div class="row z-depth-2 hoverable blue lighten-5">
+   <div>
     <div class="col s12">
         <h4>Google Scholar and ArticlesPlus</h4> 
     </div>
