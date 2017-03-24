@@ -73,15 +73,15 @@ theme:  sky
     <!-- Slide 4: 2nd level: Web of Science -->    
     <table border="1">
 					     <tr>
+					     <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles." data-caption="Under Document Types click the checkbox next to Review and then click Refine." frameborder="0" allowfullscreen> </center></td>
 						     <td style="vertical-align: top;">
 							       <h3 style="font-size: 95%;">Web of Science</h3>
-                                 <ol style="font-size: 55%;">
+                                 <ol style="font-size: 70%;">
 								     <li style="font-size: 80%">Start with a search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong>.</li>
                                      <li style="font-size: 80%">Then, on the results page, look for the “Document Types” filter on the left side of the page.</li>
                                      <li style="font-size: 80%">Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</li>
 							     </ol>
 						     </td>
-                             <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles." data-caption="Under Document Types click the checkbox next to Review and then click Refine." frameborder="0" allowfullscreen> </center></td>
 						     
 					     </tr>
 				     </table>
@@ -89,12 +89,12 @@ theme:  sky
 				     
 				     
 	    <section style="text-align: left;">
-    <!-- Slide 4: 2nd level: PubMed -->    
+    <!-- Slide 4: 3rd level: PubMed -->    
     <table border="1">
 					     <tr>
 						     <td style="vertical-align: top;">
 							       <h3 style="font-size: 95%;">PubMed</h3>
-                                 <ol style="font-size: 55%;">
+                                 <ol style="font-size: 70%;">
 								     <li style="font-size: 80%">After your initial search in <strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&tool=cdl" target="_blank">PubMed</a></strong>, look for the "Articles Types" filter on the left side of the page.</li>
                                      <li style="font-size: 80%">Click "Customize..." and then click the checkbox next to review article related filters.</li>
                                      <li style="font-size: 80%">Be sure to uncheck other article types if you would like to limit your search to review articles.</li>
@@ -107,6 +107,25 @@ theme:  sky
 					     </tr>
 				     </table>
 				     </section>
+    <section style="text-align: left;">
+    <!-- Slide 4: 4th level: UCLA Journal Search -->    
+    <table border="1">
+					     <tr>
+						     <td style="vertical-align: top;">
+							       <h3 style="font-size: 95%;">UCLA Library Journal Search</h3>
+                                 <ol style="font-size: 70%;">
+					<li style="font-size: 80%">From the <a href="http://library.ucla.edu" target="_blank">UCLA Library homepage</a>, click the "<a href="http://www.library.ucla.edu/#journals" target="_blank">Journals</a>" tab to search for academic journals that focus on publishing review articles.</li>
+                                     <li style="font-size: 80%">Search for your discipline or subject area, and <em>Review</em> (e.g., <em>Sociology Review</em> or <em>Psychology Review</em>).</li>
+                                     <li style="font-size: 80%">Be sure to change the drop-down menu to "Contains"</li>
+				     <li style="font-size: 80%">On the results page, browse the list of journals, and then click on a title to visit the journal's website.</li>
+							     </ol>
+						     </td>
+                             <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/journal-search-review.png' | prepend: site.baseurl }}" alt="You can search for review journals from the library homepage." data-caption="Search for journals that specialize in publishing review articles from the UCLA Library homepage." frameborder="0" allowfullscreen> </center>
+			     </td>
+						     
+					     </tr>
+				     </table>
+				     </section>			    
     
     
     
@@ -141,10 +160,10 @@ theme:  sky
         <p>Click "Show" to filter your search results.</p>
     </div>
     </div>
-    </section> -->
+    </section> 
   
     <section style="text-align: left;">
-    <!-- Slide 4: 4th level: UCLA Library Journal Search -->
+    <!-- Slide 4: 4th level: UCLA Library Journal Search 
     <div>
     <div class="col s12">
         <h4>UCLA Library Journal Search</h4>
@@ -159,7 +178,7 @@ theme:  sky
        <p>On the results page, browse the list of journals, and then click on a title to visit the journal's website.</p>
     </div>
     </div>
-    </section>
+    </section> -->
   
    <section style="text-align: left;">
    <!-- Slide 4: 5th level: Google Scholar and ArticlesPlus -->
