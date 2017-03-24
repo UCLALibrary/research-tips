@@ -4,7 +4,7 @@ title:  "Find and Use Review Articles"
 date:   2010-01-06
 description: Review articles give you an efficient way to get an overview of a body of research on your topic.
 category: review articles
-theme:  solarized
+theme:  sky
 ---
 <section style="text-align: left;">
 <!-- Slide 1: top level-->
@@ -38,7 +38,7 @@ theme:  solarized
   <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
+			<img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" height="500px" width="300px" alt="Review Article" data-caption="Review Article"> 
 			<p>You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. </p>
 			<p>Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>	
 			</section>	
@@ -150,6 +150,7 @@ theme:  solarized
     
     <section style="text-align: left;">
     <div class="col s12">
+    <h4> In primary research articles:</h4>
             <ul class="browser-default">
             <li>the abstracts often talk about performing a study, or conducting an investigation;</li>
             <li>the articles often contain a methods section or describe how the original research was performed;</li>
