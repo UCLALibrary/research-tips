@@ -37,7 +37,7 @@ theme:  sky
     <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" Height="300px" alt="Review Article" data-caption="Review Article"> </center>
+			<center><img src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" Height="40%" alt="Review Article" data-caption="Review Article"> </center>
 			<p style="font-size: 80%">You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
 			<p> <a href="#3/1"> Heads Up! </a> </p>
 			</section>	
@@ -92,6 +92,8 @@ theme:  sky
     <!-- Slide 4: 3rd level: PubMed -->    
     <table border="1">
 					     <tr>
+					     <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png" alt="Filter your results for review articles in PubMed." frameborder="0" allowfullscreen> </center>
+			     </td>
 						     <td style="vertical-align: top;">
 							       <h3 style="font-size: 95%;">PubMed</h3>
                                  <ol style="font-size: 70%;">
@@ -101,8 +103,6 @@ theme:  sky
 				     <li style="font-size: 80%">Click "Show" to filter your search results.</li>
 							     </ol>
 						     </td>
-                             <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png" alt="Filter your results for review articles in PubMed." frameborder="0" allowfullscreen> </center>
-			     </td>
 						     
 					     </tr>
 				     </table>
@@ -111,6 +111,8 @@ theme:  sky
     <!-- Slide 4: 4th level: UCLA Journal Search -->    
     <table border="1">
 					     <tr>
+					     <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/journal-search-review.png' | prepend: site.baseurl }}" alt="You can search for review journals from the library homepage." data-caption="Search for journals that specialize in publishing review articles from the UCLA Library homepage." frameborder="0" allowfullscreen> </center>
+			     </td>
 						     <td style="vertical-align: top;">
 							       <h3 style="font-size: 95%;">UCLA Library Journal Search</h3>
                                  <ol style="font-size: 70%;">
@@ -120,8 +122,6 @@ theme:  sky
 				     <li style="font-size: 80%">On the results page, browse the list of journals, and then click on a title to visit the journal's website.</li>
 							     </ol>
 						     </td>
-                             <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/journal-search-review.png' | prepend: site.baseurl }}" alt="You can search for review journals from the library homepage." data-caption="Search for journals that specialize in publishing review articles from the UCLA Library homepage." frameborder="0" allowfullscreen> </center>
-			     </td>
 						     
 					     </tr>
 				     </table>
