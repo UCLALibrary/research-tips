@@ -9,8 +9,8 @@ theme:  sky
 <section style="text-align: left;">
 <!-- Slide 1: top level-->
   <h2>Find and Use Review Articles</h2>
-  <h3>Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. </h3>
-  <p> A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
+  <h3 style="font-size: 80%">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. </h3>
+  <p style="font-size: 80%"> A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
                 <ul class="browser-default">
                     <li>summarize key research findings;</li>
                     <li>reference must-read articles;</li>
@@ -36,11 +36,17 @@ theme:  sky
 <section style="text-align: left;">
 
   <section style="text-align: left;">
+  	<table border="1">
+  		<tr>
+			<td style="vertical-align: top;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" height="500px" width="300px" alt="Review Article" data-caption="Review Article"> 
-			<p>You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. </p>
+			<p >You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. </p>
 			<p>Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>	
+		  </td>
+                             <td width="65%"><center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="100%" alt="Review Article" data-caption="Review Article" frameborder="0" allowfulscreen> </center></td>     
+					     </tr>
+				     </table>
 			</section>	
           
       <section style="text-align: left;">
