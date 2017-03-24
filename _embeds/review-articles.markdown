@@ -37,7 +37,7 @@ theme:  sky
     <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" Height="30%" alt="Review Article" data-caption="Review Article"> </center>
+			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" Height="300px" alt="Review Article" data-caption="Review Article"> </center>
 			<p style="font-size: 80%">You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
 			<p> <a href="#3/1"> Heads Up! </a> </p>
 			</section>	
@@ -70,16 +70,14 @@ theme:  sky
    </section>
             
     <section style="text-align: left;">
-    <!-- Slide 4: 2nd level: Web of Science -->
-    
-    
+    <!-- Slide 4: 2nd level: Web of Science -->    
     <table border="1">
 					     <tr>
 						     <td style="vertical-align: top;">
 							       <h3 style="font-size: 95%;">Web of Science</h3>
                                  <ol style="font-size: 55%;">
 								     <li style="font-size: 80%">Start with a search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong>.</li>
-                                     <li style="font-size: 80%">Then, on the results page, look for the “Document Types” filter on the left side of the page..</li>
+                                     <li style="font-size: 80%">Then, on the results page, look for the “Document Types” filter on the left side of the page.</li>
                                      <li style="font-size: 80%">Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</li>
 							     </ol>
 						     </td>
@@ -87,6 +85,28 @@ theme:  sky
 						     
 					     </tr>
 				     </table>
+				     </section>
+				     
+				     
+	    <section style="text-align: left;">
+    <!-- Slide 4: 2nd level: PubMed -->    
+    <table border="1">
+					     <tr>
+						     <td style="vertical-align: top;">
+							       <h3 style="font-size: 95%;">PubMed</h3>
+                                 <ol style="font-size: 55%;">
+								     <li style="font-size: 80%">After your initial search in <strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&tool=cdl" target="_blank">PubMed</a></strong>, look for the "Articles Types" filter on the left side of the page.</li>
+                                     <li style="font-size: 80%">Click "Customize..." and then click the checkbox next to review article related filters.</li>
+                                     <li style="font-size: 80%">Be sure to uncheck other article types if you would like to limit your search to review articles.</li>
+				     <li style="font-size: 80%">Click "Show" to filter your search results.</li>
+							     </ol>
+						     </td>
+                             <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png" alt="Filter your results for review articles in PubMed." frameborder="0" allowfullscreen> </center>
+			     </td>
+						     
+					     </tr>
+				     </table>
+				     </section>
     
     
     
@@ -103,10 +123,10 @@ theme:  sky
         <p style="font-size: 80%">Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</p>
     </div>
     </div>
-    </section> -->
+    </section> 
   
     <section style="text-align: left;">
-    <!-- Slide 4: 3rd level: PubMed -->
+   Slide 4: 3rd level: PubMed
     <div>
     <div class="col s12">
         <h4>PubMed</h4>
@@ -121,7 +141,7 @@ theme:  sky
         <p>Click "Show" to filter your search results.</p>
     </div>
     </div>
-    </section>
+    </section> -->
   
     <section style="text-align: left;">
     <!-- Slide 4: 4th level: UCLA Library Journal Search -->
