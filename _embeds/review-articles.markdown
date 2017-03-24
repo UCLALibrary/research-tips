@@ -34,6 +34,7 @@ theme:  sky
             
 
   <section style="text-align: left;">
+    <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
 			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="100%" alt="Review Article" data-caption="Review Article" frameborder="0" allowfulscreen> </center>
