@@ -10,7 +10,7 @@ theme:  sky
 <!-- Slide 1: top level-->
   <h2>Find and Use Review Articles</h2>
   <h3 style="font-size: 90%">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</h3>
-                <ul class="browser-default" style="fot-size 90%">
+                <ul class="browser-default" style="font-size 90%">
                     <li>summarize key research findings;</li>
                     <li>reference must-read articles;</li>
                     <li>describe current areas of agreement as well as controversies and debates;</li>
@@ -37,7 +37,7 @@ theme:  sky
     <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" Height="30%" alt="Review Article" data-caption="Review Article" frameborder="0"> </center>
+			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" Height="30%" alt="Review Article" data-caption="Review Article"> </center>
 			<p style="font-size: 80%">You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
 			<p> <a href="#3/1"> Heads Up! </a> </p>
 			</section>	
@@ -71,7 +71,26 @@ theme:  sky
             
     <section style="text-align: left;">
     <!-- Slide 4: 2nd level: Web of Science -->
-    <div>
+    
+    
+    <table border="1">
+					     <tr>
+						     <td style="vertical-align: top;">
+							       <h3 style="font-size: 95%;">Web of Science</h3>
+                                 <ol style="font-size: 55%;">
+								     <li style="font-size: 80%">Start with a search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong>.</li>
+                                     <li style="font-size: 80%">Then, on the results page, look for the “Document Types” filter on the left side of the page..</li>
+                                     <li style="font-size: 80%">Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</li>
+							     </ol>
+						     </td>
+                             <td width="65%"><center><img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles." data-caption="Under Document Types click the checkbox next to Review and then click Refine." frameborder="0" allowfullscreen> </center></td>
+						     
+					     </tr>
+				     </table>
+    
+    
+    
+  <!--  <div>
     <div class="col s12">
        <h4>Web of Science</h4>
     </div>
@@ -84,7 +103,7 @@ theme:  sky
         <p style="font-size: 80%">Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</p>
     </div>
     </div>
-    </section>
+    </section> -->
   
     <section style="text-align: left;">
     <!-- Slide 4: 3rd level: PubMed -->
