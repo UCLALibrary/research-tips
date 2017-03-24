@@ -9,8 +9,7 @@ theme:  sky
 <section style="text-align: left;">
 <!-- Slide 1: top level-->
   <h2>Find and Use Review Articles</h2>
-  <h3 style="font-size: 80%">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. </h3>
-  <p style="font-size: 80%"> A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</p>
+  <h3 style="font-size: 80%">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</h3>
                 <ul class="browser-default">
                     <li>summarize key research findings;</li>
                     <li>reference must-read articles;</li>
@@ -33,28 +32,21 @@ theme:  sky
 			<p><a href="#" class="navigate-right"><i class="fa fa-caret-right" title="right"></i></a> Sounds good! Take me to the tutorial. </p>
 </section>
             
-<section style="text-align: left;">
 
   <section style="text-align: left;">
-  	<table border="1">
-  		<tr>
-			<td style="vertical-align: top;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<p >You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. </p>
-			<p>Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>	
-		  </td>
-                             <td width="65%"><center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="100%" alt="Review Article" data-caption="Review Article" frameborder="0" allowfulscreen> </center></td>     
-					     </tr>
-				     </table>
+			<center><img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="100%" alt="Review Article" data-caption="Review Article" frameborder="0" allowfulscreen> </center>
+			<p style="font-size: 80%">You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
+			<p> <a href="#3/1"> Heads Up! </a> </p>
 			</section>	
           
       <section style="text-align: left;">
       <!-- Slide 3: 2nd level: Heads Up-->
       <h3>Heads Up!</h3>
-             	<p>Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
-		<p>Also note that for most senior theses in the sciences, the proper place to cite a review article is in the first few paragraphs of your introduction.  By placing references to a review article in your early intro, you give your reader a place to go for more information if they are unfamiliar with your field.</p>
-		<p>Be sure to review the writing prompt and check with your instructor to be sure!</p>
+             	<p style="font-size: 80%">Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
+		<p style="font-size: 80%">Also note that for most senior theses in the sciences, the proper place to cite a review article is in the first few paragraphs of your introduction.  By placing references to a review article in your early intro, you give your reader a place to go for more information if they are unfamiliar with your field.</p>
+		<p style="font-size: 80%">Be sure to review the writing prompt and check with your instructor to be sure!</p>
 		</section>   
     
 </section>
@@ -78,7 +70,7 @@ theme:  sky
             
     <section style="text-align: left;">
     <!-- Slide 4: 2nd level: Web of Science -->
-    <div class="row z-depth-2 hoverable blue lighten-5">
+    <div class="row z-depth-2">
     <div class="col s12">
        <h4>Web of Science</h4>
     </div>
@@ -86,9 +78,9 @@ theme:  sky
         <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" alt="Filter your results for review articles." data-caption="Under Document Types click the checkbox next to Review and then click Refine.">
     </div>
     <div class="col s12 m7">
-        <p>Start with a search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong>.</p>
-        <p>Then, on the results page, look for the “Document Types” filter on the left side of the page.</p>
-        <p>Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</p>
+        <p style="font-size: 80%">Start with a search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong>.</p>
+        <p style="font-size: 80%">Then, on the results page, look for the “Document Types” filter on the left side of the page.</p>
+        <p style="font-size: 80%">Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</p>
     </div>
     </div>
     </section>
@@ -150,11 +142,11 @@ theme:  sky
 
 
 <section style="text-align: left;">
-    <section style="text-align: left;">
 		<h3>How do I know if an article is a <em>Review Article</em> or a <em>Primary Research Article?</em></h3>
     </section>
     
-    <section style="text-align: left;">
+<section style="text-align: left;">
+<section style="text-align: left;">
     <div class="col s12">
     <h4> In primary research articles:</h4>
             <ul class="browser-default">
@@ -166,8 +158,15 @@ theme:  sky
         </div>
       </section>
       
-    <section style="text-align: left;">
-    <div id="Review" class="col s12">
+      <section style="text-align: left;">
+      <h6>Example abstract:</h6>
+        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-primary-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., & Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.</p>
+      </section>
+      </section>
+      
+<section style="text-align: left;">
+	<section style="text-align: left;">
         <h4>In review articles:</h4>
         <div class="col s12">
             <ul class="browser-default">
@@ -176,8 +175,11 @@ theme:  sky
             <li>the focus is often on summarizing and analyzing a broad set of questions related to a research area.</li>
             </ul>
         </div>
-        </div>
         </section>
-        
+        <section style="text-align: left;">
+	<h6>Example abstract:</h6>
+            <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/content/rop-review-annotated.jpg' | prepend: site.baseurl }}" alt="In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic." data-caption="The abstract for a primary research article discusses a study or investigation.">
+        <p style="font-size: small;">Tottenham, N., & Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.</p>
+	</section>
  </section>
       
