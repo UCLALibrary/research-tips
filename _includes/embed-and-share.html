@@ -6,6 +6,15 @@
       <i class="large material-icons">share</i>
     </a>
     <ul>
+        {% if page.handout %}
+            <li>
+            {% if page.handout contains 'http' %}
+                <a class="btn-floating ucla-color three-veronica" href="{{ page.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+            {% else %}
+                <a class="btn-floating ucla-color three-veronica" href="{{ site.url }}/{{ page.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+            {% endif %}
+            </li>
+        {% endif %}
         <li><a class="btn-floating ucla-color three-aqua" href="#modal1"><i class="large material-icons">code</i></a></li>
         <li><a class="btn-floating ucla-color three-veronica" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{site.url}}{{ site.baseurl }}{{ page.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         <li>

@@ -3,7 +3,8 @@ layout: post
 title:  "Start with your Questions"
 date:   2010-01-01
 description: Before you search, start by brainstorming a list questions.
-category: questions
+category: Planning Your Project
+handout: /assets/handouts/questions.pdf
 tags:
 - getting started
 - research questions
