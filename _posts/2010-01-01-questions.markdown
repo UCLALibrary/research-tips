@@ -2,7 +2,7 @@
 layout: post
 title:  "Start with your Questions"
 date:   2010-01-01
-description: Before you search, start by brainstorming a list questions.
+description: Before you search, start by brainstorming a list of questions.
 category: Planning Your Project
 handout: /assets/handouts/questions.pdf
 tags:
