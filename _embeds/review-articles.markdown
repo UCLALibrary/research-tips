@@ -67,8 +67,8 @@ theme:  sky
           	<p> Finding a review article is relatively simple, though it varies slightly depending on what database you are using. </p>
 	    <p><i class="fa fa-caret-down" title="down"></i><a href="#4/1"> Web of Science </a> </p>
 	    <p><i class="fa fa-caret-down" title="down"></i> <a href="#4/2"> PubMed </a> </p>
-	    <p><i class="fa fa-caret-down" title="down"> <a href="#4/3"> UCLA Library Journal Search </a> </p> 
-            <p><i class="fa fa-caret-down" title="down"> <a href="#4/4"> Google Scholar and ArticlesPlus </a> </p>
+	    <p><i class="fa fa-caret-down" title="down"></i> <a href="#4/3"> UCLA Library Journal Search </a> </p> 
+            <p><i class="fa fa-caret-down" title="down"></i> <a href="#4/4"> Google Scholar and ArticlesPlus </a> </p>
 	    
    </section>
             
