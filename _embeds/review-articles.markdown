@@ -41,13 +41,14 @@ theme:  sky
 			<div>
 			<p style="font-size: 80%;">You can use a review article to get a better understanding of the existing research on a topic, identify research questions you would like to explore, and to find relevant sources in the review article’s bibliography.</p>
 			<p style="font-size: 80%;">In other words, reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
-			<p> <a href="#3/1"> Heads Up! </a> </p>
+			<p><i class="fa fa-caret-down" title="down"></i><a href="#3/1"> Am I allowed the cite review articles in my papers?</a></p>
 			</div>
 			</section>	
           
       <section style="text-align: left;">
-      <!-- Slide 3: 2nd level: Heads Up-->
-      <h3>Heads Up!</h3>
+      <!-- Slide 3: 2nd level: Citing review articles-->
+      <h3>Am I allowed the cite review articles in my papers?</h3>
+      <h4>It depends....</h4>
              	<p style="font-size: 80%">Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
 		<p style="font-size: 80%">Also note that for most senior theses in the sciences, the proper place to cite a review article is in the first few paragraphs of your introduction.  By placing references to a review article in your early intro, you give your reader a place to go for more information if they are unfamiliar with your field.</p>
 		<p style="font-size: 80%">Be sure to review the writing prompt and check with your instructor to be sure!</p>
