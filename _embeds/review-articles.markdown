@@ -37,8 +37,9 @@ theme:  sky
     <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<img src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="50%" style="float: right; margin-left: 10px;" alt="Review Article" data-caption="Review Article">
-			<p style="font-size: 80%;">You can use a review article to:</p>
+			<div style="float: right; width: 50%; margin-left: 10px;"><img src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"></div>
+			<div>
+			<p>You can use a review article to:</p>
 			<ul class="browser-default" style="font-size: 90%;">
 			<li>Get a better understanding of the existing research on a topic;</li>
 			<li>identify research questions you would like to explore;</li>
@@ -46,6 +47,7 @@ theme:  sky
 			</ul>
 			<p>In other words, reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
 			<p> <a href="#3/1"> Heads Up! </a> </p>
+			</div>
 			</section>	
           
       <section style="text-align: left;">
