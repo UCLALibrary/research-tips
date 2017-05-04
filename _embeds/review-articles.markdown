@@ -10,7 +10,7 @@ theme:  sky
 <!-- Slide 1: top level-->
   <h2>Find and Use Review Articles</h2>
   <h3 style="font-size: 90%">Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. A review article provides an analysis of the state of research on a set of related research questions. Review articles often:</h3>
-                <ul class="browser-default" style="font-size 90%">
+                <ul class="browser-default" style="font-size: 90%">
                     <li>summarize key research findings;</li>
                     <li>reference must-read articles;</li>
                     <li>describe current areas of agreement as well as controversies and debates;</li>
@@ -39,7 +39,7 @@ theme:  sky
 			<h3>Why read a review article?</h3>
 			<img src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="50%" style="float: right; margin-left: 10px;" alt="Review Article" data-caption="Review Article">
 			<p style="font-size: 80%;">You can use a review article to:</p>
-			<ul>
+			<ul class="browser-default" style="font-size: 90%;">
 			<li>Get a better understanding of the existing research on a topic;</li>
 			<li>identify research questions you would like to explore;</li>
 			<li>and to find relevant sources in the review article’s bibliography (which often references research articles that have made an impact on the field and advanced understanding of a research topic).</li>
