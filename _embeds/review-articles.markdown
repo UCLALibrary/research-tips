@@ -64,12 +64,11 @@ theme:  sky
   <!-- Slide 4: top level: How do I Find a Review Article?-->
 		<h3>How do I find a review article?</h3>
           	<p> Finding a review article is relatively simple, though it varies slightly depending on what database you are using. </p>
-            <ul class="browser-default">
-	    <li> <a href="#4/1"> Web of Science </a> </li>
-	    <li> <a href="#4/2"> PubMed </a> </li>
-	    <li> <a href="#4/3"> UCLA Library Journal Search </a> </li> 
-            <li> <a href="#4/4"> Google Scholar and ArticlesPlus </a> </li>
-            </ul>
+	    <p><i class="fa fa-caret-down" title="down"></i><a href="#4/1"> Web of Science </a> </p>
+	    <p><i class="fa fa-caret-down" title="down"></i> <a href="#4/2"> PubMed </a> </p>
+	    <p><i class="fa fa-caret-down" title="down"> <a href="#4/3"> UCLA Library Journal Search </a> </p> 
+            <p><i class="fa fa-caret-down" title="down"> <a href="#4/4"> Google Scholar and ArticlesPlus </a> </p>
+	    
    </section>
             
     <section style="text-align: left;">
