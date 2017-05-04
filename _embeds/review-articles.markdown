@@ -37,7 +37,7 @@ theme:  sky
     <section style="text-align: left;">
 <!-- Slide 3: top level: Why read a review article?-->
 			<h3>Why read a review article?</h3>
-			<center><img src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" height="30%" alt="Review Article" data-caption="Review Article"> </center>
+			<img src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" width="50%" style="float: right;" alt="Review Article" data-caption="Review Article">
 			<p style="font-size: 80%;">You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
 			<p> <a href="#3/1"> Heads Up! </a> </p>
 			</section>	
