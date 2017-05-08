@@ -37,6 +37,9 @@ tags:
 <p>And most importantly, <b><i> practice </i></b>delivering your elevator speech a lot. This will help calm your nerves so you don't freeze up when you're about to share your research with others. To make your elevator speech not sound robotic, it's a good idea to memorize key points of your research rather than a full script. </p>
 <p>And lastly, be <b><i> enthusiastic. </i></b> Recall what first sparked your interest in your research and be sure to convey that to your audience. </p>
 
+<div class="row">
+<div class="col s12">
+
 <h4>What's the difference between an elevator speech and an abstract?</h4>
 <p>Although both serve to present your research and its significance in a concise manner, elevator speeches and abstracts differ in format and purpose. </p>
 
