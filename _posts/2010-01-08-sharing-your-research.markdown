@@ -8,8 +8,8 @@ tags:
 - elevator speech
 - elevator pitch 
 ---
-<p class="intro"> You've spent weeks, months, and maybe even years working on a research project that you are proud of. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? </p>
-<p class="intro"> It could be your department chair, a potential research advisor, a fellow researcher, or a funding organization. Instead of panicking and not knowing where to begin or stumbling through your research purpose, you should take some time now and create an elevator speech to pitch in these situations. </p>
+<p class="intro"> <i>You've spent weeks, months, and maybe even years working on a research project that you are proud of. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research?</i> </p>
+<p class="intro"> <i>It could be your department chair, a potential research advisor, a fellow researcher, or a funding organization. Instead of panicking and not knowing where to begin or stumbling through your research purpose, you should take some time now and create an elevator speech to pitch in these situations. </i></p>
 <div class="row">
 <div class="col s12">
 
