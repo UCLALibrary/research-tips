@@ -35,7 +35,7 @@ tags:
 
 <p> Remember to keep it simple and to the point. State your research topic, report your findings, and convey its significance. It's a good idea to write out a draft first and read it out loud a few times to make sure it flows and is of appropriate length. </p>
 <p>And most importantly, <b><i> practice </i></b>delivering your elevator speech a lot. This will help calm your nerves so you don't freeze up when you're about to share your research with others. To make your elevator speech not sound robotic, it's a good idea to memorize key points of your research rather than a full script. </p>
-<p>And lastly, be <b><i> enthusiastic </i></b>. Recall what first sparked your interest in your research and be sure to convey that to your audience. </p>
+<p>And lastly, be <b><i> enthusiastic. </i></b> Recall what first sparked your interest in your research and be sure to convey that to your audience. </p>
 
 <h4>What's the difference between an elevator speech and an abstract?</h4>
 <p>Although both serve to present your research and its significance in a concise manner, elevator speeches and abstracts differ in format and purpose. </p>
