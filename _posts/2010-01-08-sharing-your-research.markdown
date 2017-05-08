@@ -18,7 +18,7 @@ tags:
 <p>In a research setting, an elevator speech introduces you as a researcher, your research questions, and teh significance of your reserach. Because an elevator speech is short, typically 30 seconds to 2 minutes, it is a great way to introduce and share your research with others at formal networking events, conferences, casual conversations, or even during an actual elevator ride.</p>
 <p> Ultimately, your elevator speech should provide a 'hook' and make your listener want to know more about your research! </p>
 
-<h3>Give it a try:</h3>
+<h4>Basic Components of an Elevator Speech</h4>
 <center>
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="600px"></iframe>
 </center>
