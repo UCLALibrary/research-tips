@@ -8,3 +8,6 @@ tags:
 - zotero
 - research 
 ---
+
+
+https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html
