@@ -9,5 +9,8 @@ tags:
 - research 
 ---
 
+<center>
+  <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="600px"></iframe>
+</center>
 
-https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html
+
