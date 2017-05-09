@@ -14,19 +14,18 @@ tags:
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-jg92ZjObg" frameborder="0" allowfullscreen></iframe></div>
 
-### What is "The Literature"? 
-<p class="flow-text">Text here.</p>
-
 ### The Process
-<p class="flow-text">After you’ve gathered a mix of scholarly resources for your review, it’s tempting to summarize each one and call it a day. However, literature reviews are more than a collection of summaries: they analyze connections and disagreements between sources, identify gaps in the collective knowledge, and more. Check out the video below for more information: 
+<p class="flow-text">"The Literature" in literature reviews refers to the body of scholarly research on a topic - including articles, books, datasets, and more. After you’ve gathered a mix of resources for your review, it’s tempting to summarize each one and call it a day. However, literature reviews are more than a collection of summaries: they analyze connections and disagreements between sources, identify gaps in the collective knowledge, and more. Check out the video below for more information: 
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDhHkKO3urg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Types of Literature Reviews &amp; Strategies for Writing
-<p class="flow-text">Text here.</p>
+<p class="flow-text">As mentioned in the first video, literature reviews can take different shapes based on your research needs. You can either have a narrow or broad focus, and the finished piece can stand on its own or be part of a bigger project.</p>
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-plot.jpg' | prepend: site.baseurl }}" alt="Types of reviews and where to use them" data-caption="Types of reviews and where to use them"> 
+<i>Image adapted from NCSU Libraries' Graduate Student Literature Review Workshop.</i>
+
 
 ### Skimming for What You Need
 <p class="flow-text"><i>Adapted from UCLA Professor Snowden Becker's <a href="https://snowdenbecker.files.wordpress.com/2016/09/how-to-read-an-article_2016.pdf">"How to Read an Article"</a>.</i><BR>
