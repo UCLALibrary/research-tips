@@ -21,7 +21,7 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDhHkKO3urg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Types of Literature Reviews &amp; Strategies for Writing
+### Types of Literature Reviews
 <p class="flow-text">As mentioned in the first video, literature reviews can take different shapes based on your research needs. You can either have a narrow or broad focus, and the finished piece can stand on its own or be part of a bigger project.</p>
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-plot.jpg' | prepend: site.baseurl }}" alt="Types of reviews and where to use them" data-caption="Types of reviews and where to use them"> 
 <i>Image adapted from NCSU Libraries' Graduate Student Literature Review Workshop.</i>
