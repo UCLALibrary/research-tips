@@ -29,7 +29,7 @@ tags:
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-plot.jpg' | prepend: site.baseurl }}" alt="Types of reviews and where to use them" data-caption="Types of reviews and where to use them"> 
 
 ### Skimming for What You Need
-<p class="flow-text"><i>Adapted from UCLA Professor Snowden Becker's <a href="hhttps://snowdenbecker.files.wordpress.com/2016/09/how-to-read-an-article_2016.pdf">"How to Read an Article"</a>.</i><BR>
+<p class="flow-text"><i>Adapted from UCLA Professor Snowden Becker's <a href="https://snowdenbecker.files.wordpress.com/2016/09/how-to-read-an-article_2016.pdf">"How to Read an Article"</a>.</i><BR>
 <ul>
 <li><b>Start at the ends.</b> Important information is usually concentrated in the abstract, introduction, and conclusion of the piece. From this quick scan, you can likely tell if this resource is important to your research and merits inclusion in your literature review.</li>
 <li><b>Look for landmarks.</b> Journal articles generally follow a set structure with titled subsections like <i>Problem Statement</i> or <i>Research Methods &amp; Design</i> that allow you to skip to the content you need.</li>
