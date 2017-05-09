@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Creating Literature Reviews"
+date:   2009-12-31
+description: Demystify the ever mysterious literature review! 
+category: literature review
+tags:
+- literature review
+- writing
+---
+### Overview
+<p class="flow-text">Literature reviews are great resources for research projects in all disciplines. Not only do they present the key ideas in a field and point to must-read articles, but they also suggest directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review - covering everything from your role as the author of a literature review to organizational approaches and writing strategies. <BR> This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. </p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u-jg92ZjObg" frameborder="0" allowfullscreen></iframe></div>
+
+### What is "The Literature"? 
+<p class=flow-text">Text here.</p>
+
+### The Process
+<p class="flow-text">After you’ve gathered a mix of scholarly resources for your review, it’s tempting to summarize each one and call it a day. However, literature reviews are more than a collection of summaries: they analyze connections and disagreements between sources, identify gaps in the collective knowledge, and more. Check out the video below for more information: 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDhHkKO3urg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### Types of Literature Reviews &amp; Strategies for Writing
+<p class="flow-text">Text here.</p>
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-plot.jpg' | prepend: site.baseurl }}" alt="Types of reviews and where to use them" data-caption="Types of reviews and where to use them"> 
+
+### Skimming for What You Need
+<p class="flow-text"><i>Adapted from UCLA Professor Snowden Becker's <a href="hhttps://snowdenbecker.files.wordpress.com/2016/09/how-to-read-an-article_2016.pdf">"How to Read an Article"</a>.<BR>
+<ul>
+<li><b>Start at the ends.</b> Important information is usually concentrated in the abstract, introduction, and conclusion of the piece. From this quick scan, you can likely tell if this resource is important to your research and merits inclusion in your literature review.</li>
+<li><b>Look for landmarks.</b> Journal articles generally follow a set structure with titled subsections like <i>Problem Statement</i> or <i>Research Methods & Design</i> that allow you to skip to the content you need.</li>
+<li><b>Take notes as you go.</b> While you may remember the central argument or findings of a resource now, after you look through a whole body of research you may lose the nuances of individual pieces. Important things to keep track of may include central ideas, research methods, referenced works, and refuted or counter-argued ideas. </li></ul>
+
