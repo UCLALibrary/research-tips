@@ -27,7 +27,7 @@ tags:
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="400px"></iframe>
 </center>
 
-<div class="row z-depth-1">
+<div class="row z-depth-2">
     <div class="col s12">
       <ul class="tabs">
         <li class="tab col s3"><a class="active" href="#who">Who</a></li>
@@ -55,14 +55,14 @@ tags:
         <h4>Where</h4>
         <div class="col s12">
             <br><center>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;end=10" frameborder="0" allowfullscreen=""></iframe></center> <br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;end=10" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe></center> <br>
         </div>
        </div>
     <div id="why" class="col s12">
         <h4>Why</h4>
         <div class="col s12">
             <br><center>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;end=29" frameborder="0" allowfullscreen=""></iframe>  </center> <br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;end=29" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe></center> <br>
         </div>
        </div>    
      </div>
