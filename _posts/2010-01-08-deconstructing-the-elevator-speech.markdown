@@ -27,7 +27,7 @@ tags:
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="400px"></iframe>
 </center>
 
-<div class="row z-depth-2">
+<div class="row z-depth-4">
     <div class="col s12">
       <ul class="tabs">
         <li class="tab col s3"><a class="active" href="#who">Who</a></li>
@@ -64,8 +64,7 @@ tags:
             <br><center>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;end=29" frameborder="0" allowfullscreen=""></iframe>  </center> <br>
         </div>
-       </div>
-       
+       </div>    
      </div>
     </div>
         
