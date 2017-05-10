@@ -43,13 +43,15 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&amp;end=29" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe>
 <br>
     </div>
+    </div>
     <div id="what" class="col s12">
         <h4>What</h4>
         <div class="col s12">
             <br>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/rlPloFiK-e8?start=4&amp;end=10" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe> <br>
         </div>
-        </div>
+       </div>
+       
     </div>
 </div>
         
