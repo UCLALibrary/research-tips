@@ -42,10 +42,6 @@ table, th, td {
   </head>
 <table style="width:100%">
   <tr>
-  <td width="(100/2)%"></td>
-  </tr>
- </table>
-  <tr>
   <th><center>Before</center></th>
   <th><center>After</center></th>
   </tr>
