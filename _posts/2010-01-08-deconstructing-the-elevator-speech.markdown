@@ -76,16 +76,16 @@ table, th, td {
   <tr>
   <td> 
     <ul style="list-style-type:disc">
-      <li>Typically lasting from 30 seconds to 2 minutes (length of an elevator ride)</li>
-      <li>Delivered orally</li>
-      <li>Purpose: introduce yourself as a researcher, your research project, and its significance so your audience will want to <i>learn more</i>about your research</li>
+      <li type="square">Typically lasting from 30 seconds to 2 minutes (length of an elevator ride)</li>
+      <li type="square">Delivered orally</li>
+      <li type="square">Purpose: introduce yourself as a researcher, your research project, and its significance so your audience will want to <i>learn more</i>about your research</li>
       </ul> 
   </td>
   <td>
     <ul style="list-style-type:disc">
-    <li>Brief paragraph (often 150-300 words)</li>
-    <li>Presented in written form</li>
-    <li>Purpose: explain your research project and its significance in order to present at conferences, publish in journals, or apply for funding</li>
+    <li type="square">Brief paragraph (often 150-300 words)</li>
+    <li type="square">Presented in written form</li>
+    <li type="square">Purpose: explain your research project and its significance in order to present at conferences, publish in journals, or apply for funding</li>
     <li>Can also be used to apply for a research scholarship or fellowship</li>
     </ul>
   </td>
