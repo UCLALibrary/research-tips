@@ -33,6 +33,17 @@ tags:
 
 <p>Here's an example of how you can edit a technical and jargon-heavy passage so it's more suitable for a wider audience. </p>
 
+<table style="width:100%">
+  <tr>
+  <th>Before</th>
+  <th>After</th>
+  </tr>
+  <tr>
+  <td>A SNP can produce a change in amino acid sequence, which consequently could affect the structure and function of the resulting protein. An example of this can be found in the oxygen-binding protein: hemoglobin. When the sixth amino acid is changed from glutamic acid to valine--a hydrophobic amino acid--hemoglobin will occasionally collapse on itself, thus forming a sickle-shaped red blood cell. This condition is known as sickle-cell anemia. </td>
+  <td>A single-nucleotide polymorphism (SNP) is a variation in a single base in DNA. This change can affect the structure and function of the resulting protein. Hemoglobin, a protein important in transporting oxygen to our cells, can become sickle-shaped as a result of a SNP. This condition is known as sickle-cell anemia. </td>
+  </tr>
+</table>
+
 <p> Remember to keep it simple and to the point. State your research topic, report your findings, and convey its significance. It's a good idea to write out a draft first and read it out loud a few times to make sure it flows and is of appropriate length. </p>
 <p>And most importantly, <b><i> practice </i></b>delivering your elevator speech a lot. This will help calm your nerves so you don't freeze up when you're about to share your research with others. To make your elevator speech not sound robotic, it's a good idea to memorize key points of your research rather than a full script. </p>
 <p>And lastly, be <b><i> enthusiastic. </i></b> Recall what first sparked your interest in your research and be sure to convey that to your audience. </p>
