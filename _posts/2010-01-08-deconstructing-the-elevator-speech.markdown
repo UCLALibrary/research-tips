@@ -15,13 +15,13 @@ tags:
 
 <h4>So what is an elevator speech?</h4>
 
-<p>In a research setting, an elevator speech introduces you as a researcher, your research questions, and teh significance of your reserach. Because an elevator speech is short, typically 30 seconds to 2 minutes, it is a great way to introduce and share your research with others at formal networking events, conferences, casual conversations, or even during an actual elevator ride.</p>
+<p>In a research setting, an elevator speech introduces you as a researcher, your research questions, and the significance of your research. Because an elevator speech is short, typically 30 seconds to 2 minutes, it is a great way to introduce and share your research with others at formal networking events, conferences, casual conversations, or even during an actual elevator ride.</p>
 <p> Ultimately, your elevator speech should provide a 'hook' and make your listener want to know more about your research! </p>
 
 <div class="row">
 <div class="col s12">
 <h4>Basic Components of an Elevator Speech</h4>
-<p>Below is a visual representation of the basic components of an elevator speech. Each 'floor" corresponds to a different part of the elevator speech. </p>
+<p>Below is a visual representation of the basic components of an elevator speech. Each 'floor' corresponds to a different part of the elevator speech. </p>
 <p>You can click the elevator buttons and read more on what should be included in that particular section.</p>
 <center>
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="400px"></iframe>
@@ -107,7 +107,7 @@ table, th, td {
     <ul class="browser-default">
       <li type="square">Typically lasting from 30 seconds to 2 minutes (length of an elevator ride)</li>
       <li type="square">Delivered orally</li>
-      <li type="square">Purpose: introduce yourself as a researcher, your research project, and its significance so your audience will want to <i>learn more</i>about your research</li>
+      <li type="square">Purpose: introduce yourself as a researcher, your research project, and its significance so your audience will want to <i>learn more</i> about your research</li>
       </ul> 
   </td>
   <td>
