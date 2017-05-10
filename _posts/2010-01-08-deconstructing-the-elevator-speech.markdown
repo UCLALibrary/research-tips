@@ -30,10 +30,10 @@ tags:
 <div class="row z-depth-2">
     <div class="col s12">
       <ul class="tabs">
-        <li class="tab col s6"><a class="active" href="#who">Who</a></li>
-        <li class="tab col s6"><a href="#what">What</a></li>
-        <li class="tabl col s6"><a href="#where">Where</a></li>
-        <li class="tabl col s6"><a href="#why">Why</a></li>
+        <li class="tab col s3"><a class="active" href="#who">Who</a></li>
+        <li class="tab col s3"><a href="#what">What</a></li>
+        <li class="tabl col s3"><a href="#where">Where</a></li>
+        <li class="tabl col s3"><a href="#why">Why</a></li>
       </ul>
     </div>
     <div id="who" class="col s12">
