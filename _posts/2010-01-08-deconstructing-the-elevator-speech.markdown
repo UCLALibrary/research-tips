@@ -40,7 +40,7 @@ table, th, td {
   </head>
 <table style="width:100%">
   <tc>
-    <th>Avoid using acronyms</th>
+  <th><center>Avoid using acronyms</center></th>
     <td>Spell out acronyms before proceeding to use them
     <ul class="browser-default">
     <li>For example, non-governmental organization instead of NGO</li>
@@ -49,7 +49,7 @@ table, th, td {
     </td> 
   </tc>
   <tr>
-    <th>Use everyday examples/analogies</th>
+  <th><center>Use everyday examples/analogies</center></th>
     <td>
     <ul class="browser-default">
     <li>For example, describe DNA's role as a 'blueprint' for the cell</li>
