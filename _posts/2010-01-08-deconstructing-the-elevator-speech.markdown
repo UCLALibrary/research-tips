@@ -56,6 +56,7 @@ table, th, td {
     </ul>
     </td>
   </tr>
+  </table>
 
 <p>Here's an example of how you can edit a technical and jargon-heavy passage so it's more suitable for a wider audience. </p>
 
