@@ -61,5 +61,35 @@ table, th, td {
 <h4>What's the difference between an elevator speech and an abstract?</h4>
 <p>Although both serve to present your research and its significance in a concise manner, elevator speeches and abstracts differ in format and purpose. </p>
 
+<head>
+<style>
+table, th, td {
+  border: 2px solid black;
+  }
+  </style>
+  </head>
+<table style="width:100%">
+  <tr>
+  <th><center>Elevator Speech</center></th>
+  <th><center>Abstract</center></th>
+  </tr>
+  <tr>
+  <td> <center> 
+    <ul>
+      <li>Typically lasting from 30 seconds to 2 minutes (length of an elevator ride)</li>
+      <li>Delivered orally</li>
+      <li>Purpose: introduce yourself as a researcher, your research project, and its significance so your audience will want to <i>learn more</i>about your research</li>
+      </ul> 
+  </center> </td>
+  <td> <center>
+    <ul>
+    <li>Brief paragraph (often 150-300 words)</li>
+    <li>Presented in written form</li>
+    <li>Purpose: explain your research project and its significance in order to present at conferences, publish in journals, or apply for funding</li>
+    <li>Can also be used to apply for a research scholarship or fellowship</li>
+    </ul>
+  </center></td>
+  </tr>
+</table>
 
 
