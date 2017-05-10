@@ -34,7 +34,7 @@ tags:
     <div class="col s12 m5">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&amp;end=29" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe>
 <br>
-       
+</div>      
 </div>
 
 <div class="row">
