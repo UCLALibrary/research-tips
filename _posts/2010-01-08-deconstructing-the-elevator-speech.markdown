@@ -33,6 +33,13 @@ tags:
 
 <p>Here's an example of how you can edit a technical and jargon-heavy passage so it's more suitable for a wider audience. </p>
 
+<head>
+<style>
+table, th, td {
+  border: 2px solid black;
+  }
+  </style>
+  </head>
 <table style="width:100%">
   <tr>
   <th><center>Before</center></th>
