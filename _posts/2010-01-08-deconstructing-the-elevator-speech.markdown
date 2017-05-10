@@ -31,6 +31,32 @@ tags:
 <h4>Delivering an Elevator Speech</h4>
 <p>It's important to <b><i> consider whom your audience is </i></b> when delivering an elevator speech. For instance, it's a good idea to leave out jargon if you're pitching your research project to a lay audience as opposed to a group of experts in your field. 
 
+<head>
+<style>
+table, th, td {
+  border: 2px solid black;
+  }
+  </style>
+  </head>
+<table style="width:100%">
+  <tc>
+    <th>Avoid using acronyms</th>
+    <td>Spell out acronyms before proceeding to use them
+    <ul class="browser-default">
+    <li>For example, non-governmental organization instead of NGO</li>
+    <li>For example, marine protected area instead of MPA</li>
+    </ul>
+    </td> 
+  </tc>
+  <tr>
+    <th>Use everyday examples/analogies</th>
+    <td>
+    <ul class="browser-default">
+    <li>For example, describe DNA's role as a 'blueprint' for the cell</li>
+    </ul>
+    </td>
+  </tr>
+
 <p>Here's an example of how you can edit a technical and jargon-heavy passage so it's more suitable for a wider audience. </p>
 
 <head>
