@@ -38,7 +38,7 @@ tags:
     </div>
     <div id="who" class="col s12">
         <h4>Who</h4>
-        <div class="col s3">
+        <div class="col s12">
             <br><center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&amp;end=29" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe> </center>
 <br>
@@ -46,21 +46,21 @@ tags:
     </div>
     <div id="what" class="col s12">
         <h4>What</h4>
-        <div class="col s3">
+        <div class="col s12">
             <br><center>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/rlPloFiK-e8?start=4&amp;end=10" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe></center> <br>
         </div>
        </div>
     <div id="where" class="col s12">
         <h4>Where</h4>
-        <div class="col s3">
+        <div class="col s12">
             <br><center>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;end=10" frameborder="0" allowfullscreen=""></iframe></center> <br>
         </div>
        </div>
     <div id="why" class="col s12">
         <h4>Why</h4>
-        <div class="col s3">
+        <div class="col s12">
             <br><center>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;end=29" frameborder="0" allowfullscreen=""></iframe>  </center> <br>
         </div>
