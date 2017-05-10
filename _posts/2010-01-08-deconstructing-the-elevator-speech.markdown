@@ -35,12 +35,12 @@ tags:
 
 <table style="width:100%">
   <tr>
-  <th>Before</th>
-  <th>After</th>
+  <th><center>Before</center></th>
+  <th><center>After</center></th>
   </tr>
   <tr>
-  <td>A SNP can produce a change in amino acid sequence, which consequently could affect the structure and function of the resulting protein. An example of this can be found in the oxygen-binding protein: hemoglobin. When the sixth amino acid is changed from glutamic acid to valine--a hydrophobic amino acid--hemoglobin will occasionally collapse on itself, thus forming a sickle-shaped red blood cell. This condition is known as sickle-cell anemia. </td>
-  <td>A single-nucleotide polymorphism (SNP) is a variation in a single base in DNA. This change can affect the structure and function of the resulting protein. Hemoglobin, a protein important in transporting oxygen to our cells, can become sickle-shaped as a result of a SNP. This condition is known as sickle-cell anemia. </td>
+  <td> <center>A SNP can produce a change in amino acid sequence, which consequently could affect the structure and function of the resulting protein. An example of this can be found in the oxygen-binding protein: hemoglobin. When the sixth amino acid is changed from glutamic acid to valine--a hydrophobic amino acid--hemoglobin will occasionally collapse on itself, thus forming a sickle-shaped red blood cell. This condition is known as sickle-cell anemia. </center> </td>
+  <td> <center>A single-nucleotide polymorphism (SNP) is a variation in a single base in DNA. This change can affect the structure and function of the resulting protein. Hemoglobin, a protein important in transporting oxygen to our cells, can become sickle-shaped as a result of a SNP. This condition is known as sickle-cell anemia. </center></td>
   </tr>
 </table>
 
