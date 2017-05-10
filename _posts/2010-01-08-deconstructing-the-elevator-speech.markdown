@@ -21,6 +21,8 @@ tags:
 <div class="row">
 <div class="col s12">
 <h4>Basic Components of an Elevator Speech</h4>
+<p>Below is a visual representation of the basic components of an elevator speech. Each 'floor" corresponds to a different part of the elevator speech. </p>
+<p>You can click the elevator buttons and read more on what should be included in that particular section.</p>
 <center>
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="600px"></iframe>
 </center>
