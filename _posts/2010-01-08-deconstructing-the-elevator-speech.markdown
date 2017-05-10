@@ -53,31 +53,6 @@ tags:
        </div>
      </div>
     </div>
- <div class="row z-depth-2">
-    <div class="col s12">
-      <ul class="tabs">
-        <li class="tab col s6"><a class="active" href="#who">Who</a></li>
-        <li class="tab col s6"><a href="#what">What</a></li>
-        <li class="tabl col s6"><a href="#where">Where</a></li>
-        <li class="tabl col s6"><a href="#why">Why</a></li>
-      </ul>
-    </div>  
-    <div id="where" class="col s12">
-        <h4>Where</h4>
-        <div class="col s12">
-            <br><center>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;end=10" frameborder="0" allowfullscreen=""></iframe></center> <br>
-        </div>
-       </div>
-    <div id="where" class="col s12">
-        <h4>Why</h4>
-        <div class="col s12">
-            <br><center>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;end=29" frameborder="0" allowfullscreen=""></iframe> </center> <br>
-        </div>
-       </div>
-    </div>
-</div>
         
 
 <div class="row">
