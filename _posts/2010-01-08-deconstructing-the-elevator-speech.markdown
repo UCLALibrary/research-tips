@@ -29,8 +29,6 @@ tags:
 
 <head>
 <style>
-body {font-family: "Lato", sans-serif;}
-
 /* Style the tab */
 div.tab {
     overflow: hidden;
@@ -71,7 +69,7 @@ div.tab button.active {
 </head>
 <body>
 
-<p>In this example, we use JavaScript to "click" on the London button, to open the tab on page load.</p>
+<p>You can check out some quick examples below:</p>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Who')" id="defaultOpen">Who</button>
