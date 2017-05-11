@@ -27,6 +27,9 @@ tags:
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="400px"></iframe>
 </center>
 
+<div class="row">
+<div class="col s12">
+
 <head>
 <style>
 /* Style the tab */
@@ -117,6 +120,9 @@ function openCity(evt, cityName) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
+
+<div class="row">
+<div class="col s12">
 <!--
 <div class="row z-depth-2">
     <div class="col s12">
