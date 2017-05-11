@@ -119,7 +119,7 @@ function openCity(evt, cityName) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-
+<!--
 <div class="row z-depth-2">
     <div class="col s12">
       <ul class="tabs">
@@ -160,7 +160,7 @@ document.getElementById("defaultOpen").click();
        </div>    
      </div>
     </div>
-        
+   -->     
  
 
 <div class="row">
