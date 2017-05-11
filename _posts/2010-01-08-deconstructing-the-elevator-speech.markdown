@@ -27,6 +27,99 @@ tags:
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="400px"></iframe>
 </center>
 
+<head>
+<style>
+body {font-family: "Lato", sans-serif;}
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+</style>
+</head>
+<body>
+
+<p>In this example, we use JavaScript to "click" on the London button, to open the tab on page load.</p>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Who')" id="defaultOpen">Who</button>
+  <button class="tablinks" onclick="openCity(event, 'What')">What</button>
+  <button class="tablinks" onclick="openCity(event, 'Where')">Where</button>
+  <button class="tablinks" onclick="openCity(event,
+'Why')">Why</button>
+</div>
+
+<div id="Who" class="tabcontent">
+  <h3>Who</h3>
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&end=29" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe> </center>
+</div>
+
+<div id="What" class="tabcontent">
+  <h3>What</h3>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/rlPloFiK-e8?start=4&end=10" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe></center>  
+</div>
+
+<div id="Where" class="tabcontent">
+  <h3>Where</h3>
+  <center><iframe width="640" height="360" src="https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&end=10" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe> </center>
+</div>
+
+<div id="Why" class="tabcontent">
+  <h3>Why</h3>
+ <center><iframe width="640" height="360" src="https://www.youtube.com/embed/gw3LN_pK_rU?start=8&end=29" frameborder="0" allowfullscreen="" style="font-size: 1.4rem;"></iframe> </center>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
 <div class="row z-depth-2">
     <div class="col s12">
       <ul class="tabs">
