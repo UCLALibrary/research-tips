@@ -72,7 +72,7 @@ div.tab button.active {
 </head>
 <body>
 
-<p>You can check out some quick examples below:</p>
+<p>You can check out some quick video examples below:</p>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Who')" id="defaultOpen">Who</button>
