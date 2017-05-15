@@ -8,7 +8,7 @@ tags:
 - elevator speech
 - elevator pitch 
 ---
-<p class="intro"> You've spent weeks, months, and maybe even years working on a research project that you are proud of. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? You should take some time now and create an elevator speech to pitch in these situations.</p>
+<p class="intro"> You've spent weeks, months, and maybe even years working on a research project. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? You should take some time now and create an elevator speech to pitch in these situations.</p>
 
 <div class="row">
 <div class="col s12">
@@ -260,6 +260,6 @@ table, th, td {
   </td>
   </tr>
 </table>
-<p> <b>Note:</b> If you've already written your abstract for your research paper, you can use it as a starting basis for your elevator speech. You can think of your elevator speech as a more condensed version of your abstract. Remember, the main purpose of the elevator speech is to engage your listener so they're interested in learning about the details of your project. </p>
+<p> <b>Note:</b> If you've already written your abstract for your research paper, you can use it as a starting basis for your elevator speech. You can think of your elevator speech as a more condensed version of your abstract. Remember, the main purpose of the elevator speech is to engage your listeners so they're interested in learning about the details of your project. </p>
 
 
