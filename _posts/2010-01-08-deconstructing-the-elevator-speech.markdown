@@ -260,5 +260,6 @@ table, th, td {
   </td>
   </tr>
 </table>
+<p> <b>Note:</b> If you've already written your abstract for your research paper, you can use it as a starting basis for your elevator speech. You can think of your elevator speech as a more condensed version of your abstract. Remember, the main purpose of the elevator speech is to engage your listener so they're interested in learning about the details of your project. </p>
 
 
