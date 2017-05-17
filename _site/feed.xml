@@ -5,9 +5,288 @@
     <description>A collection of tips and strategies to help you get started on your research projects</description>
     <link>https://uclalibrary.github.io/research-tips/</link>
     <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Apr 2017 22:19:03 -0700</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2017 22:19:03 -0700</lastBuildDate>
+    <pubDate>Wed, 17 May 2017 09:41:49 -0700</pubDate>
+    <lastBuildDate>Wed, 17 May 2017 09:41:49 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      
+      <item>
+        <title>Deconstructing the Elevator Speech</title>
+        <description>&lt;p class=&quot;intro&quot;&gt; You've spent weeks, months, and maybe even years working on a research project. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? You should take some time now and create an elevator speech to pitch in these situations.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col s12&quot;&gt;
+
+&lt;h4&gt;So what is an elevator speech?&lt;/h4&gt;
+
+&lt;p&gt;In a research setting, an elevator speech introduces you as a researcher, your research questions, and the significance of your research. Because an elevator speech is short, typically 30 seconds to 2 minutes, it is a great way to introduce and share your research with others at formal networking events, conferences, casual conversations, or even during an actual elevator ride.&lt;/p&gt;
+&lt;p&gt; Ultimately, your elevator speech should provide a 'hook' and make your listener want to know more about your research! &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col s12&quot;&gt;
+&lt;h4&gt;Basic Components of an Elevator Speech&lt;/h4&gt;
+&lt;p&gt;Below is a visual representation of the basic components of an elevator speech. Each 'floor' corresponds to a different part of the elevator speech. &lt;/p&gt;
+&lt;p&gt;You can click the elevator buttons and read more on what should be included in that particular section.&lt;/p&gt;
+&lt;center&gt;
+  &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html&quot; width=&quot;100%&quot; height=&quot;400px&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col s12&quot;&gt;
+
+&lt;head&gt;
+&lt;style&gt;
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;p&gt;You can check out some quick video examples below by clicking on the various tabs:&lt;/p&gt;
+
+&lt;div class=&quot;tab&quot;&gt;
+  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event, 'Who')&quot; id=&quot;defaultOpen&quot;&gt;Who&lt;/button&gt;
+  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event, 'What')&quot;&gt;What&lt;/button&gt;
+  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event, 'Where')&quot;&gt;Where&lt;/button&gt;
+  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event,
+'Why')&quot;&gt;Why&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Who&quot; class=&quot;tabcontent&quot;&gt;
+  &lt;h3&gt;Who&lt;/h3&gt;
+  &lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;What&quot; class=&quot;tabcontent&quot;&gt;
+  &lt;h3&gt;What&lt;/h3&gt;
+&lt;center&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/rlPloFiK-e8?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;  
+&lt;/div&gt;
+
+&lt;div id=&quot;Where&quot; class=&quot;tabcontent&quot;&gt;
+  &lt;h3&gt;Where&lt;/h3&gt;
+  &lt;center&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Why&quot; class=&quot;tabcontent&quot;&gt;
+  &lt;h3&gt;Why&lt;/h3&gt;
+ &lt;center&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName(&quot;tabcontent&quot;);
+    for (i = 0; i &lt; tabcontent.length; i++) {
+        tabcontent[i].style.display = &quot;none&quot;;
+    }
+    tablinks = document.getElementsByClassName(&quot;tablinks&quot;);
+    for (i = 0; i &lt; tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(&quot; active&quot;, &quot;&quot;);
+    }
+    document.getElementById(cityName).style.display = &quot;block&quot;;
+    evt.currentTarget.className += &quot; active&quot;;
+}
+
+// Get the element with id=&quot;defaultOpen&quot; and click on it
+document.getElementById(&quot;defaultOpen&quot;).click();
+&lt;/script&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col s12&quot;&gt;
+&lt;!--
+&lt;div class=&quot;row z-depth-2&quot;&gt;
+    &lt;div class=&quot;col s12&quot;&gt;
+      &lt;ul class=&quot;tabs&quot;&gt;
+        &lt;li class=&quot;tab col s3&quot;&gt;&lt;a class=&quot;active&quot; href=&quot;#who&quot;&gt;Who&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&quot;tab col s3&quot;&gt;&lt;a href=&quot;#what&quot;&gt;What&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&quot;tabl col s3&quot;&gt;&lt;a href=&quot;#where&quot;&gt;Where&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&quot;tabl col s3&quot;&gt;&lt;a href=&quot;#why&quot;&gt;Why&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div id=&quot;who&quot; class=&quot;col s12&quot;&gt;
+        &lt;h4&gt;Who&lt;/h4&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+            &lt;br&gt;&lt;center&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
+&lt;br&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&quot;what&quot; class=&quot;col s12&quot;&gt;
+        &lt;h4&gt;What&lt;/h4&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+            &lt;br&gt;&lt;center&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/rlPloFiK-e8?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt; &lt;br&gt;
+        &lt;/div&gt;
+       &lt;/div&gt;
+    &lt;div id=&quot;where&quot; class=&quot;col s12&quot;&gt;
+        &lt;h4&gt;Where&lt;/h4&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+            &lt;br&gt;&lt;center&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt; &lt;br&gt;
+        &lt;/div&gt;
+       &lt;/div&gt;
+    &lt;div id=&quot;why&quot; class=&quot;col s12&quot;&gt;
+        &lt;h4&gt;Why&lt;/h4&gt;
+        &lt;div class=&quot;col s12&quot;&gt;
+            &lt;br&gt;&lt;center&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt; &lt;br&gt;
+        &lt;/div&gt;
+       &lt;/div&gt;    
+     &lt;/div&gt;
+    &lt;/div&gt;
+   --&gt;     
+ 
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col s12&quot;&gt;
+
+&lt;h4&gt;Delivering an Elevator Speech&lt;/h4&gt;
+&lt;p&gt;It's important to &lt;b&gt;&lt;i&gt; consider whom your audience is &lt;/i&gt;&lt;/b&gt; when delivering an elevator speech. For instance, it's a good idea to leave out jargon if you're pitching your research project to a lay audience as opposed to a group of experts in your field. 
+
+&lt;head&gt;
+&lt;style&gt;
+table, th, td {
+  border: 2px solid black;
+  }
+  &lt;/style&gt;
+  &lt;/head&gt;
+&lt;table style=&quot;width:100%&quot;&gt;
+  &lt;tc&gt;
+  &lt;th&gt;&lt;center&gt;Avoid using acronyms&lt;/center&gt;&lt;/th&gt;
+    &lt;td&gt;Spell out acronyms before proceeding to use them
+    &lt;ul class=&quot;browser-default&quot;&gt;
+    &lt;li&gt;For example, non-governmental organization instead of NGO&lt;/li&gt;
+    &lt;li&gt;For example, marine protected area instead of MPA&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/td&gt; 
+  &lt;/tc&gt;
+  &lt;tr&gt;
+  &lt;th&gt;&lt;center&gt;Use everyday examples/analogies&lt;/center&gt;&lt;/th&gt;
+    &lt;td&gt;
+    &lt;ul class=&quot;browser-default&quot;&gt;
+    &lt;li&gt;For example, describe DNA's role as a 'blueprint' for the cell&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/table&gt;
+
+&lt;p&gt;Here's an example of how you can edit a technical and jargon-heavy passage so it's more suitable for a wider audience. &lt;/p&gt;
+
+&lt;head&gt;
+&lt;style&gt;
+table, th, td {
+  border: 2px solid black;
+  }
+  &lt;/style&gt;
+  &lt;/head&gt;
+&lt;table style=&quot;width:100%&quot;&gt;
+  &lt;tr&gt;
+  &lt;th&gt;&lt;center&gt;Before&lt;/center&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;center&gt;After&lt;/center&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+  &lt;td&gt; &lt;center&gt;A SNP can produce a change in amino acid sequence, which consequently could affect the structure and function of the resulting protein. An example of this can be found in the oxygen-binding protein: hemoglobin. When the sixth amino acid is changed from glutamic acid to valine--a hydrophobic amino acid--hemoglobin will occasionally collapse on itself, thus forming a sickle-shaped red blood cell. This condition is known as sickle-cell anemia. &lt;/center&gt; &lt;/td&gt;
+  &lt;td&gt; &lt;center&gt;A single-nucleotide polymorphism (SNP) is a variation in a single base in DNA. This change can affect the structure and function of the resulting protein. Hemoglobin, a protein important in transporting oxygen to our cells, can become sickle-shaped as a result of a SNP. This condition is known as sickle-cell anemia. &lt;/center&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt; Remember to keep it simple and to the point. State your research topic, report your findings, and convey its significance. It's a good idea to write out a draft first and read it out loud a few times to make sure it flows and is of appropriate length. &lt;/p&gt;
+&lt;p&gt;And most importantly, &lt;b&gt;&lt;i&gt; practice &lt;/i&gt;&lt;/b&gt;delivering your elevator speech a lot. This will help calm your nerves so you don't freeze up when you're about to share your research with others. To make your elevator speech not sound robotic, it's a good idea to memorize key points of your research rather than a full script. &lt;/p&gt;
+&lt;p&gt;And lastly, be &lt;b&gt;&lt;i&gt; enthusiastic. &lt;/i&gt;&lt;/b&gt; Recall what first sparked your interest in your research and be sure to convey that to your audience. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col s12&quot;&gt;
+
+&lt;h4&gt;What's the difference between an elevator speech and an abstract?&lt;/h4&gt;
+&lt;p&gt;Although both serve to present your research and its significance in a concise manner, elevator speeches and abstracts differ in format and purpose. &lt;/p&gt;
+
+&lt;head&gt;
+&lt;style&gt;
+table, th, td {
+  border: 2px solid black;
+  }
+  &lt;/style&gt;
+  &lt;/head&gt;
+&lt;table style=&quot;width:100%&quot;&gt;
+  &lt;tr&gt;
+  &lt;th&gt;&lt;center&gt;Elevator Speech&lt;/center&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;center&gt;Abstract&lt;/center&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+  &lt;td&gt; 
+    &lt;ul class=&quot;browser-default&quot;&gt;
+      &lt;li type=&quot;square&quot;&gt;Typically lasting from 30 seconds to 2 minutes (length of an elevator ride)&lt;/li&gt;
+      &lt;li type=&quot;square&quot;&gt;Delivered orally&lt;/li&gt;
+      &lt;li type=&quot;square&quot;&gt;Purpose: introduce yourself as a researcher, your research project, and its significance so your audience will want to &lt;i&gt;learn more&lt;/i&gt; about your research&lt;/li&gt;
+      &lt;/ul&gt; 
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;ul class=&quot;browser-default&quot;&gt;
+    &lt;li type=&quot;square&quot;&gt;Brief paragraph (often 150-300 words)&lt;/li&gt;
+    &lt;li type=&quot;square&quot;&gt;Presented in written form&lt;/li&gt;
+    &lt;li type=&quot;square&quot;&gt;Purpose: explain your research project and its significance in order to present at conferences, publish in journals, or apply for funding&lt;/li&gt;
+    &lt;li&gt;Can also be used to apply for a research scholarship or fellowship&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;b&gt;Note:&lt;/b&gt; If you've already written your abstract for your research paper, you can use it as a starting basis for your elevator speech. You can think of your elevator speech as a more condensed version of your abstract. Remember, the main purpose of the elevator speech is to engage your listeners so they're interested in learning about the details of your project. &lt;/p&gt;
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt; You've spent weeks, months, and maybe even years working on a research project. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? You should take some time now and create an elevator speech to pitch in these situations.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 08 Jan 2010 00:00:00 -0800</pubDate>
+        <link>https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/</guid>
+        
+        <category>elevator speech</category>
+        
+        <category>elevator pitch</category>
+        
+        
+        <category>Elevator Speech</category>
+        
+      </item>
+      
     
       
       <item>
