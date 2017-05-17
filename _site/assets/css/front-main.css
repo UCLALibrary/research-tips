@@ -122,7 +122,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/front/header.jpg");
   text-align: center;
   color: #00A5E5; }
   header .header-content {
