@@ -4,6 +4,7 @@ title:  "Deconstructing the Elevator Speech"
 date:   2010-01-08
 description: An elevator speech is a great way to introduce yourself and your research to a wide range of audiences.  
 category: Elevator Speech
+handout: /assets/handouts/elevator-speech.pdf
 tags:
 - elevator speech
 - elevator pitch 
