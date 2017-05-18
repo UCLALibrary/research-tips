@@ -3,11 +3,12 @@ layout: post
 title:  "Start with your Questions"
 date:   2010-01-01
 description: Before you search, start by brainstorming a list of questions.
-category: Planning Your Project
 handout: /assets/handouts/questions.pdf
+category: Getting Started
 tags:
-- getting started
+- topic mapping
 - research questions
+- brainstorming
 ---
 
 <p class="intro">Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
