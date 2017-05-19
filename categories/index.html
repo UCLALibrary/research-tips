@@ -3,9 +3,8 @@ layout: default
 title: Posts by Category
 ---
 
-
 {% for category in site.categories %}
-  <h3><a name="{{ category | first }}">{{ category | first }}</a></h3>
+  <h3><a id="{{ category | first }}"></a>{{ category | first }}</h3>
     {% for posts in category %}
       {% for post in posts reversed %}
         {% if post.title %}

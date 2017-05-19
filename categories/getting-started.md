@@ -1,5 +1,6 @@
 ---
 layout: category
 title: Getting Started
-category: Getting Started
+selectedcat: Getting Started
 ---
+

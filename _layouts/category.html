@@ -2,45 +2,59 @@
 layout: default
 ---
 
-<h3>Posts related to: {{ page.title }}</h3>
+<h3>{{ page.title }}</h3>
 
 {% unless page.content == '' %}
   <p>{{ page.content }}</p>
 {% endunless %}
 
-{% unless site.categories.[page.category] | size > 0 %}
+{% unless site.categories.[page.selectedcat] | size > 0 %}
   <p>No posts in this category at this time.</p>
 {% endunless %}
 
-{% for post in site.categories.[page.category] %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h4 class="post-title">            
-            {{ post.title }}
-        </h4>
-        {% if post.subtitle %}
-        <h5 class="post-subtitle">
-            {{ post.subtitle }}
-        </h5>
+<!-- Create cards -->
+{% for post in site.categories.[page.selectedcat] reversed %}
+<div class="row">
+    <div class="col s12 m12">
+      <div class="card">
+        <div class="card-content">
+            <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+          <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
+        </div>
+        <div class="card-action">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            Read More
+          </a>
+          <a class="rightaction" href="#modal-{{ post.category}}" aria-label="Embed code">
+            <i class="fa fa-code" aria-hidden="true"></i>
+              <!-- &lt; Embed &gt; -->
+          </a>
+            <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a class="rightaction" href="https://facebook.com/sharer.php?u={{site.url}}{{ site.baseurl }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" aria-label="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <!-- ty: https://superdevresources.com/share-buttons-jekyll/ -->
+            {% if post.handout %}
+            {% if post.handout contains 'http' %}
+                <a class="rightaction" href="{{ page.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+            {% else %}
+                <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+            {% endif %}
         {% endif %}
-    </a>
-    <p class="post-meta">
-      Posted by 
-      {% if post.author %}
-        {{ post.author }}
-      {% else %}
-        {{ site.title }}
-      {% endif %} 
-      on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+        </div>
+      </div>
+    </div>
 </div>
-<hr>
 {% endfor %}
 
 
-# Categories
-## Getting Started
-## Finding and Citing Sources
-## Incorporating Sources into Your Writing
-## Sharing Your Research
-## Literature Reviews
+<!-- Create modal content -->
+{% for post in site.categories.[page.selectedcat] reversed %}
+<div id="modal-{{ post.category}}" class="modal modal-fixed-footer">
+    <div class="modal-content">
+      <p>Copy and paste the html code below to embed this research strategy into your site:</p>
+      
+<div class="highlighter-rouge">
+<pre class="highlight">
+<code>&lt;iframe src="{{ site.url }}{{ site.baseurl }}/embeds{{ post.url }}" width="100%" height="400px"&gt;&lt;/iframe&gt;</code>
+</pre>
+    </div>
+{% endfor %}
