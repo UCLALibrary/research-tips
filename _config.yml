@@ -11,6 +11,17 @@ collections:
     embeds:
         output: true
         permalink: /embeds/:path/
+    stages:
+        output: true
+        permalink: /stage/:path/
+        
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: stages
+    values:
+      layout: "category"
 
 markdown: kramdown
 highlighter: rouge
