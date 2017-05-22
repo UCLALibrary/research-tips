@@ -25,7 +25,7 @@ tags:
 <p>Below is a visual representation of the basic components of an elevator speech. Each 'floor' corresponds to a different part of the elevator speech. </p>
 <p>You can click the elevator buttons and read more on what should be included in that particular section.</p>
 <center>
-  <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="100%" height="400px"></iframe>
+  <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="600px" height="400px"></iframe>
 </center>
 
 <div class="row">
