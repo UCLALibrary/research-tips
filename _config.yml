@@ -11,15 +11,15 @@ collections:
     embeds:
         output: true
         permalink: /embeds/:path/
-    stages:
+    cats:
         output: true
-        permalink: /stage/:path/
+        permalink: /categories/:path/
         
 # Defaults
 defaults:
   - scope:
       path: ""
-      type: stages
+      type: cats
     values:
       layout: "category"
 

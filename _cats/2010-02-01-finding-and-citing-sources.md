@@ -1,6 +1,6 @@
 ---
 title: Finding and Citing Sources
-description: this is the description
+description: Learn practical strategies to search for books, articles, and more.
 stageorder: 02
 prevcat: getting-started
 nextcat:  

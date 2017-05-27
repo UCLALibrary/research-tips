@@ -194,7 +194,7 @@ with additional text</li>
   </ol>
 </div>
 
-#### Some liquid variables
+#### Some liquid objects
 
 site.time: {{site.time}}
 

@@ -10,26 +10,6 @@ title: Posts by Category
 {% endfor %}
 </p>
 
-<!--
-### These are stages:
-<p>
-{% for stage in site.stages %}
-   {{stage.title}} | 
-{% endfor %}
-</p>
--->
-
-<!--
-### These are sorted stages
-{% assign sortedStages = site.stages | sort: 'stageorder' %}
-{% for stage in sortedStages %}
-    <p>{{ stage.stageorder }} - {{ stage.title }}</p>
-        {% for posts in site.categories[stage.title] %}
-            <p>{{ post.title }}...</p>
-        {% endfor %}
-{% endfor %}
--->
-
 {% for category in site.categories %}
   <h3><a id="{{ category | first }}"></a>{{ category | first }}</h3>
     {% for posts in category %}
