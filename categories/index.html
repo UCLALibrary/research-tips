@@ -4,11 +4,12 @@ title: Posts by Category
 ---
 
 <!-- These are categories -->
-<p>
+
+<div>Categories:
 {% for category in site.categories %}
-   <a href="#{{ category | first }}">{{ category | first }}</a> |
+   <div class="chip"><a href="#{{ category | first }}">{{ category | first }}</a></div>
 {% endfor %}
-</p>
+</div>
 
 {% for category in site.categories %}
   <h3><a id="{{ category | first }}"></a>{{ category | first }}</h3>
