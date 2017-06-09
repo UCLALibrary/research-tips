@@ -2,8 +2,12 @@
 layout: default
 title: Posts by Category
 ---
+<h3>Looking for help with research and writing?</h3>
 
-<!-- These are categories -->
+<p>These quick and practical tips were collaborively designed by students, faculty, librarians, and academic support staff across the UCLA campus. Let us know your <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">feedback and ideas for future projects</a>.</p>
+
+
+<!-- a list of categories -->
 
 <div>Categories:
 {% for category in site.categories %}
@@ -11,13 +15,16 @@ title: Posts by Category
 {% endfor %}
 </div>
 
+<hr>
+
+<!-- cards by category -->
 {% for category in site.categories %}
-  <h3><a id="{{ category | first }}"></a>{{ category | first }}</h3>
+  <h4 class="category-title"><a id="{{ category | first }}"></a><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></h4>
     {% for posts in category %}
       {% for post in posts reversed %}
         {% if post.title %}
         <div class="row">
-    <div class="col s12 m12">
+    <div class="col s12">
       <div class="card">
         <div class="card-content">
             <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
