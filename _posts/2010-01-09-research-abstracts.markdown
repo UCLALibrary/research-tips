@@ -24,5 +24,6 @@ tags:
 
 ### Give it a try: 
 
+<p class="flow-text"> Draft an abstract for your research project using the tips discussed in the interactive module above. Keep in mind that an effective abstract is clear and concise; it should clearly state your research question, methodology/approach, findings, and significance. </p>
 
 
