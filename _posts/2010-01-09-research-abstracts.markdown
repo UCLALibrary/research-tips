@@ -16,5 +16,5 @@ tags:
 <h4>
 
 <center>
-  <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation" width="800px" height="400px"></iframe>
+  <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation" width="800px" height="600px"></iframe>
 </center>
