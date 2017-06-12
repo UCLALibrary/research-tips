@@ -13,7 +13,7 @@ tags:
 <div class="row">
 <div class="col s12">
 <p> You can navigate through the module below and learn:
-<ul style="list-style-type:disc">
+<ul class="browser-default">
   <li> What is a research abstract? </li>
   <li> How to write an effective abstract </li>
   <li> The difference between an ineffective and effective abstract </li> 
