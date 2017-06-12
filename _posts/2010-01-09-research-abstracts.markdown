@@ -13,10 +13,10 @@ tags:
 <div class="row">
 <div class="col s12">
 <p> You can navigate through the module below and learn:
-<ul>
-<li> What is a research abstract? </li>
-<li> How to write an effective abstract </li>
-<li> The difference between an ineffective and effective abstract </li> 
+<ul style="list-style-type:disc">
+  <li> What is a research abstract? </li>
+  <li> How to write an effective abstract </li>
+  <li> The difference between an ineffective and effective abstract </li> 
 </ul>
 <p> You can also view sample abstracts for your particular field of study and explore the various components of an abstract.  
 
