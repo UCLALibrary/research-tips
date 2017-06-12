@@ -10,7 +10,7 @@ tags:
 ---
 <p class="intro"> Are you applying to present your research project at a conference or submitting it for publication? If yes, you will most likely have to submit a research abstract. Here's a quick introduction that will teach you all about abstracts.</p>
 
-<p> You can navigate through the module below and learn:
+<p class="flox-text"> You can navigate through the module below and learn:
 <ul class="browser-default">
   <li> What is a research abstract? </li>
   <li> How to write an effective abstract </li>
