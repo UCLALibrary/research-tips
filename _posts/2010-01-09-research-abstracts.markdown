@@ -22,7 +22,7 @@ tags:
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation" width="800px" height="600px"></iframe>
 </center>
 
-### Give it a try: 
+### Give it a try:
 
 <p class="flow-text"> Draft an abstract for your research project using the tips discussed in the interactive module above. Keep in mind that an effective abstract is clear and concise; it should clearly state your research question, methodology/approach, findings, and significance. </p>
 
