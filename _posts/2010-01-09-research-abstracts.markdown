@@ -18,9 +18,10 @@ tags:
   <li> How to write an effective abstract </li>
   <li> The difference between an ineffective and effective abstract </li> 
 </ul>
-<p> You can also view sample abstracts for your particular field of study and explore the various components of an abstract.  
+<p class="flow-text"> You can also view sample abstracts for your particular field of study and explore the various components of an abstract.  
 
 <center>
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation" width="800px" height="600px"></iframe>
 </center>
+
 
