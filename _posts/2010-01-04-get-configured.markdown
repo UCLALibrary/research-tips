@@ -3,7 +3,12 @@ layout: post
 title:  "Get configured"
 date:   2010-01-04
 description: Configure your computer to access the library's many resources.
-category: get-configured
+handout: 
+category: Getting Started
+tags:
+- vpn
+- off-campus access
+- proxy
 # image: featuredimagehere
 ---
 

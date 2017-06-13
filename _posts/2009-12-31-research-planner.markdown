@@ -3,10 +3,11 @@ layout: post
 title:  "Research Paper Planner"
 date:   2009-12-31
 description: Break down your assigment and stay on top of deadlines with this useful planner! 
-category: planner
+handout: 
+category: Getting Started
 tags:
-- research planner
-- paper planner
+- planning
+- time management
 ---
 
 <p class="intro">Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources.</p>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Tips and Strategies</title>
-    <description>A collection of tips and strategies to help you get started on your research projects</description>
+    <title>Strategies for Research and Writing</title>
+    <description>Quick and practical research and writing strategies, collaboratively designed by students, teachers, and librarians at UCLA.</description>
     <link>https://uclalibrary.github.io/research-tips/</link>
     <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 May 2017 21:33:22 -0700</pubDate>
-    <lastBuildDate>Wed, 17 May 2017 21:33:22 -0700</lastBuildDate>
+    <pubDate>Tue, 13 Jun 2017 14:04:24 -0700</pubDate>
+    <lastBuildDate>Tue, 13 Jun 2017 14:04:24 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -283,7 +283,7 @@ table, th, td {
         <category>elevator pitch</category>
         
         
-        <category>Elevator Speech</category>
+        <category>Sharing Your Research</category>
         
       </item>
       
@@ -369,10 +369,10 @@ table, th, td {
         
         <category>zotero</category>
         
-        <category>research</category>
+        <category>citation management software</category>
         
         
-        <category>Zotero</category>
+        <category>Finding and Citing Sources</category>
         
       </item>
       
@@ -605,8 +605,12 @@ table, th, td {
         <link>https://uclalibrary.github.io/research-tips/review-articles/</link>
         <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/review-articles/</guid>
         
-        
         <category>review articles</category>
+        
+        <category>search</category>
+        
+        
+        <category>Literature Reviews</category>
         
       </item>
       
@@ -663,8 +667,10 @@ table, th, td {
         <link>https://uclalibrary.github.io/research-tips/search-experimentally/</link>
         <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/search-experimentally/</guid>
         
+        <category>search</category>
         
-        <category>search-experimentally</category>
+        
+        <category>Finding and Citing Sources</category>
         
       </item>
       
@@ -698,8 +704,14 @@ table, th, td {
         <link>https://uclalibrary.github.io/research-tips/get-configured/</link>
         <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/get-configured/</guid>
         
+        <category>vpn</category>
         
-        <category>get-configured</category>
+        <category>off-campus access</category>
+        
+        <category>proxy</category>
+        
+        
+        <category>Getting Started</category>
         
       </item>
       
@@ -742,8 +754,10 @@ table, th, td {
         <link>https://uclalibrary.github.io/research-tips/find-the-guides/</link>
         <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/find-the-guides/</guid>
         
+        <category>research guides</category>
         
-        <category>find-the-guides</category>
+        
+        <category>Finding and Citing Sources</category>
         
       </item>
       
@@ -789,8 +803,12 @@ table, th, td {
         <link>https://uclalibrary.github.io/research-tips/turn-questions-into-keywords/</link>
         <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/turn-questions-into-keywords/</guid>
         
+        <category>keywords</category>
         
-        <category>turn-questions-into-keywords</category>
+        <category>search strategies</category>
+        
+        
+        <category>Finding and Citing Sources</category>
         
       </item>
       
@@ -835,12 +853,14 @@ table, th, td {
         <link>https://uclalibrary.github.io/research-tips/questions/</link>
         <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/questions/</guid>
         
-        <category>getting started</category>
+        <category>topic mapping</category>
         
         <category>research questions</category>
         
+        <category>brainstorming</category>
         
-        <category>Planning Your Project</category>
+        
+        <category>Getting Started</category>
         
       </item>
       
@@ -891,12 +911,12 @@ table, th, td {
         <link>https://uclalibrary.github.io/research-tips/research-planner/</link>
         <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/research-planner/</guid>
         
-        <category>research planner</category>
+        <category>planning</category>
         
-        <category>paper planner</category>
+        <category>time management</category>
         
         
-        <category>planner</category>
+        <category>Getting Started</category>
         
       </item>
       

@@ -3,9 +3,9 @@ layout: post
 title:  "Creating Literature Reviews"
 date:   2009-12-31
 description: Demystify the ever mysterious literature review! 
-category: literature review
+category: Literature Reviews
 tags:
-- literature review
+- writing a literature review
 - writing
 - reading
 ---
