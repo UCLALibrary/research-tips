@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Tips and Strategies</title>
-    <description>A collection of tips and strategies to help you get started on your research projects</description>
+    <title>Strategies for Research and Writing</title>
+    <description>Quick and practical research and writing strategies, collaboratively designed by students, teachers, and librarians at UCLA.</description>
     <link>https://uclalibrary.github.io/research-tips/</link>
     <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jun 2017 22:16:13 -0700</pubDate>
-    <lastBuildDate>Thu, 08 Jun 2017 22:16:13 -0700</lastBuildDate>
+    <pubDate>Tue, 13 Jun 2017 14:04:24 -0700</pubDate>
+    <lastBuildDate>Tue, 13 Jun 2017 14:04:24 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
