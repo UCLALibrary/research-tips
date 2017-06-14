@@ -12,7 +12,7 @@ tags:
 
 <p class="intro">Google is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.</p>
 
-<iframe width="90%" height="315" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe>
+<iframe width="90%" height="400" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe>
 
 
 ### Give it a try:
