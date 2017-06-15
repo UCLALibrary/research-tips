@@ -322,6 +322,53 @@ UCLA Colors
     margin-top: 40px;
 }
 
+/* the following can be used to highlight or "mark" text in various colors */
+markyellow 
+{
+    background-color:rgb(255, 247, 95);
+    color: black;
+}
+markgreen 
+{
+    background-color: rgb(162, 247, 95);
+    color: black;
+}
+markblue 
+{
+    background-color: rgb(162, 209, 255);
+    color: black;
+}
+markred 
+{
+    background-color: red;
+    color: black;
+}
+markpink 
+{
+    background-color:rgb(255, 151, 218);
+    color: black;
+}
+markorange 
+{
+    background-color:rgb(255,165,0);
+    color: black;
+}
+markpurple
+{
+    background-color:rgb(162, 153, 207);
+    color: black;
+}
 
+/* the following can be used to put borders around text, image, or other content */
+
+p.one {border-style: solid;}
+p.two {border-style: dashed;}
+p.three {border-style: dotted;}
+p.four {border-style: double;}
+
+/* the following will center the fa downward arrows */
+.fa-angle-double-down {
+    text-align: center;
+}
 
 
