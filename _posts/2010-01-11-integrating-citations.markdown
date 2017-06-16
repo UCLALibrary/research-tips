@@ -3,7 +3,7 @@ layout: post
 title:  "Integrating Citations"
 date:   2010-01-11
 description: There are many ways to use citations to support an argument. 
-category: integrating citations
+category:
 ---
 
 <p class="intro"> You have done your research and found plenty of credible sources supporting, challenging, or providing evidence for your argument... Now it's time to start writing!
