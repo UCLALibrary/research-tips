@@ -118,13 +118,13 @@ category:
   
 ### Specific Citation Strategies:
   
-  <p>You can use the structures provided above to cite and support all sorts of claims! Take a look at these examples of how you can use these strategies.</p>
+  <p>You can use the structures provided above to cite and support all sorts of claims! Take a look at these examples of how you can use these strategies to help your reader understand the sources and how you are using them.</p>
   <ul class="collapsible" data-collapsible="expandable">
    <li>
       <div class="collapsible-header row z-depth-2 green lighten-5">
-      <div><p><b><font size="5">Talk in detail about a specific study</font></b></p></div>
+      <div><p><b><font size="5">Summarize your source</font></b></p></div>
       <div style='background:white;' class="col s12 m5;m8"><font size="4"><p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> ( <markyellow>1989, 1999</markyellow> ) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p></font>
-      </div><div><p><font size="4">Talk in depth about the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</font></p></div>
+      </div><div><p><font size="4">You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</font></p></div>
       </div>
     </li>
     <li>
@@ -149,7 +149,8 @@ category:
 
 ### Heads Up:
 
-<p>Often times, citation style will vary from field to field. You will want to make sure that you have a grasp for the citation style most commonly used in your field. Find a representitive paper in your field and take a look at how they use and integrate parentethetical citations. For example, humanities articles tend to use direct quotations to integrate their sources whereas scientific research papers do not. </p>
+<p>Citation styles vary from field to field. You will want to make sure that you have a grasp for the citation style most commonly used in the discipline you’re writing in (for example, is it Geology or Microbiology, Musicology or History?). Find a representative paper in your field and take a look at how they use and integrate parenthetical citations. For example, Humanities articles tend to use direct quotations to integrate their sources whereas science-based academic papers do not. 
+</p>
 
 <p>For more information on how to read for writing style, check out our <a href="{{ '/reading-checklist' | prepend: site.baseurl }}">Reading for Writing Checklist</a>.</p>
 
