@@ -48,7 +48,7 @@ category:
       <div class="collapsible-body">
       <div class="intro"><b>Example:</b></div>
       <div class="col s12 m5;m8"><p class="two"> <markgreen>These results are supported by more recent research on transportation energy consumption</markgreen>  (<markyellow>Liddle, 2014</markyellow>), <markgreen>electricity consumption in buildings</markgreen> (<markyellow>Lariviere and Lafrance, 1999</markyellow>), <markgreen>and overall urban GHG emissions</markgreen> (<markyellow>Marcotullio et al., 2013b</markyellow>). </p></div>
-       <div><p>Use this citation strategy when you want to show that a body of research has found support for some claim across several different contexts. This can show robustness of an effect or phenomenon and can give your claim some added validity.</p></div>
+       <div><p>Use this citation strategy when you want to show that a body of research has found support for some claim across several different contexts. This can show the robustness of an effect or phenomenon and can give your claim some added validity.</p></div>
       </div>
     </li>
     
@@ -98,7 +98,7 @@ category:
       <div class="collapsible-body">
       <div class="intro"><b>Example:</b></div>
       <div class="col s12 m5;m8"><p class="two"><markgreen>The spatial implications of this thinking are manifest in the</markgreen> " <markyellow>concentric ring model</markyellow> " <markgreen>of urban expansion and its variants</markgreen> ( <markyellow>Harris and Ullman, 1945</markyellow> )</p></div>
-     <div> <p>While block or even whole-sentence quotations are rare in most scientific research papers, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper. </p></div>
+     <div> <p>While block or even whole-sentence citations are rare in most research papers in the science and social science disciplines, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper.</p></div>
       </div>
     </li> 
     
