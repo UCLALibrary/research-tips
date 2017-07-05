@@ -111,7 +111,7 @@ category:
       <div class="collapsible-body">
        <div class="intro"><b>Example:</b></div>
       <div class="col s12 m5;m8"><p class="two"><markgreen>China’s </markgreen> “ <markyellow>radical</markyellow> ” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> ( <markyellow>McGranahan et al., 2014</markyellow> )</p></div>
-      <div><p>This strategy varies widely across fields and document types. However, if appropraite for your field, a quote can bring attention specific language used by your source. </p></div>
+      <div><p>The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.</p></div>
       </div>
     </li>
   </ul>
