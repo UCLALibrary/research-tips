@@ -114,6 +114,19 @@ category:
       <div><p>The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.</p></div>
       </div>
     </li>
+    
+    <li> 
+     <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
+     <div class="col s12 m6"><p><b>Use a direct quotation</b></p></div>
+     <div class="col s12 m6"><p><markgreen>Introduce quote</markgreen>, "<markyellow>Quotation</markyellow>." (<markyellow>Citation</markyellow>)</p></div>
+     <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+     </div>
+      <div class="collapsible-body">
+       <div class="intro"><b>Example:</b></div>
+      <div class="col s12 m5;m8"><p class="two"><markgreen>China’s </markgreen> “ <markyellow>radical</markyellow> ” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> ( <markyellow>McGranahan et al., 2014</markyellow> )</p></div>
+      <div><p>The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.</p></div>
+      </div>
+    </li>
   </ul>
   
 ### Specific Citation Strategies:
