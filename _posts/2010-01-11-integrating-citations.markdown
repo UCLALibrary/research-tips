@@ -35,7 +35,7 @@ category:
       <div class="collapsible-body">
       <div class="intro"><b>Example:</b></div>
       <div class="col s12 m5;m8"><p class="two"> <markgreen>Reviews of this literature concede difficulty in making direct comparisons of emission levels across different sets of analysis</markgreen> (<markyellow>Bader and Bleischwitz, 2009</markyellow>; <markyellow>Kennedy et al., 2009</markyellow>; <markyellow>Ramaswami et al., 2012</markyellow>). </p></div>
-       <div><p>  Sometimes there is not just one paper that perfectly supports your claim, or there are two major publications that deserve credit for providing evidence on a topic. This is a perfect time to use multiple citations. You can cite two, three, or more sources, but remember to cite only the publications that are most prominent so as not to clutter up your paper.</p></div>
+       <div><p> Sometimes there’s not just one source that perfectly supports your claim, or there are two major publications that deserve credit for providing evidence on a topic. This is a perfect time to use multiple citations. You can cite two, three, or more sources, but remember to cite only the publications that are most prominent so as not to clutter up your paper.</p></div>
       </div>
     </li>
     
