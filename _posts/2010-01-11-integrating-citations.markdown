@@ -6,16 +6,10 @@ description: There are many ways to use citations to support an argument.
 category:
 ---
 
-<p class="intro"> You have done your research and found plenty of credible sources supporting, challenging, or complicating your argument... Now it's time to incorporate them into your writing!
-</p>
-<p>Most of the papers you are asked to write in the university require some form of evidence to support your ideas.  You can use sources as evidence to support or extend your views or to challenge other ideas.  
-</p>
-<p>Think of writing at the university as a conversation between you and what others have said about a given topic – it makes sense to let your readers know who is “talking” by referencing them (by name or title of their work).  Referring to sources actually helps strengthen your own ideas because your readers will know that you are making your claims in an informed way. 
-</p>
-<p>But how do you effectively integrate sources into your own writing? There are lots of ways to do it! 
-</p>
-<p>Let’s look at few so that you can thoughtfully make choices about how to integrate citations into your written work.  We want to help you utilize your sources in a way that and looks and sounds professional, without being overly dense or providing more information than is needed. Although different fields may have particular conventions about integrating sources (for example, some disciplines will want you to quote directly and some will not!), here are a few of the basic principles for citing sources in your writing: 
-</p>
+<p class="intro"> You have done your research and found plenty of credible sources supporting, challenging, or complicating your argument... Now it's time to incorporate them into your writing!</p>
+<p>Most of the papers you are asked to write in the university require some form of evidence to support your ideas.  You can use sources as evidence to support or extend your views or to challenge other ideas.  </p>
+<p>Think of writing at the university as a conversation between you and what others have said about a given topic – it makes sense to let your readers know who is “talking” by referencing them (by name or title of their work).  Referring to sources actually helps strengthen your own ideas because your readers will know that you are making your claims in an informed way. But how do you effectively integrate sources into your own writing? There are lots of ways to do it! </p>
+<p>Let’s look at few so that you can thoughtfully make choices about how to integrate citations into your written work.  We want to help you utilize your sources in a way that and looks and sounds professional, without being overly dense or providing more information than is needed. Although different fields may have particular conventions about integrating sources (for example, some disciplines will want you to quote directly and some will not!), here are a few of the basic principles for citing sources in your writing: </p>
 
 ### Citation Structures:
 
