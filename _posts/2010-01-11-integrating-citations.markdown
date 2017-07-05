@@ -6,10 +6,16 @@ description: There are many ways to use citations to support an argument.
 category:
 ---
 
-<p class="intro"> You have done your research and found plenty of credible sources supporting, challenging, or providing evidence for your argument... Now it's time to start writing!
+<p class="intro"> You have done your research and found plenty of credible sources supporting, challenging, or complicating your argument... Now it's time to incorporate them into your writing!
 </p>
-
-<p>Integrating citations into a research paper can feel confusing and it's easy to lose sight of why we are using a parenthetical citations in the first place. We want to help you utilize your sources in a way that and looks and sounds professional, without being overly dense or providing more information than is needed. Here are just a few of the most common and effective ways that you can integrate parenthetical citations into your writing: </p>
+<p>Most of the papers you are asked to write in the university require some form of evidence to support your ideas.  You can use sources as evidence to support or extend your views or to challenge other ideas.  
+</p>
+<p>Think of writing at the university as a conversation between you and what others have said about a given topic – it makes sense to let your readers know who is “talking” by referencing them (by name or title of their work).  Referring to sources actually helps strengthen your own ideas because your readers will know that you are making your claims in an informed way. 
+</p>
+<p>But how do you effectively integrate sources into your own writing? There are lots of ways to do it! 
+</p>
+<p>Let’s look at few so that you can thoughtfully make choices about how to integrate citations into your written work.  We want to help you utilize your sources in a way that and looks and sounds professional, without being overly dense or providing more information than is needed. Although different fields may have particular conventions about integrating sources (for example, some disciplines will want you to quote directly and some will not!), here are a few of the basic principles for citing sources in your writing: 
+</p>
 
 ### Citation Structures:
 
@@ -23,7 +29,7 @@ category:
        <div class="collapsible-body">
        <div class="intro"><b>Example:</b></div>
        <div class="col s12 m5;m8"><p class="two"> <markgreen>Some view cities as the storehouse of culture and creativity, and propose that urbanization is a consequence of the attractiveness of these social benefits</markgreen> (<markyellow>Mumford, 1961</markyellow>). </p></div>
-       <div><p>  Often times you do not need to directly quote a source to convey their conclusions or arguments, rather you can paraphrase the main point of a paper and provide an in-text citation. A benefit of using this strategy is that you can offer support for a claim without using a whole paragraph to introduce and frame a quote. You should make sure that you fully understand the paper's argument and that you are folliwing university guidelines citation before attempting to paraphrase something from a paper. For aditional resources on paraphrasing click <a href="http://guides.library.ucla.edu/bruin-success/3-11" target="_blank">here</a>.</p></div>
+       <div><p>  Often times you do not need to directly quote a source to convey their conclusions or arguments, rather you can paraphrase the main point of a paper and provide an in-text citation. A benefit of using this strategy is that you can offer support for a claim without using a whole paragraph to introduce and frame a quote. You should make sure that you fully understand the paper's argument and that you are following university guidelines on citation before attempting to paraphrase something from a paper. For aditional resources on paraphrasing click <a href="http://guides.library.ucla.edu/bruin-success/3-11" target="_blank">here</a>.</p></div>
       </div>
     </li>
     
@@ -99,7 +105,7 @@ category:
       <div class="collapsible-body">
       <div class="intro"><b>Example:</b></div>
       <div class="col s12 m5;m8"><p class="two"><markgreen>The spatial implications of this thinking are manifest in the</markgreen> " <markyellow>concentric ring model</markyellow> " <markgreen>of urban expansion and its variants</markgreen> ( <markyellow>Harris and Ullman, 1945</markyellow> )</p></div>
-     <div> <p>While block or even whole-sentence citations are rare in most scientific research papers, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper. </p></div>
+     <div> <p>While block or even whole-sentence quotations are rare in most scientific research papers, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper. </p></div>
       </div>
     </li> 
     
@@ -112,7 +118,7 @@ category:
       <div class="collapsible-body">
        <div class="intro"><b>Example:</b></div>
       <div class="col s12 m5;m8"><p class="two"><markgreen>China’s </markgreen> “ <markyellow>radical</markyellow> ” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> ( <markyellow>McGranahan et al., 2014</markyellow> )</p></div>
-      <div><p>This strategy varies widely across fields and document types. However, if appropraite for your field, a quote can bring attention specific language in your source. </p></div>
+      <div><p>This strategy varies widely across fields and document types. However, if appropraite for your field, a quote can bring attention specific language used by your source. </p></div>
       </div>
     </li>
   </ul>
@@ -131,7 +137,7 @@ category:
     <li>
       <div class="collapsible-header row z-depth-2 green lighten-5">
       <div><p><b><font size="5">Cite a method</font></b></p></div>
-      <div style='background:white;' class="col s12 m5;m8"><p class="two"><font size="4"><markgreen>Despite the popularity of the</markgreen> <markyellow>WUP indicators</markyellow>, <markgreen>they have been routinely criticized because the methodology relies on local- andcountry-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely diver-gent deﬁnitions of the population, density thresholds, or administrative/political units designated</markgreen> [ <markyellow>Sat-terthwaite, 2007</markyellow> ]. </font></p></div>
+      <div style='background:white;' class="col s12 m5;m8"><p class="two"><font size="4"><markgreen>Despite the popularity of the</markgreen> <markyellow>WUP indicators</markyellow>, <markgreen>they have been routinely criticized because the methodology relies on local- andcountry-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely diver-gent deﬁnitions of the population, density thresholds, or administrative/political units designated</markgreen> ( <markyellow>Sat-terthwaite, 2007</markyellow> ). </font></p></div>
        <div><p><font size="4">This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.</font></p></div>
        </div>
     </li>  
