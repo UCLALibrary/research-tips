@@ -51,44 +51,6 @@ category:
        <div><p>Use this citation strategy when you want to show that a body of research has found support for some claim across several different contexts. This can show the robustness of an effect or phenomenon and can give your claim some added validity.</p></div>
       </div>
     </li>
-    
-  <!--  <li>
-      <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
-      <div class="col s12 m6"><p><b>Talk in depth about the strengths or weaknesses one specific study or source</b></p></div>
-      <div class="col s12 m6"><p> <markgreen>Claim</markgreen>, <markyellow>Citation</markyellow> <markgreen>Discussion</markgreen></p></div>
-      <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
-      </div>
-      <div class="collapsible-body">
-      <div class="intro"><b>Example:</b></div>
-      <div class="col s12 m5;m8"><p class="two"> <markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation feul use</markgreen>. </p></div>
-       <div><p>This strategy should be used to discuss pivotal pieces of work in your field or to describe a shift or outlier in methodology, theory, approach etc.</p></div>
-      </div>
-    </li>
-    <li>
-      <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
-      <div class="col s12 m6"><p><b>Cite a source that created or provided validation for a method</b></p></div>
-      <div class="col s12 m6"><p> <markpurple>Method</markpurple> (<markyellow>Citation</markyellow>).</p></div>
-      <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
-      </div>
-      <div class="collapsible-body">
-      <div class="intro"><b>Example:</b></div>
-          <div class="col s12 m5;m8"><p class="two"> quote coming! </p></div>
-       <div><p>This is an easy way to provide some evidence for the vailidity of your method or study design. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.</p></div>
-      </div>
-    </li>  
-    <li>
-    <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
-    <div class="col s12 m6"><p><b>Compare sources</b></p></div>
-    <div class="col s12 m6"><p><markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>) <markpink>Comparison</markpink> (<markyellow>Citation</markyellow>).</p></div>
-    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
-    </div>
-      <div class="collapsible-body">
-      <div class="intro"><b>Example:</b></div>
-          <div class="col s12 m5;m8"><p class="two"><markpink>Some evidence</markpink> <markgreen>for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities</markgreen> (<markyellow>Bettencourt et al., 2007</markyellow>; <markyellow>Fragkias et al., 2013</markyellow>). <markpink>Other evidence</markpink> <markgreen>suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities</markgreen> (<markyellow>Marcotullio et al., 2013</markyellow>).</p></div>
-       <div><p>This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study. </p></div>
-      </div>
-      </li> -->
-    
     <li>
     <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
     <div class="col s12 m6"><p><b>Quote important or unique terms</b></p></div>
@@ -103,19 +65,6 @@ category:
     </li> 
     
      <li> 
-     <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
-     <div class="col s12 m6"><p><b>Use a direct quotation</b></p></div>
-     <div class="col s12 m6"><p><markgreen>Introduce quote</markgreen>, "<markyellow>Quotation</markyellow>." (<markyellow>Citation</markyellow>)</p></div>
-     <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
-     </div>
-      <div class="collapsible-body">
-       <div class="intro"><b>Example:</b></div>
-      <div class="col s12 m5;m8"><p class="two"><markgreen>China’s </markgreen> “ <markyellow>radical</markyellow> ” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> ( <markyellow>McGranahan et al., 2014</markyellow> )</p></div>
-      <div><p>The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.</p></div>
-      </div>
-    </li>
-    
-    <li> 
      <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
      <div class="col s12 m6"><p><b>Use a direct quotation</b></p></div>
      <div class="col s12 m6"><p><markgreen>Introduce quote</markgreen>, "<markyellow>Quotation</markyellow>." (<markyellow>Citation</markyellow>)</p></div>
@@ -169,3 +118,39 @@ category:
 
 <p style="font-size: small;">Marcotullio, P. J., Hughes, S., Sarzynski, A., Pincetl, S., Sanchez Peña, L., Romero-Lankao, P., Runfola, D. and Seto, K. C. (2014), Urbanization and the carbon cycle: Contributions from social science. Earth's Future, 2: 496–514. doi:10.1002/2014EF000257</p>
  
+ <!--  <li>
+      <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
+      <div class="col s12 m6"><p><b>Talk in depth about the strengths or weaknesses one specific study or source</b></p></div>
+      <div class="col s12 m6"><p> <markgreen>Claim</markgreen>, <markyellow>Citation</markyellow> <markgreen>Discussion</markgreen></p></div>
+      <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+      </div>
+      <div class="collapsible-body">
+      <div class="intro"><b>Example:</b></div>
+      <div class="col s12 m5;m8"><p class="two"> <markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation feul use</markgreen>. </p></div>
+       <div><p>This strategy should be used to discuss pivotal pieces of work in your field or to describe a shift or outlier in methodology, theory, approach etc.</p></div>
+      </div>
+    </li>
+    <li>
+      <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
+      <div class="col s12 m6"><p><b>Cite a source that created or provided validation for a method</b></p></div>
+      <div class="col s12 m6"><p> <markpurple>Method</markpurple> (<markyellow>Citation</markyellow>).</p></div>
+      <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+      </div>
+      <div class="collapsible-body">
+      <div class="intro"><b>Example:</b></div>
+          <div class="col s12 m5;m8"><p class="two"> quote coming! </p></div>
+       <div><p>This is an easy way to provide some evidence for the vailidity of your method or study design. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.</p></div>
+      </div>
+    </li>  
+    <li>
+    <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
+    <div class="col s12 m6"><p><b>Compare sources</b></p></div>
+    <div class="col s12 m6"><p><markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>) <markpink>Comparison</markpink> (<markyellow>Citation</markyellow>).</p></div>
+    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+    </div>
+      <div class="collapsible-body">
+      <div class="intro"><b>Example:</b></div>
+          <div class="col s12 m5;m8"><p class="two"><markpink>Some evidence</markpink> <markgreen>for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities</markgreen> (<markyellow>Bettencourt et al., 2007</markyellow>; <markyellow>Fragkias et al., 2013</markyellow>). <markpink>Other evidence</markpink> <markgreen>suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities</markgreen> (<markyellow>Marcotullio et al., 2013</markyellow>).</p></div>
+       <div><p>This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study. </p></div>
+      </div>
+      </li> -->
