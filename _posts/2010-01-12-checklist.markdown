@@ -8,6 +8,7 @@ category:
 <p class="intro"> Stylistic rules and conventions vary greatly across the many unique fields of research. If you are just starting out in a field, it can be difficult to know how to begin writing your paper in the appropriate style. This checklist can help you identify important stylistic features and provide some guidelines for how you should style your paper. Find a few representative articles in your desired field and ask yourself these questions as you scan the papers.
 </p>
 <div class="row z-depth-2 hoverable blue lighten-5">
+###Checklist
 <ul class="browser-default"><li> What person and tense does the author write in? </li>
 <li>How is the information organized?</li>
   <ul class="browser-default"><li>Is the paper organized thematically? Chronologically?</li>
