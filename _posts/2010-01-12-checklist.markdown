@@ -5,21 +5,22 @@ date:   2010-01-12
 description: Learn how to read a paper in your field to get a better idea for how to write your research paper.  
 category: 
 ---
-<p class="intro"> Find a review article or literature review in your field and as you read it, ask yourself these questions.
+<p class="intro"> Stylistic rules and conventions vary greatly across the many unique fields of research. If you are just starting out in a field, it can be difficult to know how to begin writing your paper in the appropriate style. This checklist can help you identify important stylistic features and provide some guidelines for how you should style your paper. Find a few representative articles in your desired field and ask yourself these questions as you scan the papers.
 </p>
 <div class="row z-depth-2 hoverable blue lighten-5">
-<ul class="browser-default"><li> Do they use direct quotations? </li>
-  <ul class="browser-default"><li> How long are the quotations? </li></ul>
-<li>What citation format does the author use? </li>
-<li>How densely populated are the citations in the paper?</li>
+<ul class="browser-default"><li> What person and tense does the author write in? </li>
 <li>How is the information organized?</li>
   <ul class="browser-default"><li>Is the paper organized thematically? Chronologically?</li>
   <li>Does the paper have an abstract?</li>
   <li>Does the paper have a formal conclusion section</li>
   <li>Does the paper have formal section headings? What style is used to indicate the separation between sections?</li></ul>
-<li>What are some commonly used verbs to describe the sources in this literature review? </li>
 <li>What types of evidence does the article use?</li>
+<li> Does the paper use direct quotations? </li>
+  <ul class="browser-default"><li> What types of quotations does the paper use? Block quotations? Single-word quotations? </li></ul>
+<li>How densely populated are the citations in the paper?</li>
+<li>What are some commonly used verbs/language to describe the sources in this literature review? </li>
 <li>What are some commonly used sentence structures for integrating sources?</li>
+<li>What citation format does the author use? </li>
 
 </ul>
 </div>
@@ -34,10 +35,10 @@ category:
       </ul>
     </div>
     <div id="primary" class="col s12">
-        <h4>In primary research articles:</h4>
+        <h4>Here is an example from a hummanities discipline:</h4>
         <div class="col s12">
             <ul class="browser-default">
-            <li>the abstracts often talk about performing a study, or conducting an investigation;</li>
+            <li>placeholder</li>
             
         </ul>
         </div>
@@ -47,10 +48,10 @@ category:
         </div>
     </div>
     <div id="review" class="col s12">
-        <h4>In review articles:</h4>
+        <h4>Here is an example from a sciences discipline:</h4>
         <div class="col s12">
             <ul class="browser-default">
-            <li>the abstracts often talk about summarizing existing evidence;</li>
+            <li>placeholder</li>
             </ul>
         </div>
         <div class="col s12">
