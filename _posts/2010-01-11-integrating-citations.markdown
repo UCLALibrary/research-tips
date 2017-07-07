@@ -85,7 +85,7 @@ category:
    <li>
       <div class="collapsible-header row z-depth-2 green lighten-5">
       <div><p><b><font size="5">Summarize your source</font></b></p></div>
-      <div style='background:white;' class="col s12 m5;m8 two"><font size="4"><p><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p></font>
+      <div class="col s12 m5;m8"><font size="4"><p class="two" style='background:white;'><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p></font>
       </div>
       <div><p><font size="4">You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</font></p></div>
       </div>
