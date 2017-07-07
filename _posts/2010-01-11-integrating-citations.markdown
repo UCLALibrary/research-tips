@@ -8,7 +8,7 @@ category:
 
 <p class="intro"> You have done your research and found plenty of credible sources supporting, challenging, or complicating your argument... Now it's time to incorporate them into your writing!</p>
 <p>Most of the papers you are asked to write in the university require some form of evidence to support your ideas.  You can use sources as evidence to support or extend your views or to challenge other ideas. Think of writing at the university as a conversation between you and what others have said about a given topic – it makes sense to let your readers know who is “talking” by referencing them (by name or title of their work).  Referring to sources actually helps strengthen your own ideas because your readers will know that you are making your claims in an informed way. But how do you effectively integrate sources into your own writing? There are lots of ways to do it! </p>
-<p>Let’s look at few so that you can thoughtfully make choices about how to integrate citations into your written work.  We want to help you utilize your sources in a way that and looks and sounds professional, without being overly dense or providing more information than is needed. Although different fields may have particular conventions about integrating sources (for example, some disciplines will want you to quote directly and some will not!), here are a few of the basic principles for citing sources in your writing: </p>
+<p>Let’s look at few so that you can thoughtfully make choices about how to integrate citations into your written work.  We want to help you utilize your sources in a way that and looks and sounds professional, without being overly dense or providing more information than is needed. Although different fields may have particular conventions about integrating sources (for example, some disciplines will want you to quote directly and some will not!), here are a few of the basic principles for citing sources in your writing. </p>
 
 ### Citation Structures:
 
@@ -54,12 +54,12 @@ category:
     <li>
     <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
     <div class="col s12 m6"><p><b>Quote important or unique terms</b></p></div>
-    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> "<markyellow>Term</markyellow>"(<markyellow>Citation</markyellow>).</p></div>
+    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> " <markyellow>Term</markyellow> "(<markyellow>Citation</markyellow>).</p></div>
     <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
     </div>
       <div class="collapsible-body">
       <div class="intro"><b>Example:</b></div>
-      <div class="col s12 m5;m8"><p class="two"><markgreen>The spatial implications of this thinking are manifest in the</markgreen> " <markyellow>concentric ring model</markyellow> " <markgreen>of urban expansion and its variants</markgreen> ( <markyellow>Harris and Ullman, 1945</markyellow> )</p></div>
+      <div class="col s12 m5;m8"><p class="two"><markgreen>The spatial implications of this thinking are manifest in the</markgreen> " <markyellow>concentric ring model</markyellow> " <markgreen>of urban expansion and its variants</markgreen> (<markyellow>Harris and Ullman, 1945</markyellow>)</p></div>
      <div> <p>While block or even whole-sentence citations are rare in most research papers in the science and social science disciplines, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper.</p></div>
       </div>
     </li> 
@@ -67,12 +67,12 @@ category:
      <li> 
      <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
      <div class="col s12 m6"><p><b>Use a direct quotation</b></p></div>
-     <div class="col s12 m6"><p><markgreen>Introduce quote</markgreen>, "<markyellow>Quotation</markyellow>." (<markyellow>Citation</markyellow>)</p></div>
+     <div class="col s12 m6"><p><markgreen>Introduce quote</markgreen>, " <markyellow>Quotation</markyellow>. " (<markyellow>Citation</markyellow>)</p></div>
      <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
      </div>
       <div class="collapsible-body">
        <div class="intro"><b>Example:</b></div>
-      <div class="col s12 m5;m8"><p class="two"><markgreen>China’s </markgreen> “ <markyellow>radical</markyellow> ” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> ( <markyellow>McGranahan et al., 2014</markyellow> )</p></div>
+      <div class="col s12 m5;m8"><p class="two"><markgreen>China’s </markgreen> “ <markyellow>radical</markyellow> ” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> (<markyellow>McGranahan et al., 2014</markyellow>)</p></div>
       <div><p>The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.</p></div>
       </div>
     </li>
@@ -85,21 +85,21 @@ category:
    <li>
       <div class="collapsible-header row z-depth-2 green lighten-5">
       <div><p><b><font size="5">Summarize your source</font></b></p></div>
-      <div style='background:white;' class="col s12 m5;m8"><font size="4"><p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> ( <markyellow>1989, 1999</markyellow> ) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p></font>
+      <div style='background:white;' class="col s12 m5;m8"><font size="4"><p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p></font>
       </div><div><p><font size="4">You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</font></p></div>
       </div>
     </li>
     <li>
       <div class="collapsible-header row z-depth-2 green lighten-5">
       <div><p><b><font size="5">Cite a method</font></b></p></div>
-      <div style='background:white;' class="col s12 m5;m8"><p class="two"><font size="4"><markgreen>Despite the popularity of the</markgreen> <markyellow>WUP indicators</markyellow>, <markgreen>they have been routinely criticized because the methodology relies on local- andcountry-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely diver-gent deﬁnitions of the population, density thresholds, or administrative/political units designated</markgreen> ( <markyellow>Sat-terthwaite, 2007</markyellow> ). </font></p></div>
+      <div style='background:white;' class="col s12 m5;m8"><p class="two"><font size="4"><markgreen>Despite the popularity of the</markgreen> <markyellow>WUP indicators</markyellow>, <markgreen>they have been routinely criticized because the methodology relies on local- andcountry-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely diver-gent deﬁnitions of the population, density thresholds, or administrative/political units designated</markgreen> (<markyellow>Sat-terthwaite, 2007</markyellow>). </font></p></div>
        <div><p><font size="4">This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.</font></p></div>
        </div>
     </li>  
     <li>
     <div class="collapsible-header row z-depth-2 green lighten-5">
     <div><p><b><font size="5">Compare sources</font></b></p></div>
-    <div style='background:white;' class="col s12 m5;m8"><p class="two"><font size="4"><markgreen>Some evidence for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities</markgreen> ( <markyellow>Bettencourt et al., 2007</markyellow>; <markyellow>Fragkias et al., 2013</markyellow> ). <markgreen>Other evidence suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities</markgreen> ( <markyellow>Marcotullio et al., 2013</markyellow> ).</font></p></div>
+    <div style='background:white;' class="col s12 m5;m8"><p class="two"><font size="4"><markgreen>Some evidence for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities</markgreen> (<markyellow>Bettencourt et al., 2007</markyellow>; <markyellow>Fragkias et al., 2013</markyellow>). <markgreen>Other evidence suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities</markgreen> (<markyellow>Marcotullio et al., 2013</markyellow>).</font></p></div>
        <div><p><font size="4">This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study.</font></p></div>
       </div>
       </li>
