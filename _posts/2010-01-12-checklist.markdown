@@ -9,7 +9,7 @@ category:
 </p>
 <div class="row z-depth-2 hoverable blue lighten-5">
 
-<center><p><b><font size="5">Checklist</p></b></font></center>
+<center><p><b><font size="5">Checklist</center></p></b></font>
 
 <ul class="browser-default"><li> What person and tense does the author write in? </li>
 <li>How is the information organized?</li>
