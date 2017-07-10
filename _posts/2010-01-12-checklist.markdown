@@ -38,7 +38,7 @@ category:
       </ul>
     </div>
     <div id="primary" class="col s12">
-        <h4>Here is an example from a hummanities discipline:</h4>
+        <h4>Here is an example from a humanities discipline:</h4>
         <div class="col s12">
             <ul class="browser-default">
             <li>placeholder</li>
