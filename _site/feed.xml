@@ -5,9 +5,228 @@
     <description>Quick and practical research and writing strategies, collaboratively designed by students, teachers, and librarians at UCLA.</description>
     <link>https://uclalibrary.github.io/research-tips/</link>
     <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Jun 2017 11:52:33 -0700</pubDate>
-    <lastBuildDate>Wed, 14 Jun 2017 11:52:33 -0700</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2017 15:37:18 -0700</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2017 15:37:18 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      
+      <item>
+        <title>Integrating Citations</title>
+        <description>&lt;p class=&quot;intro&quot;&gt; You have done your research and found plenty of credible sources supporting, challenging, or providing evidence for your argument... Now it's time to start writing!
+&lt;/p&gt;
+
+&lt;p&gt;Integrating citations into a research paper can feel confusing and it's easy to lose sight of why we are using a parenthetical citations in the first place. We want to help you utilize your sources in a way that and looks and sounds professional, without being overly dense or providing more information than is needed. Here are just a few of the most common and effective ways that you can integrate parenthetical citations into your writing: &lt;/p&gt;
+
+&lt;h3 id=&quot;citation-structures&quot;&gt;Citation Structures:&lt;/h3&gt;
+
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim without a quote&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+       &lt;div class=&quot;collapsible-body&quot;&gt;
+       &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+       &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;Some view cities as the storehouse of culture and creativity, and propose that urbanization is a consequence of the attractiveness of these social benefits&lt;/markgreen&gt; (&lt;markyellow&gt;Mumford, 1961&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;  Often times you do not need to directly quote a source to convey their conclusions or arguments, rather you can paraphrase the main point of a paper and provide an in-text citation. A benefit of using this strategy is that you can offer support for a claim without using a whole paragraph to introduce and frame a quote. You should make sure that you fully understand the paper's argument and that you are folliwing university guidelines citation before attempting to paraphrase something from a paper. For aditional resources on paraphrasing click &lt;a href=&quot;http://guides.library.ucla.edu/bruin-success/3-11&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim that is supported by two or more sources&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt; (&lt;markyellow&gt;Citation 1&lt;/markyellow&gt;; &lt;markyellow&gt;Citation 2&lt;/markyellow&gt;).&lt;/p&gt; &lt;/div&gt;
+    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+      &lt;div class=&quot;collapsible-body&quot;&gt;
+      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;Reviews of this literature concede difficulty in making direct comparisons of emission levels across different sets of analysis&lt;/markgreen&gt; (&lt;markyellow&gt;Bader and Bleischwitz, 2009&lt;/markyellow&gt;; &lt;markyellow&gt;Kennedy et al., 2009&lt;/markyellow&gt;; &lt;markyellow&gt;Ramaswami et al., 2012&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;  Sometimes there is not just one paper that perfectly supports your claim, or there are two major publications that deserve credit for providing evidence on a topic. This is a perfect time to use multiple citations. You can cite two, three, or more sources, but remember to cite only the publications that are most prominent so as not to clutter up your paper.&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+      &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim that has been supported in multiple contexts&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Context 1&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;), &lt;markgreen&gt;Context 2&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;), &lt;markgreen&gt;Context 3&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+      &lt;/div&gt; 
+      &lt;div class=&quot;collapsible-body&quot;&gt;
+      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;These results are supported by more recent research on transportation energy consumption&lt;/markgreen&gt;  (&lt;markyellow&gt;Liddle, 2014&lt;/markyellow&gt;), &lt;markgreen&gt;electricity consumption in buildings&lt;/markgreen&gt; (&lt;markyellow&gt;Lariviere and Lafrance, 1999&lt;/markyellow&gt;), &lt;markgreen&gt;and overall urban GHG emissions&lt;/markgreen&gt; (&lt;markyellow&gt;Marcotullio et al., 2013b&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;Use this citation strategy when you want to show that a body of research has found support for some claim across several different contexts. This can show robustness of an effect or phenomenon and can give your claim some added validity.&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+    
+  &lt;!--  &lt;li&gt;
+      &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Talk in depth about the strengths or weaknesses one specific study or source&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt;, &lt;markyellow&gt;Citation&lt;/markyellow&gt; &lt;markgreen&gt;Discussion&lt;/markgreen&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;collapsible-body&quot;&gt;
+      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;The studies of Newman and Kenworthy&lt;/markgreen&gt; (&lt;markyellow&gt;1989, 1999&lt;/markyellow&gt;) &lt;markgreen&gt;demonstrate a negative relationship between population density and transportation feul use&lt;/markgreen&gt;. &lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;This strategy should be used to discuss pivotal pieces of work in your field or to describe a shift or outlier in methodology, theory, approach etc.&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Cite a source that created or provided validation for a method&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markpurple&gt;Method&lt;/markpurple&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;collapsible-body&quot;&gt;
+      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+          &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; quote coming! &lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;This is an easy way to provide some evidence for the vailidity of your method or study design. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;  
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Compare sources&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;markgreen&gt;Claim&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;) &lt;markpink&gt;Comparison&lt;/markpink&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+      &lt;div class=&quot;collapsible-body&quot;&gt;
+      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+          &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markpink&gt;Some evidence&lt;/markpink&gt; &lt;markgreen&gt;for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities&lt;/markgreen&gt; (&lt;markyellow&gt;Bettencourt et al., 2007&lt;/markyellow&gt;; &lt;markyellow&gt;Fragkias et al., 2013&lt;/markyellow&gt;). &lt;markpink&gt;Other evidence&lt;/markpink&gt; &lt;markgreen&gt;suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities&lt;/markgreen&gt; (&lt;markyellow&gt;Marcotullio et al., 2013&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study. &lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/li&gt; --&gt;
+    
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Quote important or unique terms&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt; &quot;&lt;markyellow&gt;Term&lt;/markyellow&gt;&quot;(&lt;markyellow&gt;Citation&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+      &lt;div class=&quot;collapsible-body&quot;&gt;
+      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;The spatial implications of this thinking are manifest in the&lt;/markgreen&gt; &quot; &lt;markyellow&gt;concentric ring model&lt;/markyellow&gt; &quot; &lt;markgreen&gt;of urban expansion and its variants&lt;/markgreen&gt; ( &lt;markyellow&gt;Harris and Ullman, 1945&lt;/markyellow&gt; )&lt;/p&gt;&lt;/div&gt;
+     &lt;div&gt; &lt;p&gt;While block or even whole-sentence citations are rare in most scientific research papers, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper. &lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt; 
+    
+     &lt;li&gt; 
+     &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
+     &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Use a direct quotation&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+     &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;markgreen&gt;Introduce quote&lt;/markgreen&gt;, &quot;&lt;markyellow&gt;Quotation&lt;/markyellow&gt;.&quot; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;)&lt;/p&gt;&lt;/div&gt;
+     &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+     &lt;/div&gt;
+      &lt;div class=&quot;collapsible-body&quot;&gt;
+       &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;China’s &lt;/markgreen&gt; “ &lt;markyellow&gt;radical&lt;/markyellow&gt; ” &lt;markgreen&gt;urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy&lt;/markgreen&gt; ( &lt;markyellow&gt;McGranahan et al., 2014&lt;/markyellow&gt; )&lt;/p&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;p&gt;This strategy varies widely across fields and document types. However, if appropraite for your field, a quote can bring attention specific language in your source. &lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;h3 id=&quot;specific-citation-strategies&quot;&gt;Specific Citation Strategies:&lt;/h3&gt;
+
+&lt;p&gt;You can use the structures provided above to cite and support all sorts of claims! Take a look at these examples of how you can use these strategies.&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+   &lt;li&gt;
+      &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
+      &lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Talk in detail about a specific study&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;div style=&quot;background:white;&quot; class=&quot;col s12 m5;m8&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;The studies of Newman and Kenworthy&lt;/markgreen&gt; ( &lt;markyellow&gt;1989, 1999&lt;/markyellow&gt; ) &lt;markgreen&gt;demonstrate a negative relationship between population density and transportation fuel use&lt;/markgreen&gt;.&lt;/p&gt;&lt;/font&gt;
+      &lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;Talk in depth about the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
+      &lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Cite a method&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;div style=&quot;background:white;&quot; class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;markgreen&gt;Despite the popularity of the&lt;/markgreen&gt; &lt;markyellow&gt;WUP indicators&lt;/markyellow&gt;, &lt;markgreen&gt;they have been routinely criticized because the methodology relies on local- andcountry-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely diver-gent deﬁnitions of the population, density thresholds, or administrative/political units designated&lt;/markgreen&gt; [ &lt;markyellow&gt;Sat-terthwaite, 2007&lt;/markyellow&gt; ]. &lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
+       &lt;/div&gt;
+    &lt;/li&gt;  
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
+    &lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Compare sources&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;div style=&quot;background:white;&quot; class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;markgreen&gt;Some evidence for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities&lt;/markgreen&gt; ( &lt;markyellow&gt;Bettencourt et al., 2007&lt;/markyellow&gt;; &lt;markyellow&gt;Fragkias et al., 2013&lt;/markyellow&gt; ). &lt;markgreen&gt;Other evidence suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities&lt;/markgreen&gt; ( &lt;markyellow&gt;Marcotullio et al., 2013&lt;/markyellow&gt; ).&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
+       &lt;div&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;p&gt; These are only a few of the ways you can use souces to provide support for your argument. Explore other papers in your field to get even more ideas on how to effectively integrate sources into your writing. &lt;/p&gt;
+
+&lt;h3 id=&quot;heads-up&quot;&gt;Heads Up:&lt;/h3&gt;
+
+&lt;p&gt;Often times, citation style will vary from field to field. You will want to make sure that you have a grasp for the citation style most commonly used in your field. Find a representitive paper in your field and take a look at how they use and integrate parentethetical citations. For example, humanities articles tend to use direct quotations to integrate their sources whereas scientific research papers do not. &lt;/p&gt;
+
+&lt;p&gt;For more information on how to read for writing style, check out our &lt;a href=&quot;/research-tips/reading-checklist&quot;&gt;Reading for Writing Checklist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p style=&quot;font-size: small;&quot;&gt;Marcotullio, P. J., Hughes, S., Sarzynski, A., Pincetl, S., Sanchez Peña, L., Romero-Lankao, P., Runfola, D. and Seto, K. C. (2014), Urbanization and the carbon cycle: Contributions from social science. Earth's Future, 2: 496–514. doi:10.1002/2014EF000257&lt;/p&gt;
+
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt; You have done your research and found plenty of credible sources supporting, challenging, or providing evidence for your argument... Now it's time to start writing!
+&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 11 Jan 2010 00:00:00 -0800</pubDate>
+        <link>https://uclalibrary.github.io/research-tips/integrating-citations/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/integrating-citations/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Creating Literature Reviews</title>
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;p class=&quot;flow-text&quot;&gt;Literature reviews are great resources for research projects in all disciplines. Not only do they present the key ideas in a field and point to must-read articles, but they also suggest directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review - covering everything from your role as the author of a literature review to organizational approaches and writing strategies. &lt;br /&gt; This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. &lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u-jg92ZjObg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;the-process&quot;&gt;The Process&lt;/h3&gt;
+&lt;p class=&quot;flow-text&quot;&gt;&quot;The Literature&quot; in literature reviews refers to the body of scholarly research on a topic - including articles, books, datasets, and more. After you’ve gathered a mix of resources for your review, it’s tempting to summarize each one and call it a day. However, literature reviews are more than a collection of summaries: they analyze connections and disagreements between sources, identify gaps in the collective knowledge, and more. Check out the video below for more information: 
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZDhHkKO3urg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+### Types of Literature Reviews
+&lt;p class=&quot;flow-text&quot;&gt;As mentioned in the first video, literature reviews can take different shapes based on your research needs. You can either have a narrow or broad focus, and the finished piece can stand on its own or be part of a bigger project.&lt;/p&gt;
+&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/lit-review-plot.jpg&quot; alt=&quot;Types of reviews and where to use them&quot; data-caption=&quot;Types of reviews and where to use them&quot; /&gt; 
+&lt;i&gt;Image adapted from NCSU Libraries' Graduate Student Literature Review Workshop.&lt;/i&gt;
+
+
+### Skimming for What You Need
+&lt;p class=&quot;flow-text&quot;&gt;&lt;i&gt;Adapted from UCLA Professor Snowden Becker's &lt;a href=&quot;https://snowdenbecker.files.wordpress.com/2016/09/how-to-read-an-article_2016.pdf&quot;&gt;&quot;How to Read an Article&quot;&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Start at the ends.&lt;/b&gt; Important information is usually concentrated in the abstract, introduction, and conclusion of the piece. From this quick scan, you can likely tell if this resource is important to your research and merits inclusion in your literature review.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Look for landmarks.&lt;/b&gt; Journal articles generally follow a set structure with titled subsections like &lt;i&gt;Problem Statement&lt;/i&gt; or &lt;i&gt;Research Methods &amp;amp; Design&lt;/i&gt; that allow you to skip to the content you need.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Take notes as you go.&lt;/b&gt; While you may remember the central argument or findings of a resource now, after you look through a whole body of research you may lose the nuances of individual pieces. Important things to keep track of may include central ideas, research methods, referenced works, and refuted or counter-argued ideas. &lt;/li&gt;&lt;/ul&gt;
+
+&lt;/p&gt;&lt;/p&gt;
+</description>
+        
+          <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;p class=&quot;flow-text&quot;&gt;Literature reviews are great resources for research projects in all disciplines. Not only do they present the key ideas in a field and point to must-read articles, but they also suggest directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review - covering everything from your role as the author of a literature review to organizational approaches and writing strategies. &lt;br /&gt; This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. &lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
+        <link>https://uclalibrary.github.io/research-tips/literature-reviews/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/literature-reviews/</guid>
+        
+        <category>writing a literature review</category>
+        
+        <category>writing</category>
+        
+        <category>reading</category>
+        
+        
+        <category>Literature Reviews</category>
+        
+      </item>
+      
     
       
       <item>
@@ -762,6 +981,8 @@ table, th, td {
         <title>Find the Right Research Guides</title>
         <description>&lt;p class=&quot;intro&quot;&gt;Google is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
 
+&lt;iframe width=&quot;90%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
 &lt;p class=&quot;flow-text&quot;&gt;Visit &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;http://guides.library.ucla.edu&lt;/a&gt; to find one or more research guides related to your topic or course. Then, visit the &quot;articles&quot; tab on the guides and choose the databases you would like to use to explore your topic.&lt;/p&gt;
@@ -850,114 +1071,6 @@ table, th, td {
         
         
         <category>Finding and Citing Sources</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Start with your Questions</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/question-map-examples.jpg&quot; alt=&quot;Example question maps&quot; data-caption=&quot;Example question maps&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;Before you search, start by brainstorming a list of questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!&lt;/p&gt;
-
-&lt;h3 id=&quot;tips&quot;&gt;Tips&lt;/h3&gt;
-
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header active&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;ondemand_video&lt;/i&gt;Need help generating questions? Check out our quick video tutorial on developing a research question:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;ondemand_video&lt;/i&gt;Want to see some examples of undergraduate research projects at UCLA? &lt;em&gt;From the lab to the studio&lt;/em&gt; shows how UCLA students are exploring their passions in their research:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;forum&lt;/i&gt;Want to talk about it? Set up a &lt;em&gt;free research consultation&lt;/em&gt; to get help developing your ideas:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;p&gt;Ask a librarian &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;24/7 chat service&lt;/a&gt;.&lt;/p&gt;
-          &lt;p&gt;Set up a &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;research consultation at a UCLA Library&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Fri, 01 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/questions/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/questions/</guid>
-        
-        <category>topic mapping</category>
-        
-        <category>research questions</category>
-        
-        <category>brainstorming</category>
-        
-        
-        <category>Getting Started</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Research Paper Planner</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hhv8PIFHvek&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;&lt;a href=&quot;http://bit.ly/paper-planner&quot; target=&quot;_blank&quot;&gt;Open up the planner&lt;/a&gt; and follow the instructions to make a copy into your Drive: &lt;a href=&quot;http://bit.ly/paper-planner&quot; target=&quot;_blank&quot;&gt;http://bit.ly/paper-planner&lt;/a&gt;.
-&lt;p class=&quot;flow-text&quot;&gt;Input the due date of one of your upcoming assignments and get started!&lt;/p&gt;
-
-&lt;!--
-### Tips
-
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;ondemand_video&lt;/i&gt;Need help generating questions? Check out our quick video tutorial on developing a research question:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;ondemand_video&lt;/i&gt;Want to see some examples of undergraduate research projects at UCLA? &lt;em&gt;From the lab to the studio&lt;/em&gt; shows how UCLA students are exploring their passions in their research:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;forum&lt;/i&gt;Want to talk about it? Set up a &lt;em&gt;free research consultation&lt;/em&gt; to get help developing your ideas:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;p&gt;Ask a librarian &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;24/7 chat service&lt;/a&gt;.&lt;/p&gt;
-          &lt;p&gt;Set up a &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;research consultation at a UCLA Library&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  --&gt;
-&lt;/p&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 31 Dec 2009 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/research-planner/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/research-planner/</guid>
-        
-        <category>planning</category>
-        
-        <category>time management</category>
-        
-        
-        <category>Getting Started</category>
         
       </item>
       
