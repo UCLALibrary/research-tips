@@ -7,7 +7,7 @@ category:
 ---
 <p class="intro" font-size="1">Need to include references in your writing? Here are some ways to do it!</p>
 <!-- <blockquote lang="en" data-id="a/d1v4T"><a href="//imgur.com/d1v4T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
-<img src="http://imgur.com/a/d1v4T" width="100%" frameborder="0" allowfullscreen>
+<img src="http://imgur.com/a/d1v4T" width="50%" frameborder="0" allowfullscreen>
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p>
 
 ### Citation Structures:
