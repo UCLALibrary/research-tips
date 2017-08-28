@@ -12,27 +12,6 @@ category:
 
 <td width="30%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="30%"  frameborder="0" allowfullscreen></td>
 <br>
-<section>
-                    
-                     <table border="1">
-					     <tr>
-						     <td style="vertical-align: top;">
-							       <h3 style="font-size: 95%;">Organizing Sources</h3>
-                                 <ol style="font-size: 55%;">
-								     <li>Click the new collection icon in the upper left hand corner.
-                                     <li>Give your new collection a name.</li>
-                                     <li>To add subcollections, right-click your collection folder and select "New Subcollection."</li>
-                                     <li>You can organize the items in your Zotero library by dragging and dropping them into collection folders.</li>
-							     </ol>
-						     </td>
-                             <td width="65%"><center><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="100%" alt="To create a new folder, click the new folder icon in the upper left hand corner and name the new folder. To add subcollections to the new folder, right click the folder in the left panel and click New subcollection. You can organize the items in your Zotero library by dragging and dropping them into their respective folders. To further organize your items, you can sort by title or author by clicking the arrow next to the Title or Creator heading in your library." frameborder="0" allowfullscreen></center></td>
-						     
-					     </tr>
-				     </table>
-                        	<hr />
-					<p> <a href="#" class="navigate-right"><i class="fa fa-caret-right" title="right"></i></a> I'm ready to create bibliographies.</p>
-				</section>
-<br>
 
 ### Citation Structures:
 
