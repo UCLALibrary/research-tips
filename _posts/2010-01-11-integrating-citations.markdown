@@ -12,6 +12,11 @@ category:
 
 <td width="30%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="30%"  frameborder="0" allowfullscreen></td>
 <br>
+<div>
+    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
+<br>
 
 ### Citation Structures:
 
