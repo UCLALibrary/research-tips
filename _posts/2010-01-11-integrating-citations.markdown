@@ -10,9 +10,8 @@ category:
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" frameborder="0" allowfullscreen> -->
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p> 
 
-<td width="20%"><center><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" alt="To create a new folder, click the new folder icon in the upper left hand corner and name the new folder. To add subcollections to the new folder, right click the folder in the left panel and click New subcollection. You can organize the items in your Zotero library by dragging and dropping them into their respective folders. To further organize your items, you can sort by title or author by clicking the arrow next to the Title or Creator heading in your library." frameborder="0" allowfullscreen></center></td>
+<td width="20%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="20%" alt="To create a new folder, click the new folder icon in the upper left hand corner and name the new folder. To add subcollections to the new folder, right click the folder in the left panel and click New subcollection. You can organize the items in your Zotero library by dragging and dropping them into their respective folders. To further organize your items, you can sort by title or author by clicking the arrow next to the Title or Creator heading in your library." frameborder="0" allowfullscreen></td>
 <br>
-<center><iframe width="560" height="800" src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" scrolling="no" frameborder="0" allowfullscreen></iframe></center>
 
 ### Citation Structures:
 
