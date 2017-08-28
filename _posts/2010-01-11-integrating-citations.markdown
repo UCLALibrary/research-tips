@@ -10,7 +10,7 @@ category:
 <img src="http://imgur.com/a/d1v4T" width="50%" frameborder="0" allowfullscreen> -->
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p> 
 
-<iframe width="560" height="315" src="https://ucla.box.com/s/syudlpfl6dod0qlln20z6pimkdr8ay01" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://giphy.com/embed/l4FsqcQMNSWrYTGlq" width="336" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l4FsqcQMNSWrYTGlq">via GIPHY</a></p>
 
 ### Citation Structures:
 
