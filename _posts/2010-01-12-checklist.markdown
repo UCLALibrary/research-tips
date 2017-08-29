@@ -9,8 +9,8 @@ category:
 <p>If you are just starting out in a field, it can be difficult to know how to begin writing your paper in the appropriate style. This checklist can help you identify important stylistic features and provide some guidelines for how you should style your paper. Find a few representative articles in your desired field and ask yourself these questions as you scan the papers. At the end of the survey you can download your answers as a PDF and use it as a reference while you write your own paper.</p>
 
 
-<div class="row z-depth-2 hoverable blue lighten-5">
-<iframe src="https://qtrial2017q3az1.az1.qualtrics.com/jfe/form/SV_0dCCaLhUhC208IJ" height="820px" width="1030px"></iframe>
+<div class="row z-depth-2 hoverable">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdO18XrK7REduXO-VUjEwBILhn-lvKTmJ6lZLq8tcz5A4fP1Q/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
 <!-- <ul class="browser-default"><li> Do they use direct quotations? </li>
   <ul class="browser-default"><li> How long are the quotations? </li></ul>
