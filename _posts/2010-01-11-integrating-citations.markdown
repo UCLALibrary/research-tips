@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integrating Citations"
+title:  "Integrating Citations!!!!!!!!!!"
 date:   2010-01-11
 description: There are many ways to use citations to support an argument. 
 category:
