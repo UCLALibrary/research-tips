@@ -14,7 +14,9 @@ category:
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" allowfullscreen>
 </div>
 
-<div><p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p></div>
+
+<div align="right" width="30%" height ="30%" style="border:1px solid red">
+<p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p></div>
 
 
 <!-- <div style="float: left;" width="30%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="30%" frameborder="0" allowfullscreen></div>
