@@ -33,9 +33,7 @@ th {
 
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Savings</th>
+    <th><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" alt="This will display an animated GIF" /></th>
   </tr>
   <tr>
     <td>Peter</td>
