@@ -10,10 +10,7 @@ category:
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" frameborder="0" allowfullscreen> -->
 
 
-<div class="col s12">
-<img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
-</div>
-</div>
+
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
