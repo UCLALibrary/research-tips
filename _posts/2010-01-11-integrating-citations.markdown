@@ -9,6 +9,62 @@ category:
 <!-- <blockquote lang="en" data-id="a/d1v4T"><a href="//imgur.com/d1v4T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" frameborder="0" allowfullscreen> -->
 
+<html>
+<head>
+<style>
+table, td, th {
+    border: 0px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+</style>
+</head>
+<body>
+
+<h2>The width and height Properties</h2>
+<p>Set the width of the table, and the height of the table header row:</p>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td>Cleveland</td>
+    <td>Brown</td>
+    <td>$250</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+
+
+<br><br><br>
 <div style="clear:both">
 <p style="float: left;"><td width="30%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="30%"  frameborder="0" allowfullscreen></td></p>
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p></div>
