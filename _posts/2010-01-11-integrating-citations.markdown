@@ -10,7 +10,7 @@ category:
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" frameborder="0" allowfullscreen> -->
 
 
-<div align="left" style="border:1px solid red">
+<div align="left" width="30%" height ="30%" style="border:1px solid red">
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" allowfullscreen>
 </div>
 
