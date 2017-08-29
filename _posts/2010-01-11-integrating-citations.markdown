@@ -18,11 +18,11 @@ table, td, th {
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: 25%;
 }
 
 th {
-    height: 50px;
+    height: 25px;
 }
 </style>
 </head>
@@ -36,7 +36,7 @@ th {
     <th><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" alt="This will display an animated GIF" /></th>
   </tr>
   <tr>
-    <td>Peter</td>
+    <td><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" alt="This will display an animated GIF" /></td>
     <td>Griffin</td>
     <td>$100</td>
   </tr>
