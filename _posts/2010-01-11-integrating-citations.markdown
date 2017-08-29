@@ -9,6 +9,14 @@ category:
 <!-- <blockquote lang="en" data-id="a/d1v4T"><a href="//imgur.com/d1v4T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" frameborder="0" allowfullscreen> -->
 
+<section class="container">
+		<article>
+			<h1>Hipsters</h1>
+
+<img src="//chriscoyier.net/images/hipster.jpg" alt="Hipster and Company" height="120" width="570" />
+			<p>You can&#8217;t dress up as a hipster for Halloween. Their attire is already so bizarre that there isn&#8217;t an exaggeration of it that looks like a costume. It would just look like you are another hipster about to read a poem about reading poems.</p>
+	</section>
+
 <div style="clear:both">
 <p style="float: left;"><td width="30%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="30%"  frameborder="0" allowfullscreen></td></p>
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p></div>
