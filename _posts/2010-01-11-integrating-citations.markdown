@@ -10,13 +10,11 @@ category:
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" frameborder="0" allowfullscreen> -->
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p> 
 
+<p style="float: left;"><td width="30%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="30%"  frameborder="0" allowfullscreen></td></p>
+<p style="float: right;"><td width="30%">You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</td></p>
 
-<img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" alt="This will display an animated GIF" />
-<br><br>
-<p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p>
-<br><br><br>
 
-### Citation Structures:
+### BIGCitation Structures:
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
