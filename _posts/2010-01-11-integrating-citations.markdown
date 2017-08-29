@@ -11,6 +11,7 @@ category:
 
 <p style="float: left;"><td width="50%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%"  frameborder="5" allowfullscreen></td></p>
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p>
+<div style="clear:both">
 <br><br><br>
 
 
