@@ -14,12 +14,11 @@ category:
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
+    <div class="collapsible-header row z-depth-2 hoverable blue lighten-5"> 
     <div class="col s12 m6">
-     <img class="responsive-img materialboxed" src="{{ '/assets/img/content/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
+     <img class="responsive-img materialboxed" src="{{ 'assets/img/Integrating-citations-large.gif' | prepend: site.baseurl }}" alt="Review Article" data-caption="Review Article"> 
     </div>
     <div class="col s12 m6"><p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p></div>
-    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
     </div>
         
 <br><br><br>
