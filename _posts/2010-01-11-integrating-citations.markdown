@@ -10,12 +10,15 @@ category:
 <img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%" frameborder="0" allowfullscreen> -->
 
         
+<div class="col s12 m6">
 <div style="clear:both">
-<p style="float: left;"><td width="50%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%"  frameborder="0" allowfullscreen></td></p>
+<p style="float: left;"><td width="50%"><img src="https://ucla.box.com/shared/static/r57m2qz1vumybg91lacl2ohtdq6gnywt.gif" width="50%"  frameborder="0" allowfullscreen></td></p></div>
+ <div class="col s12 m6">
 <p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p></div>
+</div>
 <br><br><br>
 
-### Citation Structures:
+<p>### Citation Structures:</p>
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
