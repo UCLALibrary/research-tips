@@ -1,6 +1,6 @@
 ---
 title: Sharing Your Research
-description: this is the description for sharing your research
+description: Abstracts, elevator speeches, and more!
 stageorder: 05
 prevcat: literature-reviews
 nextcat:  
