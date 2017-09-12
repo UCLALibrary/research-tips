@@ -1,6 +1,6 @@
 ---
 title: Literature Reviews
-description: this is the description
+description: Learn how to effectively find, use, and create literature reviews. 
 stageorder: 04
 prevcat: writing-with-sources
 nextcat: sharing-your-research
