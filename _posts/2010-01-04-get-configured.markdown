@@ -22,10 +22,10 @@ tags:
 Visit <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">http://www.library.ucla.edu/use/computers-computing-services/connect-campus</a> to learn more about getting configured!
 
 ### Tips:
-
-<ul class="collapsible" data-collapsible="expandable">
+<!-- data-collapsible="expandable" -->
+<ul class="collapsible">
     <li>
-      <div class="collapsible-header"><i class="material-icons">stars</i>Be sure to configure your computer for off-campus access before you leave campus!</div>
+      <div class="collapsible-header"><i class="material-icons">stars</i>Be sure to configure your computer for off-campus access before you leave campus!!!!!1</div>
       <div class="collapsible-body"></div>
     </li>
   </ul>
