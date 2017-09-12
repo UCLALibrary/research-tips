@@ -11,7 +11,7 @@ title: Posts by Category
 
 <div>Categories:
 {% for category in site.categories %}
-   <div class="chip"><a href="#{{ category | first }}"><h3>{{ category | first }}</h3></a></div>
+   <div class="chip"><a href="#{{ category | first }}">{{ category | first }}</a></div>
 {% endfor %}
 </div>
 
@@ -19,7 +19,7 @@ title: Posts by Category
 
 <!-- cards by category -->
 {% for category in site.categories %}
-  <h4 class="category-title"><a id="{{ category | first }}"></a><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></h4>
+<h4 class="category-title"><b><a id="{{ category | first }}"></a></b><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></h4>
     {% for posts in category %}
       {% for post in posts reversed %}
         {% if post.title %}
