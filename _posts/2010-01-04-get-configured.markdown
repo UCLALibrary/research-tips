@@ -24,6 +24,6 @@ Visit <a href="http://www.library.ucla.edu/use/computers-computing-services/conn
 ### Tips:
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-      <div class="collapsible-header"><i class="material-icons">stars</i>Be sure to configure your computer for off-campus access before you leave campus!!!!!!!</div>
+      <div class="collapsible-header"><i class="material-icons">stars</i>Be sure to configure your computer for off-campus access before you leave campus!</div>
     </li>
   </ul>
