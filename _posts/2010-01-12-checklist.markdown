@@ -12,50 +12,8 @@ category:
 <div class="row z-depth-2 hoverable">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdO18XrK7REduXO-VUjEwBILhn-lvKTmJ6lZLq8tcz5A4fP1Q/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
-<!-- <ul class="browser-default"><li> Do they use direct quotations? </li>
-  <ul class="browser-default"><li> How long are the quotations? </li></ul>
-<li>What citation format does the author use? </li>
-<li>How densely populated are the citations in the paper?</li>
-<li>How is the information organized?</li>
-  <ul class="browser-default"><li>Is the paper organized thematically? Chronologically?</li>
-  <li>Does the paper have an abstract?</li>
-  <li>Does the paper have a formal conclusion section</li>
-  <li>Does the paper have formal section headings? What style is used to indicate the separation between sections?</li></ul>
-<li>What are some commonly used verbs to describe the sources in this literature review? </li>
-<li>What types of evidence does the article use?</li>
-<li>What are some commonly used sentence structures for integrating sources?</li>
-</ul>
-</div>
-<div class="row z-depth-2 hoverable col s12">
-<h1>Reading for Style Checklist</h1>
-<form id="todo-list">
-  <ul><li class="col s10"><span class="todo-wrap">
-    <input type="checkbox" id="1"/>
-    <label for="1" class="todo">
-      Does the article use direct quotations? 
-      </label>
-      </span></li>
-      <ul class="browser-default"><li> How long are the quotations? </li></ul>
-  <li><span class="todo-wrap">
-    <input type="checkbox" id="2"/>
-    <label for="2" class="todo">
-      Plan idea execution
-    </label>
-    </span></li>
-  <li><span class="todo-wrap">
-    <input type="checkbox" id="3"/>
-    <label for="3" class="todo">
-      Execute idea
-    </label>
-    </span></li>
-	<li><span class="todo-wrap">
-    <input type="checkbox" id="4"/>
-    <label for="4" class="todo">
-      Celebrate with a cold one
-    </label>
-    </span></li></ul>
-</form></div> -->
 
+<!-- disciplinary examples
 <div class="row z-depth-2">
     <div class="col s12">
       <ul class="tabs">
@@ -99,5 +57,48 @@ category:
         <div class="col s12">
         <h6>Example abstract:</h6>
         </div>
-    </div>
-</div> 
+    </div></div> -->
+
+<!-- <ul class="browser-default"><li> Do they use direct quotations? </li>
+  <ul class="browser-default"><li> How long are the quotations? </li></ul>
+<li>What citation format does the author use? </li>
+<li>How densely populated are the citations in the paper?</li>
+<li>How is the information organized?</li>
+  <ul class="browser-default"><li>Is the paper organized thematically? Chronologically?</li>
+  <li>Does the paper have an abstract?</li>
+  <li>Does the paper have a formal conclusion section</li>
+  <li>Does the paper have formal section headings? What style is used to indicate the separation between sections?</li></ul>
+<li>What are some commonly used verbs to describe the sources in this literature review? </li>
+<li>What types of evidence does the article use?</li>
+<li>What are some commonly used sentence structures for integrating sources?</li>
+</ul>
+</div>
+<div class="row z-depth-2 hoverable col s12">
+<h1>Reading for Style Checklist</h1>
+<form id="todo-list">
+  <ul><li class="col s10"><span class="todo-wrap">
+    <input type="checkbox" id="1"/>
+    <label for="1" class="todo">
+      Does the article use direct quotations? 
+      </label>
+      </span></li>
+      <ul class="browser-default"><li> How long are the quotations? </li></ul>
+  <li><span class="todo-wrap">
+    <input type="checkbox" id="2"/>
+    <label for="2" class="todo">
+      Plan idea execution
+    </label>
+    </span></li>
+  <li><span class="todo-wrap">
+    <input type="checkbox" id="3"/>
+    <label for="3" class="todo">
+      Execute idea
+    </label>
+    </span></li>
+	<li><span class="todo-wrap">
+    <input type="checkbox" id="4"/>
+    <label for="4" class="todo">
+      Celebrate with a cold one
+    </label>
+    </span></li></ul>
+</form></div> -->
