@@ -129,7 +129,7 @@ category:
 <p>Citation styles vary from field to field. You will want to make sure that you have a grasp for the citation style most commonly used in the discipline you’re writing in (for example, is it Geology or Microbiology, Musicology or History?). Find a representative paper in your field and take a look at how they use and integrate parenthetical citations. For example, Humanities articles tend to use direct quotations to integrate their sources whereas science-based academic papers do not. 
 </p>
 
-<p>For more information on how to read for writing style, check out our <a href="{{ '/reading-checklist' | prepend: site.baseurl }}">Reading for Writing Checklist</a>.</p>
+<p>For more information on how to read for writing style, check out our <a href="{{ '/checklist' | prepend: site.baseurl }}">Reading for Writing Checklist</a>.</p>
 
 <p style="font-size: small;">Marcotullio, P. J., Hughes, S., Sarzynski, A., Pincetl, S., Sanchez Peña, L., Romero-Lankao, P., Runfola, D. and Seto, K. C. (2014), Urbanization and the carbon cycle: Contributions from social science. Earth's Future, 2: 496–514. doi:10.1002/2014EF000257</p>
  
