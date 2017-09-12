@@ -1,6 +1,6 @@
 ---
 title: Writing with Sources
-description: this is the description
+description: Integrate and cite your sources with ease!
 stageorder: 03
 prevcat: finding-and-citing-sources
 nextcat: literature-reviews
