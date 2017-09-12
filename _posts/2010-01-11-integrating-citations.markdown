@@ -18,10 +18,10 @@ category:
 
 <!-- <div style="float: left; width=10%; border:1px solid red;"><img src="http://i.imgur.com/jhXEWwP.gif" width="100%" frameborder="0" allowfullscreen></div>
 <div><p>You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</p></div> -->
-
+<div class="row"
 <div class="col s4"><img src="http://i.imgur.com/jhXEWwP.gif" width="30%"  frameborder="0" allowfullscreen></div>
 <div class="col s8">You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</div>
-
+</div>
 <br><br><br>
 
 ### Citation Structures:
