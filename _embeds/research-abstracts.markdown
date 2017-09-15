@@ -1,6 +1,6 @@
 ---
-layout: embed-simple
+layout: embed
 ---
-<div class="video-container">
+<section style="text-align: left;">
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation" width="800px" height="700px"></iframe>
-</div>
+</section>
