@@ -10,6 +10,3 @@ theme:  simple
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html" width="600px" height="400px"></iframe>
   </center>
 </section>
-<section>
-    
-</section>
