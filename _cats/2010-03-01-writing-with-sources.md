@@ -6,4 +6,4 @@ prevcat: finding-and-citing-sources
 nextcat: literature-reviews
 permalink: categories/writing-with-sources
 ---
-<p><em>Coming soon!</em></p>
+
