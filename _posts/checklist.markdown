@@ -6,14 +6,10 @@ description: Learn how to read a paper in your field to get a better idea for ho
 category: 
 ---
 <p class="intro"> Stylistic rules and conventions vary greatly across the many unique fields of research.</p>
-<p>If you are just starting out in a field, it can be difficult to know how to begin writing your paper in the appropriate style. This checklist can help you identify important stylistic features and provide some guidelines for how you should style your paper. Find a few representative articles in your desired field and ask yourself these questions as you scan the papers. At the end of the survey you can download your answers as a PDF and use it as a reference while you write your own paper.</p>
+<p>Stylistic rules and conventions vary greatly across academic disciplines. Before you start writing your paper, find a few representative articles in your desired field to analyze. Ask yourself the following questions to make sure your own writing aligns with disciplinary conventions</p>
 
 
-<div class="row z-depth-2 hoverable">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdO18XrK7REduXO-VUjEwBILhn-lvKTmJ6lZLq8tcz5A4fP1Q/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</div>
-
-<!-- disciplinary examples
+<!-- disciplinary examples -->
 <div class="row z-depth-2">
     <div class="col s12">
       <ul class="tabs">
@@ -57,9 +53,9 @@ category:
         <div class="col s12">
         <h6>Example abstract:</h6>
         </div>
-    </div></div> -->
+    </div></div>
 
-<!-- <ul class="browser-default"><li> Do they use direct quotations? </li>
+<ul class="browser-default"><li> Do they use direct quotations? </li>
   <ul class="browser-default"><li> How long are the quotations? </li></ul>
 <li>What citation format does the author use? </li>
 <li>How densely populated are the citations in the paper?</li>
