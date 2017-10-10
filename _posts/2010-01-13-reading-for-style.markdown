@@ -8,10 +8,6 @@ category:
 <p class="intro"> Stylistic rules and conventions vary greatly across the many unique fields of research.</p>
 <p>Before you start writing your paper, find a few representative articles in your desired field to analyze. Ask yourself the following questions to make sure your own writing aligns with disciplinary conventions</p>
 
-### How do I Find Review Articles? 
-
-Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
-
 
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
