@@ -29,7 +29,7 @@ category: Finding and Citing Sources
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons">ondemand_video</i>For more help on turning your questions into keywords:</div>
-      <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
+      <div class="collapsible-body"><iframe width="100%" height="315" src="{{ '/embeds/turn-questions-into-keywords/' | prepend: site.baseurl }}" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help with research guides:</div>
