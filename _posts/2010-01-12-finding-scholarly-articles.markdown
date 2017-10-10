@@ -6,23 +6,29 @@ description: How to search for and access scholarly articles
 category: Finding and Citing Sources
 ---
 
-<p class="intro">Google is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.</p>
+<p class="intro">Ready to get the most out of your article search? This tutorial will help you successfully navigate search filters, construct effective searches, and download the full texts of your articles!</p>
 
 <iframe width="90%" height="400" src="https://www.youtube.com/embed/sH9h4xkY4ys" frameborder="0" allowfullscreen></iframe>
 
 
 ### Give it a try:
 
-<p class="flow-text">Visit <a href="http://guides.library.ucla.edu" target="_blank">http://guides.library.ucla.edu</a> to find one or more research guides related to your topic or course. Then, visit the "articles" tab on the guides and choose the databases you would like to use to explore your topic.</p>
+<p class="flow-text">Visit your favorite database, or <a href="http://www.library.ucla.edu/#databases" target="_blank">www.library.ucla.edu/#databases</a>, and get searching! Use the tips you learned in the video to make sure that your search is neither too broad nor too narrow!</p>
 
 ### Tips:
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-      <div class="collapsible-header"><i class="material-icons">stars</i>Consider using more than one research guide to help you find interdisciplinary perspectives on your topic.</div>
+      <div class="collapsible-header"><i class="material-icons">stars</i>Use synonyms or asterisks to broaden your search.</div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Learn how to get the most out of research guides in this quick video:</div>
+      <div class="collapsible-header"><i class="material-icons">stars</i>Use search filters and sorting options to narrow your search. </div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">stars</i>Use opposite search terms to find out if some authors have found conflicting results.</div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>For more help on turning your questions into keywords:</div>
       <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
