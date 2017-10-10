@@ -52,6 +52,7 @@ category:
        <p>How does the article incorporate this evidence? For example, does it summarize sources or use direct quotations?</p>
        <p>If the article uses direct quotations, are these block or single-word quotations?</p>
 </div>
+    </div>
 
 
 <div class="row z-depth-2 hoverable blue lighten-5">
