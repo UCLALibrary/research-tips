@@ -10,7 +10,7 @@ category:
 
 <!--<iframe src="{{ '/assets/img/reading-for-style-1.pdf/' | prepend: site.baseurl }}" frameborder="0" width="100%" height="379px"></iframe>-->
 
-<img class="responsive-img materialboxed" src="{{ '/assets/img/content/reading-for-style-1.pdf' | prepend: site.baseurl }}">
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/reading-for-style-1.jpg' | prepend: site.baseurl }}">
 
 <!--
 <div class="row z-depth-2 hoverable blue lighten-5">
