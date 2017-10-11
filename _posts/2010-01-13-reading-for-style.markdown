@@ -8,7 +8,7 @@ category:
 <p class="intro"> Stylistic rules and conventions vary greatly across the many unique fields of research.</p>
 <p>Before you start writing your paper, find a few representative articles in your desired field to analyze. Ask yourself the following questions to make sure your own writing aligns with disciplinary conventions</p>
 
-<iframe src="{{ '/assets/img/reading-for-style-1.pdf/' | prepend: site.baseurl }}" frameborder="0" width="100%" height="379px"></iframe>
+<!--<iframe src="{{ '/assets/img/reading-for-style-1.pdf/' | prepend: site.baseurl }}" frameborder="0" width="100%" height="379px"></iframe>-->
 
 <img src="{{ '/assets/img/reading-for-style-1.pdf/' | prepend: site.baseurl }}" width="100%" frameborder="0" allowfullscreen>
 
