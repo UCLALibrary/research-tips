@@ -8,7 +8,9 @@ category:
 <p class="intro"> Stylistic rules and conventions vary greatly across the many unique fields of research.</p>
 <p>Before you start writing your paper, find a few representative articles in your desired field to analyze. Ask yourself the following questions to make sure your own writing aligns with disciplinary conventions</p>
 
+<iframe src="{{ '/assets/img/reading-for-style-1.pdf/' | prepend: site.baseurl }}" frameborder="0" width="100%" height="379px"></iframe>
 
+<!--
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
         <h4>Person and Tense</h4>
@@ -21,8 +23,6 @@ category:
         <p>What person does the author write in?</p>
     </div>
 </div>
-
-
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
         <h4>Organization</h4>
@@ -39,7 +39,6 @@ category:
         <p>If not, how does the author indicate the separation between sections? </p>
     </div>
 </div>
-
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
         <h4>Evidence</h4>
@@ -53,8 +52,6 @@ category:
        <p>If the article uses direct quotations, are these block or single-word quotations?</p>
 </div>
     </div>
-
-
 <div class="row z-depth-2 hoverable blue lighten-5">
     <div class="col s12">
         <h4>Citations</h4> 
@@ -67,7 +64,7 @@ category:
         <p>What are some commonly used verbs/language to descrive sources, e.g. "observe," "argues," "suggested"...etc.</p>
         <p>What citation format does the author use?</p>
     </div>
-</div>
+</div> -->
 
 
 
