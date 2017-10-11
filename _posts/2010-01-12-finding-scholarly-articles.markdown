@@ -28,11 +28,11 @@ category: Finding and Citing Sources
       <div class="collapsible-header"><i class="material-icons">stars</i>Use opposite search terms to find out if some authors have found conflicting results.</div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>For more help on turning your questions into keywords:</div>
+      <div class="collapsible-header hoverable"><i class="material-icons">ondemand_video</i>For more help on turning your questions into keywords:</div>
       <div class="collapsible-body"><iframe width="100%" height="315" src="{{ '/embeds/turn-questions-into-keywords/' | prepend: site.baseurl }}" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help with research guides:</div>
+      <div class="collapsible-header hoverable"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help with research guides:</div>
       <div class="collapsible-body">
         <p>Ask a librarian <a href="http://library.ucla.edu/questions" target="_blank">24/7 chat service</a>.</p>
           <p>Set up a <a href="http://library.ucla.edu/questions" target="_blank">research consultation at a UCLA Library</a>.</p>
