@@ -6,11 +6,11 @@ description: There are many ways to use citations to support an argument.
 handout: /assets/handouts/citation-integration-final.pdf
 category: Writing with Sources
 ---
-<p class="intro" font-size="1">Need to include references in your writing? Here are some ways to do it!</p>
+<p class="intro" font-size="1">Looking to vary the ways in which your cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!</p>
 
 <div class="row">
 <div class="col s4"><img src="http://i.imgur.com/jhXEWwP.gif" width="100%" frameborder="0" allowfullscreen></div>
-<div class="col s8 intro" font-size="1">You've done your research and found sources that support your argument. Now it's time to let your readers know how these sources have contributed to your work! Here are a few of the basics for integrating citations into your writing:</div>
+<div class="col s8 intro" font-size="1">Now that you've done your research, it's time to cite your sources. We sampled several academic papers to show you a variety of ways you can integrate your sources into your own writing. Use these strategies to diversify your writing and show your readers how your sources contributed to your work!</div>
 </div>
 
 ### Citation Structures:
@@ -115,8 +115,7 @@ category: Writing with Sources
 
 ### Heads Up:
 
-<p>Citation styles vary from field to field. You will want to make sure that you have a grasp for the citation style most commonly used in the discipline you’re writing in (for example, is it Geology or Microbiology, Musicology or History?). Find a representative paper in your field and take a look at how they use and integrate parenthetical citations. For example, Humanities articles tend to use direct quotations to integrate their sources whereas science-based academic papers do not. 
-</p>
+<p>How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.
 
 <!-- this looks like it is not ready to go yet, but it is super cool! looking forward to future development! -->
 <!--<p>For more information on how to read for writing style, check out our <a href="{{ '/checklist' | prepend: site.baseurl }}">Reading for Writing Checklist</a>.</p>-->
