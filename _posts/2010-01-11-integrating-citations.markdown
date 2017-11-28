@@ -6,7 +6,7 @@ description: There are many ways to use citations to support an argument.
 handout: /assets/handouts/citation-integration-final.pdf
 category: Writing with Sources
 ---
-<p class="intro" font-size="1">Looking to vary the ways in which your cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!</p>
+<p class="intro" font-size="1">Looking to vary the ways in which you cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!</p>
 
 <div class="row">
 <div class="col s4"><img src="http://i.imgur.com/jhXEWwP.gif" width="100%" frameborder="0" allowfullscreen></div>
