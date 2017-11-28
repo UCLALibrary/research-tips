@@ -33,7 +33,7 @@ category: Writing with Sources
     <div class="collapsible-header row z-depth-2 hoverable blue lighten-5">
     <div class="col s12 m6"><p><b>Make a claim that is supported by two or more sources</b></p></div>
     <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation 1</markyellow>; <markyellow>Citation 2</markyellow>).</p> </div>
-    <div><i class="fa fa-angle-double-down" aria-hidden="true"></i></div>
+    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
     </div>
       <div class="collapsible-body">
       <div class="intro"><b>Example:</b></div>
