@@ -3,7 +3,7 @@ layout: post
 title:  "Integrating Citations"
 date:   2010-01-11
 description: There are many ways to use citations to support an argument.
-handout: /assets/handouts/citation-integration-final.pdf
+handout: /assets/handouts/citation-integration-final-bit.pdf
 category: Writing with Sources
 ---
 <p class="intro" font-size="1">Looking to vary the ways in which you cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!</p>
