@@ -27,7 +27,7 @@ title: Research and Writing Handouts
     <div class="col s12 m4">
       <div class="card">
         <div class="card-content">
-           <img src="{{ site.url }}{{ site.baseurl }}/assets/handouts/thumbails/{{ post.handout-thumbail }}" alt="{{ post.title | append: Handout }}"></img>
+           <img src="{{ site.url }}{{ site.baseurl }}{{ post.handout-thumbail }}" alt="{{ post.title | append: Handout }}"></img>
             <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
           <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
         </div>
