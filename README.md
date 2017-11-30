@@ -11,4 +11,4 @@
 
 CC - [Attribution-NonCommercial-ShareAlike 4.0 International CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-![preview Research Tips](https://www.evernote.com/l/AN_3mKCvJsVMw5mJfFxDesLP4IO3n5lxsxYB/image.png)
+![preview Research Tips](https://www.evernote.com/l/AN_3mKCvJsVMw5mJfFxDesLP4IO3n5lxsxYB/image.png) 
