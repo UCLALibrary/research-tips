@@ -4,6 +4,7 @@ title:  "Find and Use Review Articles"
 date:   2010-01-06
 description: Review articles give you an efficient way to get an overview of a body of research on your topic.
 handout: /assets/handouts/introduction-to-articlesplus-fixed.pdf
+handout-thumbail: /assets/handouts/thumbnails/introduction-to-articlesplus-tn.png
 category: Literature Reviews
 tags:
 - review articles
