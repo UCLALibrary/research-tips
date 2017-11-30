@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Posts by Category
+title: Research and Writing Handouts
 ---
-<h3>Looking for help with research and writing?</h3>
+<h3>Research and Writing Handouts</h3>
 
-<p>These quick and practical tips were collaborively designed by students, faculty, librarians, and academic support staff across the UCLA campus. Let us know your <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">feedback and ideas for future projects</a>.</p>
+<p>A short paragraph goes here.</p>
 
 
 <!-- a list of categories -->
@@ -24,7 +24,7 @@ title: Posts by Category
       {% for post in posts reversed %}
         {% if post.title %}
         <div class="row">
-    <div class="col s12">
+    <div class="col s12 m4">
       <div class="card">
         <div class="card-content">
             <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
