@@ -22,7 +22,7 @@ title: Research and Writing Handouts
 <h3 class="category-title"><a id="{{ category | first }}"></a><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></h3>
     {% for posts in category %}
       {% for post in posts reversed %}
-        {% if post.title %}
+        {% if post.handout %}
         <div class="row">
     <div class="col s12 m4">
       <div class="card">
