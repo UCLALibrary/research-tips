@@ -32,7 +32,7 @@ title: Research and Writing Handouts
            </a>
         </div>
         <div class="card-action">
-           <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+           <span class="card-title"><a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout">{{ post.title }}</a></span>
           <!-- <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p> -->
          <!-- <a href="{{ post.url | prepend: site.baseurl }}">
             Read More
