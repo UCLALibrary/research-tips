@@ -19,7 +19,7 @@ title: Research and Writing Handouts
 
 <!-- cards by category -->
 {% for category in site.categories %}
-<h3 class="category-title"><a id="{{ category | first }}"></a><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></h3>  
+<h3 class="category-title"><a id="{{ category | first }}"></a><a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout">{{ category | first }}</a></h3>  
    {% for posts in category %}
 <div class="row"> 
       {% for post in posts reversed %}
@@ -28,7 +28,8 @@ title: Research and Writing Handouts
       <div class="card">
         <div class="card-image">
            <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout">
-           <img src="{{ site.url }}{{ site.baseurl }}{{ post.handout-thumbail }}" alt="{{ post.title | append: 'Handout' }}" width="100%"></img></a>
+           <img src="{{ site.url }}{{ site.baseurl }}{{ post.handout-thumbail }}" alt="{{ post.title | append: 'Handout' }}" width="100%"></img>
+           </a>
         </div>
         <div class="card-action">
            <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
