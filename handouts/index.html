@@ -27,26 +27,27 @@ title: Research and Writing Handouts
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-           <img src="{{ site.url }}{{ site.baseurl }}{{ post.handout-thumbail }}" alt="{{ post.title | append: 'Handout' }}" width="100%"></img>
+           <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout">
+           <img src="{{ site.url }}{{ site.baseurl }}{{ post.handout-thumbail }}" alt="{{ post.title | append: 'Handout' }}" width="100%"></img></a>
         </div>
         <div class="card-action">
            <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
           <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}">
+         <!-- <a href="{{ post.url | prepend: site.baseurl }}">
             Read More
           </a>
           <a class="rightaction" href="#modal-{{ post.url | slugify }}" aria-label="Embed code">
             <i class="fa fa-code" aria-hidden="true"></i>
               <!-- &lt; Embed &gt; -->
-          </a>
+          <!-- </a>
             <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
             <a class="rightaction" href="https://facebook.com/sharer.php?u={{site.url}}{{ site.baseurl }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" aria-label="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
             <!-- ty: https://superdevresources.com/share-buttons-jekyll/ -->
-            {% if post.handout %}
+           <!-- {% if post.handout %}
             {% if post.handout contains 'http' %}
                 <a class="rightaction" href="{{ page.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
             {% else %}
-                <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+                <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> --> 
             {% endif %}
         {% endif %}
         </div>
