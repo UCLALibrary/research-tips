@@ -21,9 +21,9 @@ title: Research and Writing Handouts
 {% for category in site.categories %}
 <h3 class="category-title"><a id="{{ category | first }}"></a><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></h3>  
    {% for posts in category %}
+<div class="row"> 
       {% for post in posts reversed %}
-        {% if post.handout %}
-<div class="row">  
+        {% if post.handout %} 
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
@@ -50,12 +50,12 @@ title: Research and Writing Handouts
                 <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> --> 
             {% endif %}
         {% endif %}
-        </div>
       </div>
     </div>
 </div>
             {% endif %}
       {% endfor %}
+</div> 
     {% endfor %}
 {% endfor %}
 
