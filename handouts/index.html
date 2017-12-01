@@ -20,9 +20,9 @@ title: Research and Writing Handouts
 <!-- cards by category -->
 {% for category in site.categories %}
 <h3 class="category-title"><a id="{{ category | first }}"></a><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></h3>
-    {% for posts in category %}
+<div class="row">    
+   {% for posts in category %}
       {% for post in posts reversed %}
-<div class="row">
         {% if post.handout %}
     <div class="col s12 m4">
       <div class="card">
