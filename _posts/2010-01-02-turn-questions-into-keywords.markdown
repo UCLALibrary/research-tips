@@ -3,7 +3,8 @@ layout: post
 title:  "Turn Questions into Keywords"
 date:   2010-01-02
 description: Improve the effectiveness of your searches by generating a variety of keywords.
-handout: 
+handout: /assets/handouts/turn-questions-into-keywords.pdf
+handout-thumbail: /assets/handouts/thumbnails/turn-questions-into-keywords-tn.png
 category: Finding and Citing Sources
 tags:
 - keywords
