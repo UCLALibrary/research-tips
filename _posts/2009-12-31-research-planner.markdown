@@ -4,7 +4,7 @@ title:  "Research Paper Planner"
 date:   2009-12-31
 description: Break down your assigment and stay on top of deadlines with this useful planner! 
 handout: /assets/handouts/research-paper-planner.pdf
-handout-thumbail: /assets/handouts/thumbnails/research-paper-planner-tn.png
+handout-thumbail: /assets/handouts/thumbnails/research-paper-planner-2-tn.png
 category: Getting Started
 tags:
 - planning
