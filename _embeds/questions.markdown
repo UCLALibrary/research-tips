@@ -6,14 +6,14 @@ theme:  simple
 ---
 <section style="text-align: left;">
      <h3>Start with Questions</h3>
-     <h4><i class="material-icons">ondemand_video</i> Strategy: Map out your ideas</h4>
         <p><span class="dropcap">Q</span>uestions drive research. The most rewarding research projects start with questions you care about and want to explore. Check out our quick video tutorial on developing a research question:</p>
         <p><iframe width="100%" height="400" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="1" allowfullscreen></iframe></p>
+        <h4><i class="material-icons">ondemand_video</i> Strategy: Map out your ideas</h4>
 </section>
 
 <section style="text-align: left;">
     <h3>Examples</h3>
-    <p class="intro">Take a look at these student examples and then give it a try yourself:</p> <img class="responsive-img" src="https://dmcwo.github.io/research-tips/assets/img/content/question-map-examples.jpg" alt="Example question maps" data-caption="Example question maps">
+    <p class="intro">Take a look at these student examples before you give it a try yourself:</p> <img class="responsive-img" src="https://dmcwo.github.io/research-tips/assets/img/content/question-map-examples.jpg" alt="Example question maps" data-caption="Example question maps">
 </section>
 
 <section>
