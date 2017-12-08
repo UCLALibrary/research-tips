@@ -5,20 +5,21 @@ date:   2010-01-01
 theme:  simple
 ---
 <section style="text-align: left;">
+     <h3>Start with Questions</h3>
      <h4><i class="material-icons">ondemand_video</i> Strategy: Map out your ideas</h4>
         <p><span class="dropcap">Q</span>uestions drive research. The most rewarding research projects start with questions you care about and want to explore. Check out our quick video tutorial on developing a research question:</p>
         <p><iframe width="100%" height="400" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="1" allowfullscreen></iframe></p>
 </section>
 
 <section style="text-align: left;">
-    <h3>Start with Questions</h3>
+    <h3>Examples</h3>
     <p class="intro">Take a look at these student examples and then give it a try yourself:</p> <img class="responsive-img" src="https://dmcwo.github.io/research-tips/assets/img/content/question-map-examples.jpg" alt="Example question maps" data-caption="Example question maps">
 </section>
 
 <section>
     <section style="text-align: left;">
         <h3><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Give it a try:</h3>
-    <p class="flow-text">Before you search, start by brainstorming a of list questions. Write down all the questions you hope to be able to answer in your project as well as all the questions you are curious about. This work will pay off when you use these questions to generate great searches later!</p>
+    <p class="flow-text">Before you search, start by brainstorming a concept map full of questions. Write down all the questions you hope to be able to answer in your project as well as other questions you may be curious about. This work will pay off when you use these questions to generate great searches later!</p>
         <hr>
         <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> Want to see what other student researchers are exploring?</a></p>
     </section>
