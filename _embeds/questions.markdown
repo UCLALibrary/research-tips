@@ -7,8 +7,8 @@ theme:  simple
 <section style="text-align: left;">
      <h3>Start with Questions</h3>
         <p><span class="dropcap">Q</span>uestions drive research. The most rewarding research projects start with questions you care about and want to explore. Check out our quick video tutorial on developing a research question:</p>
+                <h4><i class="material-icons">ondemand_video</i> Strategy: Map out your ideas</h4>
         <p><iframe width="100%" height="400" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="1" allowfullscreen></iframe></p>
-        <h4><i class="material-icons">ondemand_video</i> Strategy: Map out your ideas</h4>
 </section>
 
 <section style="text-align: left;">
