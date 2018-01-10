@@ -24,8 +24,6 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDhHkKO3urg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<h3>Types of Literature Reviews</h3>
-
 ### Types of Literature Reviews
 
 <p class="flow-text">As mentioned in the first video, literature reviews can take different shapes based on your research needs. You can either have a narrow or broad focus, and the finished piece can stand on its own or be part of a bigger project.</p>
