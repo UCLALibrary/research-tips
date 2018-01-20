@@ -8,7 +8,7 @@ main:
     icon: info_outline
   - title: "All Tutorials"
     url: /categories/
-    icon: 
+    icon: list
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
