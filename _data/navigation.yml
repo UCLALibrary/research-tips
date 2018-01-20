@@ -3,12 +3,12 @@ main:
   - title: "Home"
     url: /index.html
     icon: home
-  - title: "About"
-    url: /about/
-    icon: info_outline
   - title: "All Tutorials"
     url: /categories/
     icon: list
+  - title: "About"
+    url: /about/
+    icon: info_outline
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
