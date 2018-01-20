@@ -6,6 +6,9 @@ main:
   - title: "About"
     url: /about/
     icon: info_outline
+  - title: "All Tutorials"
+    url: /categories/
+    icon: 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
