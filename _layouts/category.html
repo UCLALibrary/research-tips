@@ -12,12 +12,12 @@ layout: default
 <!-- Create cards -->
 {% for post in site.categories[page.title] reversed %}
 <div class="row">
-    <div class="col s3">
-        <p>test</p>
-    </div>
-    <div class="col s9">
+    <div class="col s12">
       <div class="card">
         <div class="card-content">
+            <div class="col s3">
+            <p>test</p>
+            </div>
             <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
           <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
         </div>
