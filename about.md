@@ -23,16 +23,14 @@ title: About this site
     </center>
       </div>
       <div class="col s12 m8">
-      <h4>We make short, practical <a href="http://uclalibrary.github.io/research-tips/">research and writing tips</a> that you can quickly view online.</h4>
-        <p>The WI+RE team develops and continually improves a toolbox of open-access <a href="http://uclalibrary.github.io/research-tips/">online learning modules</a> that can be used by both instructors and students.</p>
-        <!--<p>We want everything we create to be quick, practical, upbeat, and most importantly, useful.</p>-->
+      <h4>We make quick and practical <a href="http://uclalibrary.github.io/research-tips/">research and writing tips</a>.</h4>
+        <p>The WI+RE team develops and continually improves a toolbox of open-access <a href="http://uclalibrary.github.io/research-tips/categories/">online learning modules</a> that can be used by both instructors and students.</p>
         <p>In each of our projects we strive to:</p>
         <ul class="browser-default">
-            <li>Help learners develop their research and writing skills as they explore and critically engage with their areas of inquiry.</li>
-            <li>Provide teachers with well-designed instructional materials that can be included in their courses as required, extra-credit, or optional assignments.</li>
+            <li>Help learners and researchers move their projects forward and critically engage with their work.</li>
+            <li>Provide teachers with well-designed instructional materials that can be easily included in their courses as required, extra-credit, or optional assignments.</li>
             <li>Communicate the range of research and writing support available on campus.</li>
-            <!--<li>Help learners to deliver evidence of their learning to a variety of audiences.</li>-->
-            <li>Foster inclusive excellence, with a focus on addressing the core and hidden challenges in research, reading, and writing tasks.</li>
+            <li>Foster inclusive excellence, with a focus on addressing the sometimes hidden challenges in research, reading, and writing tasks.</li>
         </ul>
     </div>
 </div>
@@ -79,6 +77,35 @@ title: About this site
         <p>Want to collaborate? We would too! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our code repository on github</a> and <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">let us know your ideas</a>!</p>
       </div>
 </div>
+
+## WI+RE's way
+
+## Build imperfect solutions quickly and on purpose.
+Rapidly creating publishable prototypes is much more useful (and much more fun) than striving for perfection. 
+
+## Be quick and practical. 
+Everyone’s got stuff to do, so let’s get right to it. 
+
+## Break down complexity.
+Research and writing takes time, so we try to break the process down into manageable tasks.
+
+## Reveal hidden challenges & expedite breakthroughs.
+Sometimes the syllabus doesn’t say it all. We try to make hidden challenges easier to see and overcome.
+
+## Deliver in diverse formats. 
+We offer multiple pathways for learning, from videos and animations to learning modules and printable handouts. If we create something that seems to be helpful in one format, we try to adapt it to work in another.
+
+## Speak with our own voices.
+We’re learners, not voice actors. We avoid “tutorial voice” and instead share our work in our own, varied voices.
+
+## Experiment with what we have on hand.
+We explore & implement DIY approaches to learning design and media making. We tinker, try new things, and explore. We use tools and try out processes we have never used before, and frequently make it up as we go.
+
+## Pursue universal design at every stage of the process.
+Accessibility and usability are not a checkbox at the end of the project, but areas of continual importance that can always be improved.
+
+## Share our work openly.
+Our code is open source and our tips can be freely shared, re-used, and re-mixed under a creative commons Attribution-NonCommercial-ShareAlike license.
     
 
 
