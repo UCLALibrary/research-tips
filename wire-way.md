@@ -9,14 +9,14 @@ In our work we strive to:
 ### Build imperfect solutions quickly and on purpose.
 Rapidly creating publishable prototypes is much more useful (and much more fun) than striving for perfection. 
 
-### Be quick and practical. 
-Everyone’s got stuff to do, so let’s get right to it. 
-
 ### Break down complexity.
 Research and writing takes time, so we try to break the process down into manageable tasks.
 
 ### Reveal hidden challenges & expedite breakthroughs.
 Sometimes the syllabus doesn’t say it all. We try to make hidden challenges easier to see and overcome.
+
+### Be quick and practical. 
+Everyone’s got stuff to do, so let’s get right to it. 
 
 ### Deliver in diverse formats. 
 We offer multiple pathways for learning, from videos and animations to learning modules and printable handouts. If we create something that seems to be helpful in one format, we try to adapt it to work in another.
