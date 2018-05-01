@@ -36,8 +36,10 @@ navigation:
 
 social:
    github: uclalibrary
-   twitter: WIREbruin
-   facebook: WIREbruin
+   twitter:
+     username: WIREbruin
+   facebook:
+    publisher: WIREbruin
 #   email: 
 
 # google_analytics: "UA-"
