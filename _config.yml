@@ -41,3 +41,6 @@ social:
 #   email: 
 
 # google_analytics: "UA-"
+
+plugins:
+  - jekyll-seo-tag
