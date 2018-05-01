@@ -34,10 +34,10 @@ navigation:
  - title: About
    url: /about
 
- social:
-    github: uclalibrary
-    twitter: WIREbruin
-    facebook: WIREbruin
+social:
+   github: uclalibrary
+   twitter: WIREbruin
+   facebook: WIREbruin
 #   email: 
 
 # google_analytics: "UA-"
