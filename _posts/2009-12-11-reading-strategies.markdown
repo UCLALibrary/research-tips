@@ -14,24 +14,7 @@ This is a description. Descriptions are things that describe. Let me explain you
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
-<!-- Start Doug's profile -->
- <div class="col s12 offset-m2 l6 offset-l3">
-        <div class="card-panel grey lighten-5 z-depth-1">
-          <div class="row valign-wrapper">
-            <div class="col s3">
-              <img src="{{site.baseurl}}/assets/images/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
-            </div>
-            <div class="col s9">
-              <span class="black-text">
-                Doug is passionately interested in how learners work together to build knowledge.
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-<!-- End Doug's profile -->
-
-<!-- Start Kian's profile -->
+<!-- Start TITLE 1 HERE profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
@@ -41,7 +24,7 @@ This is a description. Descriptions are things that describe. Let me explain you
           </div>
           <div class="col s9">
              <span class="black-text">
-                Kian!!! is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
+                TITLE 1 GOES HERE
              </span>
           </div>
        </div>
@@ -53,7 +36,10 @@ This is a description. Descriptions are things that describe. Let me explain you
                 <img class="responsive-img z-depth-2" src="{{site.baseurl}}/assets/images/WIRE-Challenge-and-Advice-Map.jpg" alt="A circle in the middle of the page labeled Challenges. Two boxes on either side - the left box labeled e-mail and the right box labeled in-person." />
             </div>
             <div class="col s12 m8">
-                <p>At this table, we mapped out both the challenges related to student-instructor communication as well as top tips and advice for both e-mail and in-person.</p>
+                <p>TIPS GO HERE</p>
+            </div>
+         <div class="col s12 m8">
+                <p>TIPSSS GO HERE</p>
             </div>
         </div>
     </div>
