@@ -41,17 +41,22 @@ This is a description. Descriptions are things that describe. Let me explain you
           </div>
           <div class="col s9">
              <span class="black-text">
-                Kian!! is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
+                Kian!!! is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
              </span>
           </div>
        </div>
        <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-       <div class="col s12 m6"><p><b>Make a claim without a quote</b></p></div>
-    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>). </p></div>
-    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
-       </div>
+        <div class="row">
+            <div class="col s12 m4">
+                <img class="responsive-img z-depth-2" src="{{site.baseurl}}/assets/images/WIRE-Challenge-and-Advice-Map.jpg" alt="A circle in the middle of the page labeled Challenges. Two boxes on either side - the left box labeled e-mail and the right box labeled in-person." />
+            </div>
+            <div class="col s12 m8">
+                <p>At this table, we mapped out both the challenges related to student-instructor communication as well as top tips and advice for both e-mail and in-person.</p>
+            </div>
+        </div>
+    </div>
     </li>
  <!-- End Kian's profile -->
  
@@ -72,20 +77,10 @@ This is a description. Descriptions are things that describe. Let me explain you
        <div><center><i class="material-icons">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-       <div class="row">
- <body>
-      <div id="container">
-        <div id="left">
-          Hello
-        </div>
-        <div id="right">
-          <div style="background-color: red; height: 10px;">Hello</div>
-        </div>
-        <div class="clear"></div>
-      </div>
-    </body>
-</div>
-     </div>
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/u2bU-TJ4e98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
     </li>
 <!-- End Shannon's profile -->
   
@@ -146,4 +141,3 @@ This is a description. Descriptions are things that describe. Let me explain you
     </div>
     </li>
  <!-- End Jeannie's profile -->
-
