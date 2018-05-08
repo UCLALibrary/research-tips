@@ -24,7 +24,7 @@ This is a description. Descriptions are things that describe. Let me explain you
           </div>
           <div class="col s9">
              <span class="black-text">
-                    <div class="col s12 m6"><p><b>Plan your reading session</b></p></div>
+                    <div class="col s12 m6"><p><b>Plan your reading session!</b></p></div>
     <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
              </span>
           </div>
