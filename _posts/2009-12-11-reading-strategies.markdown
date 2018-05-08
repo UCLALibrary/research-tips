@@ -133,3 +133,32 @@ The way you read will vary depending on what you are reading and what you need t
     </li>
     </ul>
  <!-- End Paraphrase as You Read  -->
+
+  <!-- Start Paraphrase as You Read -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+       <div class="row valign-wrapper col m6">
+             <span class="black-text">
+               Take Relevant Notes
+             </span>
+          </div>
+       <div class-"col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+    </div>
+    <div class="collapsible-body">
+        <div class="row">
+            <div class="col s12 m8">
+                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.
+                <ul class="browser-default"><li>Whenever you encounter an important concept, paraphrase it in the margins or on a separate paper.</li>
+                <li>Avoid summarizing using the exact words in the text.</li>
+                <li>A few words or a sentence will suffice for each summary.</li>
+                </ul></p>
+            </div>
+            <div class="col s12 m4">
+                <p>Video Coming Soon!</p>
+            </div>
+        </div>
+    </div>
+    </li>
+    </ul>
+ <!-- End Paraphrase as You Read  -->
