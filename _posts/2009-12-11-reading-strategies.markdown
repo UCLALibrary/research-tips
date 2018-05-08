@@ -17,8 +17,8 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Start Plan Your Reading Session -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+       <div class="row valign-wrapper col m2">
              <span class="black-text">
                 Plan Your Reading Session
              </span>
