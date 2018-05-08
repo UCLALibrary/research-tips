@@ -26,14 +26,14 @@ The way you read will vary depending on what you are reading and what you need t
        <div class="col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-        <p><div class="row">
+        <div class="row">
             <div class="col s12 m8">
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout
                 <ul class="browser-default"><li>Gauge the quantity of reading and the time you have to read it.</li>
                 <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
                 <li>Find a suitable reading environment, (links to the library, res hall study rooms, etc).</li>
-                </ul></p>
+                </ul>
         </div></p>
             <div class="col s12 m4">
                 <p>Video Coming Soon!</p>
