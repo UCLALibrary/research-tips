@@ -36,6 +36,7 @@ This module provides a bank of quick and practical reading strategies that can h
         </div>
     </div>
     </li>
+    </ul>
  <!-- End TIP 1 profile -->
  
  <!-- Start TITLE 2 profile -->
@@ -60,5 +61,6 @@ This module provides a bank of quick and practical reading strategies that can h
         </div>
     </div>
     </li>
+    </ul>
  <!-- End TIP 2 profile -->
   
