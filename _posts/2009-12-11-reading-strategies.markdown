@@ -33,13 +33,10 @@ This is a description. Descriptions are things that describe. Let me explain you
     <div class="collapsible-body">
         <div class="row">
             <div class="col s12 m4">
-                <img class="responsive-img z-depth-2" src="{{site.baseurl}}/assets/images/WIRE-Challenge-and-Advice-Map.jpg" alt="A circle in the middle of the page labeled Challenges. Two boxes on either side - the left box labeled e-mail and the right box labeled in-person." />
+                <p>More text?</p>
             </div>
             <div class="col s12 m8">
                 <p>TIPS GO HERE</p>
-            </div>
-         <div class="col s12 m8">
-                <p>TIPSSS GO HERE</p>
             </div>
         </div>
     </div>
