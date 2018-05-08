@@ -18,12 +18,12 @@ The way you read will vary depending on what you are reading and what you need t
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-       <div class="row valign-wrapper col m2">
+       <div class="row valign-wrapper col m6">
              <span class="black-text">
                 Plan Your Reading Session
              </span>
           </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+       <div class="col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
         <div class="row">
