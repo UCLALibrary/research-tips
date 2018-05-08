@@ -41,7 +41,7 @@ This is a description. Descriptions are things that describe. Let me explain you
           </div>
           <div class="col s9">
              <span class="black-text">
-                Kian is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
+                Kian!! is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
              </span>
           </div>
        </div>
