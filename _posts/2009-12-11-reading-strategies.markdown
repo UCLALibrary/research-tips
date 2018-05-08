@@ -26,7 +26,7 @@ The way you read will vary depending on what you are reading and what you need t
        <div class="col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-        <div class="row">
+        <p><div class="row">
             <div class="col s12 m8">
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout
                 <ul class="browser-default"><li>Gauge the quantity of reading and the time you have to read it.</li>
@@ -34,7 +34,7 @@ The way you read will vary depending on what you are reading and what you need t
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
                 <li>Find a suitable reading environment, (links to the library, res hall study rooms, etc).</li>
                 </ul></p>
-            </div>
+        </div></p>
             <div class="col s12 m4">
                 <p>Video Coming Soon!</p>
             </div>
@@ -47,13 +47,13 @@ The way you read will vary depending on what you are reading and what you need t
  <!-- Start Turn Headings Into Questions -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+       <div class="row valign-wrapper col m6">
              <span class="black-text">
                Turn Headings Into Questions
              </span>
           </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+       <div class="col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
         <div class="row">
@@ -77,13 +77,13 @@ The way you read will vary depending on what you are reading and what you need t
    <!-- Start Take Relevant Notes-->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+       <div class="row valign-wrapper col m6">
              <span class="black-text">
                Take Relevant Notes
              </span>
           </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+       <div class="col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
         <div class="row">
@@ -108,13 +108,13 @@ The way you read will vary depending on what you are reading and what you need t
   <!-- Start Paraphrase as You Read -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+       <div class="row valign-wrapper col m6">
              <span class="black-text">
                Take Relevant Notes
              </span>
           </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+       <div class-"col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
         <div class="row">
