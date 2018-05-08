@@ -53,7 +53,9 @@ This is a description. Descriptions are things that describe. Let me explain you
           </div>
           <div class="col s9">
              <span class="black-text">
-                Shannon, a Psychology and Neuroscience student, has been a member of the WI+RE Team from it's conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve. 
+                <div class="col s12 m6"><p><b>Make a claim without a quote</b></p></div>
+    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>). </p></div>
+    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
              </span>
           </div>
        </div>
