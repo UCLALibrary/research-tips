@@ -32,7 +32,10 @@ This is a description. Descriptions are things that describe. Let me explain you
        <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-       <div class="video-container">
+      <div class="col s12 m6"><p><b>Make a claim without a quote</b></p></div>
+    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>). </p></div>
+    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+    </div>
              <div class="col s12 m6"><p> Planning your reading session can improve your reading efficiency by preventing distraction and burnout. </p></div>
               <div class="col s12 m6"><p> Column???? </p></div>
        </div>
