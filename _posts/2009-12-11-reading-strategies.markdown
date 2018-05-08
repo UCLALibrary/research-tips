@@ -22,7 +22,7 @@ The way you read will vary depending on what you are reading and what you need t
              <span class="black-text">
                 Plan Your Reading Session
              </span>
-          </div>
+       </div>
        <div class="col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
