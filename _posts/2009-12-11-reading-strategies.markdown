@@ -52,7 +52,6 @@ This is a description. Descriptions are things that describe. Let me explain you
     <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>). </p></div>
     <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
        </div>
-    </div>
     </li>
  <!-- End Kian's profile -->
  
@@ -74,11 +73,19 @@ This is a description. Descriptions are things that describe. Let me explain you
     </div>
     <div class="collapsible-body">
        <div class="row">
-  <div class="column">text???</div>
-  <div class="column">other...text.......</div>
+ <body>
+      <div id="container">
+        <div id="left">
+          Hello
+        </div>
+        <div id="right">
+          <div style="background-color: red; height: 10px;">Hello</div>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </body>
 </div>
-       </div>
-    </div>
+     </div>
     </li>
 <!-- End Shannon's profile -->
   
