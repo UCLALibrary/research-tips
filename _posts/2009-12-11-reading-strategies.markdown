@@ -73,8 +73,10 @@ This is a description. Descriptions are things that describe. Let me explain you
        <div><center><i class="material-icons">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-       <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/u2bU-TJ4e98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       <div class="row">
+  <div class="column">text???</div>
+  <div class="column">other...text.......</div>
+</div>
        </div>
     </div>
     </li>
