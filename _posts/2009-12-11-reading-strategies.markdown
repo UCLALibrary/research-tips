@@ -48,8 +48,9 @@ This is a description. Descriptions are things that describe. Let me explain you
        <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-       <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/aYhQEOXJ8d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       <div class="col s12 m6"><p><b>Make a claim without a quote</b></p></div>
+    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>). </p></div>
+    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
        </div>
     </div>
     </li>
