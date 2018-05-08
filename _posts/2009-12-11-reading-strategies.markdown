@@ -20,7 +20,6 @@ This is a description. Descriptions are things that describe. Let me explain you
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3">
-             <img src="{{site.baseurl}}/assets/images/kian.jpg" alt="Kian's profile picture" class="circle responsive-img"> 
           </div>
           <div class="col s9">
              <span class="black-text">
