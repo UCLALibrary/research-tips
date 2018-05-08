@@ -7,7 +7,7 @@ handout:
 handout-thumbnail:
 category:
 ---
-This is a description. Descriptions are things that describe. Let me explain you a thing. Or, alternatively, you can explain to me what this is. What is this.
+This module provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.  
 
 
 <!-- this is a comment, we use comments to write notes that only appear in code -->
@@ -23,7 +23,6 @@ This is a description. Descriptions are things that describe. Let me explain you
                 TITLE 1 GOES HERE
              </span>
           </div>
-       </div>
        <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
@@ -48,7 +47,6 @@ This is a description. Descriptions are things that describe. Let me explain you
                 TITLE 1 GOES HERE
              </span>
           </div>
-       </div>
        <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
@@ -64,172 +62,3 @@ This is a description. Descriptions are things that describe. Let me explain you
     </li>
  <!-- End TIP 2 profile -->
   
-<!-- Start TITLE 3 profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3">
-          </div>
-          <div class="col s9">
-             <span class="black-text">
-                TITLE 1 GOES HERE
-             </span>
-          </div>
-       </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-    </div>
-    <div class="collapsible-body">
-        <div class="row">
-            <div class="col s12 m4">
-                <p>More text?</p>
-            </div>
-            <div class="col s12 m8">
-                <p>TIPS GO HERE</p>
-            </div>
-        </div>
-    </div>
-    </li>
- <!-- End TIP 3 profile -->
-
-<!-- Start TITLE 4 profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3">
-          </div>
-          <div class="col s9">
-             <span class="black-text">
-                TITLE 1 GOES HERE
-             </span>
-          </div>
-       </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-    </div>
-    <div class="collapsible-body">
-        <div class="row">
-            <div class="col s12 m4">
-                <p>More text?</p>
-            </div>
-            <div class="col s12 m8">
-                <p>TIPS GO HERE</p>
-            </div>
-        </div>
-    </div>
-    </li>
- <!-- End TIP 4 profile -->
-
-<!-- Start TITLE 5 profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3">
-          </div>
-          <div class="col s9">
-             <span class="black-text">
-                TITLE 1 GOES HERE
-             </span>
-          </div>
-       </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-    </div>
-    <div class="collapsible-body">
-        <div class="row">
-            <div class="col s12 m4">
-                <p>More text?</p>
-            </div>
-            <div class="col s12 m8">
-                <p>TIPS GO HERE</p>
-            </div>
-        </div>
-    </div>
-    </li>
- <!-- End TIP 5 profile -->
-    
-    
- <!-- Start TITLE 6 profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3">
-          </div>
-          <div class="col s9">
-             <span class="black-text">
-                TITLE 1 GOES HERE
-             </span>
-          </div>
-       </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-    </div>
-    <div class="collapsible-body">
-        <div class="row">
-            <div class="col s12 m4">
-                <p>More text?</p>
-            </div>
-            <div class="col s12 m8">
-                <p>TIPS GO HERE</p>
-            </div>
-        </div>
-    </div>
-    </li>
- <!-- End TIP 6 profile -->
-    
-    
-  <!-- Start TITLE 7 profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3">
-          </div>
-          <div class="col s9">
-             <span class="black-text">
-                TITLE 1 GOES HERE
-             </span>
-          </div>
-       </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-    </div>
-    <div class="collapsible-body">
-        <div class="row">
-            <div class="col s12 m4">
-                <p>More text?</p>
-            </div>
-            <div class="col s12 m8">
-                <p>TIPS GO HERE</p>
-            </div>
-        </div>
-    </div>
-    </li>
- <!-- End TIP 7 profile -->
-    
-  <!-- Start TITLE 8 profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3">
-          </div>
-          <div class="col s9">
-             <span class="black-text">
-                TITLE 1 GOES HERE
-             </span>
-          </div>
-       </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-    </div>
-    <div class="collapsible-body">
-        <div class="row">
-            <div class="col s12 m4">
-                <p>More text?</p>
-            </div>
-            <div class="col s12 m8">
-                <p>TIPS GO HERE</p>
-            </div>
-        </div>
-    </div>
-    </li>
- <!-- End TIP 8 profile -->
