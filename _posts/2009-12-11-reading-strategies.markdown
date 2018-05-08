@@ -14,7 +14,24 @@ This is a description. Descriptions are things that describe. Let me explain you
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
-<!-- Start Plan Your Reading Session -->
+<!-- Start Doug's profile -->
+ <div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+              <img src="{{site.baseurl}}/assets/images/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Doug is passionately interested in how learners work together to build knowledge.
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Doug's profile -->
+
+<!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
@@ -24,24 +41,19 @@ This is a description. Descriptions are things that describe. Let me explain you
           </div>
           <div class="col s9">
              <span class="black-text">
-                    <div class="col s12 m6"><p><b>Plan your reading session!</b></p></div>
-    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+                Kian is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
              </span>
           </div>
        </div>
        <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-      <div class="col s12 m6"><p><b>Make a claim without a quote</b></p></div>
-    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>). </p></div>
-    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
-    </div>
-             <div class="col s12 m6"><p> Planning your reading session can improve your reading efficiency by preventing distraction and burnout. </p></div>
-              <div class="col s12 m6"><p> Column???? </p></div>
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/aYhQEOXJ8d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
        </div>
     </div>
     </li>
- <!-- End Plan Your Research Session -->
+ <!-- End Kian's profile -->
  
  <!-- Start Shannon's profile -->
 <ul class="collapsible" data-collapsible="expandable">
@@ -53,9 +65,7 @@ This is a description. Descriptions are things that describe. Let me explain you
           </div>
           <div class="col s9">
              <span class="black-text">
-                <div class="col s12 m6"><p><b>Make a claim without a quote</b></p></div>
-    <div class="col s12 m6"><p> <markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>). </p></div>
-    <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+                Shannon, a Psychology and Neuroscience student, has been a member of the WI+RE Team from it's conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve. 
              </span>
           </div>
        </div>
@@ -126,3 +136,4 @@ This is a description. Descriptions are things that describe. Let me explain you
     </div>
     </li>
  <!-- End Jeannie's profile -->
+
