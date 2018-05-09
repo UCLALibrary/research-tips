@@ -111,7 +111,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
        <div class="row valign-wrapper col m6">
              <span class="black-text">
-               Take Relevant Notes
+               Paraphrase as You Read
              </span>
           </div>
        <div class-"col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
@@ -140,7 +140,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
        <div class="row valign-wrapper col m6">
              <span class="black-text">
-               Take Relevant Notes
+               Make an Annotation Legend
              </span>
           </div>
        <div class-"col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
@@ -148,10 +148,10 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-body">
         <div class="row">
             <div class="col s12 m8">
-                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
-                <ul class="browser-default"><li>Whenever you encounter an important concept, paraphrase it in the margins or on a separate paper.</li>
-                <li>Avoid summarizing using the exact words in the text.</li>
-                <li>A few words or a sentence will suffice for each summary.</li>
+                <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
+                <ul class="browser-default"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
+                <li>Your key of symbols will vary from text to text, depending on what you are looking for!</li>
+                <li>Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.</li>
                 </ul>
             </div>
             <div class="col s12 m4">
