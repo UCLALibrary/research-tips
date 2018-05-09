@@ -17,10 +17,10 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Start Plan Your Reading Session -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-        <div class="col s3">
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+         <div class="col s3">
               <img src="{{site.baseurl}}/assets/images/plan.png" alt="Coffee Cup" class="circle responsive-img"> 
         </div>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
        <div class="row valign-wrapper col m6">
              <b><span class="black-text">
                 Plan Your Reading Session
