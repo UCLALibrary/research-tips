@@ -28,13 +28,13 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-body">
         <div class="row">
             <div class="col s12 m8">
-                <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout
+                <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default"><li>Gauge the quantity of reading and the time you have to read it.</li>
                 <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
                 <li>Find a suitable reading environment, (links to the library, res hall study rooms, etc).</li>
                 </ul>
-        </div></p>
+        </div>
             <div class="col s12 m4">
                 <p>Video Coming Soon!</p>
             </div>
@@ -88,13 +88,13 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-body">
         <div class="row">
             <div class="col s12 m8">
-                <p>Taking notes that are tailored to your assignment will save you time and effort.
+                <p>Taking notes that are tailored to your assignment will save you time and effort.</p>
                 <ul class="browser-default"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
                 <li>If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.</li>
                 <li>If the answer is an essay, look out for useful quotes or themes.</li>
                 <li>If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.</li>
                 <li>Structure your notes so that you will be able to access the important information when the time comes to demonstrate your knowledge. </li>
-                </ul></p>
+                </ul>
             </div>
             <div class="col s12 m4">
                 <p>Video Coming Soon!</p>
@@ -119,11 +119,11 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-body">
         <div class="row">
             <div class="col s12 m8">
-                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.
+                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default"><li>Whenever you encounter an important concept, paraphrase it in the margins or on a separate paper.</li>
                 <li>Avoid summarizing using the exact words in the text.</li>
                 <li>A few words or a sentence will suffice for each summary.</li>
-                </ul></p>
+                </ul>
             </div>
             <div class="col s12 m4">
                 <p>Video Coming Soon!</p>
@@ -148,11 +148,11 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-body">
         <div class="row">
             <div class="col s12 m8">
-                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.
+                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default"><li>Whenever you encounter an important concept, paraphrase it in the margins or on a separate paper.</li>
                 <li>Avoid summarizing using the exact words in the text.</li>
                 <li>A few words or a sentence will suffice for each summary.</li>
-                </ul></p>
+                </ul>
             </div>
             <div class="col s12 m4">
                 <p>Video Coming Soon!</p>
