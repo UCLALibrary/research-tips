@@ -34,7 +34,7 @@ The way you read will vary depending on what you are reading and what you need t
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
                 <li>Find a suitable reading environment, (links to the library, res hall study rooms, etc).</li>
                 </ul>
-        </div>
+            </div>
             <div class="col s12 m4">
                 <p>Video Coming Soon!</p>
             </div>
