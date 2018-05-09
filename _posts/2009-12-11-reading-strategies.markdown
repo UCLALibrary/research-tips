@@ -20,7 +20,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
          <div class="row valign-wrapper col m6">
          <div class=" col s3">
-              <img src="{{site.baseurl}}/assets/img/plan.png" alt="Coffee Cup" class="circle responsive-img"> 
+              <img src="{{site.baseurl}}/assets/img/plan.png" alt="Coffee Cup" class="responsive-img"> 
         </div>
        <div class="col s9">
              <b><span class="black-text">
@@ -53,12 +53,17 @@ The way you read will vary depending on what you are reading and what you need t
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-       <div class="row valign-wrapper col m6">
-             <span class="black-text">
-               Turn Headings Into Questions
-             </span>
-          </div>
-       <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+         <div class="row valign-wrapper col m6">
+         <div class=" col s3">
+              <img src="{{site.baseurl}}/assets/img/questions.png" alt="Question Mark" class="responsive-img"> 
+        </div>
+       <div class="col s9">
+             <b><span class="black-text">
+                Turn Headings Into Questions
+                 </span></b>
+             </div>
+       </div>
+       <div class=" row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
         <div class="row">
@@ -83,11 +88,16 @@ The way you read will vary depending on what you are reading and what you need t
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-       <div class="row valign-wrapper col m6">
-             <span class="black-text">
-               Take Relevant Notes
-             </span>
-          </div>
+         <div class="row valign-wrapper col m6">
+         <div class=" col s3">
+              <img src="{{site.baseurl}}/assets/img/notes.png" alt="Paper and Pencil" class="responsive-img"> 
+        </div>
+       <div class="col s9">
+             <b><span class="black-text">
+                Take Relevant Notes
+                 </span></b>
+             </div>
+       </div>
        <div class=" row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
@@ -114,11 +124,16 @@ The way you read will vary depending on what you are reading and what you need t
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-       <div class="row valign-wrapper col m6">
-             <span class="black-text">
-               Paraphrase as You Read
-             </span>
-          </div>
+         <div class="row valign-wrapper col m6">
+         <div class=" col s3">
+              <img src="{{site.baseurl}}/assets/img/paraphrase.png" alt="Thought Bubble" class="responsive-img"> 
+        </div>
+       <div class="col s9">
+             <b><span class="black-text">
+                Paraphrase as You Read
+                 </span></b>
+             </div>
+       </div>
        <div class=" row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
@@ -143,12 +158,17 @@ The way you read will vary depending on what you are reading and what you need t
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-       <div class="row valign-wrapper col m6">
-             <span class="black-text">
-               Make an Annotation Legend
-             </span>
-          </div>
-       <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+         <div class="row valign-wrapper col m6">
+         <div class=" col s3">
+              <img src="{{site.baseurl}}/assets/img/annotation.png" alt="Legend" class="responsive-img"> 
+        </div>
+       <div class="col s9">
+             <b><span class="black-text">
+                Make an Annotation Legend
+                 </span></b>
+             </div>
+       </div>
+       <div class=" row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
         <div class="row">
@@ -169,16 +189,21 @@ The way you read will vary depending on what you are reading and what you need t
  <!-- End Make an Annotation Legend  -->
  
  <!-- Start Vary Your Reading Speed-->
- <ul class="collapsible" data-collapsible="expandable">
-     <li>
-     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-        <div class="row valign-wrapper col m6">
-              <span class="black-text">
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+         <div class="row valign-wrapper col m6">
+         <div class=" col s3">
+              <img src="{{site.baseurl}}/assets/img/speed.png" alt="Spedometor" class="responsive-img"> 
+        </div>
+       <div class="col s9">
+             <b><span class="black-text">
                 Vary Your Reading Speed
-              </span>
-           </div>
-        <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-     </div>
+                 </span></b>
+             </div>
+       </div>
+       <div class=" row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+    </div>
      <div class="collapsible-body">
          <div class="row">
              <div class="col s12 m6">
@@ -199,15 +224,20 @@ The way you read will vary depending on what you are reading and what you need t
   
   <!-- New Vocabulary -->
  <ul class="collapsible" data-collapsible="expandable">
-     <li>
-     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-        <div class="row valign-wrapper col m6">
-              <span class="black-text">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+         <div class="row valign-wrapper col m6">
+         <div class=" col s3">
+              <img src="{{site.baseurl}}/assets/img/vocabulary.png" alt="Dictionary" class="responsive-img"> 
+        </div>
+       <div class="col s9">
+             <b><span class="black-text">
                 New Vocabulary
-              </span>
-           </div>
-        <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-     </div>
+                 </span></b>
+             </div>
+       </div>
+       <div class=" row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+    </div>
      <div class="collapsible-body">
          <div class="row">
              <div class="col s12 m6">
@@ -229,16 +259,21 @@ The way you read will vary depending on what you are reading and what you need t
   <!-- New Vocabulary -->
  
  <!-- Start Identifying Uncertainties -->
- <ul class="collapsible" data-collapsible="expandable">
-     <li>
-     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
-        <div class="row valign-wrapper col m6">
-              <span class="black-text">
-                Identifying Uncertainties 
-              </span>
-           </div>
-        <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
-     </div>
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+         <div class="row valign-wrapper col m6">
+         <div class=" col s3">
+              <img src="{{site.baseurl}}/assets/img/uncertainties.png" alt="Graph with a chunk missing" class="responsive-img"> 
+        </div>
+       <div class="col s9">
+             <b><span class="black-text">
+                Identifying Uncertainties
+                 </span></b>
+             </div>
+       </div>
+       <div class=" row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+    </div>
      <div class="collapsible-body">
          <div class="row">
             <div class="col s12 m6">
