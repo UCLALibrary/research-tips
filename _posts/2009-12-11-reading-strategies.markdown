@@ -167,3 +167,93 @@ The way you read will vary depending on what you are reading and what you need t
     </li>
     </ul>
  <!-- End Make an Annotation Legend  -->
+ 
+ <!-- Start Vary Your Reading Speed-->
+ <ul class="collapsible" data-collapsible="expandable">
+     <li>
+     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+        <div class="row valign-wrapper col m6">
+              <span class="black-text">
+                Vary Your Reading Speed
+              </span>
+           </div>
+        <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+     </div>
+     <div class="collapsible-body">
+         <div class="row">
+             <div class="col s12 m8">
+                 <p>Decreasing and increasing your speed as the content of the text changes can help you read efficiently.</p>
+                 <ul class="browser-default"><li>Decrease speed when you encounter unfamiliar ideas, complicated technical material, and content you want to memorize.</li>
+                 <li>Increase speed when you encounter familiar ideas, redundant examples, irrelevant information, and unnecessary elaborations.</li>
+                 <li>Use key phrases to identify when to decrease speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.</li>
+                </ul>
+            </div>
+             <div class="col s12 m4">
+                 <p>Video Coming Soon!</p>
+            </div>
+         </div>
+     </div>
+     </li>
+     </ul>
+  <!-- End Vary Your Reading Speed -->
+  
+  <!-- New Vocabulary -->
+ <ul class="collapsible" data-collapsible="expandable">
+     <li>
+     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+        <div class="row valign-wrapper col m6">
+              <span class="black-text">
+                New Vocabulary
+              </span>
+           </div>
+        <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+     </div>
+     <div class="collapsible-body">
+         <div class="row">
+             <div class="col s12 m8">
+                 <p>Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.</p>
+                 <ul class="browser-default"><li>Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.</li>
+                <li>If you cannot move forward in the text without understanding the meaning of a certain word, it is probably something you should look up right now. </li>
+                 <li>If a word is frequently repeated within a text, but you can still understand the text from context clues or other indicators, it’s probably worth looking up later; maybe jot it down in the margins so it’s easier to locate later on.</li>
+                 <li>Words that are only used once and don’t crucially impact your understanding of the text don’t need to be addressed right away. Feel free to look them up later if you are curious but try not to let them distract you from the broader meaning of the text.</li>
+                     <li>Develop a system for making your vocabulary easily accessible. (examples)</li>
+                 </ul>
+             </div>
+             <div class="col s12 m4">
+                 <p>Video Coming Soon!</p>
+             </div>
+         </div>
+     </div>
+     </li>
+     </ul>
+  <!-- New Vocabulary -->
+ 
+ <!-- Start Identifying Uncertainties -->
+ <ul class="collapsible" data-collapsible="expandable">
+     <li>
+     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
+        <div class="row valign-wrapper col m6">
+              <span class="black-text">
+                Identifying Uncertainties 
+              </span>
+           </div>
+        <div class="row col m6"><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+     </div>
+     <div class="collapsible-body">
+         <div class="row">
+            <div class="col s12 m8">
+                 <p>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</p>
+                 <ul class="browser-default"><li>Make note of what you don’t understand… Then try to move on! </li>
+                 <li>Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.</li>
+                 <li>It’s possible your question gets answered later on in the text!</li>
+                     <li>Consider visiting your professor or TA to resolve your questions that you cannot answer using the text.</li>
+                 </ul>
+             </div>
+             <div class="col s12 m4">
+                 <p>Video Coming Soon!</p>
+             </div>
+         </div>
+     </div>
+     </li>
+     </ul>
+  <!-- End Identifying Uncertainties -->
