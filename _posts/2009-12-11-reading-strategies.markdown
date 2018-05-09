@@ -181,14 +181,14 @@ The way you read will vary depending on what you are reading and what you need t
      </div>
      <div class="collapsible-body">
          <div class="row">
-             <div class="col s12 m8">
+             <div class="col s12 m6">
                  <p>Decreasing and increasing your speed as the content of the text changes can help you read efficiently.</p>
                  <ul class="browser-default"><li>Decrease speed when you encounter unfamiliar ideas, complicated technical material, and content you want to memorize.</li>
                  <li>Increase speed when you encounter familiar ideas, redundant examples, irrelevant information, and unnecessary elaborations.</li>
                  <li>Use key phrases to identify when to decrease speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.</li>
                 </ul>
             </div>
-             <div class="col s12 m4">
+             <div class="col s12 m6">
                  <p>Video Coming Soon!</p>
             </div>
          </div>
@@ -210,7 +210,7 @@ The way you read will vary depending on what you are reading and what you need t
      </div>
      <div class="collapsible-body">
          <div class="row">
-             <div class="col s12 m8">
+             <div class="col s12 m6">
                  <p>Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.</p>
                  <ul class="browser-default"><li>Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.</li>
                 <li>If you cannot move forward in the text without understanding the meaning of a certain word, it is probably something you should look up right now. </li>
@@ -219,7 +219,7 @@ The way you read will vary depending on what you are reading and what you need t
                      <li>Develop a system for making your vocabulary easily accessible. (examples)</li>
                  </ul>
              </div>
-             <div class="col s12 m4">
+             <div class="col s12 m6">
                  <p>Video Coming Soon!</p>
              </div>
          </div>
@@ -241,7 +241,7 @@ The way you read will vary depending on what you are reading and what you need t
      </div>
      <div class="collapsible-body">
          <div class="row">
-            <div class="col s12 m8">
+            <div class="col s12 m6">
                  <p>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</p>
                  <ul class="browser-default"><li>Make note of what you don’t understand… Then try to move on! </li>
                  <li>Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.</li>
@@ -249,7 +249,7 @@ The way you read will vary depending on what you are reading and what you need t
                      <li>Consider visiting your professor or TA to resolve your questions that you cannot answer using the text.</li>
                  </ul>
              </div>
-             <div class="col s12 m4">
+             <div class="col s12 m6">
                  <p>Video Coming Soon!</p>
              </div>
          </div>
