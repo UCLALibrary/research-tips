@@ -232,7 +232,7 @@ The way you read will vary depending on what you are reading and what you need t
         </div>
        <div class="col s9">
              <b><span class="black-text">
-                New Vocabulary
+                Prioritize New Vocabulary
                  </span></b>
              </div>
        </div>
@@ -268,7 +268,7 @@ The way you read will vary depending on what you are reading and what you need t
         </div>
        <div class="col s9">
              <b><span class="black-text">
-                Identifying Uncertainties
+                Identify Uncertainties
                  </span></b>
              </div>
        </div>
