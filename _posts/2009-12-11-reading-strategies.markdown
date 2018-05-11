@@ -32,9 +32,9 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
     <div class="collapsible-body">
         <div class="row">
-            <div class="col s12 m6">
-                <p class="smalltext">Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p> <!--experiment with setting at p level -->
-                <ul class="browser-default smalltext"><li>Gauge the quantity of reading and the time you have to read it.</li>
+            <div class="col s12 m6 smalltext">
+                <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p> <!--experiment with setting at p level -->
+                <ul class="browser-default"><li>Gauge the quantity of reading and the time you have to read it.</li>
                 <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
                 <li>Find a suitable reading environment, (links to the library, res hall study rooms, etc).</li>
@@ -102,7 +102,7 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
     <div class="collapsible-body">
         <div class="row">
-            <div class="col s12 m6">
+            <div class="col s12 m6 smalltext">
                 <p>Taking notes that are tailored to your assignment will save you time and effort.</p>
                 <ul class="browser-default"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
                 <li>If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.</li>
@@ -138,7 +138,7 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
     <div class="collapsible-body">
         <div class="row">
-            <div class="col s12 m6">
+            <div class="col s12 m6 smalltext">
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default"><li>Whenever you encounter an important concept, paraphrase it in the margins or on a separate paper.</li>
                 <li>Avoid summarizing using the exact words in the text.</li>
@@ -172,7 +172,7 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
     <div class="collapsible-body">
         <div class="row">
-            <div class="col s12 m6">
+            <div class="col s12 m6 smalltext">
                 <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
                 <ul class="browser-default"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
                 <li>Your key of symbols will vary from text to text, depending on what you are looking for!</li>
@@ -206,7 +206,7 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
      <div class="collapsible-body">
          <div class="row">
-             <div class="col s12 m6">
+             <div class="col s12 m6 smalltext">
                  <p>Decreasing and increasing your speed as the content of the text changes can help you read efficiently.</p>
                  <ul class="browser-default"><li>Decrease speed when you encounter unfamiliar ideas, complicated technical material, and content you want to memorize.</li>
                  <li>Increase speed when you encounter familiar ideas, redundant examples, irrelevant information, and unnecessary elaborations.</li>
@@ -240,7 +240,7 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
      <div class="collapsible-body">
          <div class="row">
-             <div class="col s12 m6">
+             <div class="col s12 m6 smalltext">
                  <p>Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.</p>
                  <ul class="browser-default"><li>Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.</li>
                 <li>If you cannot move forward in the text without understanding the meaning of a certain word, it is probably something you should look up right now. </li>
@@ -276,7 +276,7 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
      <div class="collapsible-body">
          <div class="row">
-            <div class="col s12 m6">
+            <div class="col s12 m6 smalltext">
                  <p>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</p>
                  <ul class="browser-default"><li>Make note of what you don’t understand… Then try to move on! </li>
                  <li>Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.</li>
