@@ -33,7 +33,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="collapsible-body">
         <div class="row">
             <div class="col s12 m6">
-                <p class="small">Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
+                <p class="smalltext">Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p> <!--experiment with setting at p level -->
                 <ul class="browser-default"><li>Gauge the quantity of reading and the time you have to read it.</li>
                 <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
@@ -58,7 +58,7 @@ The way you read will vary depending on what you are reading and what you need t
               <img src="{{site.baseurl}}/assets/img/questions.png" alt="Question Mark" class="responsive-img"> 
         </div>
        <div class="col s9">
-             <b><span class="black-text">
+             <b><span class="black-text"> <!-- should this be a heading? -->
                 Turn Headings Into Questions
                  </span></b>
              </div>
@@ -67,7 +67,7 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
     <div class="collapsible-body">
         <div class="row">
-            <div class="col s12 m6">
+            <div class="col s12 m6 smalltext"> <!-- trying to set at div level -->
                 <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.
                 <ul class="browser-default"><li>Restate section headings as questions. If the heading is "The Nervous System," your question might be "What is the function of the nervous system?" Another way to practice this technique is turning section headings into questions related to your research topic. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? </li>
                 <li>As you read and take notes, keep your question in mind. Write down information that answers the question.</li>
