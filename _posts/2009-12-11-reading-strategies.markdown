@@ -76,7 +76,7 @@ The way you read will vary depending on what you are reading and what you need t
                 </ul></p>
             </div>
             <div class="col s12 m6">
-                <p>Video Coming Soon!</p>
+                <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
         </div>
     </div>
@@ -112,7 +112,7 @@ The way you read will vary depending on what you are reading and what you need t
                 </ul>
             </div>
             <div class="col s12 m6">
-                <p>Video Coming Soon!</p>
+                <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
         </div>
     </div>
@@ -146,7 +146,7 @@ The way you read will vary depending on what you are reading and what you need t
                 </ul>
             </div>
             <div class="col s12 m6">
-                <p>Video Coming Soon!</p>
+                <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
         </div>
     </div>
@@ -180,7 +180,7 @@ The way you read will vary depending on what you are reading and what you need t
                 </ul>
             </div>
             <div class="col s12 m6">
-                <p>Video Coming Soon!</p>
+                <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
         </div>
     </div>
@@ -214,7 +214,7 @@ The way you read will vary depending on what you are reading and what you need t
                 </ul>
             </div>
              <div class="col s12 m6">
-                 <p>Video Coming Soon!</p>
+                 <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
          </div>
      </div>
@@ -250,7 +250,7 @@ The way you read will vary depending on what you are reading and what you need t
                  </ul>
              </div>
              <div class="col s12 m6">
-                 <p>Video Coming Soon!</p>
+                 <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
              </div>
          </div>
      </div>
@@ -285,7 +285,7 @@ The way you read will vary depending on what you are reading and what you need t
                  </ul>
              </div>
              <div class="col s12 m6">
-                 <p>Video Coming Soon!</p>
+                 <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
              </div>
          </div>
      </div>
