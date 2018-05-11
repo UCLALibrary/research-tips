@@ -11,7 +11,7 @@ html {
 /* trying to create smaller font size option */
 
 .smalltext {
-    font-size: 1em;
+    font-size: .75em;
 }
 
 /* more interesting intro paragraphs */
