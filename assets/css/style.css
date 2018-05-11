@@ -8,6 +8,12 @@ html {
     font-family: 'Lora', serif;
   }
 
+/* trying to create smaller font size option */
+
+.smalltext {
+    font-size: .5em;
+}
+
 /* more interesting intro paragraphs */
 
 body .intro {
