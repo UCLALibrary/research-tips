@@ -138,14 +138,14 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
     <div class="collapsible-body">
         <div class="row">
-            <div class="col s12 m6 smalltext">
+            <div class="col s12 m7 smalltext">
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default"><li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
                 <li>Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.</li>
                 <li>A few words or a sentence will suffice for each summary.</li>
                 </ul>
             </div>
-            <div class="col s12 m6">
+            <div class="col s12 m5">
                 <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
         </div>
