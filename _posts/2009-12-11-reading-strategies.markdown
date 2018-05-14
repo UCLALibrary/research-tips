@@ -37,7 +37,7 @@ The way you read will vary depending on what you are reading and what you need t
                 <ul class="browser-default"><li>Gauge the quantity of reading and the time you have to read it.</li>
                 <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
-                <li>Find a suitable reading environment. You can reserve rooms here for the <a href="http://www.library.ucla.edu/clicc/study-rooms" target="blank">Library</a> or <a href="https://reslife.ucla.edu/reserve/" target="blank">Res Halls</a>.</li>
+                <li>Find a suitable reading environment. You can reserve study rooms here in the <a href="http://www.library.ucla.edu/clicc/study-rooms" target="blank">library</a> or <a href="https://reslife.ucla.edu/reserve/" target="blank">residential halls</a>.</li>
                 </ul>
             </div>
             <div class="col s12 m5">
