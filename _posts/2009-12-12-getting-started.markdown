@@ -16,7 +16,7 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fIpRwxH30U" frameborder="0" allowfullscreen></iframe></div>
 
 
-### Resources 
+## Resources 
 
 <p>Check out the Undergraduate Research Center for the Humanities, Arts and Social sciences <a href="http://www.ugeducation.ucla.edu/urhass/" target="blank">here</a>.<p>
 <p>Check out the Undergraduate Research Center for the Sciences <a href="http://www.ugresearchsci.ucla.edu/" target="blank">here</a>.</p>
