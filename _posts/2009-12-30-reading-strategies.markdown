@@ -5,7 +5,7 @@ date:   2018-04-07 21:15:05 +0000
 description: 
 handout:
 handout-thumbnail:
-category:
+category: Getting Started
 ---
 The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.  
 
