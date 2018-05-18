@@ -21,7 +21,6 @@ The way you read will vary depending on what you are reading and what you need t
          <div class="row valign-wrapper col m6">
      <div id="coffee1">
        <div id="coffee2">
-         <div class=" col s3">
               <img src="{{site.baseurl}}/assets/img/plan.png" alt="Coffee Cup" class="responsive-img"> 
         </div>
          </div>
