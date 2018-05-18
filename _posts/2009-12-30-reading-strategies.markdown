@@ -296,10 +296,9 @@ The way you read will vary depending on what you are reading and what you need t
 #coffee1 {position: relative;}
 #coffee2 {
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 0%;
-    height: 30%;
     margin: -15% 0 0 -25%;
-    width: auto;
-    height: auto;
+    width: 100px;
+    height: 100px;
 }
