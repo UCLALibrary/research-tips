@@ -295,10 +295,10 @@ The way you read will vary depending on what you are reading and what you need t
   <!-- End Identifying Uncertainties -->
 #coffee1 {position: relative;}
 #coffee2 {
+    max-width: 100px;
+    max-height: 100px;
     position: absolute;
     top: 60%;
     left: 0%;
     margin: -15% 0 0 -25%;
-    width: 100px;
-    height: 100px;
 }
