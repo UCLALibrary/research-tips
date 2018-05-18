@@ -24,7 +24,6 @@ The way you read will vary depending on what you are reading and what you need t
               <img src="{{site.baseurl}}/assets/img/plan.png" alt="Coffee Cup" class="responsive-img"> 
         </div>
          </div>
-             </div>
        <div class="col s9">
              <b><span class="black-text">
                 Plan Your Reading Session
@@ -300,6 +299,7 @@ The way you read will vary depending on what you are reading and what you need t
     top: 50%;
     left: 0%;
     height: 30%;
-    width: 50%;
     margin: -15% 0 0 -25%;
+    width: auto;
+    height: auto;
 }
