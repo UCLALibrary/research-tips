@@ -19,11 +19,9 @@ The way you read will vary depending on what you are reading and what you need t
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12">
          <div class="row valign-wrapper col m6">
-     <div id="coffee1">
-       <div id="coffee2">
+         <div class=" col s3">
               <img src="{{site.baseurl}}/assets/img/plan.png" alt="Coffee Cup" class="responsive-img"> 
         </div>
-         </div>
        <div class="col s9">
              <b><span class="black-text">
                 Plan Your Reading Session
@@ -293,12 +291,3 @@ The way you read will vary depending on what you are reading and what you need t
      </li>
      </ul>
   <!-- End Identifying Uncertainties -->
-#coffee1 {position: relative;}
-#coffee2 {
-    max-width: 100px;
-    max-height: 100px;
-    position: absolute;
-    top: 60%;
-    left: 0%;
-    margin: -15% 0 0 -25%;
-}
