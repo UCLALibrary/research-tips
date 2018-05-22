@@ -14,7 +14,7 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
-<div class="container services">
+<div class="container">
 <div class="row">
 <!-- Start Plan Your Reading Session 3 -->
 <div class="card" style="max-width: 40%;">
@@ -276,7 +276,7 @@ The way you read will vary depending on what you are reading and what you need t
         </div>
        <div class="col s9">
              <b><span class="black-text">
-                Take Time on the Information you Need
+                Slow Down for Important Info
                  </span></b>
              </div>
        </div>
