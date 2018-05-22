@@ -14,7 +14,7 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
-
+<div class="row">
 <!-- Start Plan Your Reading Session 3 -->
 <div class="card" style="max-width: 40%;">
     <div class="card-image" waves-effect waves-block waves-light> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/coming_soon.png"> </div>
@@ -44,6 +44,7 @@ The way you read will vary depending on what you are reading and what you need t
         </ul> </div>
 </div>
 <!-- End Paraphrase as you read 3 -->
+</div>
 
 <!-- Start Plan Your Reading Session 2 -->
 <div class="card">
