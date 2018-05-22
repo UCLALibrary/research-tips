@@ -17,7 +17,7 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="container">
 <div class="row">
 <!-- Start Plan Your Reading Session 3 -->
-<div class="card" style="max-width: 40%;">
+<div class="card col s12 m6">
     <div class="card-image" waves-effect waves-block waves-light> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/coming_soon.png"> </div>
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Plan your Reading Session<a class="waves-effect waves-light btn blue right activator"><i class="material-icons left">videocam</i>Details</a></span>
     </div>
@@ -31,10 +31,9 @@ The way you read will vary depending on what you are reading and what you need t
     </div>
 </div>
 <!-- End Plan Your Reading Session 3 -->
-
 <!-- Start Paraphrase as you read 3 -->
-<div class="card" style="max-width: 40%;">
-    <div class="card-image waves-effect waves-block waves-light"> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/coming_soon.png"> </div>
+<div class="card col s12 m6">
+    <div class="card-image" waves-effect waves-block waves-light> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/coming_soon.png"> </div>
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Paraphrase as you read<a class="waves-effect waves-light btn blue right activator"><i class="material-icons left">videocam</i>Details</a></span>
     </div>
     <div class="card-reveal"> <span class="card-title grey-text text-darken-4">Paraphrase as you read<i class="material-icons right">close</i></span> <p class="activator">Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
@@ -276,7 +275,7 @@ The way you read will vary depending on what you are reading and what you need t
         </div>
        <div class="col s9">
              <b><span class="black-text">
-                Slow Down for Important Info
+                Read for What You Need
                  </span></b>
              </div>
        </div>
