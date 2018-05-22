@@ -22,7 +22,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Plan your Reading Session<a class="btn-floating halfway-fab waves-effect waves-light blue activator"><i class="material-icons left">more_vert</i>Details</a>
         </span>
     </div>
-    <div class="card-reveal"> <span class="card-title grey-text text-darken-4">Paraphrase as you read<i class="material-icons right">close</i></span> <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
+    <div class="card-reveal"> <span class="card-title grey-text text-darken-4">Plan Your Reading Session<i class="material-icons right">close</i></span> <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
                     <li>Gauge the quantity of reading and the time you have to read it.</li>
                     <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
