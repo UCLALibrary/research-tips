@@ -276,7 +276,7 @@ The way you read will vary depending on what you are reading and what you need t
         </div>
        <div class="col s9">
              <b><span class="black-text">
-                Vary Your Reading Speed
+                Take Time on the Information you Need
                  </span></b>
              </div>
        </div>
@@ -285,10 +285,10 @@ The way you read will vary depending on what you are reading and what you need t
      <div class="collapsible-body">
          <div class="row">
              <div class="col s12 m7 smalltext">
-                 <p>Decreasing and increasing your speed as the content of the text changes can help you read efficiently.</p>
-                 <ul class="browser-default"><li>Decrease speed when you encounter unfamiliar ideas, complicated technical material, and content you want to memorize.</li>
-                 <li>Increase speed when you encounter familiar ideas, redundant examples, irrelevant information, and unnecessary elaborations.</li>
-                 <li>Use key phrases to identify when to decrease speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.</li>
+                 <p> Figuring out what information you need from a reading is an important first step! It can help you know when to speed up and when to slow down and dive deeper into the reading. </p>
+                 <ul class="browser-default"><li>Slow down your reading when you encounter unfamiliar ideas or new information that seems particularly relevant to your class or research context.</li>
+                 <li>Increase speed when you encounter ideas that you are familiar with or that don’t pertain to your research context or class.</li>
+                 <li>You can use key phrases to identify when to change your  speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.</li>
                 </ul>
             </div>
              <div class="col s12 m5">
