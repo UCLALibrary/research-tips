@@ -14,6 +14,50 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
+<!-- Start Plan Your Reading Session 2 -->
+<div class="card">
+    <div class="card-content">
+        <div class="row">
+            <div class="col s12 m6">
+                <h4>Plan Your Reading Session</h4>
+                <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
+                <ul class="browser-default activator">
+                    <li>Gauge the quantity of reading and the time you have to read it.</li>
+                    <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
+                <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
+                <li>Find a suitable reading environment. You can reserve study rooms here in the <a href="http://www.library.ucla.edu/clicc/study-rooms" target="blank">library</a> or <a href="https://reslife.ucla.edu/reserve/" target="blank">residential halls</a>.</li>
+                </ul>
+            </div>
+            <div class="col s12 m6">
+                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/images/np_video_1709497_808080.png">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Plan Your Reading Session 2 -->
+
+<!-- Start Paraphrase as you read 2 -->
+<div class="card">
+    <div class="card-content">
+        <div class="row">
+            <div class="col s12 m6">
+                <h4>Paraphrase as you read</h4>
+                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
+                <ul class="browser-default activator">
+                    <li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
+                    <li>Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.</li>
+                    <li>A few words or a sentence will suffice for each summary.</li>
+                </ul>
+            </div>
+            <div class="col s12 m6">
+                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/images/np_video_1709497_808080.png">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Paraphrase as you read 2 -->
+
+
 <!-- Start Plan Your Reading Session -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
