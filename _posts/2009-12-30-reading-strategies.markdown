@@ -17,7 +17,7 @@ The way you read will vary depending on what you are reading and what you need t
 
 <!-- Start Plan Your Reading Session 3 -->
 <div class="card">
-    <div class="card-image waves-effect waves-block waves-light"> <img class="activator" style="max-width: 400px;" src="{{site.baseurl}}/assets/img/coming_soon.png"> </div>
+    <div class="card-image"> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/coming_soon.png"> </div>
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Plan your Reading Session<a class="waves-effect waves-light btn blue right activator"><i class="material-icons left">videocam</i>Details</a></span>
     </div>
     <div class="card-reveal"> <span class="card-title grey-text text-darken-4">Paraphrase as you read<i class="material-icons right">close</i></span> <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
