@@ -29,7 +29,7 @@ The way you read will vary depending on what you are reading and what you need t
                 </ul>
             </div>
             <div class="col s12 m6">
-                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/coming_soon.png"">
+                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/coming_soon.png">
             </div>
         </div>
     </div>
