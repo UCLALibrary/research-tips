@@ -116,11 +116,10 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card">
     <div class="card-content">
         <div class="row">
-            </div>
             <div class="col s12 m6">
                 <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png">
             </div>
-          <div class="col s12 m6">
+            <div class="col s12 m6">
                 <h4>Plan Your Reading Session</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
@@ -129,6 +128,7 @@ The way you read will vary depending on what you are reading and what you need t
                 <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
                 <li>Find a suitable reading environment. You can reserve study rooms here in the <a href="http://www.library.ucla.edu/clicc/study-rooms" target="blank">library</a> or <a href="https://reslife.ucla.edu/reserve/" target="blank">residential halls</a>.</li>
                 </ul>
+            </div>
         </div>
     </div>
 </div>
