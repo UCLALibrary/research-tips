@@ -54,11 +54,11 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><iframe width="100%" height="315" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe>
             </div>
-            <div class="col s12 m12 l6">
-                <h4>Paraphrase as you read</h4>
+            <div class="col s12 m12 l6 pull-l6">
+                <h4>Paraphrase as you read -UPDATED </h4>
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default activator">
                     <li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
@@ -144,7 +144,7 @@ The way you read will vary depending on what you are reading and what you need t
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m6">
-                <h4>Plan Your Reading Session - UPDATED</h4>
+                <h4>Plan Your Reading Session</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
                     <li>Gauge the quantity of reading and the time you have to read it.</li>
