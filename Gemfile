@@ -7,4 +7,4 @@ gem "normalize-scss"
 gem "compass"
 gem "sass"
 gem "support-for"
-gem 'jekyll-seo-tag'
+gem "jekyll-seo-tag"

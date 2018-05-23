@@ -1,13 +1,315 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Strategies for Research and Writing</title>
+    <title>WI+RE</title>
     <description>Quick and practical research and writing strategies, collaboratively designed by students, teachers, and librarians at UCLA.</description>
     <link>https://uclalibrary.github.io/research-tips/</link>
     <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Feb 2018 09:01:59 -0800</pubDate>
-    <lastBuildDate>Wed, 14 Feb 2018 09:01:59 -0800</lastBuildDate>
+    <pubDate>Wed, 23 May 2018 14:30:00 -0700</pubDate>
+    <lastBuildDate>Wed, 23 May 2018 14:30:00 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      
+      <item>
+        <title>Reading Strategies</title>
+        <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.&lt;/p&gt;
+
+&lt;!-- this is a comment, we use comments to write notes that only appear in code --&gt;
+&lt;!-- we also use comment to mark off sections of code to make things easier to read and scan --&gt;
+&lt;!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. --&gt;
+
+&lt;!-- Start Plan Your Reading Session --&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/plan.png&quot; alt=&quot;Coffee Cup&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
+                Plan Your Reading Session
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot;row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;collapsible-body&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+                &lt;p&gt;Planning your reading session can improve your reading efficiency by preventing distraction and burnout&lt;/p&gt; &lt;!--experiment with setting at p level --&gt;
+                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Gauge the quantity of reading and the time you have to read it.&lt;/li&gt;
+                &lt;li&gt;Be honest with yourself about how long your attention span is and how interested you are in the text.&lt;/li&gt;
+                &lt;li&gt;Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.&lt;/li&gt;
+                &lt;li&gt;Find a suitable reading environment. You can reserve study rooms here in the &lt;a href=&quot;http://www.library.ucla.edu/clicc/study-rooms&quot; target=&quot;blank&quot;&gt;library&lt;/a&gt; or &lt;a href=&quot;https://reslife.ucla.edu/reserve/&quot; target=&quot;blank&quot;&gt;residential halls&lt;/a&gt;.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m5&quot;&gt;
+                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;!-- End Plan Your Reading Session profile --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- Start Turn Headings Into Questions --&gt;&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/questions.png&quot; alt=&quot;Question Mark&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt; &lt;!-- should this be a heading? --&gt;
+                Turn Headings Into Questions
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;collapsible-body&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt; &lt;!-- trying to set at div level --&gt;
+                &lt;p&gt;This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.
+                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? &lt;/li&gt;
+                &lt;li&gt;As you read and take notes, keep your question in mind. Write down information that answers the question.&lt;/li&gt;
+                &lt;li&gt;In the end, you should be able to summarize the answer to your question.&lt;/li&gt;
+                &lt;li&gt;You may need to revise your question if the content doesn't match up.&lt;/li&gt;
+                &lt;/ul&gt;&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m5&quot;&gt;
+                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;!-- End Turn Headings Into Questions --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- Start Take Relevant Notes--&gt;&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/notes.png&quot; alt=&quot;Paper and Pencil&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
+                Take Relevant Notes
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;collapsible-body&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+                &lt;p&gt;Taking notes that are tailored to your assignment will save you time and effort.&lt;/p&gt;
+                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”&lt;/li&gt;
+                &lt;li&gt;If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.&lt;/li&gt;
+                &lt;li&gt;If the answer is an essay, look out for useful quotes or themes.&lt;/li&gt;
+                &lt;li&gt;If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.&lt;/li&gt;
+                &lt;li&gt;Structure your notes so that you will be able to access the important information when the time comes to demonstrate your knowledge. &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m5&quot;&gt;
+                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;!-- End Take Relevant Notes --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- Start Paraphrase as You Read --&gt;&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/paraphrase.png&quot; alt=&quot;Thought Bubble&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
+                Paraphrase as You Read
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;collapsible-body&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+                &lt;p&gt;Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.&lt;/p&gt;
+                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Whenever you encounter an important concept, paraphrase it in your notes or outline.&lt;/li&gt;
+                &lt;li&gt;Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.&lt;/li&gt;
+                &lt;li&gt;A few words or a sentence will suffice for each summary.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m5&quot;&gt;
+                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;!-- End Paraphrase as You Read  --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- Start Make an Annotation Legend --&gt;&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/annotation.png&quot; alt=&quot;Legend&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
+                Make an Annotation Legend
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;collapsible-body&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+                &lt;p&gt;Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.&lt;/p&gt;
+                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;For example, a star might denote a main idea. Or a square might denote a connection to another text.&lt;/li&gt;
+                &lt;li&gt;Your key of symbols will vary from text to text, depending on what you are looking for!&lt;/li&gt;
+                &lt;li&gt;Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m5&quot;&gt;
+                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;!-- End Make an Annotation Legend  --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- Start Vary Your Reading Speed--&gt;&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/speed.png&quot; alt=&quot;Spedometor&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
+                Vary Your Reading Speed
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;collapsible-body&quot;&gt;
+         &lt;div class=&quot;row&quot;&gt;
+             &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+                 &lt;p&gt;Decreasing and increasing your speed as the content of the text changes can help you read efficiently.&lt;/p&gt;
+                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Decrease speed when you encounter unfamiliar ideas, complicated technical material, and content you want to memorize.&lt;/li&gt;
+                 &lt;li&gt;Increase speed when you encounter familiar ideas, redundant examples, irrelevant information, and unnecessary elaborations.&lt;/li&gt;
+                 &lt;li&gt;Use key phrases to identify when to decrease speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+             &lt;div class=&quot;col s12 m5&quot;&gt;
+                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+            &lt;/div&gt;
+         &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;/li&gt;
+     &lt;/ul&gt;
+&lt;p&gt;&lt;!-- End Vary Your Reading Speed --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- New Vocabulary --&gt;&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/vocabulary.png&quot; alt=&quot;Dictionary&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
+                Prioritize New Vocabulary
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;collapsible-body&quot;&gt;
+         &lt;div class=&quot;row&quot;&gt;
+             &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+                 &lt;p&gt;Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.&lt;/p&gt;
+                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.&lt;/li&gt;
+                &lt;li&gt;If you cannot move forward in the text without understanding the meaning of a certain word, look it up now. &lt;/li&gt;
+                 &lt;li&gt;If a word is frequently repeated within a text, but you can still understand the text from context clues, it’s probably worth looking up later. Circle it and come back later.&lt;/li&gt;
+                 &lt;li&gt;Words that are only used once and don’t crucially impact your understanding of the text don’t need to be addressed right away. Don't let them distract you from the broader meaning of the text.&lt;/li&gt;
+                     &lt;li&gt;Develop a system for making your vocabulary easily accessible, like a circle that means &quot;look up later.&quot;&lt;/li&gt;
+                 &lt;/ul&gt;
+             &lt;/div&gt;
+             &lt;div class=&quot;col s12 m5&quot;&gt;
+                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+             &lt;/div&gt;
+         &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;/li&gt;
+     &lt;/ul&gt;
+&lt;p&gt;&lt;!-- New Vocabulary --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- Start Identifying Uncertainties --&gt;&lt;/p&gt;
+&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
+    &lt;li&gt;
+    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
+         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
+         &lt;div class=&quot; col s3&quot;&gt;
+              &lt;img src=&quot;/research-tips/assets/img/uncertainties.png&quot; alt=&quot;Graph with a chunk missing&quot; class=&quot;responsive-img&quot; /&gt; 
+        &lt;/div&gt;
+       &lt;div class=&quot;col s9&quot;&gt;
+             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
+                Identify Uncertainties
+                 &lt;/span&gt;&lt;/b&gt;
+             &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;collapsible-body&quot;&gt;
+         &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+                 &lt;p&gt;Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.&lt;/p&gt;
+                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Make note of what you don’t understand… Then try to move on! &lt;/li&gt;
+                 &lt;li&gt;Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.&lt;/li&gt;
+                 &lt;li&gt;It’s possible your question gets answered later on in the text! But if not, consider visiting your professor or TA to resolve your questions that you cannot answer using the text.&lt;/li&gt;
+                 &lt;/ul&gt;
+             &lt;/div&gt;
+             &lt;div class=&quot;col s12 m5&quot;&gt;
+                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+             &lt;/div&gt;
+         &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;/li&gt;
+     &lt;/ul&gt;
+&lt;p&gt;&lt;!-- End Identifying Uncertainties --&gt;&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 07 Apr 2018 14:15:05 -0700</pubDate>
+        <link>https://uclalibrary.github.io/research-tips/reading-strategies/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/reading-strategies/</guid>
+        
+        
+        <category>Getting Started</category>
+        
+      </item>
+      
     
       
       <item>
@@ -232,6 +534,41 @@
     
       
       <item>
+        <title>Expanding Perspectives in Your Search</title>
+        <description>&lt;p class=&quot;flow-text&quot;&gt;This tutorial challenges researchers and students to actively seek sources that push outside of their starting perspective. With a more balanced survey of the literature, you will be able to refine and hone your research question within the context of the broader research.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rx7RYxP6QM0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
+
+&lt;p&gt; Once you have chosen a few areas to actively expand your perspective, you will need to make important decions about what to include and exclude from your search.&lt;p&gt;
+&lt;p&gt; Be sure to refer to your assignment guidelines as to what types of sources are appropriate and how much evidence you are expected to provide. If you are not working inside an assignment for a class, try looking at a few articles in your discipline to see what types of sources they include and what the conventions of the field are!&lt;/p&gt; 
+&lt;p&gt; Good Luck! &lt;/p&gt;
+
+&lt;/p&gt;&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;flow-text&quot;&gt;This tutorial challenges researchers and students to actively seek sources that push outside of their starting perspective. With a more balanced survey of the literature, you will be able to refine and hone your research question within the context of the broader research.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
+        <link>https://uclalibrary.github.io/research-tips/expanding-perspectives/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/expanding-perspectives/</guid>
+        
+        <category>expanding perspectives</category>
+        
+        <category>search bias</category>
+        
+        
+        <category>Finding and Citing Sources</category>
+        
+      </item>
+      
+    
+      
+      <item>
         <title>Creating Literature Reviews</title>
         <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
 &lt;!-- &lt;p class=&quot;flow-text&quot;&gt;Literature reviews are great resources for research projects in all disciplines. Not only do they present the key ideas in a field and point to must-read articles, but they also suggest directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review - covering everything from your role as the author of a literature review to organizational approaches and writing strategies.&lt;/p&gt; &lt;BR&gt; &lt;p&gt; This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. &lt;/p&gt; --&gt;
@@ -283,6 +620,41 @@
         
         
         <category>Literature Reviews</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Getting Started with Research at UCLA</title>
+        <description>&lt;p class=&quot;flow-text&quot;&gt;Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2fIpRwxH30U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+
+&lt;p&gt;Check out the Undergraduate Research Center for the Humanities, Arts and Social sciences &lt;a href=&quot;http://www.ugeducation.ucla.edu/urhass/&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;.&lt;p&gt;
+&lt;p&gt;Check out the Undergraduate Research Center for the Sciences &lt;a href=&quot;http://www.ugresearchsci.ucla.edu/&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;flow-text&quot;&gt;Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
+        <link>https://uclalibrary.github.io/research-tips/getting-started/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/getting-started/</guid>
+        
+        <category>Getting started with research</category>
+        
+        <category>getting started</category>
+        
+        <category>research at UCLA</category>
+        
+        
+        <category>Getting Started</category>
         
       </item>
       
@@ -930,146 +1302,6 @@ table, th, td {
         
         
         <category>Literature Reviews</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Search Experimentally</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Rather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.&lt;/p&gt;
-
-&lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;Find one or more &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; related to your project. Choose a few databases and search tools and start exploring.&lt;/p&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;Turn your notes, ideas, and questions about your topic into keywords for search. If the database you are using has an &quot;advanced search&quot; use it! Advanced search will allow you to experiment with using a variety of keyword synomyms to explore your topic.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/from-keywords-to-search-2.jpg&quot; alt=&quot;Turn your notes and ideas on your topic into keywords for search&quot; data-caption=&quot;Turn your notes and ideas on your topic into keywords for search.&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h3&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/database-filtering-tools.jpg&quot; alt=&quot;Web of Science search filters&quot; data-caption=&quot;Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results.&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
-
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;If you're not sure which database to use, try starting with a multi-disciplinary database like Web of Science, Academic Search Complete, or ArticlesPlus to explore your topic.&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;Use your initial searches to collect new keywords for future searches. You may find useful new keywords in titles, abstracts, and subject headings.&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;In your initial searches expect that sometimes you wil find too many results, and other times not enough. Be patient as you use your initial searches to explore your topic and build the collection of keywords you are using for search.&lt;/div&gt;
-    &lt;/li&gt;
-        &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;As you find keywords that seem to be working, remember to &lt;em&gt;mix and match&lt;/em&gt; with other keywords to see if you uncover any new or unexpected results.&lt;/div&gt; 
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Rather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Tue, 05 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/search-experimentally/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/search-experimentally/</guid>
-        
-        <category>search</category>
-        
-        
-        <category>Finding and Citing Sources</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Get configured</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Set up your computer to access library resources from off-campus.&lt;/p&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;The Library's online subscription resources (databases, electronic journals, or e-books) can always be accessed from computers and wireless networks on campus. However, to access these resources from off-campus, you will need to set up your computer with either *proxy* or *VPN*. Don't worry, it is easy, and both the library and the staff at Bruin OnLine can help.&lt;/p&gt;
-
-&lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
-
-&lt;p&gt;Visit &lt;a href=&quot;http://www.library.ucla.edu/use/computers-computing-services/connect-campus&quot; target=&quot;_blank&quot;&gt;http://www.library.ucla.edu/use/computers-computing-services/connect-campus&lt;/a&gt; to learn more about getting configured!&lt;/p&gt;
-
-&lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;Be sure to configure your computer for off-campus access before you leave campus!&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Set up your computer to access library resources from off-campus.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 04 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/get-configured/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/get-configured/</guid>
-        
-        <category>vpn</category>
-        
-        <category>off-campus access</category>
-        
-        <category>proxy</category>
-        
-        
-        <category>Getting Started</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Find the Right Research Guides</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Google is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
-
-&lt;iframe width=&quot;90%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;Visit &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;http://guides.library.ucla.edu&lt;/a&gt; to find one or more research guides related to your topic or course. Then, visit the &quot;articles&quot; tab on the guides and choose the databases you would like to use to explore your topic.&lt;/p&gt;
-
-&lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
-
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;Consider using more than one research guide to help you find interdisciplinary perspectives on your topic.&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;ondemand_video&lt;/i&gt;Learn how to get the most out of research guides in this quick video:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ilaW2DQekGA?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;forum&lt;/i&gt;Want to talk about it? Set up a &lt;em&gt;free research consultation&lt;/em&gt; to get help with research guides:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;p&gt;Ask a librarian &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;24/7 chat service&lt;/a&gt;.&lt;/p&gt;
-          &lt;p&gt;Set up a &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;research consultation at a UCLA Library&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Google is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's &lt;a href=&quot;http://guides.library.ucla.edu&quot; target=&quot;_blank&quot;&gt;research guides&lt;/a&gt; can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 03 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/find-the-guides/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/find-the-guides/</guid>
-        
-        <category>research guides</category>
-        
-        
-        <category>Finding and Citing Sources</category>
         
       </item>
       
