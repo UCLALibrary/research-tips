@@ -117,10 +117,10 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m6">
-                <!--add video embed code here--><iframe width="100%" height="100%" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe>
+                <!--add video embed code here--><iframe width="100%" height="315" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="col s12 m6">
-                <h4>Plan Your Reading Session DID THIS UPDATE</h4>
+                <h4>Plan Your Reading Session</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
                     <li>Gauge the quantity of reading and the time you have to read it.</li>
