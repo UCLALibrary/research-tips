@@ -113,14 +113,14 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Make an Annotation Legend 2 -->
 
 <!-- Start Plan Your Reading Session 1 -->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m6">
                 <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png">
             </div>
             <div class="col s12 m6">
-                <h4>Plan Your Reading Session WOOHOOOO</h4>
+                <h4>Plan Your Reading Session</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
                     <li>Gauge the quantity of reading and the time you have to read it.</li>
@@ -135,7 +135,7 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Plan Your Reading Session 1 -->
 
 <!-- Start Paraphrase as you read 1 -->
-<div class="card">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m6">
@@ -156,7 +156,7 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Paraphrase as you read 1 -->
 
 <!-- Make an Annotation Legend 1 -->
-<div class="card">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m6">
