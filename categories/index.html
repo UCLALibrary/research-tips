@@ -36,15 +36,15 @@ title: Research and Writing Tutorials
             Read More
           </a>
           <a class="rightaction" href="#modal-{{ post.url | slugify }}" aria-label="Embed code">
-            <i class="fa fa-code" aria-hidden="true"></i>
+            <i class="fas fa-code" aria-hidden="true"></i>
               <!-- &lt; Embed &gt; -->
           </a>
-            <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a class="rightaction" href="https://facebook.com/sharer.php?u={{site.url}}{{ site.baseurl }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" aria-label="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            <a class="rightaction" href="https://facebook.com/sharer.php?u={{site.url}}{{ site.baseurl }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" aria-label="Facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
             <!-- ty: https://superdevresources.com/share-buttons-jekyll/ -->
             {% if post.handout %}
             {% if post.handout contains 'http' %}
-                <a class="rightaction" href="{{ page.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+                <a class="rightaction" href="{{ page.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="far fa-file-pdf" aria-hidden="true"></i></a>
             {% else %}
                 <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
             {% endif %}
