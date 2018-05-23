@@ -47,36 +47,14 @@ The way you read will vary depending on what you are reading and what you need t
 </div>
 </div> -->
 
-
-<!-- Start Paraphrase as you read repeat -->
-<div class="card blue grey lighten-5">
-    <div class="card-content">
-        <div class="row">
-            <div class="col s12 m12 l6 push-l6">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe></div>
-            </div>
-            <div class="col s12 m12 l6 pull-l6">
-                <h4>Paraphrase as you read</h4>
-                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
-                <ul class="browser-default activator">
-                    <li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
-                    <li>Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.</li>
-                    <li>A few words or a sentence will suffice for each summary.</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Paraphrase as you read repeat -->
-
 <!-- Start Plan Your Reading Session 1 -->
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6">
+            <div class="col s12 m12 l6 push-l6 grey lighten-3">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-3">
+            <div class="col s12 m12 l6 pull-l6">
                 <h4>Plan Your Reading Session</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
@@ -95,10 +73,10 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6">
+            <div class="col s12 m12 l6 push-l6 grey lighten-3">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-3">
+            <div class="col s12 m12 l6 pull-l6">
                 <h4>Paraphrase as you read</h4>
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default activator">
@@ -116,10 +94,10 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6">
+            <div class="col s12 m12 l6 push-l6 grey lighten-3">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-3">
+            <div class="col s12 m12 l6">
                 <h4>Make an Annotation Legend</h4>
                 <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
                  <ul class="browser-default"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
