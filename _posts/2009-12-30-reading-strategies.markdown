@@ -14,9 +14,10 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
-<div class="container">
-<div class="row">
+
 <!-- Start Plan Your Reading Session 3 -->
+<!--<div class="container">
+<div class="row">
 <div class="card col s12 m6">
     <div class="card-image" waves-effect waves-block waves-light> <img class="activator" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png"> </div>
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Plan your Reading Session <br>
@@ -31,8 +32,6 @@ The way you read will vary depending on what you are reading and what you need t
                 </ul>
     </div>
 </div>
-<!-- End Plan Your Reading Session 3 -->
-<!-- Start Paraphrase as you read 3 -->
 <div class="card col s12 m6">
     <div class="card-image" waves-effect waves-block waves-light> <img class="activator" src="{{site.baseurl}}/assets/img/shannon_intro_screenshot.png"> </div>
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Paraphrase as you read<br>
@@ -45,9 +44,8 @@ The way you read will vary depending on what you are reading and what you need t
             <li>A few words or a sentence will suffice for each summary.</li>
         </ul> </div>
 </div>
-<!-- End Paraphrase as you read 3 -->
 </div>
-</div>
+</div> -->
 
 
 <!-- Start Paraphrase as you read repeat -->
@@ -55,10 +53,10 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6">
-                <!--add video embed code here--><iframe width="100%" height="315" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe>
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
-                <h4>Paraphrase as you read -UPDATED </h4>
+                <h4>Paraphrase as you read</h4>
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default activator">
                     <li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
@@ -71,79 +69,14 @@ The way you read will vary depending on what you are reading and what you need t
 </div>
 <!-- End Paraphrase as you read repeat -->
 
-
-
-<!-- Start Plan Your Reading Session 2 -->
-<div class="card">
-    <div class="card-content">
-        <div class="row">
-            <div class="col s12 m6">
-                <h4>Plan Your Reading Session</h4>
-                <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
-                <ul class="browser-default activator">
-                    <li>Gauge the quantity of reading and the time you have to read it.</li>
-                    <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
-                <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
-                <li>Find a suitable reading environment. You can reserve study rooms here in the <a href="http://www.library.ucla.edu/clicc/study-rooms" target="blank">library</a> or <a href="https://reslife.ucla.edu/reserve/" target="blank">residential halls</a>.</li>
-                </ul>
-            </div>
-            <div class="col s12 m6">
-                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png">
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Plan Your Reading Session 2 -->
-
-<!-- Start Paraphrase as you read 2 -->
-<div class="card">
-    <div class="card-content">
-        <div class="row">
-            <div class="col s12 m6">
-                <h4>Paraphrase as you read</h4>
-                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
-                <ul class="browser-default activator">
-                    <li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
-                    <li>Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.</li>
-                    <li>A few words or a sentence will suffice for each summary.</li>
-                </ul>
-            </div>
-            <div class="col s12 m6">
-                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/shannon_intro_screenshot.png">
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Paraphrase as you read 2 -->
-
-<!-- Make an Annotation Legend 2 -->
-<div class="card">
-    <div class="card-content">
-        <div class="row">
-            <div class="col s12 m6">
-                <h4>Make an Annotation Legend</h4>
-                <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
-                 <ul class="browser-default"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
-                <li>Your key of symbols will vary from text to text, depending on what you are looking for!</li>
-                <li>Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.</li>
-                </ul>
-            </div>
-            <div class="col s12 m6">
-                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/jeannie_intro_screenshot.png">
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Make an Annotation Legend 2 -->
-
 <!-- Start Plan Your Reading Session 1 -->
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m6">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-3">
                 <h4>Plan Your Reading Session</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
@@ -162,10 +95,10 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m6">
-                <!--add video embed code here--><iframe width="100%" height="315" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe>
+            <div class="col s12 m12 l6 push-l6">
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-3">
                 <h4>Paraphrase as you read</h4>
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default activator">
@@ -183,10 +116,10 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m6">
-                <!--add video embed code here--><iframe width="100%" height="315" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe>
+            <div class="col s12 m12 l6 push-l6">
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-3">
                 <h4>Make an Annotation Legend</h4>
                 <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
                  <ul class="browser-default"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
