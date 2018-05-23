@@ -113,11 +113,11 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Make an Annotation Legend 2 -->
 
 <!-- Start Plan Your Reading Session 1 -->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m6">
-                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png">
+                <!--add video embed code here--><iframe class="tooltipped responsive-img" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="col s12 m6">
                 <h4>Plan Your Reading Session</h4>
