@@ -18,7 +18,7 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="row">
 <!-- Start Plan Your Reading Session 3 -->
 <div class="card col s12 m6">
-    <div class="card-image" waves-effect waves-block waves-light> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png"> </div>
+    <div class="card-image" waves-effect waves-block waves-light> <img class="activator" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png"> </div>
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Plan your Reading Session <br>
         <a class="waves-effect waves-light btn blue left activator"><i class="material-icons left">more_vert</i>Read More</a></span>
     </div>
@@ -34,8 +34,9 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Plan Your Reading Session 3 -->
 <!-- Start Paraphrase as you read 3 -->
 <div class="card col s12 m6">
-    <div class="card-image" waves-effect waves-block waves-light> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/shannon_intro_screenshot.png"> </div>
-    <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Paraphrase as you read<a class="waves-effect waves-light btn blue right activator"><i class="material-icons left">videocam</i>Details</a></span>
+    <div class="card-image" waves-effect waves-block waves-light> <img class="activator" src="{{site.baseurl}}/assets/img/shannon_intro_screenshot.png"> </div>
+    <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Paraphrase as you read<br>
+        <a class="waves-effect waves-light btn blue left activator"><i class="material-icons left">more_vert</i>Read More</a></span>
     </div>
     <div class="card-reveal"> <span class="card-title grey-text text-darken-4">Paraphrase as you read<i class="material-icons right">close</i></span> <p class="activator">Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
         <ul class="browser-default activator">
@@ -91,6 +92,25 @@ The way you read will vary depending on what you are reading and what you need t
 </div>
 <!-- End Paraphrase as you read 2 -->
 
+<!-- Make an Annotation Legend 2 -->
+<div class="card">
+    <div class="card-content">
+        <div class="row">
+            <div class="col s12 m6">
+                <h4>Make an Annotation Legend</h4>
+                <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
+                 <ul class="browser-default"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
+                <li>Your key of symbols will vary from text to text, depending on what you are looking for!</li>
+                <li>Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.</li>
+                </ul>
+            </div>
+            <div class="col s12 m6">
+                <!--add video embed code here--><img class="tooltipped responsive-img" data-position="left" data-tooltip="Placeholder for embedded video" alt="Video player embed wireframe" src="{{site.baseurl}}/assets/img/jeannie_intro_screenshot.png">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Make an Annotation Legend 2 -->
 
 <!-- Start Plan Your Reading Session -->
 <ul class="collapsible" data-collapsible="expandable">
