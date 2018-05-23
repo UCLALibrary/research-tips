@@ -49,6 +49,30 @@ The way you read will vary depending on what you are reading and what you need t
 </div>
 </div>
 
+
+<!-- Start Paraphrase as you read repeat -->
+<div class="card blue grey lighten-5">
+    <div class="card-content">
+        <div class="row">
+            <div class="col s12 m12 l6">
+                <!--add video embed code here--><iframe width="100%" height="315" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="col s12 m12 l6">
+                <h4>Paraphrase as you read</h4>
+                <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
+                <ul class="browser-default activator">
+                    <li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
+                    <li>Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.</li>
+                    <li>A few words or a sentence will suffice for each summary.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Paraphrase as you read repeat -->
+
+
+
 <!-- Start Plan Your Reading Session 2 -->
 <div class="card">
     <div class="card-content">
