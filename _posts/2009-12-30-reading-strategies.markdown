@@ -116,7 +116,7 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m6">
+            <div class="video-container col s12 m6">
                 <!--add video embed code here--><iframe width="560" height="315" data-position="left" alt="Plan Your Reading Session Video" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="col s12 m6">
