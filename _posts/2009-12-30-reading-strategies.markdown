@@ -20,7 +20,7 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card col s12 m6">
     <div class="card-image" waves-effect waves-block waves-light> <img class="activator" style="max-height: 300px;" src="{{site.baseurl}}/assets/img/kian_intro_screenshot.png"> </div>
     <div class="card-content activator"> <span class="card-title activator grey-text text-darken-4">Plan your Reading Session <br>
-        <a class="waves-effect waves-light btn-small blue right activator"><i class="material-icons left">more_vert</i>Read More</a></span>
+        <a class="waves-effect waves-light btn blue left activator"><i class="material-icons left">more_vert</i>Read More</a></span>
     </div>
     <div class="card-reveal"> <span class="card-title grey-text text-darken-4">Plan Your Reading Session<i class="material-icons right">close</i></span> <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
