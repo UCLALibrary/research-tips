@@ -60,13 +60,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Turn Headings Into Questions -->
  
  <!-- Start Take Relevant Notes -->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
+            <div class="col s12 m12 l6 pull-l6">
                 <h4>Take Relevant Notes</h4>
                 <p>Taking notes that are tailored to your assignment will save you time and effort.</p>
                 <ul class="browser-default activator"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
