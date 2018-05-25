@@ -7,7 +7,7 @@ handout:
 handout-thumbnail:
 category: Getting Started
 ---
-The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.  
+The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.
 
 
 <!-- this is a comment, we use comments to write notes that only appear in code -->
