@@ -38,13 +38,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Plan Your Reading Session-->
 
 <!-- Turn Headings Into Questions -->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3" height="100%">
+            <div class="col s12 m12 l6 push-l6" height="100%">
                 <!--add video embed code here--> <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
-            <div class="col s12 m12 l6 pull-l6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Turn Headings Into Questions</h4>
                <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.</p>
                 <ul class="browser-default activator">
@@ -60,13 +60,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Turn Headings Into Questions -->
  
  <!-- Start Take Relevant Notes -->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3">
+            <div class="col s12 m12 l6 push-l6 grey">
                 <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
-            <div class="col s12 m12 l6 pull-l6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Take Relevant Notes</h4>
                 <p>Taking notes that are tailored to your assignment will save you time and effort.</p>
                 <ul class="browser-default activator"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
@@ -82,13 +82,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Take Relevant Notes-->
 
 <!-- Start Paraphrase as you read -->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Paraphrase as You Read</h4>
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default activator">
@@ -103,13 +103,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Paraphrase as you read -->
 
 <!-- Make an Annotation Legend -->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Make an Annotation Legend</h4>
                 <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
                  <ul class="browser-default activator"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
@@ -123,13 +123,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Make an Annotation Legend -->
 
 <!-- Read for What You Need-->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
-            <div class="col s12 m12 l6 pull-l6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Vary Your Speed for What You Need</h4>
                 <p> Figuring out what information you need from a reading is an important first step! It can help you know when to speed up and when to slow down and dive deeper into the reading. </p>
                  <ul class="browser-default activator"><li>Slow down your reading when you encounter unfamiliar ideas or new information that seems particularly relevant to your class or research context.</li>
@@ -143,13 +143,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Read for What You Need -->
 
 <!-- Prioritize New Vocabulary -->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
-            <div class="col s12 m12 l6 pull-l6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Prioritize New Vocabulary</h4>
                 <p>Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.</p>
                  <ul class="browser-default activator"><li>Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.</li>
@@ -165,13 +165,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Prioritize New Vocabulary -->
 
 <!-- Identify Uncertainties -->
-<div class="card blue grey lighten-5">
+<div class="card blue grey lighten-3">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3">
+            <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
-            <div class="col s12 m12 l6 pull-l6">
+            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Identify Uncertainties</h4>
                <p>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</p>
                  <ul class="browser-default activator"><li>Make note of what you don’t understand… Then try to move on! </li>
