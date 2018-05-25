@@ -62,7 +62,7 @@ The way you read will vary depending on what you are reading and what you need t
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-1" height="100%">
+            <div class="col s12 m12 l6 push-l6 grey lighten-3" height="100%">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
