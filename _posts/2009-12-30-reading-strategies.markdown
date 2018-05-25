@@ -42,7 +42,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6 grey lighten-3" height="100%">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
+                <!--add video embed code here--><div class="video-container"><iframe class="responsive-img" width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Turn Headings Into Questions</h4>
@@ -64,7 +64,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6 grey lighten-3">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Take Relevant Notes</h4>
@@ -127,7 +127,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6 grey lighten-3">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe></div>
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Vary Your Speed for What You Need</h4>
@@ -147,7 +147,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6 grey lighten-3">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe></div>
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Prioritize New Vocabulary</h4>
@@ -169,7 +169,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6 grey lighten-3">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe></div>
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Identify Uncertainties</h4>
