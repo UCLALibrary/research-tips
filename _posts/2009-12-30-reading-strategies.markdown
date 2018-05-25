@@ -36,7 +36,7 @@ The way you read will vary depending on what you are reading and what you need t
 </div>
 <!-- End Plan Your Reading Session-->
 
-<!-- Start Turn Headings Into Questions -->
+<!-- Turn Headings Into Questions -->
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
@@ -44,17 +44,18 @@ The way you read will vary depending on what you are reading and what you need t
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
-             <h4>Plan Your Reading Session</h4>
-                <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.
+                <h4>Turn Headings Into Questions</h4>
+               <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.
                 <ul class="browser-default"><li>Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? </li>
                 <li>As you read and take notes, keep your question in mind. Write down information that answers the question.</li>
                 <li>In the end, you should be able to summarize the answer to your question.</li>
                 <li>You may need to revise your question if the content doesn't match up.</li>
-                </ul> </div>
+                </ul>
+            </div>
         </div>
     </div>
 </div>
- <!-- End Turn Headings Into Questions -->
+<!-- Turn Headings Into Questions -->
  
  <!-- Start Take Relevant Notes -->
 <div class="card blue grey lighten-5">
