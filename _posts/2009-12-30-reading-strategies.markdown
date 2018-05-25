@@ -82,13 +82,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Take Relevant Notes-->
 
 <!-- Start Paraphrase as you read -->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
+            <div class="col s12 m12 l6 pull-l6">
                 <h4>Paraphrase as You Read</h4>
                 <p>Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.</p>
                 <ul class="browser-default activator">
@@ -103,13 +103,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Paraphrase as you read -->
 
 <!-- Make an Annotation Legend -->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
+            <div class="col s12 m12 l6 pull-l6">
                 <h4>Make an Annotation Legend</h4>
                 <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
                  <ul class="browser-default activator"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
@@ -123,7 +123,7 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Make an Annotation Legend -->
 
 <!-- Read for What You Need-->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6">
@@ -143,7 +143,7 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Read for What You Need -->
 
 <!-- Prioritize New Vocabulary -->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6">
@@ -165,7 +165,7 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- Prioritize New Vocabulary -->
 
 <!-- Identify Uncertainties -->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6">
