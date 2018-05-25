@@ -14,27 +14,6 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
-<!-- Start Plan Your Reading Session -->
-<div class="card blue grey lighten-5">
-    <div class="card-content">
-        <div class="row">
-            <div class="col s12 m12 l6 push-l6 grey lighten-3">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
-            </div>
-            <div class="col s12 m12 l6 pull-l6">
-                <h4>Plan Your Reading Session</h4>
-                <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
-                <ul class="browser-default activator">
-                    <li>Gauge the quantity of reading and the time you have to read it.</li>
-                    <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
-                <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
-                <li>Find a suitable reading environment. You can reserve study rooms here in the <a href="http://www.library.ucla.edu/clicc/study-rooms" target="blank">library</a> or <a href="https://reslife.ucla.edu/reserve/" target="blank">residential halls</a>.</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Plan Your Reading Session-->
 
 <!-- Start Plan Your Reading Session -->
 <div class="card blue grey lighten-5">
@@ -63,7 +42,7 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6 grey lighten-3" height="100%">
-                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Turn Headings Into Questions</h4>
