@@ -42,10 +42,10 @@ The way you read will vary depending on what you are reading and what you need t
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6 grey lighten-3" height="100%">
-                <!--add video embed code here--><div class="video-container"><iframe class="responsive-img" width="100%" height="100%" src="{{site.baseurl}}/assets/img/coming_soon.png" frameborder="0" allowfullscreen></iframe></div>
+                <!--add video embed code here--> <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
             <div class="col s12 m12 l6 pull-l6">
-                <h4>Turn Headings Into Questions</h4>
+                <h4>Turn Headings Into Questions - PICTURE FORMATTING</h4>
                <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.</p>
                 <ul class="browser-default activator">
                   <li>Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? </li>
