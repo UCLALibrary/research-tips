@@ -16,7 +16,7 @@ The way you read will vary depending on what you are reading and what you need t
 
 
 <!-- Start Plan Your Reading Session -->
-<div class="card blue grey lighten-3">
+<div class="card blue lighten-3">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6" height="100%">
