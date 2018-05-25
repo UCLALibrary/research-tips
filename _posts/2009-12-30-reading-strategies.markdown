@@ -45,8 +45,9 @@ The way you read will vary depending on what you are reading and what you need t
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Turn Headings Into Questions</h4>
-               <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.
-                <ul class="browser-default"><li>Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? </li>
+               <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.</p>
+                <ul class="browser-default activator">
+                  <li>Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? </li>
                 <li>As you read and take notes, keep your question in mind. Write down information that answers the question.</li>
                 <li>In the end, you should be able to summarize the answer to your question.</li>
                 <li>You may need to revise your question if the content doesn't match up.</li>
@@ -67,7 +68,7 @@ The way you read will vary depending on what you are reading and what you need t
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Take Relevant Notes</h4>
                 <p>Taking notes that are tailored to your assignment will save you time and effort.</p>
-                <ul class="browser-default"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
+                <ul class="browser-default activator"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
                 <li>If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.</li>
                 <li>If the answer is an essay, look out for useful quotes or themes.</li>
                 <li>If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.</li>
@@ -110,7 +111,7 @@ The way you read will vary depending on what you are reading and what you need t
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Make an Annotation Legend</h4>
                 <p>Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.</p>
-                 <ul class="browser-default"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
+                 <ul class="browser-default activator"><li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
                 <li>Your key of symbols will vary from text to text, depending on what you are looking for!</li>
                 <li>Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.</li>
                 </ul>
@@ -130,7 +131,7 @@ The way you read will vary depending on what you are reading and what you need t
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Vary Your Speed for What You Need</h4>
                 <p> Figuring out what information you need from a reading is an important first step! It can help you know when to speed up and when to slow down and dive deeper into the reading. </p>
-                 <ul class="browser-default"><li>Slow down your reading when you encounter unfamiliar ideas or new information that seems particularly relevant to your class or research context.</li>
+                 <ul class="browser-default activator"><li>Slow down your reading when you encounter unfamiliar ideas or new information that seems particularly relevant to your class or research context.</li>
                  <li>Increase speed when you encounter ideas that you are familiar with or that don’t pertain to your research context or class.</li>
                  <li>You can use key phrases to identify when to change your  speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.</li>
                 </ul>
@@ -150,7 +151,7 @@ The way you read will vary depending on what you are reading and what you need t
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Prioritize New Vocabulary</h4>
                 <p>Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.</p>
-                 <ul class="browser-default"><li>Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.</li>
+                 <ul class="browser-default activator"><li>Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.</li>
                 <li>If you cannot move forward in the text without understanding the meaning of a certain word, look it up now. </li>
                  <li>If a word is frequently repeated within a text, but you can still understand the text from context clues, it’s probably worth looking up later. Circle it and come back later.</li>
                  <li>Words that are only used once and don’t crucially impact your understanding of the text don’t need to be addressed right away. Don't let them distract you from the broader meaning of the text.</li>
@@ -172,7 +173,7 @@ The way you read will vary depending on what you are reading and what you need t
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Identify Uncertainties</h4>
                <p>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</p>
-                 <ul class="browser-default"><li>Make note of what you don’t understand… Then try to move on! </li>
+                 <ul class="browser-default activator"><li>Make note of what you don’t understand… Then try to move on! </li>
                  <li>Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.</li>
                  <li>It’s possible your question gets answered later on in the text! But if not, consider visiting your professor or TA to resolve your questions that you cannot answer using the text.</li>
                  </ul>
