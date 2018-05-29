@@ -12,7 +12,11 @@ tags:
 - Office Hours
 ---
 
-<p class="flow-text">Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!</p>
+<p class="flow-text">As students, you will often need to get in touch with your instructors. Whether it is a TA, Professor, or faculty advisor, a little bit of etiquette can go a long way to making sure your communication is efficient and effective for everyone involved.</p>
+
+<div class="col s12">
+<img class="responsive-img materialboxed" src="{{ '/assets/handouts/contacting-instructors-combined.pdf' | prepend: site.baseurl }}" alt="Contacting Instructors Over Email and In Person" data-caption="Contacting Instructors Over Email and In Person"> 
+</div>
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2fIpRwxH30U" frameborder="0" allowfullscreen></iframe></div>
+<iframe width="100%" height="100%" src="{{ '/assets/handouts/contacting-instructors-combined.pdf' | prepend: site.baseurl }}" frameborder="0" allowfullscreen></iframe></div>
