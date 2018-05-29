@@ -23,7 +23,7 @@ The way you read will vary depending on what you are reading and what you need t
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
-                <h4>Plan Your Reading Session - THIS HAS A BORDER</h4>
+                <h4>Plan Your Reading Session</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
                     <li>Gauge the quantity of reading and the time you have to read it.</li>
