@@ -16,13 +16,13 @@ The way you read will vary depending on what you are reading and what you need t
 
 
 <!-- Start Plan Your Reading Session -->
-<div class="card blue lighten-5">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6" height="100%">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-5 border-radius">
+            <div class="col s12 m12 l6 pull-l6">
                 <h4>Plan Your Reading Session - THIS HAS A BORDER</h4>
                 <p>Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
                 <ul class="browser-default activator">
@@ -38,13 +38,13 @@ The way you read will vary depending on what you are reading and what you need t
 <!-- End Plan Your Reading Session-->
 
 <!-- Turn Headings Into Questions -->
-<div class="card blue grey lighten-3">
+<div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6" height="100%">
                 <!--add video embed code here--> <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
             </div>
-            <div class="col s12 m12 l6 pull-l6 grey lighten-5">
+            <div class="col s12 m12 l6 pull-l6">
                 <h4>Turn Headings Into Questions</h4>
                <p>This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.</p>
                 <ul class="browser-default activator">
