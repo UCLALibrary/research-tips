@@ -20,7 +20,7 @@ category: Getting Started
 <!-- Start Plan Your Reading Session -->
 <div class="card blue grey lighten-5">
     <div class="card-content">
-        <div class="row" height="100%">
+        <div class="row">
             <div class="col s12 m12 l6 push-l6" height="100%">
                 <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe></div>
             </div>
