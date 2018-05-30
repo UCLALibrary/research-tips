@@ -21,12 +21,3 @@ tags:
 <div class="col s12">
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/contacting-instructors-in-person.png' | prepend: site.baseurl }}" alt="Contacting Instructors In Person" data-caption="Contacting Instructors In Person"> 
 </div>
-
-<embed src="{{ '/assets/handouts/contacting-instructors-combined.pdf' | prepend: site.baseurl }}" width="100%">
-
-<div class="col s12">
-<img class="responsive-img materialboxed" src="{{ '/assets/handouts/contacting-instructors-combined.pdf' | prepend: site.baseurl }}" alt="Contacting Instructors Over Email and In Person" data-caption="Contacting Instructors Over Email and In Person"> 
-</div>
-
-<div class="video-container">
-<iframe width="100%" height="100%" src="{{ '/assets/handouts/contacting-instructors-combined.pdf' | prepend: site.baseurl }}" frameborder="0" allowfullscreen></iframe></div>
