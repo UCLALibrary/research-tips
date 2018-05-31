@@ -56,7 +56,7 @@ tags:
           <p>Our modules are quick and practical and cover everything from etiquette for contacting instructors, to reading strategies, to turning a research question into effective search terms! OUr materials are open sourece and you are free to share them however you see fit!</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+           <a href="https://youtu.be/hhv8PIFHvek">YouTube</a> <a href="https://www.facebook.com/WIREbruin/">Facebook</a> <a href="https://twitter.com/WIREbruin">Twitter</a>
         </div>
       </div>
     </div>
@@ -70,7 +70,7 @@ tags:
           <p>We have turned some of our videos and activities into a series of quizzes on CCLE that build foundational research skills. We can help you select and integrate some of these modules into your course!</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+          <a href="https://ccle.ucla.edu/course/view/wire">CCLE Site</a>
         </div>
       </div>
     </div>
@@ -84,7 +84,7 @@ tags:
           <p>Our research notebook is a customizable Google Doc that houses some of our resources but also lets the student work towards a specific research project or assignment.</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+          <a href="https://docs.google.com/document/d/18cGmQSk-kBKKgR8B9YYe2DP5EFHPRn2affxb_u6gj3I/edit?usp=sharing">Research Notebook</a>
         </div>
       </div>
     </div>
@@ -98,7 +98,7 @@ tags:
           <p>We are happy to work with you to create a CCLE module, Research Notebook, or even video/activity that fits your class’s needs. We can work with you on a specific assignment to make sure your students are supported in the ways that they need.</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+          <a href="https://youtu.be/d0a_XLPG07w">Examples</a>
         </div>
       </div>
     </div>
