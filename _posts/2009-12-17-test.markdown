@@ -61,7 +61,7 @@ tags:
    
    <div class="col s12 m6 l3">
       <div class="card">
-          <img width="100%" src="{{ '/assets/img/content/ccle.png' | prepend: site.baseurl }}">
+          <img class="responsive-img" src="{{ '/assets/img/content/ccle.png' | prepend: site.baseurl }}">
           <span class="card-title">CCLE Integration</span>
         <div class="card-content">
           <p>We have turned some of our videos and activities into a series of quizzes on CCLE that build foundational research skills. We can help you select and integrate some of these modules into your course!</p>
@@ -74,10 +74,8 @@ tags:
     
    <div class="col s12 m6 l3">
       <div class="card">
-        <div class="card-image">
-          <img src="{{ '/assets/img/content/googledoc.png' | prepend: site.baseurl }}">
+          <img class="responsive-img" src="{{ '/assets/img/content/googledoc.png' | prepend: site.baseurl }}">
           <span class="card-title">Research Notebook</span>
-        </div>
         <div class="card-content">
           <p>Our research notebook is a customizable Google Doc that houses some of our resources but also lets the student work towards a specific research project or assignment.</p>
         </div>
@@ -89,10 +87,8 @@ tags:
     
    <div class="col s12 m6 l3">
       <div class="card">
-        <div class="card-image">
-          <img src="{{ '/assets/img/content/integration.png' | prepend: site.baseurl }}">
-          <span class="card-title">Custom Projects</span>
-        </div>
+          <img class="responsive-img" src="{{ '/assets/img/content/integration.png' | prepend: site.baseurl }}">
+          <span class="card-title"><center>Custom Projects<center></span>
         <div class="card-content">
           <p>We are happy to work with you to create a CCLE module, Research Notebook, or even video/activity that fits your class’s needs. We can work with you on a specific assignment to make sure your students are supported in the ways that they need.</p>
         </div>
