@@ -88,7 +88,7 @@ tags:
    <div class="col s12 m6 l3">
       <div class="card">
           <img class="responsive-img" src="{{ '/assets/img/content/integration.png' | prepend: site.baseurl }}">
-          <span class="card-title"><center>Custom Projects<center></span>
+          <span class="card-title"><center>Custom Projects</center></span>
         <div class="card-content">
           <p>We are happy to work with you to create a CCLE module, Research Notebook, or even video/activity that fits your class’s needs. We can work with you on a specific assignment to make sure your students are supported in the ways that they need.</p>
         </div>
