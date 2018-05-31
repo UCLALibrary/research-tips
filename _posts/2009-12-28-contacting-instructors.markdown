@@ -2,7 +2,7 @@
 layout: post
 title:  "Contacting Instructors"
 date:   2009-12-28
-description: Contacting Instructors!
+description: Etiquette for contacting instructors over email and in person!
 handout: /assets/handouts/contacting-faculty-combined.pdf
 handout-thumbail: /assets/handouts/thumbnails/contacting-instructors-combined-tn.png
 category: Getting Started
