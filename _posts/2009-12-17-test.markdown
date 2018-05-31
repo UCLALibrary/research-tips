@@ -49,7 +49,7 @@ tags:
     <div class="col s12 m6 l3">
       <div class="card">    
           <img class="responsive-img" src="{{ '/assets/img/content/website.png' | prepend: site.baseurl }}">
-          <span class="card-title black-text">Website, YouTube, Social Media</span>
+         <span class="card-title black-text"><center>Website, YouTube, Social Media</center></span>
         <div class="card-content">
           <p>Our modules are quick and practical and cover everything from etiquette for contacting instructors, to reading strategies, to turning a research question into effective search terms! OUr materials are open sourece and you are free to share them however you see fit!</p>
         </div>
@@ -62,7 +62,7 @@ tags:
    <div class="col s12 m6 l3">
       <div class="card">
           <img class="responsive-img" src="{{ '/assets/img/content/ccle.png' | prepend: site.baseurl }}">
-          <span class="card-title">CCLE Integration</span>
+   <span class="card-title"><center>CCLE Integration</center></span>
         <div class="card-content">
           <p>We have turned some of our videos and activities into a series of quizzes on CCLE that build foundational research skills. We can help you select and integrate some of these modules into your course!</p>
         </div>
@@ -75,7 +75,7 @@ tags:
    <div class="col s12 m6 l3">
       <div class="card">
           <img class="responsive-img" src="{{ '/assets/img/content/googledoc.png' | prepend: site.baseurl }}">
-          <span class="card-title">Research Notebook</span>
+   <span class="card-title"><center>Research Notebook</center></span>
         <div class="card-content">
           <p>Our research notebook is a customizable Google Doc that houses some of our resources but also lets the student work towards a specific research project or assignment.</p>
         </div>
