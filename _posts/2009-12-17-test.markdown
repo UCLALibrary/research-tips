@@ -10,30 +10,34 @@ tags:
 
 <div class="row">
    <div class="col s12 m6 l3">
-      <div class="card-panel">
-        <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-        I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
+      <div class="card-panel white">
+        <span class="white-text">
+           <p><b>Website, YouTube, Social Media</b></p>
+           <p>Our modules are quick and practical and cover everything from etiquette for contacting instructors, to reading strategies, to turning a research question into effective search terms! OUr materials are open sourece and you are free to share them however you see fit!</p>
         </span>
       </div>
     </div>
    <div class="col s12 m6 l3">
-      <div class="card-panel">
-        <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-        I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
+      <div class="card-panel white">
+        <span class="white-text">
+           <p><b>CCLE Integration</b></p>
+           <p>We have turned some of our videos and activities into a series of quizzes on CCLE that build foundational research skills. We can help you select and integrate some of these modules into your course!</p>
         </span>
       </div>
     </div>
    <div class="col s12 m6 l3">
-      <div class="card-panel">
-        <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-        I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
+      <div class="card-panel white">
+        <span class="white-text">
+           <p><b>Research Notebook</b></p>
+           <p>Our research notebook is a customizable Google Doc that houses some of our resources but also lets the student work towards a specific research project or assignment.</p>
         </span>
       </div>
     </div>
    <div class="col s12 m6 l3">
-      <div class="card-panel">
-        <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-        I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
+      <div class="card-panel white">
+        <span class="white-text">
+           <p><b>Custom Projects</b></p>
+           <p>We are happy to work with you to create a CCLE module, Research Notebook, or even video/activity that fits your class’s needs. We can work with you on a specific assignment to make sure your students are supported in the ways that they need.</p>
         </span>
       </div>
     </div>
