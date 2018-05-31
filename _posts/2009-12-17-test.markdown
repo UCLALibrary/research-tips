@@ -49,7 +49,7 @@ tags:
     <div class="col s12 m6 l3">
       <div class="card">    
           <img src="{{ '/assets/img/content/website.png' | prepend: site.baseurl }}">
-          <span class="card-title">Website, YouTube, Social Media</span>
+          <span class="card-title black-text">Website, YouTube, Social Media</span>
         <div class="card-content">
           <p>Our modules are quick and practical and cover everything from etiquette for contacting instructors, to reading strategies, to turning a research question into effective search terms! OUr materials are open sourece and you are free to share them however you see fit!</p>
         </div>
