@@ -47,11 +47,9 @@ tags:
   
   <div class="row">
     <div class="col s12 m6 l3">
-      <div class="card">
-        <div class="card-image">
+      <div class="card">    
           <img src="{{ '/assets/img/content/website.png' | prepend: site.baseurl }}">
           <span class="card-title">Website, YouTube, Social Media</span>
-        </div>
         <div class="card-content">
           <p>Our modules are quick and practical and cover everything from etiquette for contacting instructors, to reading strategies, to turning a research question into effective search terms! OUr materials are open sourece and you are free to share them however you see fit!</p>
         </div>
@@ -60,6 +58,7 @@ tags:
         </div>
       </div>
     </div>
+   
    <div class="col s12 m6 l3">
       <div class="card">
         <div class="card-image">
@@ -74,6 +73,7 @@ tags:
         </div>
       </div>
     </div>
+    
    <div class="col s12 m6 l3">
       <div class="card">
         <div class="card-image">
@@ -88,6 +88,7 @@ tags:
         </div>
       </div>
     </div>
+    
    <div class="col s12 m6 l3">
       <div class="card">
         <div class="card-image">
