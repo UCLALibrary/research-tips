@@ -49,7 +49,7 @@ tags:
     <div class="col s12 m6 l3">
       <div class="card">
         <div class="card-image">
-          <img src="img/content/website.png">
+          <img src="{{ '/assets/img/content/website.png' | prepend: site.baseurl }}">
           <span class="card-title">Website, YouTube, Social Media</span>
         </div>
         <div class="card-content">
@@ -63,7 +63,7 @@ tags:
    <div class="col s12 m6 l3">
       <div class="card">
         <div class="card-image">
-          <img src="img/content/ccle.png">
+          <img src="{{ '/assets/img/content/ccle.png' | prepend: site.baseurl }}">
           <span class="card-title">CCLE Integration</span>
         </div>
         <div class="card-content">
@@ -77,7 +77,7 @@ tags:
    <div class="col s12 m6 l3">
       <div class="card">
         <div class="card-image">
-          <img src="img/content/googledoc.png">
+          <img src="{{ '/assets/img/content/googledoc.png' | prepend: site.baseurl }}">
           <span class="card-title">Research Notebook</span>
         </div>
         <div class="card-content">
@@ -91,7 +91,7 @@ tags:
    <div class="col s12 m6 l3">
       <div class="card">
         <div class="card-image">
-          <img src="img/content/integration.png">
+          <img src="{{ '/assets/img/content/integration.png' | prepend: site.baseurl }}">
           <span class="card-title">Custom Projects</span>
         </div>
         <div class="card-content">
