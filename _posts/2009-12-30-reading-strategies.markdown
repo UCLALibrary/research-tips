@@ -170,14 +170,15 @@ category: Getting Started
 <div class="card blue grey lighten-5">
     <div class="card-content">
         <div class="row">
-            <div class="col s12 m12 l6 push-l6">
-                <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
+            <div class="col s12 m12 l6 push-l6" height="100%">
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/NPgfgo_XY8s" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>Identify Uncertainties</h4>
                <p>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</p>
-                 <ul class="browser-default activator"><li>Make note of what you don’t understand… Then try to move on! </li>
-                 <li>Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.</li>
+                 <ul class="browser-default activator">
+                    <li>Make note of what you don’t understand… Then try to move on! </li>
+                    <li>Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.</li>
                  <li>It’s possible your question gets answered later on in the text! But if not, consider visiting your professor or TA to resolve your questions that you cannot answer using the text.</li>
                  </ul>
             </div>
