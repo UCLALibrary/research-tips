@@ -33,6 +33,76 @@
 //     }
 // }
 
+/***************
+UCLA Colors
+  "base":       #3284bf,
+  "blue":       #3284bf,
+  "gold":  #ffe800,
+  "ucla-blue-text":  #347bad,
+  "two-dark-blue":  #1e4b87,
+  "two-cerulean":  #f3989b,
+  "three-yellow":  #FEFF01,
+  "three-green":  #01FF83,
+  "three-fuchsia":   #FF00A6,
+  "three-veronica":   #851FFF,
+  "three-aqua":   #01FFFF,
+  "three-steel":   #8b1014,
+  "three-lightning":   #FEBD25,
+***************/
+
+.ucla-color {
+  background-color: #3284bf !important;
+}
+
+.ucla-color-text {
+  color: #347bad !important;
+}
+
+.ucla-color.blue {
+  background-color: #3284bf !important;
+}
+
+.ucla-color.gold {
+  background-color: #ffe800 !important;
+}
+
+.ucla-color.two-dark-blue {
+  background-color: #1e4b87 !important;
+}
+
+.ucla-color.two-cerulean {
+  background-color: #f3989b !important;
+}
+
+.ucla-color.three-yellow {
+  background-color: #FEFF01 !important;
+}
+
+.ucla-color.three-green {
+  background-color: #01FF83 !important;
+}
+
+.ucla-color.three-fuchsia {
+  background-color: #FF00A6 !important;
+}
+
+.ucla-color.three-veronica {
+  background-color: #851FFF !important;
+}
+
+.ucla-color.three-aqua {
+  background-color: #01FFFF !important;
+}
+
+.ucla-color.three-steel {
+  background-color: #8b1014 !important;
+}
+
+.ucla-color.three-lightning {
+  background-color: #FEBD25 !important;
+}
+
+
 // variables.less
 $theme-primary: #00a5e5;
 $theme-dark: #222;
