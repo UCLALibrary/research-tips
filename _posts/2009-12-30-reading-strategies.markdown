@@ -174,7 +174,7 @@ category: Getting Started
                 <!--add video embed code here--><div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NPgfgo_XY8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
             <div class="col s12 m12 l6 pull-l6 grey lighten-5">
-                <h4>Identify Uncertainties</h4>
+                <h4>edited Identify Uncertainties</h4>
                <p>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</p>
                  <ul class="browser-default activator">
                     <li>Make note of what you don’t understand… Then try to move on! </li>
