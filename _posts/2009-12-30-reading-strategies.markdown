@@ -171,7 +171,7 @@ category: Getting Started
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6" height="100%">
-                <!--add video embed code here--><div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NPgfgo_XY8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/NPgfgo_XY8s" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6 grey lighten-5">
                 <h4>edited Identify Uncertainties</h4>
