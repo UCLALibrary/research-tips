@@ -3,6 +3,7 @@ layout: page
 title: About this site
 ---
 
+<!--Hey there, Bruins!-->
 <!--<img class="responsive-img page-title" width="100%" src="http://lorempixel.com/800/200/nature/">-->
 <div style="margin-top: 50px;" class="row">
       <div class="col s12 m4">
@@ -16,6 +17,7 @@ title: About this site
       </div>
 </div>
 
+<!--We make quick and practical research and Writing tips-->
 <div class="row">
       <div class="col s12 m4">
       <center>
@@ -35,6 +37,7 @@ title: About this site
     </div>
 </div>
 
+<!--We're learners too-->
 <div class="row">
       <div class="col s12 m4">
       <center>
@@ -49,6 +52,45 @@ title: About this site
     </div>
 </div>
 
+<!--We're learners too-->
+<div class="row">
+      <div class="col s12 m4">
+      <center>
+        <i class="material-icons" style="font-size: 64px; margin-top: 20px;">lightbulb_outline</i> <br>
+    </center>
+      </div>
+      <div class="col s12 m8">
+        <h4>Meet the creative team.</h4>
+        <p>Click on a WI+RE team member to watch a video about one of their most impactful learning experiences.</p>
+            
+            <!-- Start Kian's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/images/kian.jpg" alt="Kian's profile picture" class="circle responsive-img"> 
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                Kian is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.
+             </span>
+          </div>
+       </div>
+       <div><center><i class="material-icons">arrow_drop_down_circle</i></center></div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/aYhQEOXJ8d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+ <!-- End Kian's profile -->
+            
+    </div>
+</div>
+
+<!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
       <div class="col s12 m4">
         <center>
