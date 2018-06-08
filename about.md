@@ -3,6 +3,7 @@ layout: page
 title: About this site
 ---
 
+<!--Hey there, Bruins!-->
 <!--<img class="responsive-img page-title" width="100%" src="http://lorempixel.com/800/200/nature/">-->
 <div style="margin-top: 50px;" class="row">
       <div class="col s12 m4">
@@ -16,6 +17,7 @@ title: About this site
       </div>
 </div>
 
+<!--We make quick and practical research and Writing tips-->
 <div class="row">
       <div class="col s12 m4">
       <center>
@@ -35,6 +37,7 @@ title: About this site
     </div>
 </div>
 
+<!--We're learners too-->
 <div class="row">
       <div class="col s12 m4">
       <center>
@@ -49,6 +52,86 @@ title: About this site
     </div>
 </div>
 
+<!--We're learners too-->
+<div class="row">
+      <div class="col s12 m4">
+      <center>
+        <i class="material-icons" style="font-size: 64px; margin-top: 20px;">create</i> <br>
+    </center>
+      </div>
+      <div class="col s12 m8">
+        <h4>Meet the creative team.</h4>
+        <p>Click on a WI+RE team member to watch a video about one of their most impactful learning experiences.</p>
+      </div>
+</div>
+
+<!-- Start Kian's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                   <p><b>Kian</b> is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/aYhQEOXJ8d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+ </ul>
+ <!-- End Kian's profile-->
+ 
+ <!-- Start Jeannie's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                   <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
+             </span>
+          </div>
+       </div>
+       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/NsDt0dta_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+ </ul>
+ <!-- End Jeannie's profile -->
+ 
+ <!-- Start Doug's profile -->
+ <div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+              <img src="{{site.baseurl}}/assets/img/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+      <p><b>Doug</b> is passionately interested in how learners work together to build knowledge.</p>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Doug's profile -->
+    
+<!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
       <div class="col s12 m4">
         <center>
