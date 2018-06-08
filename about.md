@@ -178,7 +178,7 @@ title: About this site
        <div><center><i class="material-icons">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
-          <span class="black-text">Learning Narrative coming soon!</span>
+          <span class="black-text"><p>Learning Narrative coming soon!<p></span>
     </div>
     </li>
 </ul>
