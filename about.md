@@ -64,7 +64,8 @@ title: About this site
         <p>Click on a WI+RE team member to watch a video about one of their most impactful learning experiences.</p>
       </div>
 </div>
-            <!-- Start Kian's profile -->
+
+<!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
@@ -88,6 +89,30 @@ title: About this site
     </li>
  </ul>
  <!-- End Kian's profile-->
+ 
+ <!-- Start Jeannie's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/images/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img"> 
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                Jeannie is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.
+             </span>
+          </div>
+       </div>
+       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/NsDt0dta_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+ <!-- End Jeannie's profile -->
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
