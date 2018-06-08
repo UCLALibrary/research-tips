@@ -75,7 +75,7 @@ title: About this site
           </div>
           <div class="col s9">
              <span class="black-text">
-                <p>Kian is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.</p>
+                   <p><b>Kian</b> is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.</p>
              </span>
           </div>
        </div>
@@ -99,7 +99,7 @@ title: About this site
           </div>
           <div class="col s9">
              <span class="black-text">
-                Jeannie is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.
+                   <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
              </span>
           </div>
        </div>
@@ -123,7 +123,7 @@ title: About this site
             </div>
             <div class="col s9">
               <span class="black-text">
-                Doug is passionately interested in how learners work together to build knowledge.
+      <p><b>Doug</b> is passionately interested in how learners work together to build knowledge.</p>
               </span>
             </div>
           </div>
