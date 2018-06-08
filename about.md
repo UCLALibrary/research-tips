@@ -61,7 +61,7 @@ title: About this site
       </div>
       <div class="col s12 m8">
         <h4>Meet the creative team.</h4>
-        <p>Click on a WI+RE team member to watch a video about one of their most impactful learning experiences.</p>
+        <p>Click on a WI+RE team member to watch a short video about one of their most impactful learning experiences.</p>
       </div>
 </div>
 
@@ -188,7 +188,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3 offset-s1">
+          <div class="col s2 offset-s1">
              <i class="material-icons" style="font-size: 128px; margin-top: 20px;">toys</i>
           </div>
           <div class="col s9">
