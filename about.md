@@ -169,7 +169,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img">
           </div>
-          <div class="col s9" style="font-size: 25px;">
+          <div class="col s9" style="font-size: 18px;">
              <span class="black-text">
                    <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
              </span>
@@ -193,7 +193,7 @@ title: About this site
       </div>
       <div class="col s12 m8">
       <h4>Keep in touch!</h4>
-      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> twitter.com/WIREbruin</a></p>
+      <p><a href="https://twitter.com/WIREbruin" target="_blank"></i> twitter.com/WIREbruin</a></p>
       <p><a href="https://facebook.com/WIREbruin" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> facebook.com/WIREbruin</a></p>
       </div>
 </div>
