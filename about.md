@@ -61,7 +61,7 @@ title: About this site
       </div>
       <div class="col s12 m8">
         <h4>Meet the creative team.</h4>
-        <p>Click on a WI+RE team member to watch a video about one of their most impactful learning experiences.</p>
+        <p>Click on a WI+RE team member to watch a short video about one of their most impactful learning experiences.</p>
       </div>
 </div>
 
@@ -103,7 +103,6 @@ title: About this site
              </span>
           </div>
        </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
        <div class="video-container">
@@ -114,22 +113,143 @@ title: About this site
  </ul>
  <!-- End Jeannie's profile -->
  
- <!-- Start Doug's profile -->
- <div class="col s12 offset-m2 l6 offset-l3">
-        <div class="card-panel grey lighten-5 z-depth-1">
-          <div class="row valign-wrapper">
-            <div class="col s3">
-              <img src="{{site.baseurl}}/assets/img/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
-            </div>
-            <div class="col s9">
-              <span class="black-text">
-      <p><b>Doug</b> is passionately interested in how learners work together to build knowledge.</p>
-              </span>
-            </div>
+ <!-- Start Sophia's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/Sophia.JPG" alt="Sophia's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-        </div>
-      </div>
-<!-- End Doug's profile -->
+          <div class="col s9">
+             <span class="black-text">
+                   <p><b>Sophia</b> is an undergraduate Business Economics student who is passionate about purposeful content creation and design.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/BPreyxZZEVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Sophia's profile -->
+    
+<!-- Start Shannon's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          </div>
+          <div class="col s9">
+             <span class="black-text" style="font-size: 17px;">
+                   <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/u2bU-TJ4e98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Shannon's profile -->    
+    
+ <!-- Start Taylor's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img">
+          </div>
+          <div class="col s9" style="font-size: 17px;">
+             <span class="black-text">
+                   <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+    </div>
+    </li>
+</ul>
+<!-- End Taylor's profile -->
+
+ <!-- Start Juan's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s1 offset-s1">
+             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">movie_filter</i>
+          </div>
+          <div class="col s9 offset-s1">
+             <span class="black-text">
+                   <p><b>Juan</b> is an international student from Colombia. He wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/QZd4dJgL5_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Juan's profile -->
+
+ <!-- Start April's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s1 offset-s1">
+             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">toys</i>
+          </div>
+          <div class="col s9 offset-s1">
+             <span class="black-text">
+                   <p><b>April</b> is an undergraduate Computational and Systems Biology student, and is interested in the role and effectiveness of supplementary educational material across different fields of study.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+    </div>
+    </li>
+</ul>
+<!-- End April's profile -->
+
+ <!-- Start Jen's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s1 offset-s1">
+             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">spa</i>
+          </div>
+          <div class="col s9 offset-s1" style="font-size: 16px;">
+             <span class="black-text">
+                   <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+    </div>
+    </li>
+</ul>
+<!-- End Jen's profile -->
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
@@ -140,7 +260,7 @@ title: About this site
       </div>
       <div class="col s12 m8">
       <h4>Keep in touch!</h4>
-      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> twitter.com/WIREbruin</a></p>
+      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fa fa-twitter"></i>twitter.com/WIREbruin</a></p>
       <p><a href="https://facebook.com/WIREbruin" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> facebook.com/WIREbruin</a></p>
       </div>
 </div>
