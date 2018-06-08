@@ -177,7 +177,7 @@ title: About this site
        </div>
     </div>
     <div class="collapsible-body">
-          <span class="black-text"><p>Learning Narrative coming soon!<p></span>
+          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
     </div>
     </li>
 </ul>
