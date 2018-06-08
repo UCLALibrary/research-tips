@@ -56,7 +56,7 @@ title: About this site
 <div class="row">
       <div class="col s12 m4">
       <center>
-        <i class="material-icons" style="font-size: 64px; margin-top: 20px;">lightbulb_outline</i> <br>
+        <i class="material-icons" style="font-size: 64px; margin-top: 20px;">create</i> <br>
     </center>
       </div>
       <div class="col s12 m8">
@@ -120,7 +120,7 @@ title: About this site
         <div class="card-panel grey lighten-5 z-depth-1">
           <div class="row valign-wrapper">
             <div class="col s3">
-              <img src="{{site.baseurl}}/assets/images/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+              <img src="{{site.baseurl}}/assets/img/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
             <div class="col s9">
               <span class="black-text">
