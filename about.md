@@ -188,10 +188,10 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s2 offset-s1">
+          <div class="col s1 offset-s1">
              <i class="material-icons" style="font-size: 128px; margin-top: 20px;">toys</i>
           </div>
-          <div class="col s9">
+          <div class="col s9 offset-s1">
              <span class="black-text">
                    <p><b>April</b> is an undergraduate Computational and Systems Biology student, and is interested in the role and effectiveness of supplementary educational material across different fields of study.</p>
              </span>
@@ -210,10 +210,10 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3 center-align">
+          <div class="col s1 offset-s1">
              <i class="material-icons" style="font-size: 128px; margin-top: 20px;">spa</i>
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9 offset-s1" style="font-size: 17px;">
              <span class="black-text">
                    <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
              </span>
@@ -232,10 +232,10 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3 center-align">
+          <div class="col s3 offset-s1">
              <i class="material-icons" style="font-size: 128px; margin-top: 20px;">movie_filter</i>
           </div>
-          <div class="col s9">
+          <div class="col s9 offset-s1">
              <span class="black-text">
                    <p><b>Juan</b> is an international student from Colombia. He wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
              </span>
