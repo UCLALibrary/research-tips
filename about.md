@@ -182,6 +182,28 @@ title: About this site
     </li>
 </ul>
 <!-- End Taylor's profile -->
+
+ <!-- Start April's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img">
+          </div>
+          <div class="col s9" style="font-size: 16px;">
+             <span class="black-text">
+                   <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+    </div>
+    </li>
+</ul>
+<!-- End April's profile -->
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
@@ -192,7 +214,7 @@ title: About this site
       </div>
       <div class="col s12 m8">
       <h4>Keep in touch!</h4>
-      <p><a href="https://twitter.com/WIREbruin" target="_blank"></i> twitter.com/WIREbruin</a></p>
+      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fa fa-twitter"></i>twitter.com/WIREbruin</a></p>
       <p><a href="https://facebook.com/WIREbruin" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> facebook.com/WIREbruin</a></p>
       </div>
 </div>
