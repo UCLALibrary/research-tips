@@ -188,8 +188,8 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3 center-align">
-             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">landscape</i>
+          <div class="col s3 offset-s1">
+             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">toys</i>
           </div>
           <div class="col s9">
              <span class="black-text">
@@ -213,7 +213,7 @@ title: About this site
           <div class="col s3 center-align">
              <i class="material-icons" style="font-size: 128px; margin-top: 20px;">spa</i>
           </div>
-          <div class="col s9">
+          <div class="col s9" style="font-size: 17px;">
              <span class="black-text">
                    <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
              </span>
