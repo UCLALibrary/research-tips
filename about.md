@@ -146,7 +146,7 @@ title: About this site
              <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
           <div class="col s9">
-             <span class="black-text">
+             <span class="black-text" style="font-size: 17px;">
                    <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
              </span>
           </div>
@@ -169,7 +169,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img">
           </div>
-          <div class="col s9" style="font-size: 16px;">
+          <div class="col s9" style="font-size: 17px;">
              <span class="black-text">
                    <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
              </span>
