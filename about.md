@@ -169,13 +169,12 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img">
           </div>
-          <div class="col s9" style="font-size: 18px;">
+          <div class="col s9" style="font-size: 16px;">
              <span class="black-text">
                    <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
              </span>
           </div>
        </div>
-       <div><center><i class="material-icons">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
           <span class="black-text"><p>Learning Narrative coming soon!<p></span>
