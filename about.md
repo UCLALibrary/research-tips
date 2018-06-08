@@ -189,9 +189,7 @@ title: About this site
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3">
-                <center>
-             <i class="material-icons" style="font-size: 64px; margin-top: 20px;">landscape</i>
-                </center>
+             <i class="material-icons center-align" style="font-size: 128px; margin-top: 20px;">landscape</i>
           </div>
           <div class="col s9">
              <span class="black-text">
