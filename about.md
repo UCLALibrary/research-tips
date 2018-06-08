@@ -79,7 +79,6 @@ title: About this site
              </span>
           </div>
        </div>
-       <div><center><i class="material-icons">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
        <div class="video-container">
@@ -130,7 +129,6 @@ title: About this site
           </div>
         </div>
       </div>
- </div>
 <!-- End Doug's profile -->
     
 <!--Keep in touch!-->
