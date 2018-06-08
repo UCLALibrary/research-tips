@@ -183,6 +183,30 @@ title: About this site
 </ul>
 <!-- End Taylor's profile -->
 
+ <!-- Start Juan's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3 offset-s1">
+             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">movie_filter</i>
+          </div>
+          <div class="col s9 offset-s1">
+             <span class="black-text">
+                   <p><b>Juan</b> is an international student from Colombia. He wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/QZd4dJgL5_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Juan's profile -->
+
  <!-- Start April's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
