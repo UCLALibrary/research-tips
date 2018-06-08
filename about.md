@@ -96,7 +96,7 @@ title: About this site
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3">
-             <img src="{{site.baseurl}}/assets/images/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img"> 
+             <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img"> 
           </div>
           <div class="col s9">
              <span class="black-text">
@@ -112,6 +112,7 @@ title: About this site
        </div>
     </div>
     </li>
+ </ul>
  <!-- End Jeannie's profile -->
     
 <!--Keep in touch!-->
