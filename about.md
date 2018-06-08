@@ -85,11 +85,10 @@ title: About this site
        </div>
     </div>
     </li>
- <!-- End Kian's profile -->
-            
-    </div>
-</div>
+ <!-- End Kian's profile-->
 
+</div>
+    
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
       <div class="col s12 m4">
