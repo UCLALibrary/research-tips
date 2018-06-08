@@ -204,6 +204,50 @@ title: About this site
     </li>
 </ul>
 <!-- End April's profile -->
+
+ <!-- Start Jen's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3 center-align">
+             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">spa</i>
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                   <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+    </div>
+    </li>
+</ul>
+<!-- End Jen's profile -->
+
+ <!-- Start Juan's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3 center-align">
+             <i class="material-icons" style="font-size: 128px; margin-top: 20px;">movie_filter</i>
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                   <p><b>Juan</b> is an international student from Colombia. He wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+    </div>
+    </li>
+</ul>
+<!-- End Juan's profile -->
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
