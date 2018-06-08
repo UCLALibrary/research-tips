@@ -73,7 +73,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
           </div>
-          <div class="col s9" style="font-size: 40px">
+          <div class="col s9" style="font-size: 10px">
              <span class="black-text">
                 Kian is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.
              </span>
