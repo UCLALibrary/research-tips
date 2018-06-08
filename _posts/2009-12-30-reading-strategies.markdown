@@ -7,7 +7,7 @@ handout:
 handout-thumbnail:
 category: Getting Started
 ---
-<p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.</p>
+<p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. </p>
 
 <p>Pick one or two of the reading strategies bellow and try them out on your next reading assignment! Notice the strengths of the reading strategies and in what contexts they works best for you. You can always return here to try out a new reading strategy when your needs change later on!</p>
 
@@ -44,7 +44,7 @@ category: Getting Started
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6" height="100%">
-                <!--add video embed code here--> <img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
+                <!--add video embed code here--> <div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Turn Headings Into Questions</h4>
