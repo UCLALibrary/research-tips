@@ -114,6 +114,24 @@ title: About this site
     </li>
  </ul>
  <!-- End Jeannie's profile -->
+ 
+ <!-- Start Doug's profile -->
+ <div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+              <img src="{{site.baseurl}}/assets/images/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Doug is passionately interested in how learners work together to build knowledge.
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+ </div>
+<!-- End Doug's profile -->
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
