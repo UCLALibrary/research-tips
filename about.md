@@ -103,7 +103,6 @@ title: About this site
              </span>
           </div>
        </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
        <div class="video-container">
@@ -114,22 +113,53 @@ title: About this site
  </ul>
  <!-- End Jeannie's profile -->
  
- <!-- Start Doug's profile -->
- <div class="col s12 offset-m2 l6 offset-l3">
-        <div class="card-panel grey lighten-5 z-depth-1">
-          <div class="row valign-wrapper">
-            <div class="col s3">
-              <img src="{{site.baseurl}}/assets/img/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
-            </div>
-            <div class="col s9">
-              <span class="black-text">
-      <p><b>Doug</b> is passionately interested in how learners work together to build knowledge.</p>
-              </span>
-            </div>
+ <!-- Start Sophia's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/Sophia.jpg" alt="Sophia's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-        </div>
-      </div>
-<!-- End Doug's profile -->
+          <div class="col s9">
+             <span class="black-text">
+                   <p><b>Sophia</b> is an undergraduate Business Economics student who is passionate about purposeful content creation and design.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/BPreyxZZEVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+<!-- End Sophia's profile -->
+    
+<!-- Start Shannon's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                   <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/u2bU-TJ4e98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+<!-- End Shannon's profile -->    
+    
+
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
