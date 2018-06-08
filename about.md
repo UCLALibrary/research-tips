@@ -167,9 +167,9 @@ title: About this site
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3">
-             <img src="{{site.baseurl}}/assets/images/Taylor.jpg" alt="Shannon's profile picture" class="circle responsive-img">
+             <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img">
           </div>
-          <div class="col s9">
+          <div class="col s9" style="font-size: 25px;">
              <span class="black-text">
                    <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
              </span>
