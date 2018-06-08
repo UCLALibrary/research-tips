@@ -62,7 +62,8 @@ title: About this site
       <div class="col s12 m8">
         <h4>Meet the creative team.</h4>
         <p>Click on a WI+RE team member to watch a video about one of their most impactful learning experiences.</p>
-            
+      </div>
+</div>
             <!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
@@ -86,8 +87,6 @@ title: About this site
     </div>
     </li>
  <!-- End Kian's profile-->
-
-</div>
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
