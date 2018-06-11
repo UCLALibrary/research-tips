@@ -193,7 +193,7 @@ title: About this site
           </div>
           <div class="col s9" style="font-size: 17px;">
              <span class="black-text">
-                   <p><b>Juan</b> is an international student from Colombia. He wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
+                   <p><b>Juan</b> is an international student from Colombia. As he helps other learners, he wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
              </span>
           </div>
        </div>
