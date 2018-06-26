@@ -52,7 +52,7 @@ title: About this site
     </div>
 </div>
 
-<!--We're learners too-->
+<!--Meet the creative team-->
 <div class="row">
       <div class="col s12 m4">
       <center>
@@ -68,6 +68,7 @@ title: About this site
 <!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
+    <div class="col s12 m8 offset-m4">
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3">
@@ -84,6 +85,7 @@ title: About this site
        <div class="video-container">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/aYhQEOXJ8d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
        </div>
+    </div>
     </div>
     </li>
  </ul>
