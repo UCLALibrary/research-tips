@@ -87,7 +87,7 @@ category: Getting Started
     <div class="card-content">
         <div class="row">
             <div class="col s12 m12 l6 push-l6">
-                <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/75KNersZRr0" frameborder="0" allowfullscreen></iframe></div>
             </div>
             <div class="col s12 m12 l6 pull-l6">
                 <h4>Take Relevant Notes</h4>
