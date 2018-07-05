@@ -223,7 +223,9 @@ title: About this site
        </div>
     </div>
     <div class="collapsible-body">
-          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/RV67lo5hPi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
     </div>
     </li>
 </ul>
@@ -245,7 +247,9 @@ title: About this site
        </div>
     </div>
     <div class="collapsible-body">
-          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
     </div>
     </li>
 </ul>
