@@ -65,6 +65,15 @@ title: About this site
       </div>
 </div>
 
+<div class="row">
+      <div class="col s12 m8 offset-m4">
+
+<!-- Start example profile -->
+
+<ul class="collapsible" data-collapsible=expandable">
+      <li>
+      <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+
 <!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
@@ -272,6 +281,9 @@ title: About this site
     </li>
 </ul>
 <!-- End Emily's profile -->
+
+</div>
+</div>
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
