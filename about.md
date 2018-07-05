@@ -80,8 +80,8 @@ title: About this site
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Kian</b> is an undergraduate Philosophy and Music Composition student who is fascinated by the potential for digital media to serve as an aid for learning.</p>
              </span>
-             <span class="light-gray-text" style="font-size: 10px; vertical-align: bottom; text-align: center;">
-                   <p>Click to see a video</p>
+             <span style="vertical-align: bottom; text-align: center;">
+                   <i class="small material-icons">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -107,6 +107,9 @@ title: About this site
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
              </span>
+          </div>
+          <div class="col s9" style="vertical-align: bottom; text-align: center;">
+                <i class="small material-icons">play_circle_filled</i>
           </div>
        </div>
     </div>
