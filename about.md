@@ -78,10 +78,10 @@ title: About this site
           </div>
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
-                   <p><b>Kian</b> is an undergraduate Philosophy and Music Composition student who is fascinated by the potential for digital media to serve as an aid for learning.</p>
+                   <p><b>Bian</b> is an undergraduate Philosophy and Music Composition student who is fascinated by the potential for digital media to serve as an aid for learning.</p>
              </span>
-             <span style="text-align: center; vertical-align: bottom; font-size: 30px;">
-                   <i class="material-icons">play_circle_filled</i>
+             <span>
+                   <i class="material-icons" style="text-align: center; vertical-align: bottom; font-size: 30px;">play_circle_filled</i>
              </span>
           </div>
        </div>
