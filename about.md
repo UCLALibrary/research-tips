@@ -74,7 +74,7 @@ title: About this site
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="200" width="200"> 
+             <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150"> 
           </div>
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
@@ -101,7 +101,7 @@ title: About this site
              <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
           </div>
           <div class="col s9">
-             <span class="black-text" style="font-size: 17px;">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
              </span>
           </div>
@@ -125,7 +125,7 @@ title: About this site
              <img src="{{site.baseurl}}/assets/img/Sophia.JPG" alt="Sophia's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
           <div class="col s9">
-             <span class="black-text" style="font-size: 17px;">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Sophia</b> is an undergraduate Business Economics student who is passionate about purposeful content creation and design.</p>
              </span>
           </div>
@@ -149,7 +149,7 @@ title: About this site
              <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
           <div class="col s9">
-             <span class="black-text" style="font-size: 17px;">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
              </span>
           </div>
@@ -172,7 +172,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
              </span>
@@ -194,7 +194,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/juan.JPG" alt="Juan's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Juan</b> is an international student from Colombia. As he helps other learners, he wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
              </span>
@@ -218,7 +218,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/april.jpg" alt="April's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>April</b> is an undergraduate Computational and Systems Biology student, and is interested in the role and effectiveness of supplementary educational material across different fields of study.</p>
              </span>
@@ -240,7 +240,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/jen.jpg" alt="Jen's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
              </span>
@@ -262,7 +262,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/emily.JPG" alt="Emily's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Emily</b> is an undergraduate majoring in Economics and Cognitive Science. She is excited to work with a group of problem-solvers to come up with creative educational strategies involving digital media.</p>
              </span>
