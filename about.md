@@ -81,7 +81,7 @@ title: About this site
                    <p><b>Kian</b> is an undergraduate Philosophy and Music Composition student who is fascinated by the potential for digital media to serve as an aid for learning.</p>
              </span>
              <span style="vertical-align: bottom; text-align: center;">
-                   <i class="small material-icons">play_circle_filled</i>
+                   <i class="medium material-icons center">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -103,14 +103,16 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
           </div>
-          <div class="col s9">
-             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
-                   <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
-             </span>
-          </div>
-          <div class="col s9" style="vertical-align: bottom; text-align: center;">
-                <i class="small material-icons">play_circle_filled</i>
-          </div>
+             <div class="col s9">
+               <div class="row valign-wrapper">
+                <span class="black-text" style="font-size: 16px; line-height: 1.2;">
+                      <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
+                </span>
+               </div>
+             <div class="row valign-wrapper" style="vertical-align: bottom; text-align: center;">
+                <i class="medium material-icons">play_circle_filled</i>
+             </div>
+             </div>
        </div>
     </div>
     <div class="collapsible-body">
