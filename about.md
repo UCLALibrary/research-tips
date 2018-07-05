@@ -68,12 +68,6 @@ title: About this site
 <div class="row">
       <div class="col s12 m8 offset-m4">
 
-<!-- Start example profile -->
-
-<ul class="collapsible" data-collapsible=expandable">
-      <li>
-      <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-
 <!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
@@ -83,8 +77,8 @@ title: About this site
              <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
           </div>
           <div class="col s9">
-             <span class="black-text">
-                   <p><b>Keannu</b> is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.</p>
+             <span class="black-text" style="font-size: 17px;">
+                   <p><b>Kian</b> is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.</p>
              </span>
           </div>
        </div>
@@ -107,7 +101,7 @@ title: About this site
              <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
           </div>
           <div class="col s9">
-             <span class="black-text">
+             <span class="black-text" style="font-size: 17px;">
                    <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
              </span>
           </div>
@@ -131,7 +125,7 @@ title: About this site
              <img src="{{site.baseurl}}/assets/img/Sophia.JPG" alt="Sophia's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
           <div class="col s9">
-             <span class="black-text">
+             <span class="black-text" style="font-size: 17px;">
                    <p><b>Sophia</b> is an undergraduate Business Economics student who is passionate about purposeful content creation and design.</p>
              </span>
           </div>
@@ -246,7 +240,7 @@ title: About this site
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/jen.jpg" alt="Jen's profile picture" class="circle responsive-img" style="margin-top: 20px;">
           </div>
-          <div class="col s9" style="font-size: 16px;">
+          <div class="col s9" style="font-size: 17px;">
              <span class="black-text">
                    <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
              </span>
