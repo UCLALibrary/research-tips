@@ -100,7 +100,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle"> 
           </div>
           <div class="col s9">
@@ -127,7 +127,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/Sophia.JPG" alt="Sophia's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9">
@@ -154,7 +154,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9">
@@ -181,7 +181,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9" style="font-size: 16px; line-height: 1.2;">
@@ -206,7 +206,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/juan.JPG" alt="Juan's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9" style="font-size: 16px; line-height: 1.2;">
@@ -233,7 +233,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/april.jpg" alt="April's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9" style="font-size: 16px; line-height: 1.2;">
@@ -258,7 +258,7 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/jen.jpg" alt="Jen's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9" style="font-size: 16px; line-height: 1.2;">
@@ -282,7 +282,7 @@ title: About this site
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
+       <div class="row valign-wrapper" style="text-align: center;">
           <div class="col s3">
              <img src="{{site.baseurl}}/assets/img/emily.JPG" alt="Emily's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
