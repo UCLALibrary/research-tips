@@ -80,8 +80,8 @@ title: About this site
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Kian</b> is an undergraduate Philosophy and Music Composition student who is fascinated by the potential for digital media to serve as an aid for learning.</p>
              </span>
-             <span class="gray-text" style="font-size: 10px; vertical-align: bottom; text-align: center;">
-                   <p>Click to see a video.</p>
+             <span class="light-gray-text" style="font-size: 10px; vertical-align: bottom; text-align: center;">
+                   <br><p>Click to see a video.</p>
              </span>
           </div>
        </div>
