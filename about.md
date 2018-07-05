@@ -74,10 +74,10 @@ title: About this site
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="50" width="50"> 
+             <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="200" width="200"> 
           </div>
           <div class="col s9">
-             <span class="black-text" style="font-size: 16px; line-height: 1.0;">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Kian</b> is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.</p>
              </span>
           </div>
