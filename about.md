@@ -313,8 +313,8 @@ title: About this site
       </div>
       <div class="col s12 m8">
       <h4>Keep in touch!</h4>
-      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fa fa-twitter"></i>twitter.com/WIREbruin</a></p>
-      <p><a href="https://facebook.com/WIREbruin" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> facebook.com/WIREbruin</a></p>
+      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fab fa-twitter"></i>twitter.com/WIREbruin</a></p>
+      <p><a href="https://facebook.com/WIREbruin" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i> facebook.com/WIREbruin</a></p>
       </div>
 </div>
 
