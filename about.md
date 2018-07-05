@@ -188,9 +188,6 @@ title: About this site
              <span class="black-text">
                    <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
              </span>
-             <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
-             </span>
           </div>
        </div>
     </div>
@@ -247,7 +244,9 @@ title: About this site
        </div>
     </div>
     <div class="collapsible-body">
-          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/RV67lo5hPi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
     </div>
     </li>
 </ul>
@@ -272,7 +271,9 @@ title: About this site
        </div>
     </div>
     <div class="collapsible-body">
-          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
     </div>
     </li>
 </ul>
@@ -282,16 +283,13 @@ title: About this site
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper" style="text-align: center;">
-          <div class="col s3">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/emily.JPG" alt="Emily's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Emily</b> is an undergraduate majoring in Economics and Cognitive Science. She is excited to work with a group of problem-solvers to come up with creative educational strategies involving digital media.</p>
-             </span>
-             <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
