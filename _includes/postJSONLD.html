@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "headline": "{{ page.title }}",
+        "description": "{{ page.excerpt }}",
+        "image": [
+            {% if page.ogimageoff %}
+
+            {% elsif page.ogimage %}
+                "{{page.ogimage}}"
+            {% elsif page.image %}
+                "{{page.image}}"
+            {% endif %}
+        ],
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+        },
+        "datePublished": "{{page.date}}",
+        "dateModified": "{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}",
+        "isAccessibleForFree": "True",
+        "isPartOf": {
+            "@type": ["CreativeWork", "Product", "Blog"],
+            "name": "WI+RE",
+            "productID": "https://uclalibrary.github.io/research-tips/"
+        },
+        "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/us/",
+        "publisher": {
+            "@type": "EducationalOrganization",
+            "name": "WI+RE",
+            "url": "https://uclalibrary.github.io/research-tips/",
+            "email": "uclawire@ucla.edu",
+            "description": "WI+RE (Writing Instruction + Research Education) is a UCLA community focused on helping all learners succeed in their writing and research projects.",
+            "alternateName": "Writing Instruction and Research Education",
+            "parentOrganization": "UCLA Library",
+            "publishingPrinciples": "https://uclalibrary.github.io/research-tips/about/",
+            "award": "ARL Film Festival Best Reflection of Diversity 2018",
+            "sameAs": [
+               "https://twitter.com/WIREbruin",
+               "https://www.facebook.com/WIREbruin"
+             ],
+            "brand": [
+               "UCLA",
+               "UCLA Library"
+             ]
+        }
+    }
+</script>
