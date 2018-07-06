@@ -44,7 +44,9 @@ social:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 gems:
 - jekyll-seo-tag
 - jekyll-paginate
+- jekyll-sitemap
