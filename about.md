@@ -52,7 +52,7 @@ title: About this site
     </div>
 </div>
 
-<!--We're learners too-->
+<!--Meet the creative team-->
 <div class="row">
       <div class="col s12 m4">
       <center>
@@ -65,17 +65,23 @@ title: About this site
       </div>
 </div>
 
+<div class="row">
+      <div class="col s12 m8 offset-m4">
+
 <!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/kian.jpg" alt="Kian's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle"> 
           </div>
           <div class="col s9">
-             <span class="black-text">
-                   <p><b>Kian</b> is an undergraduate majoring in Philosophy and Music Composition. He is fascinated by the potential for digital media to serve as an aid for learning.</p>
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
+                   <p><b>Kian</b> is an undergraduate Philosophy and Music Composition student who is fascinated by the potential for digital media to serve as an aid for learning.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -94,13 +100,16 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;"> 
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle"> 
           </div>
           <div class="col s9">
-             <span class="black-text">
-                   <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
-             </span>
+                <span class="black-text" style="font-size: 16px; line-height: 1.2;">
+                      <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
+                </span>
+                <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
+                </span>
           </div>
        </div>
     </div>
@@ -118,12 +127,15 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/Sophia.JPG" alt="Sophia's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/Sophia.JPG" alt="Sophia's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9">
-             <span class="black-text">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Sophia</b> is an undergraduate Business Economics student who is passionate about purposeful content creation and design.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -142,12 +154,15 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9">
-             <span class="black-text" style="font-size: 17px;">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -166,10 +181,10 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Taylor</b> is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.</p>
              </span>
@@ -188,12 +203,15 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/juan.JPG" alt="Juan's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/juan.JPG" alt="Juan's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Juan</b> is an international student from Colombia. As he helps other learners, he wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -212,12 +230,15 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/april.jpg" alt="April's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/april.jpg" alt="April's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>April</b> is an undergraduate Computational and Systems Biology student, and is interested in the role and effectiveness of supplementary educational material across different fields of study.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -236,12 +257,15 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/jen.jpg" alt="Jen's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/jen.jpg" alt="Jen's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
-          <div class="col s9" style="font-size: 16px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
@@ -260,10 +284,10 @@ title: About this site
     <li>
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
-          <div class="col s3">
-             <img src="{{site.baseurl}}/assets/img/emily.JPG" alt="Emily's profile picture" class="circle responsive-img" style="margin-top: 20px;">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/emily.JPG" alt="Emily's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
-          <div class="col s9" style="font-size: 17px;">
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
              <span class="black-text">
                    <p><b>Emily</b> is an undergraduate majoring in Economics and Cognitive Science. She is excited to work with a group of problem-solvers to come up with creative educational strategies involving digital media.</p>
              </span>
@@ -276,6 +300,9 @@ title: About this site
     </li>
 </ul>
 <!-- End Emily's profile -->
+
+</div>
+</div>
     
 <!--Keep in touch!-->
 <div style="margin-top: 50px;" class="row">
@@ -286,8 +313,8 @@ title: About this site
       </div>
       <div class="col s12 m8">
       <h4>Keep in touch!</h4>
-      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fa fa-twitter"></i>twitter.com/WIREbruin</a></p>
-      <p><a href="https://facebook.com/WIREbruin" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> facebook.com/WIREbruin</a></p>
+      <p><a href="https://twitter.com/WIREbruin" target="_blank"><i class="fab fa-twitter"></i>twitter.com/WIREbruin</a></p>
+      <p><a href="https://facebook.com/WIREbruin" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i> facebook.com/WIREbruin</a></p>
       </div>
 </div>
 
