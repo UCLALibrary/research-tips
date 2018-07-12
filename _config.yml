@@ -1,5 +1,7 @@
 title: "WI+RE"
 description: WI+RE (Writing Instruction + Research Education) is a UCLA community focused on helping all learners succeed in their writing and research projects.
+seo:
+    type: HowTo
 
 url: https://uclalibrary.github.io/research-tips
 baseurl: "/research-tips"
