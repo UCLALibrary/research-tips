@@ -274,7 +274,23 @@ title: About this site
 </ul>
 <!-- End Emily's profile -->
 
-<h4>WI+RE alums.</h4>
+</div>
+</div>
+
+<!--WI+RE alums-->
+<div class="row">
+      <div class="col s12 m4">
+      <center>
+        <i class="material-icons" style="font-size: 64px; margin-top: 20px;">school</i> <br>
+    </center>
+      </div>
+      <div class="col s12 m8">
+        <h4>WI+RE alums.</h4>
+        <p>Check out what past members of the WI+RE team are up to now.</p>
+      </div>
+</div>
+<div class="row">
+      <div class="col s12 m8 offset-m4">
 
 <!-- Start Shannon's profile -->
 <ul class="collapsible" data-collapsible="expandable">
@@ -286,7 +302,7 @@ title: About this site
           </div>
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
-                   <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
+                   <p><b>Shannon</b>, a member of the WI+RE Team from its conception, is now teaching special education in Chicago through Teach for America.</p>
              </span>
              <span style="vertical-align: bottom;">
                 <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
@@ -294,15 +310,14 @@ title: About this site
           </div>
        </div>
     </div>
-    <div class="collapsible-body">
+    <!--<div class="collapsible-body">
        <div class="video-container">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/u2bU-TJ4e98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
        </div>
-    </div>
+    </div>-->
     </li>
 </ul>
 <!-- End Shannon's profile -->    
-
 
 </div>
 </div>
