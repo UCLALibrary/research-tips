@@ -164,9 +164,6 @@ title: About this site
           </div>
        </div>
     </div>
-    <div class="collapsible-body">
-          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
-    </div>
     </li>
 </ul>
 <!-- End Taylor's profile -->
@@ -267,9 +264,6 @@ title: About this site
           </div>
        </div>
     </div>
-    <div class="collapsible-body">
-          <span class="black-text"><p>Learning Narrative coming soon!</p></span>
-    </div>
     </li>
 </ul>
 <!-- End Emily's profile -->
@@ -303,9 +297,6 @@ title: About this site
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Shannon</b>, a member of the WI+RE Team from its conception, is now teaching special education in Chicago through Teach for America.</p>
-             </span>
-             <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
              </span>
           </div>
        </div>
