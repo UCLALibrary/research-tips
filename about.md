@@ -68,6 +68,133 @@ title: About this site
 <div class="row">
       <div class="col s12 m8 offset-m4">
 
+<!-- Start April's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/april.jpg" alt="April's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
+          </div>
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
+             <span class="black-text">
+                   <p><b>April</b> is an undergraduate Computational and Systems Biology student, and is interested in the role and effectiveness of supplementary educational material across different fields of study.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/RV67lo5hPi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End April's profile -->
+
+ <!-- Start Emily's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/emily.JPG" alt="Emily's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
+          </div>
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
+             <span class="black-text">
+                   <p><b>Emily</b> is an undergraduate majoring in Economics and Cognitive Science. She is excited to work with a group of problem-solvers to come up with creative educational strategies involving digital media.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Emily's profile -->
+
+<!-- Start Jeannie's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle"> 
+          </div>
+          <div class="col s9">
+                <span class="black-text" style="font-size: 16px; line-height: 1.2;">
+                      <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
+                </span>
+                <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
+                </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/NsDt0dta_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+ </ul>
+ <!-- End Jeannie's profile -->
+ 
+  <!-- Start Jen's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/jen.jpg" alt="Jen's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
+          </div>
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
+             <span class="black-text">
+                   <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Jen's profile -->
+
+ <!-- Start Juan's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/juan.JPG" alt="Juan's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
+          </div>
+          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
+             <span class="black-text">
+                   <p><b>Juan</b> is an international student from Colombia. As he helps other learners, he wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/QZd4dJgL5_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Juan's profile -->
+
 <!-- Start Kian's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
@@ -94,33 +221,6 @@ title: About this site
     </li>
  </ul>
  <!-- End Kian's profile-->
- 
- <!-- Start Jeannie's profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3" style="text-align: center;">
-             <img src="{{site.baseurl}}/assets/img/Jeannie.jpg" alt="Jeannie's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle"> 
-          </div>
-          <div class="col s9">
-                <span class="black-text" style="font-size: 16px; line-height: 1.2;">
-                      <p><b>Jeannie</b> is a Master's candidate in the UCLA Library & Information Studies Program, and is interested in learner-centered library services and instructional design for diverse communities.</p>
-                </span>
-                <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
-                </span>
-          </div>
-       </div>
-    </div>
-    <div class="collapsible-body">
-       <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/NsDt0dta_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-       </div>
-    </div>
-    </li>
- </ul>
- <!-- End Jeannie's profile -->
  
  <!-- Start Sophia's profile -->
 <ul class="collapsible" data-collapsible="expandable">
@@ -168,106 +268,6 @@ title: About this site
 </ul>
 <!-- End Taylor's profile -->
 
- <!-- Start Juan's profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3" style="text-align: center;">
-             <img src="{{site.baseurl}}/assets/img/juan.JPG" alt="Juan's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
-          </div>
-          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
-             <span class="black-text">
-                   <p><b>Juan</b> is an international student from Colombia. As he helps other learners, he wants to improve his writing, research, communication, and design skills while working at WI+RE, and is very interested in the impact digital aid can have on learning.</p>
-             </span>
-             <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
-             </span>
-          </div>
-       </div>
-    </div>
-    <div class="collapsible-body">
-       <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/QZd4dJgL5_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-       </div>
-    </div>
-    </li>
-</ul>
-<!-- End Juan's profile -->
-
- <!-- Start April's profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3" style="text-align: center;">
-             <img src="{{site.baseurl}}/assets/img/april.jpg" alt="April's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
-          </div>
-          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
-             <span class="black-text">
-                   <p><b>April</b> is an undergraduate Computational and Systems Biology student, and is interested in the role and effectiveness of supplementary educational material across different fields of study.</p>
-             </span>
-             <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
-             </span>
-          </div>
-       </div>
-    </div>
-    <div class="collapsible-body">
-       <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/RV67lo5hPi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-       </div>
-    </div>
-    </li>
-</ul>
-<!-- End April's profile -->
-
- <!-- Start Jen's profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3" style="text-align: center;">
-             <img src="{{site.baseurl}}/assets/img/jen.jpg" alt="Jen's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
-          </div>
-          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
-             <span class="black-text">
-                   <p><b>Jen</b> is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE.</p>
-             </span>
-             <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
-             </span>
-          </div>
-       </div>
-    </div>
-    <div class="collapsible-body">
-       <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-       </div>
-    </div>
-    </li>
-</ul>
-<!-- End Jen's profile -->
-
- <!-- Start Emily's profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3" style="text-align: center;">
-             <img src="{{site.baseurl}}/assets/img/emily.JPG" alt="Emily's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
-          </div>
-          <div class="col s9" style="font-size: 16px; line-height: 1.2;">
-             <span class="black-text">
-                   <p><b>Emily</b> is an undergraduate majoring in Economics and Cognitive Science. She is excited to work with a group of problem-solvers to come up with creative educational strategies involving digital media.</p>
-             </span>
-          </div>
-       </div>
-    </div>
-    </li>
-</ul>
-<!-- End Emily's profile -->
-
 </div>
 </div>
 
@@ -279,8 +279,8 @@ title: About this site
     </center>
       </div>
       <div class="col s12 m8">
-        <h4>WI+RE alums.</h4>
-        <p>Check out what past members of the WI+RE team are up to now.</p>
+        <h4>What are WI+RE alums doing now?</h4>
+        <p>Check out what past members of the WI+RE team are currently up to.</p>
       </div>
 </div>
 <div class="row">
