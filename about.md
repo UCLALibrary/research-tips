@@ -149,33 +149,6 @@ title: About this site
 </ul>
 <!-- End Sophia's profile -->
     
-<!-- Start Shannon's profile -->
-<ul class="collapsible" data-collapsible="expandable">
-    <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
-       <div class="row valign-wrapper">
-          <div class="col s3" style="text-align: center;">
-             <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
-          </div>
-          <div class="col s9">
-             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
-                   <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
-             </span>
-             <span style="vertical-align: bottom;">
-                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
-             </span>
-          </div>
-       </div>
-    </div>
-    <div class="collapsible-body">
-       <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/u2bU-TJ4e98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-       </div>
-    </div>
-    </li>
-</ul>
-<!-- End Shannon's profile -->    
-    
  <!-- Start Taylor's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
@@ -300,6 +273,36 @@ title: About this site
     </li>
 </ul>
 <!-- End Emily's profile -->
+
+<h4>WI+RE alums.</h4>
+
+<!-- Start Shannon's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
+          </div>
+          <div class="col s9">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
+                   <p><b>Shannon</b>, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve.</p>
+             </span>
+             <span style="vertical-align: bottom;">
+                <i class="material-icons" style="font-size: 40px;">play_circle_filled</i>
+             </span>
+          </div>
+       </div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/u2bU-TJ4e98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Shannon's profile -->    
+
 
 </div>
 </div>
