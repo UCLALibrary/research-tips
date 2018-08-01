@@ -303,7 +303,26 @@ title: About this site
     </div>
     </li>
 </ul>
-<!-- End Caitlin's profile -->    
+<!-- End Caitlin's profile -->
+
+<!-- Start Mary's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3" style="text-align: center;">
+             <img src="{{site.baseurl}}/assets/img/mary.jpg" alt="Mary's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
+          </div>
+          <div class="col s9">
+             <span class="black-text" style="font-size: 16px; line-height: 1.2;">
+                   <p><b>Mary</b> provides support to UCLA Law faculty with their coursework, research, and event coordination. She recently helped organize a two-day conference for experts in AI.</p>
+             </span>
+          </div>
+       </div>
+    </div>
+    </li>
+</ul>
+<!-- End Mary's profile -->    
 
 <!-- Start Shannon's profile -->
 <ul class="collapsible" data-collapsible="expandable">
