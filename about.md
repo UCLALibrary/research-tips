@@ -292,7 +292,7 @@ title: About this site
     <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3" style="text-align: center;">
-             <img src="{{site.baseurl}}/assets/img/caitlin.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
+             <img src="{{site.baseurl}}/assets/img/caitlin.jpg" alt="Caitlin's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
           </div>
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
