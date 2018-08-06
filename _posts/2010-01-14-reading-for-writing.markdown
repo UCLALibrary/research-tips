@@ -23,4 +23,4 @@ tags:
 
 Open this Google doc and try our <i>Reading for Writing</i> Style Guide!
 
-<iframe src="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit" frameborder="0" width="100%" height="2000px"></iframe>
+<iframe src="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit" frameborder="0" width="100%" height="2000"></iframe>
