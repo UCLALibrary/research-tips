@@ -2,7 +2,7 @@
 layout: post
 title:  "Reading for Writing"
 date:   2010-01-14
-description: Complete the *Reading for Writing* Style Guide to create a toolkit for disciplinary writing by close reading a well-written academic paper.
+description: Complete the Reading for Writing Style Guide to create a toolkit for disciplinary writing by close reading a well-written academic paper.
 category: Writing with Sources
 tags:
 - Reading for Writing
