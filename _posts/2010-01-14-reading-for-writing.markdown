@@ -29,7 +29,7 @@ tags:
     </div>
     <div class="col s12 m7" style="vertical-align: middle;">
     <p>The <i>Reading for Writing</i> Style Guide is an interactive Google Doc that prompts you to create a toolkit for disciplinary writing by close reading a well-written academic paper. This activity will not only help you identify key technical, rhetorical, and organizational aspects of writing in a certain field, but will also enable you to apply these conventions to your own writing. Open the Google Doc to get started!</p>
-    <center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial; font-size:100%;"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide Template</a>   </center>
+    <center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide Template</a>   </center>
     </div>
 </div>
 
@@ -37,7 +37,7 @@ tags:
 
 Here are some examples of exemplary style guides. If you get stuck as you complete your own style guide, feel free use these for inspiration. Check back soon for more examples!
 
-<center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1OdU1Qtk0THR3gMNcOEj7-yZDIzl21omvmUZ3eeaKn48/edit?usp=sharing" style="center; font-family:arial; font-size:100%;"><i class="material-icons right">open_in_new</i>Style Guide: Psychology Paper</a></center>
+<center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1OdU1Qtk0THR3gMNcOEj7-yZDIzl21omvmUZ3eeaKn48/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Style Guide: Psychology Paper</a></center>
 
 <br>
 
