@@ -21,18 +21,23 @@ tags:
 - scholarly article
 ---
 
-<p class="intro">Want to improve your writing? Try reading good writing.</p>
+<p class="intro">Want to improve your academic writing? Our <i>Reading for Writing</i> Style Guide will help you identify what makes good academic writing good.</p>
 
-Every discipline has its own conventions of disciplinary writing. You wouldn't write a biology paper the same way you would write a history paper. Wouldn't it be helpful if there was some handbook on how to write a biology paper?
+<div class="col s12 m5">
+<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/styleguide.png' | prepend: site.baseurl }}" alt="Screenshot of Reading for Writing Style Guide table of contents." data-caption="Screenshot of Reading for Writing Style Guide table of contents.">  
+</div>
+<div class="col s12 m7">
+The *Reading for Writing* Style Guide is an interactive Google Doc that prompts you to create a toolkit for disciplinary writing by close reading a well-written academic paper. This activity will not only help you identify key technical, rhetorical, and organizational aspects of writing in a certain field, but will also enable you to apply these conventions to your own writing. Open the Google Doc to get started!
+</div>
 
-One of the best ways to improve your writing is by reading good writing. But how do you know what you're reading for, and how do you apply it to your own writing?
+<center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial;"><i>Reading for Writing</i> Style Guide Template</a></center>
 
-Maybe you've just been assigned a paper in a discipline you're not familiar with. Or maybe you're looking to improve your academic writing for *your* discipline.
+#### Example Style Guides
 
-WI+RE's *Reading for Writing* Style Guide is here to help. The *Reading for Writing* Style Guide is an interactive Google Doc that prompts you to create a toolkit for disciplinary writing by close reading a well-written academic paper. This activity will not only help you identify key technical, rhetorical, and organizational aspects of writing in a certain field, but will also enable you to apply these conventions to your own writing. Open the Google Doc to get started!
+Here are some examples of exemplary style guides. If you get stuck as you complete your own style guide, feel free use these for inspiration. 
 
-<a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:verdana;"><i>Reading for Writing</i><br>Style Guide Template</a>
+<center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1OdU1Qtk0THR3gMNcOEj7-yZDIzl21omvmUZ3eeaKn48/edit?usp=sharing" style="center; font-family:arial;"><i>Style Guide: Psychology Paper</a></center>
 
-Want an example? Here's a completed psychology style guide.
+##### More examples coming soon!
 
-<iframe src="https://docs.google.com/document/d/1OdU1Qtk0THR3gMNcOEj7-yZDIzl21omvmUZ3eeaKn48/edit?usp=sharing" frameborder="0" width="100%" height="1000"></iframe>
+We would love to see your completed style guides! Send it to us at <a href="mailto:uclawire@ucla.edu?Subject=Reading%20For%20Writing%20Style%20Guide%20Example" target="_top">uclawire@ucla.edu</a>!
