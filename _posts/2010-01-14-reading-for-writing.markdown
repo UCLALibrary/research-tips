@@ -31,8 +31,7 @@ Maybe you've just been assigned a paper in a discipline you're not familiar with
 
 WI+RE's *Reading for Writing* Style Guide is here to help. The *Reading for Writing* Style Guide is an interactive Google Doc that prompts you to create a toolkit for disciplinary writing by close reading a well-written academic paper. This activity will not only help you identify key technical, rhetorical, and organizational aspects of writing in a certain field, but will also enable you to apply these conventions to your own writing. Open the Google Doc to get started!
 
-
-<center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center"> *Reading for Writing* Style Guide Template</a></center>
+<a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:verdana;"><i>Reading for Writing</i><br>Style Guide Template</a>
 
 Want an example? Here's a completed psychology style guide.
 
