@@ -61,5 +61,69 @@ theme:  simple
   </section>
 </section>
 
+<section>
+  <section style="text-align: left;">
+   <h3>Take Relevant Notes</h3>
+   <p><iframe width="100%" height="520" src="https://www.youtube.com/embed/75KNersZRr0" frameborder="1" allowfullscreen></iframe></p>
+   <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
+  </section>
+  <section style="text-align: left;">
+    <h3>Take Relevant Notes</h3>
+    <ul class="browser-default activator">
+      <li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
+      <li>If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.</li>
+      <li>If the answer is an essay, look out for useful quotes or themes.</li>
+      <li>If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.</li>
+      <li>Structure your notes so that you will be able to access the important information when the time comes to demonstrate your knowledge.</li>
+    </ul>
+  </section>
+</section>
 
-      
+<section>
+  <section style="text-align: left;">
+   <h3>Make an Annotation Legend</h3>
+   <p><iframe width="100%" height="520" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="1" allowfullscreen></iframe></p>
+   <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
+  </section>
+  <section style="text-align: left;">
+    <h3>Make an Annotation Legend</h3>
+    <ul class="browser-default activator">
+      <li>For example, a star might denote a main idea. Or a square might denote a connection to another text.</li>
+      <li>Your key of symbols will vary from text to text, depending on what you are looking for!</li>
+      <li>Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.</li>
+    </ul>
+  </section>
+</section>
+
+<section>
+  <section style="text-align: left;">
+   <h3>Vary Your Speed for What You Need</h3>
+   <p><iframe width="100%" height="520" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="1" allowfullscreen></iframe></p>
+   <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
+  </section>
+  <section style="text-align: left;">
+    <h3>Vary Your Speed for What You Need</h3>
+    <ul class="browser-default activator">
+      <li>Slow down your reading when you encounter unfamiliar ideas or new information that seems particularly relevant to your class or research context.</li>
+      <li>Increase speed when you encounter ideas that you are familiar with or that don’t pertain to your research context or class.</li>
+      <li>You can use key phrases to identify when to change your  speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.</li>
+    </ul>
+  </section>
+</section>
+
+<section>
+  <section style="text-align: left;">
+   <h3>Identify Uncertainties</h3>
+   <p><iframe width="100%" height="520" src="https://www.youtube.com/embed/NPgfgo_XY8s" frameborder="1" allowfullscreen></iframe></p>
+   <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
+  </section>
+  <section style="text-align: left;">
+    <h3>Identify Uncertainties</h3>
+    <ul class="browser-default activator">
+      <li>Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.</li>
+      <li>Make note of what you don’t understand… Then try to move on! </li>
+      <li>Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.</li>
+      <li>It’s possible your question gets answered later on in the text! But if not, consider visiting your professor or TA to resolve your questions that you cannot answer using the text.</li>
+    </ul>
+  </section>
+</section>
