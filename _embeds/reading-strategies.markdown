@@ -14,18 +14,34 @@ theme:  simple
 <section>
   <section style="text-align: left;">
    <h3>Plan Your Reading Session</h3>
-   <p><iframe width="100%" height="600" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="1" allowfullscreen></iframe></p>
+   <p><iframe width="100%" height="560" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="1" allowfullscreen></iframe></p>
    <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
   </section>
-  <section>
-    <h3>More tips</h3>
+  <section style="text-align: left;">
+    <h3>Plan Your Reading Session</h3>
     <ul class="browser-default activator">
       <li>Gauge the quantity of reading and the time you have to read it.</li>
       <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
       <li>Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.</li>
       <li>Find a suitable reading environment. You can reserve study rooms here in the <a href="http://www.library.ucla.edu/clicc/study-rooms" target="blank">library</a> or <a href="https://reslife.ucla.edu/reserve/" target="blank">residential halls</a></li>
     </ul>
-    
+  </section>
+</section>
+     
 <section>
-     <h3>Turn Headings Into Questions<h3>
+  <section style="text-align: left;">
+   <h3>Turn Headings Into Questions</h3>
+   <p><iframe width="100%" height="560" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="1" allowfullscreen></iframe></p>
+   <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
+  </section>
+  <section style="text-align: left;">
+    <h3>Plan Your Reading Session</h3>
+    <ul class="browser-default activator">
+      <li>Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? </li>
+      <li>As you read and take notes, keep your question in mind. Write down information that answers the question.</li>
+      <li>In the end, you should be able to summarize the answer to your question.</li>
+      <li>You may need to revise your question if the content doesn't match up.</li>
+    </ul>
+  </section>
+</section>
       
