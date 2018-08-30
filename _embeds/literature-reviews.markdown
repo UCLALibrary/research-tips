@@ -1,10 +1,9 @@
 ---
 layout: embed
 title:  "Creating Literature Reviews"
-date:   2010-01-04
-theme:  sky
+date:   2010-01-10
+theme:  simple
 ---
-
 <section style="text-align: left;">
 	<h3>Creating Literature Reviews</h3>
 	<p>Literature reviews are great resources for research projects in all disciplines, presenting the key ideas in a field, pointing to must-read articles, and sugesting directions for future research. How do you go about writing one, though?</p>
@@ -31,7 +30,7 @@ theme:  sky
 </section>
 
 <section style="text-align: left;">
-	<h3>Skimming for What You Need<h3>
+	<h3>Skimming for What You Need</h3>
 	<p><i>Adapted from UCLA Professor Snowden Becker's <a href="https://snowdenbecker.files.wordpress.com/2016/09/how-to-read-an-article_2016.pdf">"How to Read an Article"</a>.</i></p>
 	<ul class="browser-default activator">
 		<li><b>Start at the ends.</b> Important information is usually concentrated in the abstract, introduction, and conclusion of the piece. From this quick scan, you can likely tell if this resource is important to your research and merits inclusion in your literature review.</li>
