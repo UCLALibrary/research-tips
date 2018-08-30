@@ -8,13 +8,13 @@ theme:  simple
 <section style="text-align: left;">
      <h3>Academic Reading Strategies</h3>
         <p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.</p>
-        <p><Try out one or two of these reading strategies on your next reading assignment! Notice the strengths of the reading strategies and in what contexts they works best for you. You can always return here to try out a new reading strategy when your needs change later on!</p>
+        <p>Try out one or two of these reading strategies on your next reading assignment! Notice the strengths of the reading strategies and in what contexts they works best for you. You can always return here to try out a new reading strategy when your needs change later on!</p>
 </section>
 
 <section>
   <section style="text-align: left;">
    <h3>Plan Your Reading Session</h3>
-   <p><iframe width="100%" height="400" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="1" allowfullscreen></iframe></p>
+   <p><iframe width="100%" height="600" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="1" allowfullscreen></iframe></p>
    <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
   </section>
   <section>
