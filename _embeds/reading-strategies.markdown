@@ -14,7 +14,7 @@ theme:  simple
 <section>
   <section style="text-align: left;">
    <h3>Plan Your Reading Session</h3>
-   <p><iframe width="100%" height="560" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="1" allowfullscreen></iframe></p>
+   <p><iframe width="100%" height="520" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="1" allowfullscreen></iframe></p>
    <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
   </section>
   <section style="text-align: left;">
@@ -31,11 +31,11 @@ theme:  simple
 <section>
   <section style="text-align: left;">
    <h3>Turn Headings Into Questions</h3>
-   <p><iframe width="100%" height="560" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="1" allowfullscreen></iframe></p>
+   <p><iframe width="100%" height="520" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="1" allowfullscreen></iframe></p>
    <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
   </section>
   <section style="text-align: left;">
-    <h3>Plan Your Reading Session</h3>
+    <h3>Turn Headings Into Questions</h3>
     <ul class="browser-default activator">
       <li>Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? </li>
       <li>As you read and take notes, keep your question in mind. Write down information that answers the question.</li>
@@ -44,4 +44,22 @@ theme:  simple
     </ul>
   </section>
 </section>
+
+<section>
+  <section style="text-align: left;">
+   <h3>Paraphrase as You Read</h3>
+   <p><iframe width="100%" height="520" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="1" allowfullscreen></iframe></p>
+   <p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i> More tips</a></p>
+  </section>
+  <section style="text-align: left;">
+    <h3>Paraphrase as You Read</h3>
+    <ul class="browser-default activator">
+      <li>Whenever you encounter an important concept, paraphrase it in your notes or outline.</li>
+      <li>Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.</li>
+      <li>A few words or a sentence will suffice for each summary.</li>
+    </ul>
+  </section>
+</section>
+
+
       
