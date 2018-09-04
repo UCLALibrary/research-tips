@@ -96,6 +96,7 @@ theme:  simple
 	<section style="text-align: left;">	
 		<h3>Summarize your source.</h3>
 		<p>You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</p>
+		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>See an example</a></p>
 	</section>
 	<section style="text-align: left;">
 		<h3>Summarize your source.</h3>
