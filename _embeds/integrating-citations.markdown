@@ -94,20 +94,36 @@ theme:  simple
 
 <section style="text-align: left;">	
 	<h3>Summarize your source.</h3>
-	<p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p>
 	<p>You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</p>
+	<p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p>
 </section>
 
-<section style="text-align: left;">	
-	<h3>Cite a method.</h3>
-	<p class="two"><markgreen>Despite the popularity of the</markgreen> <markyellow>WUP indicators</markyellow>, <markgreen>they have been routinely criticized because the methodology relies on local- and country-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely divergent deﬁnitions of the population, density thresholds, or administrative/political units designated</markgreen> (<markyellow>Sat-terthwaite, 2007</markyellow>). </font></p>
-	<p><font size="4">This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.</font></p>
+<section>
+	<section style="text-align: left;">	
+		<h3>Cite a method.</h3>
+		<p>This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.</p>
+		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>See an example</a></p>
+	</section>
+	<section style="text-align: left;">
+		<h3>Cite a method.</h3>
+		<p class="two"><markgreen>Despite the popularity of the</markgreen> <markyellow>WUP indicators</markyellow>, <markgreen>they have been routinely criticized because the methodology relies on local- and country-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely divergent deﬁnitions of the population, density thresholds, or administrative/political units designated</markgreen> (<markyellow>Sat-terthwaite, 2007</markyellow>).</p>
+	</section>
 </section>
 
-<section style="text-align: left;">	
-	<h3>Compare sources.</h3>
-	<p class="two"><markgreen>Some evidence for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities</markgreen> (<markyellow>Bettencourt et al., 2007</markyellow>; <markyellow>Fragkias et al., 2013</markyellow>). <markgreen>Other evidence suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities</markgreen> (<markyellow>Marcotullio et al., 2013</markyellow>).</p>
-	<p>This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study.</p>
+<section>
+	<section style="text-align: left;">	
+		<h3>Compare sources.</h3>
+		<p>This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study.</p>
+		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>See an example</a></p>
+	</section>
+	<section style="text-align: left;">
+		<h3>Compare sources.</h3>
+		<p class="two"><markgreen>Some evidence for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities</markgreen> (<markyellow>Bettencourt et al., 2007</markyellow>; <markyellow>Fragkias et al., 2013</markyellow>). <markgreen>Other evidence suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities</markgreen> (<markyellow>Marcotullio et al., 2013</markyellow>).</p>
+	</section>
 </section>
-	
-		
+
+<section style="text-align: left;">
+	<h3>Heads Up!</h3>
+	<p>How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.</p>
+	<p style="font-size: small;">Marcotullio, P. J., Hughes, S., Sarzynski, A., Pincetl, S., Sanchez Peña, L., Romero-Lankao, P., Runfola, D. and Seto, K. C. (2014), Urbanization and the carbon cycle: Contributions from social science. Earth's Future, 2: 496–514. doi:10.1002/2014EF000257</p>
+</section>
