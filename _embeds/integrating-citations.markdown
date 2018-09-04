@@ -44,3 +44,46 @@ theme:  simple
 		<p> Sometimes there’s not just one source that perfectly supports your claim, or there are two major publications that deserve credit for providing evidence on a topic. This is a perfect time to use multiple citations. You can cite two, three, or more sources, but remember to cite only the publications that are most prominent so as not to clutter up your paper.</p>
 	</section>
 </section>
+
+<section>
+	<section style="text-align: left;">
+		<h3>Make a claim that has been supported in multiple contexts.</h3>
+		<p> <markgreen>Context 1</markgreen> (<markyellow>Citation</markyellow>), <markgreen>Context 2</markgreen> (<markyellow>Citation</markyellow>), <markgreen>Context 3</markgreen> (<markyellow>Citation</markyellow>). </p>
+		<h4>Example:</h4>
+		<p class="two"> <markgreen>These results are supported by more recent research on transportation energy consumption</markgreen>  (<markyellow>Liddle, 2014</markyellow>), <markgreen>electricity consumption in buildings</markgreen> (<markyellow>Lariviere and Lafrance, 1999</markyellow>), <markgreen>and overall urban GHG emissions</markgreen> (<markyellow>Marcotullio et al., 2013b</markyellow>). </p>
+		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>More below</a></p>
+	</section>
+	<section style="text-align: left;">
+		<h3>Make a claim that has been supported in multiple contexts.</h3>
+		<p>Use this citation strategy when you want to show that a body of research has found support for some claim across several different contexts. This can show the robustness of an effect or phenomenon and can give your claim some added validity.</p>
+	</section>
+</section>
+
+<section>
+	<section style="text-align: left;">
+		<h3>Quote important or unique terms.</h3>
+		<p> <markgreen>Claim</markgreen> "<markyellow>Term</markyellow>"(<markyellow>Citation</markyellow>).</p>
+		<h4>Example:</h4>
+		<p class="two"><markgreen>The spatial implications of this thinking are manifest in the</markgreen> "<markyellow>concentric ring model</markyellow>" <markgreen>of urban expansion and its variants</markgreen> (<markyellow>Harris and Ullman, 1945</markyellow>)</p>
+		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>More below</a></p>
+	</section>
+	<section style="text-align: left;">
+		<h3>Quote important or unique terms.</h3>
+		<p>While block or even whole-sentence citations are rare in most research papers in the science and social science disciplines, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper.</p>
+	</section>
+</section>
+
+<section>
+	<section style="text-align: left;">
+		<h3>Use a direct quotation.</h3>
+		<p><markgreen>Introduce quote</markgreen>, "<markyellow>Quotation</markyellow>." (<markyellow>Citation</markyellow>)</p>
+		<h4>Example:</h4>
+		<p class="two"><markgreen>China’s </markgreen> "<markyellow>radical</markyellow>” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> (<markyellow>McGranahan et al., 2014</markyellow>)</p>
+		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>More below</a></p>
+	</section>
+	<section style="text-align: left;">
+		<h3>Use a direct quotation.</h3>
+		<p>The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.</p>
+	</section>
+</section>
+		
