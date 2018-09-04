@@ -92,10 +92,15 @@ theme:  simple
 	<p>Now that you know some different citation structures, let's look at a few citation <i>strategies</i>! Cited evidence can serve a wide range of purposes in academic papers. These examples will give you an idea of the different ways that you can use citations in your paper.</p>
 </section>
 
-<section style="text-align: left;">	
-	<h3>Summarize your source.</h3>
-	<p>You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</p>
-	<p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p>
+<section>
+	<section style="text-align: left;">	
+		<h3>Summarize your source.</h3>
+		<p>You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</p>
+	</section>
+	<section style="text-align: left;">
+		<h3>Summarize your source.</h3>
+		<p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p>
+	</section>
 </section>
 
 <section>
@@ -124,6 +129,6 @@ theme:  simple
 
 <section style="text-align: left;">
 	<h3>Heads Up!</h3>
-	<p>How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.</p>
+	<p>How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations, or try our <a href="https://uclalibrary.github.io/research-tips/reading-for-writing/" target="_blank">Reading for Writing</a> activity. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.</p>
 	<p style="font-size: small;">Marcotullio, P. J., Hughes, S., Sarzynski, A., Pincetl, S., Sanchez Peña, L., Romero-Lankao, P., Runfola, D. and Seto, K. C. (2014), Urbanization and the carbon cycle: Contributions from social science. Earth's Future, 2: 496–514. doi:10.1002/2014EF000257</p>
 </section>
