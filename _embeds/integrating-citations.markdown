@@ -64,7 +64,7 @@ theme:  simple
 		<h3>Quote important or unique terms.</h3>
 		<p> <markgreen>Claim</markgreen> "<markyellow>Term</markyellow>"(<markyellow>Citation</markyellow>).</p>
 		<h4>Example:</h4>
-		<p class="two"><markgreen>The spatial implications of this thinking are manifest in the</markgreen> "<markyellow>concentric ring model</markyellow>" <markgreen>of urban expansion and its variants</markgreen> (<markyellow>Harris and Ullman, 1945</markyellow>)</p>
+		<p class="two"><markgreen>The spatial implications of this thinking are manifest in the</markgreen> "<markyellow>concentric ring model</markyellow>" <markgreen>of urban expansion and its variants</markgreen> (<markyellow>Harris and Ullman, 1945</markyellow>).</p>
 		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>More below</a></p>
 	</section>
 	<section style="text-align: left;">
@@ -78,7 +78,7 @@ theme:  simple
 		<h3>Use a direct quotation.</h3>
 		<p><markgreen>Introduce quote</markgreen>, "<markyellow>Quotation</markyellow>." (<markyellow>Citation</markyellow>)</p>
 		<h4>Example:</h4>
-		<p class="two"><markgreen>China’s </markgreen> "<markyellow>radical</markyellow>” <markgreen>urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy</markgreen> (<markyellow>McGranahan et al., 2014</markyellow>)</p>
+		<p class="two"><markgreen>China’s </markgreen> "<markyellow>radical</markyellow>” <markgreen>urbanization has underpinned the country’s economic growth and has been key to the nation’s economic growth strategy</markgreen> (<markyellow>McGranahan et al., 2014</markyellow>).</p>
 		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>More below</a></p>
 	</section>
 	<section style="text-align: left;">
@@ -86,4 +86,28 @@ theme:  simple
 		<p>The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.</p>
 	</section>
 </section>
+
+<section>
+	<h3>Specific Citation Strategies</h3>
+	<p>Now that you know some different citation structures, let's look at a few citation <i>strategies</i>! Cited evidence can serve a wide range of purposes in academic papers. These examples will give you an idea of the different ways that you can use citations in your paper.</p>
+</section>
+
+<section style="text-align: left;">	
+	<h3>Summarize your source.</h3>
+	<p class="two"><markgreen>The studies of Newman and Kenworthy</markgreen> (<markyellow>1989, 1999</markyellow>) <markgreen>demonstrate a negative relationship between population density and transportation fuel use</markgreen>.</p>
+	<p>You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.</p>
+</section>
+
+<section style="text-align: left;">	
+	<h3>Cite a method.</h3>
+	<p class="two"><markgreen>Despite the popularity of the</markgreen> <markyellow>WUP indicators</markyellow>, <markgreen>they have been routinely criticized because the methodology relies on local- and country-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely divergent deﬁnitions of the population, density thresholds, or administrative/political units designated</markgreen> (<markyellow>Sat-terthwaite, 2007</markyellow>). </font></p>
+	<p><font size="4">This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.</font></p>
+</section>
+
+<section style="text-align: left;">	
+	<h3>Compare sources.</h3>
+	<p class="two"><markgreen>Some evidence for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities</markgreen> (<markyellow>Bettencourt et al., 2007</markyellow>; <markyellow>Fragkias et al., 2013</markyellow>). <markgreen>Other evidence suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities</markgreen> (<markyellow>Marcotullio et al., 2013</markyellow>).</p>
+	<p>This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study.</p>
+</section>
+	
 		
