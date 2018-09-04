@@ -60,28 +60,6 @@ category: Getting Started
     </div>
 </div>
 <!-- Turn Headings Into Questions -->
- 
- <!-- Start Take Relevant Notes -->
-<div class="card blue grey lighten-5">
-    <div class="card-content">
-        <div class="row">
-            <div class="col s12 m12 l6 push-l6">
-                <!--add video embed code here--><img src="{{site.baseurl}}/assets/img/coming_soon.png" alt="Video Coming Soon!" class="responsive-img">
-            </div>
-            <div class="col s12 m12 l6 pull-l6">
-                <h4>Take Relevant Notes</h4>
-                <p>Taking notes that are tailored to your assignment will save you time and effort.</p>
-                <ul class="browser-default activator"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
-                <li>If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.</li>
-                <li>If the answer is an essay, look out for useful quotes or themes.</li>
-                <li>If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.</li>
-                <li>Structure your notes so that you will be able to access the important information when the time comes to demonstrate your knowledge. </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Take Relevant Notes-->
 
 <!-- Start Paraphrase as you read -->
 <div class="card blue grey lighten-5">
@@ -103,6 +81,28 @@ category: Getting Started
     </div>
 </div>
 <!-- End Paraphrase as you read -->
+ 
+ <!-- Start Take Relevant Notes -->
+<div class="card blue grey lighten-5">
+    <div class="card-content">
+        <div class="row">
+            <div class="col s12 m12 l6 push-l6">
+                <!--add video embed code here--><div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/75KNersZRr0" frameborder="0" allowfullscreen></iframe></div>
+            </div>
+            <div class="col s12 m12 l6 pull-l6">
+                <h4>Take Relevant Notes</h4>
+                <p>Taking notes that are tailored to your assignment will save you time and effort.</p>
+                <ul class="browser-default activator"><li>Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”</li>
+                <li>If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.</li>
+                <li>If the answer is an essay, look out for useful quotes or themes.</li>
+                <li>If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.</li>
+                <li>Structure your notes so that you will be able to access the important information when the time comes to demonstrate your knowledge. </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Take Relevant Notes-->
 
 <!-- Make an Annotation Legend -->
 <div class="card blue grey lighten-5">

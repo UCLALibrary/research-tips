@@ -1,7 +1,8 @@
 title: "WI+RE"
-description: Quick and practical research and writing strategies, collaboratively designed by students, teachers, and librarians at UCLA.
+description: WI+RE (Writing Instruction + Research Education) is a UCLA community focused on helping all learners succeed in their writing and research projects.
+author: UCLA WI+RE
 
-url: https://uclalibrary.github.io
+url: https://uclalibrary.github.io/
 baseurl: "/research-tips"
 paginate_path: "blog/page:num/"
 permalink: :title/
@@ -44,7 +45,9 @@ social:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 gems:
 - jekyll-seo-tag
 - jekyll-paginate
+- jekyll-sitemap
