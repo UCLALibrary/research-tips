@@ -25,6 +25,6 @@ theme:  simple
 		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>See an example!</a></p>
 	</section>
 	<section style="text-align: left;">
-		
+		<p class="two"><markgreen>Some view cities as the storehouse of culture and creativity, and propose that urbanization is a consequence of the attractiveness of these social benefits</markgreen> (<markyellow>Mumford, 1961</markyellow>).</p>
 	</section>
 </section>
