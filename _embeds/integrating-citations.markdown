@@ -19,12 +19,15 @@ theme:  simple
 
 <section>
 	<section style="text-align: left;">
-		<h4>Make a claim without a quote</h4>
+		<h3>Make a claim without a quote</h3>
 		<p><markgreen>Claim</markgreen> (<markyellow>Citation</markyellow>).</p>
-		<br>
-		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>See an example!</a></p>
+		<h4>Example:</h4>
+		<p class="two"><markgreen>Some view cities as the storehouse of culture and creativity, and propose that urbanization is a consequence of the attractiveness of these social benefits</markgreen> (<markyellow>Mumford, 1961</markyellow>).</p>
+		<p class="two"><markgreen>Some view cities as the storehouse of culture and creativity, and propose that urbanization is a consequence of the attractiveness of these social benefits</markgreen> (<markyellow>Mumford, 1961</markyellow>).</p>
+		<p><a href="#" class="navigate-down"><i class="fa fa-caret-down" title="down"></i>More below</a></p>
 	</section>
 	<section style="text-align: left;">
-		<p class="two"><markgreen>Some view cities as the storehouse of culture and creativity, and propose that urbanization is a consequence of the attractiveness of these social benefits</markgreen> (<markyellow>Mumford, 1961</markyellow>).</p>
+		<h3>Make a claim without a quote</h3>
+		<p>Oftentimes you do not need to directly quote a source to convey its conclusions or arguments – and some disciplines discourage quoting directly! Rather you can paraphrase the main point of a paper in your own words and provide an in-text citation. A benefit of using this strategy is that you can offer support for a claim without using a whole paragraph to introduce and frame a quote. You should make sure that you fully understand the paper's argument and that you are following university citation guidelines before attempting to paraphrase something from a paper. For aditional resources on paraphrasing click <a href="http://guides.library.ucla.edu/bruin-success/3-11" target="_blank">here</a>.</p>
 	</section>
-</section>
+<section>
