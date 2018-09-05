@@ -2,8 +2,8 @@
 layout: post
 title:  "Reading for Writing"
 date:   2010-01-14
-description: Complete the Reading for Writing Style Guide to create a toolkit for disciplinary writing by close reading a well-written academic paper.
-category: Writing with Sources
+description: Want to improve your academic writing? Complete this interactive activity to take your writing to the next level.
+category: Getting Started
 tags:
 - Reading for Writing
 - Style Guide
@@ -21,17 +21,23 @@ tags:
 - scholarly article
 ---
 
-<p class="intro">Want to improve your academic writing? Our <i>Reading for Writing</i> Style Guide will help you identify what makes good academic writing good.</p>
+<p class="intro">Want to improve your academic writing? Complete this interactive activity to take your writing to the next level.</p>
 
 <div class="row">
     <div class="col s12 m5">
         <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/styleguide.png' | prepend: site.baseurl }}"   alt="Screenshot of Reading for Writing Style Guide table of contents." data-caption="Screenshot of Reading for      Writing Style Guide table of contents.">  
     </div>
     <div class="col s12 m7" style="vertical-align: middle;">
-    <p>The <i>Reading for Writing</i> Style Guide is an interactive Google Doc that prompts you to create a toolkit for disciplinary writing by close reading a well-written academic paper. This activity will not only help you identify key technical, rhetorical, and organizational aspects of writing in a certain field, but will also enable you to apply these conventions to your own writing. Open the Google Doc to get started!</p>
-    <center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide Template</a>   </center>
+    <p class="intro">The <i>Reading for Writing</i> Style Guide is a fill-in-the-blank Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide. </p>
+    <center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide</a></center>
     </div>
 </div>
+
+#### How do I get started?
+
+Say you're a psychology student. First, with the help of your professor or T.A., find one or two examples of well-written psychology papers. (Or find a highly cited paper on a scholarly database. [Not sure how?](https://uclalibrary.github.io/research-tips/finding-scholarly-articles/ "Finding Scholarly Articles"))
+
+Next,
 
 #### Example Style Guides
 
