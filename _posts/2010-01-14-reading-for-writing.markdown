@@ -46,13 +46,14 @@ Here's an example of a section from the style guide before and after being compl
       <ul class="tabs">
         <li class="tab col s6"><a class="active" a href="#before">Before</a></li>
         <li class="tab col s6"><a href="#after">After</a></li>
-			</ul>
-		<div id="before" class="col s12">
-			<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wbefore.jpg' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is as brief as possible, literary but still clear, etc. Example. In addition, list some effective verbs they use. Effective verbs: verb. verb." data-caption="The language section of the Reading for Writing activity before it has been completed by a student.">
-		</div>
-		<div id="after" class="col s12">
-			<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wafter.jpg' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is thorough without being superfluous. Example: Participants were asked to read either an essay or a short story, chosen from a set that was controlled for length, complexity, and interest level. Page 150. In addition, list some effective verbs they use. Effetive verbs: measure, participate, cause, stimulate, hypothesize, compare, test, correlate, support, process." data-caption="The language section of the Reading for Writing activity after it has been completed by a student.">
-		</div>
+		</ul>
+	</div>
+	<div id="before" class="col s12">
+		<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wbefore.jpg' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is as brief as possible, literary but still clear, etc. Example. In addition, list some effective verbs they use. Effective verbs: verb. verb." data-caption="The language section of the Reading for Writing activity before it has been completed by a student.">
+	</div>
+	<div id="after" class="col s12">
+		<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wafter.jpg' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is thorough without being superfluous. Example: Participants were asked to read either an essay or a short story, chosen from a set that was controlled for length, complexity, and interest level. Page 150. In addition, list some effective verbs they use. Effetive verbs: measure, participate, cause, stimulate, hypothesize, compare, test, correlate, support, process." data-caption="The language section of the Reading for Writing activity after it has been completed by a student.">
+	</div>
 </div>
 	
 
