@@ -39,9 +39,9 @@ Say you're a psychology student. First, with the help of your professor or T.A.,
 
 Next, based on the paper(s) you found, go through the style guide and replace the \[bracketed text\] with your own answers, using the questions on the left hand side to guide you. If a section asks for an example, copy down one or more passages from the paper that demonstrate the kind of writing being discussed. 
 
-Here's an example of a section from the style guide before and after being completed. (For more examples, see the "Example Style G" section below!)
+Here's an example of a section from the style guide before and after being completed. (For more examples, see below!)
 
-<div class="row">
+<div class="row z-depth-2">
     <div class="col s12">
       <ul class="tabs">
         <li class="tab col s6"><a class="active" a href="#before">Before</a></li>
