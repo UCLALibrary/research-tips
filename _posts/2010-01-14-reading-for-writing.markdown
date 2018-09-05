@@ -39,7 +39,7 @@ Say you're a psychology student. First, with the help of your professor or T.A.,
 
 Next, based on the paper(s) you found, go through the style guide and replace the \[bracketed text\] with your own answers, using the questions on the left hand side to guide you. If a section asks for an example, copy down one or more passages from the paper that demonstrate the kind of writing being discussed. 
 
-Here's an example of a section from the style guide before and after being completed. (For more examples, see the "Example" section below!)
+Here's an example of a section from the style guide before and after being completed. (For more examples, see the "Example Style G" section below!)
 
 <div class="row">
     <div class="col s12">
@@ -49,10 +49,10 @@ Here's an example of a section from the style guide before and after being compl
 		</ul>
 	</div>
 	<div id="before" class="col s12">
-		<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wbefore.jpg' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is as brief as possible, literary but still clear, etc. Example. In addition, list some effective verbs they use. Effective verbs: verb. verb." data-caption="The language section of the Reading for Writing activity before it has been completed by a student.">
+		<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wbefore.png' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is as brief as possible, literary but still clear, etc. Example. In addition, list some effective verbs they use. Effective verbs: verb. verb." data-caption="The language section of the Reading for Writing activity before it has been completed by a student.">
 	</div>
 	<div id="after" class="col s12">
-		<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wafter.jpg' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is thorough without being superfluous. Example: Participants were asked to read either an essay or a short story, chosen from a set that was controlled for length, complexity, and interest level. Page 150. In addition, list some effective verbs they use. Effetive verbs: measure, participate, cause, stimulate, hypothesize, compare, test, correlate, support, process." data-caption="The language section of the Reading for Writing activity after it has been completed by a student.">
+		<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wafter.png' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is thorough without being superfluous. Example: Participants were asked to read either an essay or a short story, chosen from a set that was controlled for length, complexity, and interest level. Page 150. In addition, list some effective verbs they use. Effetive verbs: measure, participate, cause, stimulate, hypothesize, compare, test, correlate, support, process." data-caption="The language section of the Reading for Writing activity after it has been completed by a student.">
 	</div>
 </div>
 	
