@@ -29,7 +29,7 @@ tags:
     </div>
     <div class="col s12 m7" style="vertical-align: middle;">
     <p class="intro">The <i>Reading for Writing</i> Style Guide is a fill-in-the-blank Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide. </p>
-    <center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide</a></center>
+    <center><a class="waves-effect waves-light btn-large light-blue darken-3" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide</a></center>
     </div>
 </div>
 
@@ -55,15 +55,14 @@ Here's an example of a section from the style guide before and after being compl
 		<img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/R4Wafter.png' | prepend: site.baseurl }}" alt="Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is thorough without being superfluous. Example: Participants were asked to read either an essay or a short story, chosen from a set that was controlled for length, complexity, and interest level. Page 150. In addition, list some effective verbs they use. Effetive verbs: measure, participate, cause, stimulate, hypothesize, compare, test, correlate, support, process." data-caption="The language section of the Reading for Writing activity after it has been completed by a student.">
 	</div>
 </div>
-	
 
-
+When you're finished with your guide, you can always come back to it for class assignments and research papers!
 
 #### Example Style Guides
 
-Here are some examples of exemplary style guides. If you get stuck as you complete your own style guide, feel free use these for inspiration. Check back soon for more examples!
+These are examples of exemplary style guides for different disciplines. If you get stuck as you complete your own style guide, feel free use these for inspiration. Check back soon for more examples!
 
-<center><a class="waves-effect waves-light btn-large" href="https://docs.google.com/document/d/1OdU1Qtk0THR3gMNcOEj7-yZDIzl21omvmUZ3eeaKn48/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Style Guide: Psychology Paper</a></center>
+<center><a class="waves-effect waves-light btn-large light-blue darken-3" href="https://docs.google.com/document/d/1OdU1Qtk0THR3gMNcOEj7-yZDIzl21omvmUZ3eeaKn48/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Style Guide: Psychology Paper</a></center>
 
 <br>
 
