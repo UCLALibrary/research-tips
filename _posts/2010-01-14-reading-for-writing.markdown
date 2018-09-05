@@ -56,7 +56,7 @@ Here's an example of a section from the style guide before and after being compl
 	</div>
 </div>
 
-When you're finished with your guide, you can always come back to it for class assignments and research papers!
+The activity will take about forty-five minutes to an hour to complete, but once you're finished with your guide, you can always come back to it for class assignments and research papers in the future!
 
 #### Example Style Guides
 
