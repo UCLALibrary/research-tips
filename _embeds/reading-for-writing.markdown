@@ -15,7 +15,7 @@ theme:  simple
     	<p>The Reading for Writing Style Guide is a fill-in-the-blank Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide. <a href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit" target="_blank">Click here to get started!</a></p>
 		</div>
 	</div>
-	<p align="right"><a href="#" class="navigate-right">See an example<i class="fa fa-caret-right" title="down"></i></a></p>
+	<p align="right"><a href="#" class="navigate-right">See an example <i class="fa fa-caret-right" title="down"></i></a></p>
 </section>
 
 <section>
