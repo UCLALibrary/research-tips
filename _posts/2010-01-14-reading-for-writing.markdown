@@ -25,7 +25,7 @@ tags:
 
 <div class="row">
     <div class="col s12 m5">
-        <img class="responsive-img materialboxed imagestep" src="{{ '/assets/img/styleguide.png' | prepend: site.baseurl }}"   alt="Screenshot of Reading for Writing Style Guide table of contents." data-caption="Screenshot of Reading for Writing Style Guide table of contents.">  
+        <img class="responsive-img materialboxed imagestep z-depth-2" src="{{ '/assets/img/styleguide.png' | prepend: site.baseurl }}"   alt="Screenshot of Reading for Writing Style Guide table of contents." data-caption="Screenshot of Reading for Writing Style Guide table of contents.">  
     </div>
     <div class="col s12 m7" style="vertical-align: middle;">
     <p class="intro">The <i>Reading for Writing</i> Style Guide is a fill-in-the-blank Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide. </p>
@@ -68,7 +68,7 @@ These are examples of exemplary style guides for different disciplines. If you g
 
 <ul class="collapsible">
     <li>
-      <div class="collapsible-header"><i class="material-icons">send</i>We would love to see your completed style guides! Share your style guide with <a href="mailto:uclawire@ucla.edu?Subject=Reading%20For%20Writing%20Style%20Guide%20Example" target="_top">uclawire@ucla.edu</a> on Google Docs!</div>
+      <div class="collapsible-header"><i class="material-icons">send</i>We'd love to see your work! Share your style guide with <a href="mailto:uclawire@ucla.edu?Subject=Reading%20For%20Writing%20Style%20Guide%20Example" target="_top">uclawire@ucla.edu</a> on Google Docs!</div>
     </li>
 </ul>
 
