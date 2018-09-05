@@ -68,7 +68,7 @@ These are examples of exemplary style guides for different disciplines. If you g
 
 <ul class="collapsible">
     <li>
-      <div class="collapsible-header"><i class="material-icons">send</i>We would love to see your completed style guides! Share your style guide with <a href="mailto:uclawire@ucla.edu?Subject=Reading%20For%20Writing%20Style%20Guide%20Example" target="_top">uclawire@ucla.edu</a>!</div>
+      <div class="collapsible-header"><i class="material-icons">send</i>We would love to see your completed style guides! Share your style guide with <a href="mailto:uclawire@ucla.edu?Subject=Reading%20For%20Writing%20Style%20Guide%20Example" target="_top">uclawire@ucla.edu</a> on Google Docs!</div>
     </li>
 </ul>
 
