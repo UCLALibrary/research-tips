@@ -9,7 +9,7 @@ category: Getting Started
 ---
 <p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. </p>
 
-<p>Pick one or two of the reading strategies bellow and try them out on your next reading assignment! Notice the strengths of the reading strategies and in what contexts they works best for you. You can always return here to try out a new reading strategy when your needs change later on!</p>
+<p>Pick one or two of the reading strategies below and try them out on your next reading assignment! Notice the strengths of the reading strategies and in what contexts they works best for you. You can always return here to try out a new reading strategy when your needs change later on!</p>
 
 
 <!-- this is a comment, we use comments to write notes that only appear in code -->
