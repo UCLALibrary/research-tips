@@ -297,6 +297,7 @@ title: About this site
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Caitlin</b> runs the medical library education program (in-person and online) and teaches in the School of Medicine at Yale.</p>
+                   <p><a href="https://www.linkedin.com/in/caitlinemeyer/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></p>
              </span>
           </div>
        </div>
