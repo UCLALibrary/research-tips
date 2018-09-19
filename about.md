@@ -297,7 +297,7 @@ title: About this site
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Caitlin</b> runs the medical library education program (in-person and online) and teaches in the School of Medicine at Yale.</p>
-                   <p><a href="https://www.linkedin.com/in/caitlinemeyer/"><i class="fab fa-linkedin"></i>LinkedIn</a></p>
+                   <p><a href="https://www.linkedin.com/in/caitlinemeyer/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
              </span>
           </div>
        </div>
@@ -336,7 +336,7 @@ title: About this site
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Shannon</b> teaches special education through Teach for America in Chicago.</p>
-                   <p><a href="https://www.linkedin.com/in/shannon-roux-222900a0/"><i class="fab fa-linkedin"></i>LinkedIn</a></p>
+                   <p><a href="https://www.linkedin.com/in/shannon-roux-222900a0/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
              </span>
           </div>
        </div>
