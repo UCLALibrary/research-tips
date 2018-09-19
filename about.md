@@ -335,6 +335,7 @@ title: About this site
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Shannon</b> teaches special education through Teach for America in Chicago.</p>
+                   <p><a href="https://www.linkedin.com/in/shannon-roux-222900a0/">LinkedIn</a>
              </span>
           </div>
        </div>
