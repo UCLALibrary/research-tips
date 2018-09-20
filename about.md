@@ -289,7 +289,7 @@ title: About this site
 <!-- Start Caitlin's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+    <div class="collapsible-header row z-depth-1 blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/caitlin.jpg" alt="Caitlin's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
@@ -297,6 +297,7 @@ title: About this site
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Caitlin</b> runs the medical library education program (in-person and online) and teaches in the School of Medicine at Yale.</p>
+                   <p><a href="https://www.linkedin.com/in/caitlinemeyer/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
              </span>
           </div>
        </div>
@@ -308,7 +309,7 @@ title: About this site
 <!-- Start Mary's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+    <div class="collapsible-header row z-depth-1 blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/mary.jpg" alt="Mary's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
@@ -327,7 +328,7 @@ title: About this site
 <!-- Start Shannon's profile -->
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+    <div class="collapsible-header row z-depth-1 blue grey lighten-5">
        <div class="row valign-wrapper">
           <div class="col s3" style="text-align: center;">
              <img src="{{site.baseurl}}/assets/img/shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img" style="margin-top: 20px;" height="150" width="150" align="middle">
@@ -335,6 +336,7 @@ title: About this site
           <div class="col s9">
              <span class="black-text" style="font-size: 16px; line-height: 1.2;">
                    <p><b>Shannon</b> teaches special education through Teach for America in Chicago.</p>
+                   <p><a href="https://www.linkedin.com/in/shannon-roux-222900a0/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
              </span>
           </div>
        </div>
