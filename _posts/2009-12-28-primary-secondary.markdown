@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Primary and Secondary Sources"
+date:   2009-12-28
+description: How to tell the difference between primary and secondary sources.
+category: Finding and Citing Sources
+tags:
+- primary
+- secondary
+- sources
+- source
+- primary and secondary sources
+- primary vs secondary sources
+- wheel of sources
+- primary sources
+- secondary sources
+- sciences
+- humanities
+- discipline
+- research
+- writing
+---
+
+<p class="intro">Learn to tell the difference between primary and secondary sources by becoming a contestant on everybody's favorite new game show, <i>Wheel of Sources</i>!</p>
+
+Telling the difference between primary and secondary sources can be tricky, especially since a source that's primary for one research topic might be secondary for another research topic.
+
+Click on the interactive video below to play *Wheel of Sources*!
+
+<script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
