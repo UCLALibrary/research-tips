@@ -27,4 +27,4 @@ Telling the difference between primary and secondary sources can be tricky, espe
 
 Click on the interactive video below to play *Wheel of Sources*!
 
-<script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2142561" width="1101" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
