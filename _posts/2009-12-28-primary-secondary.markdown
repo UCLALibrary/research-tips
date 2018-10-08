@@ -23,8 +23,8 @@ tags:
 
 <p class="intro">Learn to tell the difference between primary and secondary sources by becoming a contestant on everybody's favorite new game show, <i>Wheel of Sources</i>!</p>
 
-Telling the difference between primary and secondary sources can be tricky, especially since a source that's primary for one research topic might be secondary for another research topic.
+<p class="intro">Telling the difference between primary and secondary sources can be tricky, especially since a source that's primary for one research topic might be secondary for another research topic.</p>
 
-Click on the interactive video below to play *Wheel of Sources*!
+<p class="intro">Click on the interactive video below to play *Wheel of Sources*!</p>
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2142561" width="1101" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
