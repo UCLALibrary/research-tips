@@ -27,8 +27,6 @@ tags:
 
 #### Key Terms
 
-<li><b></b></li>
-
 <ul>
   <li><b>Empirical Study:</b> An empirical study is a type of research that uses empirical evidence, meaing that the research is conducted using direct or indirect observation for its findings. This is in contrast to non-empirical studies, which do not involve direct or indirect observation and analyze pre-existing phenomena or materials for their findings.</li>
   <li><b>Meta-Analysis:</b> A meta-analysis, like a review article, analyzes and evaluates the results of multiple scientific studies.</li>
