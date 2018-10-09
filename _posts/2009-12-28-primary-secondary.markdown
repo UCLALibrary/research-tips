@@ -25,7 +25,7 @@ tags:
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2142561" width="1101" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-#### Key Terms
+#### Key Terms from the Video
 
 <ul class="browser-default activator">
   <li><b>Empirical Study:</b> An empirical study is a type of research that uses empirical evidence, meaing that the research is conducted using direct or indirect observation for its findings. This is in contrast to non-empirical studies, which do not involve direct or indirect observation and analyze pre-existing phenomena or materials for their findings.</li>
