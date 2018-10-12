@@ -25,6 +25,8 @@ tags:
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2142561" width="1101" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+{% include embed-and-share-buttons.html %}
+
 #### Key Terms from the Video
 
 <ul class="browser-default activator">

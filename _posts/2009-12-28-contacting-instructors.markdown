@@ -29,3 +29,4 @@ tags:
 </div>
 
 </div>
+{% include embed-and-share-buttons.html %}

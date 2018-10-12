@@ -14,6 +14,7 @@ category: Finding and Citing Sources
 ### Give it a try:
 
 <p class="flow-text">Visit your favorite database, or <a href="http://www.library.ucla.edu/#databases" target="_blank">www.library.ucla.edu/#databases</a>, and get searching! Use the tips you learned in the video to make sure that your search is neither too broad nor too narrow!</p>
+{% include embed-and-share-buttons.html %}
 
 ### Tips:
 

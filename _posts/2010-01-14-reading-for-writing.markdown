@@ -58,6 +58,8 @@ Here's an example of a section from the style guide before and after being compl
 
 The activity might take about forty-five minutes to an hour to complete, but once you're finished with your guide, you can always come back to it for class assignments and research papers in the future!
 
+{% include embed-and-share-buttons.html %}
+
 #### Example Style Guides
 
 These are examples of exemplary style guides for different disciplines. If you get stuck as you complete your own style guide, feel free use these for inspiration. Check back soon for more examples!

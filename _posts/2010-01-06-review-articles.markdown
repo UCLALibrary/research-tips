@@ -149,6 +149,8 @@ Finding a review article is relatively simple, though it varies slightly dependi
         </div>
     </div>
 </div>
+
+{% include embed-and-share-buttons.html %}
         
         
 <!-- grid approach
