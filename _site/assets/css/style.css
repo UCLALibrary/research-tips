@@ -377,4 +377,8 @@ p.four {border-style: double;}
     text-align: center;
 }
 
+.bg-dark-blue {
+    background-color: #1e4b87;
+    color: white;
+}
 
