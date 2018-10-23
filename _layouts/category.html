@@ -27,8 +27,9 @@ layout: default
           <a href="{{ post.url | prepend: site.baseurl }}">
             Read More
           </a>
-          <a class="rightaction" href="#modal-{{ post.url}}" aria-label="Embed code">
-            <i class="fas fa-code" aria-hidden="true"></i>
+        <!-- removing embed code for now to improve page load time -->  
+        <!-- <a class="rightaction" href="#modal-{{ post.url}}" aria-label="Embed code">
+            <i class="fas fa-code" aria-hidden="true"></i> -->
               <!-- &lt; Embed &gt; -->
           </a>
             <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
@@ -125,6 +126,7 @@ layout: default
 
 
 <!-- Create modal content -->
+<!--
 {% for post in site.categories[page.title] reversed %}
 <div id="modal-{{ post.url}}" class="modal modal-fixed-footer">
     <div class="modal-content">
@@ -154,3 +156,4 @@ layout: default
     </div>
 </div>
 {% endfor %}
+-->
