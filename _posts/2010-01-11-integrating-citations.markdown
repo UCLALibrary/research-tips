@@ -111,6 +111,8 @@ category: Writing with Sources
 
 <p> These are only a few of the ways you can use souces to provide support for your argument. To explore other papers in your field and get even more ideas on how to effectively integrate sources into your writing, try out our <a href="https://uclalibrary.github.io/research-tips/reading-for-writing/" target="_blank">Reading for Writing</a> activity!</p>
 
+{% include embed-and-share-buttons.html %}
+
 ### Heads Up:
 
 <p>How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations, or try our <a href="https://uclalibrary.github.io/research-tips/reading-for-writing/" target="_blank">Reading for Writing</a> activity. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.

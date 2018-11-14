@@ -10,21 +10,26 @@ tags:
 - vpn
 - off-campus access
 - proxy
-# image: featuredimagehere
 ---
 
-<p class="intro">Set up your computer to access library resources from off-campus.</p>
+<p class="intro">Set up your computer to access library resources (such as databases, electronic journals, and e-books) from off-campus.</p>
 
-<p class="flow-text">The Library's online subscription resources (databases, electronic journals, or e-books) can always be accessed from computers and wireless networks on campus. However, to access these resources from off-campus, you will need to set up your computer with either *proxy* or *VPN*. Don't worry, it is easy, and both the library and the staff at Bruin OnLine can help.</p>
+<div class="col m12 l6 hoverable">
+<a class="rightaction" href="{{ '/assets/handouts/vpn.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout">
+<img class="responsive-img materialboxed" src="{{ '/assets/img/content/vpn.png' | prepend: site.baseurl }}" alt="Off-Campus Access to Online Resources" data-caption="Off-Campus Access to Online Resources"> 
+</a>
+</div>
 
 
-### Give it a try:
+#### Want more help?:
 
 Visit <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">http://www.library.ucla.edu/use/computers-computing-services/connect-campus</a> to learn more about getting configured!
 
-### Tips:
+#### Tips:
 <ul class="collapsible" data-collapsible="expandable">
     <li>
       <div class="collapsible-header"><i class="material-icons">stars</i>Be sure to configure your computer for off-campus access before you leave campus!</div>
     </li>
   </ul>
+
+{% include embed-and-share-buttons.html %}

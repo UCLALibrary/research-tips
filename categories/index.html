@@ -33,12 +33,15 @@ title: Research and Writing Tutorials
         </div>
         <div class="card-action">
           <a href="{{ post.url | prepend: site.baseurl }}">
-            Read More
+            View Tutorial
           </a>
-          <a class="rightaction" href="#modal-{{ post.url | slugify }}" aria-label="Embed code">
-            <i class="fas fa-code" aria-hidden="true"></i>
-              <!-- &lt; Embed &gt; -->
-          </a>
+            <!-- page load times with modals were too long for category pages. -->
+            <!-- Original code: <a class="rightaction" href="#modal-{{ post.url | slugify }}" aria-label="Embed code">
+            <i class="fas fa-code" aria-hidden="true"></i> -->
+            <!-- tried linking directly to modal on tutorial page, but it didn't work-->
+            <!-- attempt to link directly to tutorial modal: <a class="rightaction" href="{{ post.url | prepend: site.baseurl }}#modal1" aria-label="Embed code"> -->
+            <!-- taking this out for now to test impact on page load time -->
+            
             <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
             <a class="rightaction" href="https://facebook.com/sharer.php?u={{site.url}}{{ site.baseurl }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" aria-label="Facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
             <!-- ty: https://superdevresources.com/share-buttons-jekyll/ -->
@@ -60,7 +63,8 @@ title: Research and Writing Tutorials
 
 
 <!-- Create modal content -->
-
+<!-- taking this out for now to test improved page load time -->
+<!--
 {% for post in site.posts reversed %}
 <div id="modal-{{ post.url | slugify }}" class="modal modal-fixed-footer">
     <div class="modal-content">
@@ -91,3 +95,4 @@ title: Research and Writing Tutorials
 </div>
 
 {% endfor %}
+-->

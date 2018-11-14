@@ -2,308 +2,386 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WI+RE</title>
-    <description>Quick and practical research and writing strategies, collaboratively designed by students, teachers, and librarians at UCLA.</description>
-    <link>https://uclalibrary.github.io/research-tips/</link>
-    <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 May 2018 12:33:24 -0700</pubDate>
-    <lastBuildDate>Fri, 25 May 2018 12:33:24 -0700</lastBuildDate>
+    <description>WI+RE (Writing Instruction + Research Education) is a UCLA community focused on helping all learners succeed in their writing and research projects.</description>
+    <link>https://uclalibrary.github.io//research-tips/</link>
+    <atom:link href="https://uclalibrary.github.io//research-tips/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Oct 2018 10:19:55 -0700</pubDate>
+    <lastBuildDate>Tue, 23 Oct 2018 10:19:55 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
       <item>
         <title>Reading Strategies</title>
-        <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.&lt;/p&gt;
+        <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. &lt;/p&gt;
+
+&lt;p&gt;Pick one or two of the reading strategies below and try them out on your next reading assignment! Notice the strengths of the reading strategies and in what contexts they works best for you. You can always return here to try out a new reading strategy when your needs change later on!&lt;/p&gt;
 
 &lt;!-- this is a comment, we use comments to write notes that only appear in code --&gt;
 &lt;!-- we also use comment to mark off sections of code to make things easier to read and scan --&gt;
 &lt;!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. --&gt;
 
 &lt;!-- Start Plan Your Reading Session --&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/plan.png&quot; alt=&quot;Coffee Cup&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Plan Your Reading Session
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot;row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                &lt;p&gt;Planning your reading session can improve your reading efficiency by preventing distraction and burnout&lt;/p&gt; &lt;!--experiment with setting at p level --&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Gauge the quantity of reading and the time you have to read it.&lt;/li&gt;
-                &lt;li&gt;Be honest with yourself about how long your attention span is and how interested you are in the text.&lt;/li&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot; height=&quot;100%&quot;&gt;
+                &lt;!--add video embed code here--&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/9mvrn_YbGJw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6&quot;&gt;
+                &lt;h4&gt;Plan Your Reading Session&lt;/h4&gt;
+                &lt;p&gt;Planning your reading session can improve your reading efficiency by preventing distraction and burnout&lt;/p&gt;
+                &lt;ul class=&quot;browser-default activator&quot;&gt;
+                    &lt;li&gt;Gauge the quantity of reading and the time you have to read it.&lt;/li&gt;
+                    &lt;li&gt;Be honest with yourself about how long your attention span is and how interested you are in the text.&lt;/li&gt;
                 &lt;li&gt;Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.&lt;/li&gt;
                 &lt;li&gt;Find a suitable reading environment. You can reserve study rooms here in the &lt;a href=&quot;http://www.library.ucla.edu/clicc/study-rooms&quot; target=&quot;blank&quot;&gt;library&lt;/a&gt; or &lt;a href=&quot;https://reslife.ucla.edu/reserve/&quot; target=&quot;blank&quot;&gt;residential halls&lt;/a&gt;.&lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Plan Your Reading Session profile --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- End Plan Your Reading Session--&gt;
 
-&lt;p&gt;&lt;!-- Start Turn Headings Into Questions --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/questions.png&quot; alt=&quot;Question Mark&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt; &lt;!-- should this be a heading? --&gt;
-                Turn Headings Into Questions
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
+&lt;!-- Turn Headings Into Questions --&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt; &lt;!-- trying to set at div level --&gt;
-                &lt;p&gt;This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? &lt;/li&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot; height=&quot;100%&quot;&gt;
+                &lt;!--add video embed code here--&gt; &lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/X-g8blCCqn0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6&quot;&gt;
+                &lt;h4&gt;Turn Headings Into Questions&lt;/h4&gt;
+               &lt;p&gt;This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.&lt;/p&gt;
+                &lt;ul class=&quot;browser-default activator&quot;&gt;
+                  &lt;li&gt;Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? &lt;/li&gt;
                 &lt;li&gt;As you read and take notes, keep your question in mind. Write down information that answers the question.&lt;/li&gt;
                 &lt;li&gt;In the end, you should be able to summarize the answer to your question.&lt;/li&gt;
                 &lt;li&gt;You may need to revise your question if the content doesn't match up.&lt;/li&gt;
-                &lt;/ul&gt;&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+                &lt;/ul&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Turn Headings Into Questions --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- Turn Headings Into Questions --&gt;
 
-&lt;p&gt;&lt;!-- Start Take Relevant Notes--&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/notes.png&quot; alt=&quot;Paper and Pencil&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Take Relevant Notes
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
+&lt;!-- Start Paraphrase as you read --&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot;&gt;
+                &lt;!--add video embed code here--&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/6hbtedrMpzw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6&quot;&gt;
+                &lt;h4&gt;Paraphrase as You Read&lt;/h4&gt;
+                &lt;p&gt;Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.&lt;/p&gt;
+                &lt;ul class=&quot;browser-default activator&quot;&gt;
+                    &lt;li&gt;Whenever you encounter an important concept, paraphrase it in your notes or outline.&lt;/li&gt;
+                    &lt;li&gt;Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.&lt;/li&gt;
+                    &lt;li&gt;A few words or a sentence will suffice for each summary.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- End Paraphrase as you read --&gt;
+
+&lt;p&gt;&lt;!-- Start Take Relevant Notes --&gt;&lt;/p&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot;&gt;
+                &lt;!--add video embed code here--&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/75KNersZRr0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6&quot;&gt;
+                &lt;h4&gt;Take Relevant Notes&lt;/h4&gt;
                 &lt;p&gt;Taking notes that are tailored to your assignment will save you time and effort.&lt;/p&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”&lt;/li&gt;
+                &lt;ul class=&quot;browser-default activator&quot;&gt;&lt;li&gt;Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”&lt;/li&gt;
                 &lt;li&gt;If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.&lt;/li&gt;
                 &lt;li&gt;If the answer is an essay, look out for useful quotes or themes.&lt;/li&gt;
                 &lt;li&gt;If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.&lt;/li&gt;
                 &lt;li&gt;Structure your notes so that you will be able to access the important information when the time comes to demonstrate your knowledge. &lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Take Relevant Notes --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- End Take Relevant Notes--&gt;
 
-&lt;p&gt;&lt;!-- Start Paraphrase as You Read --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/paraphrase.png&quot; alt=&quot;Thought Bubble&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Paraphrase as You Read
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
+&lt;!-- Make an Annotation Legend --&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                &lt;p&gt;Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.&lt;/p&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Whenever you encounter an important concept, paraphrase it in your notes or outline.&lt;/li&gt;
-                &lt;li&gt;Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.&lt;/li&gt;
-                &lt;li&gt;A few words or a sentence will suffice for each summary.&lt;/li&gt;
-                &lt;/ul&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot;&gt;
+                &lt;!--add video embed code here--&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Yw-24wNozE8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
             &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Paraphrase as You Read  --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- Start Make an Annotation Legend --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/annotation.png&quot; alt=&quot;Legend&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Make an Annotation Legend
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6&quot;&gt;
+                &lt;h4&gt;Make an Annotation Legend&lt;/h4&gt;
                 &lt;p&gt;Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.&lt;/p&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;For example, a star might denote a main idea. Or a square might denote a connection to another text.&lt;/li&gt;
+                 &lt;ul class=&quot;browser-default activator&quot;&gt;&lt;li&gt;For example, a star might denote a main idea. Or a square might denote a connection to another text.&lt;/li&gt;
                 &lt;li&gt;Your key of symbols will vary from text to text, depending on what you are looking for!&lt;/li&gt;
                 &lt;li&gt;Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.&lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Make an Annotation Legend  --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- End Make an Annotation Legend --&gt;
 
-&lt;p&gt;&lt;!-- Start Vary Your Reading Speed--&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/speed.png&quot; alt=&quot;Spedometor&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Vary Your Reading Speed
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-     &lt;div class=&quot;collapsible-body&quot;&gt;
-         &lt;div class=&quot;row&quot;&gt;
-             &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                 &lt;p&gt;Decreasing and increasing your speed as the content of the text changes can help you read efficiently.&lt;/p&gt;
-                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Decrease speed when you encounter unfamiliar ideas, complicated technical material, and content you want to memorize.&lt;/li&gt;
-                 &lt;li&gt;Increase speed when you encounter familiar ideas, redundant examples, irrelevant information, and unnecessary elaborations.&lt;/li&gt;
-                 &lt;li&gt;Use key phrases to identify when to decrease speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.&lt;/li&gt;
+&lt;!-- Read for What You Need--&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot;&gt;
+                &lt;!--add video embed code here--&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RV67lo5hPi4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6 grey lighten-5&quot;&gt;
+                &lt;h4&gt;Vary Your Speed for What You Need&lt;/h4&gt;
+                &lt;p&gt; Figuring out what information you need from a reading is an important first step! It can help you know when to speed up and when to slow down and dive deeper into the reading. &lt;/p&gt;
+                 &lt;ul class=&quot;browser-default activator&quot;&gt;&lt;li&gt;Slow down your reading when you encounter unfamiliar ideas or new information that seems particularly relevant to your class or research context.&lt;/li&gt;
+                 &lt;li&gt;Increase speed when you encounter ideas that you are familiar with or that don’t pertain to your research context or class.&lt;/li&gt;
+                 &lt;li&gt;You can use key phrases to identify when to change your  speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.&lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/div&gt;
-             &lt;div class=&quot;col s12 m5&quot;&gt;
-                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-     &lt;/div&gt;
-     &lt;/li&gt;
-     &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Vary Your Reading Speed --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- New Vocabulary --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/vocabulary.png&quot; alt=&quot;Dictionary&quot; class=&quot;responsive-img&quot; /&gt; 
         &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Prioritize New Vocabulary
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
     &lt;/div&gt;
-     &lt;div class=&quot;collapsible-body&quot;&gt;
-         &lt;div class=&quot;row&quot;&gt;
-             &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                 &lt;p&gt;Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.&lt;/p&gt;
-                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.&lt;/li&gt;
+&lt;/div&gt;
+&lt;!-- Read for What You Need --&gt;
+
+&lt;!-- Prioritize New Vocabulary --&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot;&gt;
+                &lt;!--add video embed code here--&gt;&lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6 grey lighten-5&quot;&gt;
+                &lt;h4&gt;Prioritize New Vocabulary&lt;/h4&gt;
+                &lt;p&gt;Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.&lt;/p&gt;
+                 &lt;ul class=&quot;browser-default activator&quot;&gt;&lt;li&gt;Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.&lt;/li&gt;
                 &lt;li&gt;If you cannot move forward in the text without understanding the meaning of a certain word, look it up now. &lt;/li&gt;
                  &lt;li&gt;If a word is frequently repeated within a text, but you can still understand the text from context clues, it’s probably worth looking up later. Circle it and come back later.&lt;/li&gt;
                  &lt;li&gt;Words that are only used once and don’t crucially impact your understanding of the text don’t need to be addressed right away. Don't let them distract you from the broader meaning of the text.&lt;/li&gt;
                      &lt;li&gt;Develop a system for making your vocabulary easily accessible, like a circle that means &quot;look up later.&quot;&lt;/li&gt;
                  &lt;/ul&gt;
-             &lt;/div&gt;
-             &lt;div class=&quot;col s12 m5&quot;&gt;
-                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-             &lt;/div&gt;
-         &lt;/div&gt;
-     &lt;/div&gt;
-     &lt;/li&gt;
-     &lt;/ul&gt;
-&lt;p&gt;&lt;!-- New Vocabulary --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- Start Identifying Uncertainties --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/uncertainties.png&quot; alt=&quot;Graph with a chunk missing&quot; class=&quot;responsive-img&quot; /&gt; 
+            &lt;/div&gt;
         &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Identify Uncertainties
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
     &lt;/div&gt;
-     &lt;div class=&quot;collapsible-body&quot;&gt;
-         &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                 &lt;p&gt;Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.&lt;/p&gt;
-                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Make note of what you don’t understand… Then try to move on! &lt;/li&gt;
-                 &lt;li&gt;Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.&lt;/li&gt;
+&lt;/div&gt;
+&lt;!-- Prioritize New Vocabulary --&gt;
+
+&lt;!-- Identify Uncertainties --&gt;
+&lt;div class=&quot;card blue grey lighten-5&quot;&gt;
+    &lt;div class=&quot;card-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col s12 m12 l6 push-l6&quot; height=&quot;100%&quot;&gt;
+                &lt;!--add video embed code here--&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/NPgfgo_XY8s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col s12 m12 l6 pull-l6 grey lighten-5&quot;&gt;
+                &lt;h4&gt;Identify Uncertainties&lt;/h4&gt;
+               &lt;p&gt;Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.&lt;/p&gt;
+                 &lt;ul class=&quot;browser-default activator&quot;&gt;
+                    &lt;li&gt;Make note of what you don’t understand… Then try to move on! &lt;/li&gt;
+                    &lt;li&gt;Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.&lt;/li&gt;
                  &lt;li&gt;It’s possible your question gets answered later on in the text! But if not, consider visiting your professor or TA to resolve your questions that you cannot answer using the text.&lt;/li&gt;
                  &lt;/ul&gt;
-             &lt;/div&gt;
-             &lt;div class=&quot;col s12 m5&quot;&gt;
-                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-             &lt;/div&gt;
-         &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Reading Strategies&amp;amp;url=https://uclalibrary.github.io//research-tips/reading-strategies/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/reading-strategies/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
      &lt;/div&gt;
-     &lt;/li&gt;
-     &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Identifying Uncertainties --&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/reading-strategies/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/reading-strategies/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/reading-strategies/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 </description>
         
-          <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.&lt;/p&gt;
+          <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. &lt;/p&gt;
 
 </description>
         
         <pubDate>Sat, 07 Apr 2018 14:15:05 -0700</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/reading-strategies/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/reading-strategies/</guid>
+        <link>https://uclalibrary.github.io//research-tips/reading-strategies/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/reading-strategies/</guid>
+        
+        
+        <category>Getting Started</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Reading for Writing</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;Want to improve your academic writing? Complete this interactive activity to take your writing to the next level.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 m5&quot;&gt;
+        &lt;img class=&quot;responsive-img materialboxed imagestep z-depth-2&quot; src=&quot;/research-tips/assets/img/styleguide.png&quot; alt=&quot;Screenshot of Reading for Writing Style Guide table of contents.&quot; data-caption=&quot;Screenshot of Reading for Writing Style Guide table of contents.&quot; /&gt;  
+    &lt;/div&gt;
+    &lt;div class=&quot;col s12 m7&quot; style=&quot;vertical-align: middle;&quot;&gt;
+    &lt;p class=&quot;intro&quot;&gt;The &lt;i&gt;Reading for Writing&lt;/i&gt; Style Guide is a fill-in-the-blank Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide. &lt;/p&gt;
+    &lt;center&gt;&lt;a class=&quot;waves-effect waves-light btn-large light-blue darken-3&quot; href=&quot;https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing&quot; style=&quot;center; font-family:arial; font-size:100%;&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;material-icons right&quot;&gt;open_in_new&lt;/i&gt;Reading for Writing Style Guide&lt;/a&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h4&gt;
+
+&lt;p&gt;Say you’re a psychology student. First, with the help of your professor or T.A., find one or two examples of well-written psychology papers. (Alternatively, find a highly cited paper on a scholarly database. &lt;a href=&quot;https://uclalibrary.github.io/research-tips/finding-scholarly-articles/&quot; title=&quot;Finding Scholarly Articles&quot;&gt;Not sure how?&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Next, based on the paper(s) you found, go through the style guide and replace the [bracketed text] with your own answers, using the questions on the left hand side to guide you. If a section asks for an example, copy down one or more passages from the paper that demonstrate the kind of writing being discussed.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example of a section from the style guide before and after being completed. (For more examples, see below!)&lt;/p&gt;
+
+&lt;div class=&quot;row z-depth-2&quot;&gt;
+    &lt;div class=&quot;col s12&quot;&gt;
+      &lt;ul class=&quot;tabs&quot;&gt;
+        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a class=&quot;active&quot; a=&quot;&quot; href=&quot;#before&quot;&gt;Before&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a href=&quot;#after&quot;&gt;After&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/div&gt;
+	&lt;div id=&quot;before&quot; class=&quot;col s12&quot;&gt;
+		&lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/R4Wbefore.png&quot; alt=&quot;Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is as brief as possible, literary but still clear, etc. Example. In addition, list some effective verbs they use. Effective verbs: verb. verb.&quot; data-caption=&quot;The language section of the Reading for Writing activity before it has been completed by a student.&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div id=&quot;after&quot; class=&quot;col s12&quot;&gt;
+		&lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/R4Wafter.png&quot; alt=&quot;Language. Is the language as brief as possible, or is there room for literary language? Make sure your language is thorough without being superfluous. Example: Participants were asked to read either an essay or a short story, chosen from a set that was controlled for length, complexity, and interest level. Page 150. In addition, list some effective verbs they use. Effetive verbs: measure, participate, cause, stimulate, hypothesize, compare, test, correlate, support, process.&quot; data-caption=&quot;The language section of the Reading for Writing activity after it has been completed by a student.&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The activity might take about forty-five minutes to an hour to complete, but once you’re finished with your guide, you can always come back to it for class assignments and research papers in the future!&lt;/p&gt;
+
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Reading for Writing&amp;amp;url=https://uclalibrary.github.io//research-tips/reading-for-writing/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/reading-for-writing/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/reading-for-writing/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/reading-for-writing/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/reading-for-writing/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;example-style-guides&quot;&gt;Example Style Guides&lt;/h4&gt;
+
+&lt;p&gt;These are examples of exemplary style guides for different disciplines. If you get stuck as you complete your own style guide, feel free use these for inspiration. Check back soon for more examples!&lt;/p&gt;
+
+&lt;center&gt;&lt;a class=&quot;waves-effect waves-light btn-large light-blue darken-3&quot; href=&quot;https://docs.google.com/document/d/1OdU1Qtk0THR3gMNcOEj7-yZDIzl21omvmUZ3eeaKn48/edit?usp=sharing&quot; style=&quot;center; font-family:arial; font-size:100%;&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;material-icons right&quot;&gt;open_in_new&lt;/i&gt;Style Guide: Psychology&lt;/a&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;collapsible&quot;&gt;
+    &lt;li&gt;
+      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;send&lt;/i&gt;We'd love to see your work! Share your style guide with &lt;a href=&quot;mailto:uclawire@ucla.edu?Subject=Reading%20For%20Writing%20Style%20Guide%20Example&quot; target=&quot;_top&quot;&gt;uclawire@ucla.edu&lt;/a&gt; on Google Docs!&lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;Want to improve your academic writing? Complete this interactive activity to take your writing to the next level.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 14 Jan 2010 00:00:00 -0800</pubDate>
+        <link>https://uclalibrary.github.io//research-tips/reading-for-writing/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/reading-for-writing/</guid>
+        
+        <category>Reading for Writing</category>
+        
+        <category>Style Guide</category>
+        
+        <category>Google doc</category>
+        
+        <category>disciplinary writing</category>
+        
+        <category>subject-specific writing</category>
+        
+        <category>improve</category>
+        
+        <category>writing skills</category>
+        
+        <category>academic journal article</category>
+        
+        <category>reading skills</category>
+        
+        <category>writing strategy</category>
+        
+        <category>writing</category>
+        
+        <category>reading</category>
+        
+        <category>academic writing</category>
+        
+        <category>scholarly article</category>
         
         
         <category>Getting Started</category>
@@ -321,6 +399,49 @@
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
 &lt;p class=&quot;flow-text&quot;&gt;Visit your favorite database, or &lt;a href=&quot;http://www.library.ucla.edu/#databases&quot; target=&quot;_blank&quot;&gt;www.library.ucla.edu/#databases&lt;/a&gt;, and get searching! Use the tips you learned in the video to make sure that your search is neither too broad nor too narrow!&lt;/p&gt;
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Finding Scholarly Articles&amp;amp;url=https://uclalibrary.github.io//research-tips/finding-scholarly-articles/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/finding-scholarly-articles/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/finding-scholarly-articles/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/finding-scholarly-articles/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/finding-scholarly-articles/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
 
@@ -353,8 +474,8 @@
 </description>
         
         <pubDate>Mon, 11 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/finding-scholarly-articles/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/finding-scholarly-articles/</guid>
+        <link>https://uclalibrary.github.io//research-tips/finding-scholarly-articles/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/finding-scholarly-articles/</guid>
         
         
         <category>Finding and Citing Sources</category>
@@ -369,7 +490,7 @@
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col s4&quot;&gt;&lt;img src=&quot;http://i.imgur.com/jhXEWwP.gif&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;col s8 intro&quot; font-size=&quot;1&quot;&gt;Now that you've done your research, it's time to cite your sources. We sampled several academic papers to show you a variety of ways you can integrate your sources into your own writing. Use these strategies to diversify your writing and show your readers how your sources contributed to your work!&lt;/div&gt;
+&lt;div class=&quot;col s8 intro&quot; font-size=&quot;1&quot;&gt;Now that you've done your research, it's time to cite your sources. We sampled several academic papers to show you a variety of ways you can integrate your sources into your own writing. In these examples, we followed the APA style guidelines. Use these strategies to diversify your writing and show your readers how your sources contributed to your work!&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&quot;citation-structures&quot;&gt;Citation Structures:&lt;/h3&gt;
@@ -387,7 +508,6 @@
        &lt;div&gt;&lt;p&gt;  Oftentimes you do not need to directly quote a source to convey its conclusions or arguments – and some disciplines discourage quoting directly! Rather you can paraphrase the main point of a paper in your own words and provide an in-text citation. A benefit of using this strategy is that you can offer support for a claim without using a whole paragraph to introduce and frame a quote. You should make sure that you fully understand the paper's argument and that you are following university citation guidelines before attempting to paraphrase something from a paper. For aditional resources on paraphrasing click &lt;a href=&quot;http://guides.library.ucla.edu/bruin-success/3-11&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
       &lt;/div&gt;
     &lt;/li&gt;
-    
     &lt;li&gt;
     &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
     &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim that is supported by two or more sources&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
@@ -400,7 +520,6 @@
        &lt;div&gt;&lt;p&gt; Sometimes there’s not just one source that perfectly supports your claim, or there are two major publications that deserve credit for providing evidence on a topic. This is a perfect time to use multiple citations. You can cite two, three, or more sources, but remember to cite only the publications that are most prominent so as not to clutter up your paper.&lt;/p&gt;&lt;/div&gt;
       &lt;/div&gt;
     &lt;/li&gt;
-    
     &lt;li&gt;
       &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
       &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim that has been supported in multiple contexts&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
@@ -421,20 +540,19 @@
     &lt;/div&gt;
       &lt;div class=&quot;collapsible-body&quot;&gt;
       &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;The spatial implications of this thinking are manifest in the&lt;/markgreen&gt; &quot;&lt;markyellow&gt;concentric ring model&lt;/markyellow&gt;&quot; &lt;markgreen&gt;of urban expansion and its variants&lt;/markgreen&gt; (&lt;markyellow&gt;Harris and Ullman, 1945&lt;/markyellow&gt;)&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;The spatial implications of this thinking are manifest in the&lt;/markgreen&gt; &quot;&lt;markyellow&gt;concentric ring model&lt;/markyellow&gt;&quot; &lt;markgreen&gt;of urban expansion and its variants&lt;/markgreen&gt; (&lt;markyellow&gt;Harris and Ullman, 1945&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
      &lt;div&gt; &lt;p&gt;While block or even whole-sentence citations are rare in most research papers in the science and social science disciplines, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper.&lt;/p&gt;&lt;/div&gt;
       &lt;/div&gt;
     &lt;/li&gt; 
-    
      &lt;li&gt; 
      &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Use a direct quotation&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-     &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;markgreen&gt;Introduce quote&lt;/markgreen&gt;, &quot;&lt;markyellow&gt;Quotation&lt;/markyellow&gt;.&quot; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;)&lt;/p&gt;&lt;/div&gt;
+     &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;markgreen&gt;Introduce quote&lt;/markgreen&gt;, &quot;&lt;markyellow&gt;Quotation&lt;/markyellow&gt;.&quot; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
      &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
      &lt;/div&gt;
       &lt;div class=&quot;collapsible-body&quot;&gt;
        &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;China’s &lt;/markgreen&gt; &quot;&lt;markyellow&gt;radical&lt;/markyellow&gt;” &lt;markgreen&gt;urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy&lt;/markgreen&gt; (&lt;markyellow&gt;McGranahan et al., 2014&lt;/markyellow&gt;)&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;China’s &lt;/markgreen&gt; &quot;&lt;markyellow&gt;radical&lt;/markyellow&gt;” &lt;markgreen&gt;urbanization has underpinned the country’s economic growth and has been key to the nation’s economic growth strategy&lt;/markgreen&gt; (&lt;markyellow&gt;McGranahan et al., 2014&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
       &lt;div&gt;&lt;p&gt;The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.&lt;/p&gt;&lt;/div&gt;
       &lt;/div&gt;
     &lt;/li&gt;
@@ -442,7 +560,7 @@
 
 &lt;h3 id=&quot;specific-citation-strategies&quot;&gt;Specific Citation Strategies:&lt;/h3&gt;
 
-&lt;p&gt;You can use the structures provided above to cite and support all sorts of claims! Take a look at these examples of how you can use these strategies to help your reader understand the sources and how you are using them.&lt;/p&gt;
+&lt;p&gt;Now that you know some different citation structures, let's look at a few citation &lt;i&gt;strategies&lt;/i&gt;! Cited evidence can serve a wide range of purposes in academic papers. These examples will give you an idea of the different ways that you can use citations in your paper.&lt;/p&gt;
 &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
    &lt;li&gt;
       &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
@@ -455,7 +573,7 @@
     &lt;li&gt;
       &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
       &lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Cite a method&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot; style=&quot;background:white;&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;markgreen&gt;Despite the popularity of the&lt;/markgreen&gt; &lt;markyellow&gt;WUP indicators&lt;/markyellow&gt;, &lt;markgreen&gt;they have been routinely criticized because the methodology relies on local- andcountry-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely diver-gent deﬁnitions of the population, density thresholds, or administrative/political units designated&lt;/markgreen&gt; (&lt;markyellow&gt;Sat-terthwaite, 2007&lt;/markyellow&gt;). &lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot; style=&quot;background:white;&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;markgreen&gt;Despite the popularity of the&lt;/markgreen&gt; &lt;markyellow&gt;WUP indicators&lt;/markyellow&gt;, &lt;markgreen&gt;they have been routinely criticized because the methodology relies on local- and country-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely divergent deﬁnitions of the population, density thresholds, or administrative/political units designated&lt;/markgreen&gt; (&lt;markyellow&gt;Sat-terthwaite, 2007&lt;/markyellow&gt;). &lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
        &lt;div&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
        &lt;/div&gt;
     &lt;/li&gt;  
@@ -468,11 +586,60 @@
       &lt;/li&gt;
     &lt;/ul&gt;
 
-&lt;p&gt; These are only a few of the ways you can use souces to provide support for your argument. Explore other papers in your field to get even more ideas on how to effectively integrate sources into your writing. &lt;/p&gt;
+&lt;p&gt; These are only a few of the ways you can use souces to provide support for your argument. To explore other papers in your field and get even more ideas on how to effectively integrate sources into your writing, try out our &lt;a href=&quot;https://uclalibrary.github.io/research-tips/reading-for-writing/&quot; target=&quot;_blank&quot;&gt;Reading for Writing&lt;/a&gt; activity!&lt;/p&gt;
+
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        &lt;!-- handout button --&gt;
+            
+                &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://uclalibrary.github.io//research-tips/assets/handouts/citation-integration-d3.pdf&quot; target=&quot;_blank&quot; title=&quot;PDF Handout&quot; aria-label=&quot;Handout&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;picture_as_pdf&lt;/i&gt;Handout&lt;/a&gt;
+            
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Integrating Citations&amp;amp;url=https://uclalibrary.github.io//research-tips/integrating-citations/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/integrating-citations/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/integrating-citations/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/integrating-citations/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/integrating-citations/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;heads-up&quot;&gt;Heads Up:&lt;/h3&gt;
 
-&lt;p&gt;How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.
+&lt;p&gt;How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations, or try our &lt;a href=&quot;https://uclalibrary.github.io/research-tips/reading-for-writing/&quot; target=&quot;_blank&quot;&gt;Reading for Writing&lt;/a&gt; activity. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.
 
 &lt;!-- this looks like it is not ready to go yet, but it is super cool! looking forward to future development! --&gt;
 &lt;!--&lt;p&gt;For more information on how to read for writing style, check out our &lt;a href=&quot;/research-tips/checklist&quot;&gt;Reading for Writing Checklist&lt;/a&gt;.&lt;/p&gt;--&gt;
@@ -523,8 +690,8 @@
 </description>
         
         <pubDate>Mon, 11 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/integrating-citations/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/integrating-citations/</guid>
+        <link>https://uclalibrary.github.io//research-tips/integrating-citations/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/integrating-citations/</guid>
         
         
         <category>Writing with Sources</category>
@@ -539,6 +706,49 @@
 
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rx7RYxP6QM0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Expanding Perspectives in Your Search&amp;amp;url=https://uclalibrary.github.io//research-tips/expanding-perspectives/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/expanding-perspectives/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/expanding-perspectives/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/expanding-perspectives/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/expanding-perspectives/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
 
@@ -554,8 +764,8 @@
 </description>
         
         <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/expanding-perspectives/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/expanding-perspectives/</guid>
+        <link>https://uclalibrary.github.io//research-tips/expanding-perspectives/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/expanding-perspectives/</guid>
         
         <category>expanding perspectives</category>
         
@@ -584,6 +794,49 @@
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZDhHkKO3urg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Creating Literature Reviews&amp;amp;url=https://uclalibrary.github.io//research-tips/literature-reviews/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/literature-reviews/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/literature-reviews/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/literature-reviews/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/literature-reviews/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;types-of-literature-reviews&quot;&gt;Types of Literature Reviews&lt;/h3&gt;
 
@@ -609,8 +862,8 @@
 </description>
         
         <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/literature-reviews/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/literature-reviews/</guid>
+        <link>https://uclalibrary.github.io//research-tips/literature-reviews/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/literature-reviews/</guid>
         
         <category>writing a literature review</category>
         
@@ -631,6 +884,49 @@
 
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2fIpRwxH30U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Getting Started with Research at UCLA&amp;amp;url=https://uclalibrary.github.io//research-tips/getting-started/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/getting-started/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/getting-started/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/getting-started/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/getting-started/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
 
@@ -644,8 +940,8 @@
 </description>
         
         <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/getting-started/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/getting-started/</guid>
+        <link>https://uclalibrary.github.io//research-tips/getting-started/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/getting-started/</guid>
         
         <category>Getting started with research</category>
         
@@ -676,6 +972,50 @@
   &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation&quot; width=&quot;800px&quot; height=&quot;600px&quot;&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 
+&lt;!-- begin embed code --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Research Abstracts&amp;amp;url=https://uclalibrary.github.io//research-tips/research-abstracts/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/research-abstracts/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/research-abstracts/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/research-abstracts/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/research-abstracts/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
 &lt;p class=&quot;flow-text&quot;&gt; Draft an abstract for your research project using the tips discussed in the interactive module above. Keep in mind that an effective abstract is clear and concise; it should clearly state your research project's question, methodology/approach, findings, and significance. &lt;/p&gt;
@@ -687,8 +1027,8 @@
 </description>
         
         <pubDate>Sat, 09 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/research-abstracts/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/research-abstracts/</guid>
+        <link>https://uclalibrary.github.io//research-tips/research-abstracts/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/research-abstracts/</guid>
         
         <category>research abstract</category>
         
@@ -957,6 +1297,54 @@ table, th, td {
 &lt;/table&gt;
 &lt;p&gt; &lt;b&gt;Note:&lt;/b&gt; If you've already written your abstract for your research paper, you can use it as a starting basis for your elevator speech. You can think of your elevator speech as a more condensed version of your abstract. Remember, the main purpose of the elevator speech is to engage your listeners so they're interested in learning about the details of your project. &lt;/p&gt;
 
+&lt;!-- begin embed code --&gt;
+
+ &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        &lt;!-- handout button --&gt;
+            
+                &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://uclalibrary.github.io//research-tips/assets/handouts/elevator-speech.pdf&quot; target=&quot;_blank&quot; title=&quot;PDF Handout&quot; aria-label=&quot;Handout&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;picture_as_pdf&lt;/i&gt;Handout&lt;/a&gt;
+            
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Deconstructing the Elevator Speech&amp;amp;url=https://uclalibrary.github.io//research-tips/deconstructing-the-elevator-speech/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/deconstructing-the-elevator-speech/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/deconstructing-the-elevator-speech/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/deconstructing-the-elevator-speech/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/deconstructing-the-elevator-speech/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
@@ -966,8 +1354,8 @@ table, th, td {
 </description>
         
         <pubDate>Fri, 08 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/</guid>
+        <link>https://uclalibrary.github.io//research-tips/deconstructing-the-elevator-speech/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/deconstructing-the-elevator-speech/</guid>
         
         <category>elevator speech</category>
         
@@ -1033,6 +1421,49 @@ table, th, td {
 &lt;center&gt;
   &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/research-tips/embeds/zotero/&quot; width=&quot;95%&quot; height=&quot;600px&quot;&gt;&lt;/iframe&gt;
 &lt;/center&gt;
+&lt;!-- begin embed code --&gt;
+
+ &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12 right-align&quot;&gt;
+        &lt;!-- embed button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;#modal1&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;code&lt;/i&gt;Embed code&lt;/a&gt;
+        
+        
+        
+        &lt;!-- twitter button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://twitter.com/intent/tweet?text=Get Started with Zotero&amp;amp;url=https://uclalibrary.github.io//research-tips/zotero/&amp;amp;via=WIREbruin&amp;amp;related=WIREbruin&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot; aria-label=&quot;Twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;!-- facebook button --&gt;
+            &lt;a class=&quot;waves-effect waves-light btn ucla-color blue&quot; href=&quot;https://facebook.com/sharer.php?u=https://uclalibrary.github.io//research-tips/zotero/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- This is the content of the Modal that pops up --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;modal modal-fixed-footer&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;p&gt;Copy and paste the html code below to embed this strategy into your site:&lt;/p&gt;
+      
+      &lt;div class=&quot;highlighter-rouge&quot;&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+&lt;code&gt;&amp;lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/zotero/&quot; width=&quot;100%&quot; height=&quot;400px&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+    &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;accordion&quot;&gt;
+        &lt;li&gt;
+            &lt;div class=&quot;collapsible-header&quot; style=&quot;border-bottom-style: solid;&quot;&gt;&lt;a href=&quot;https://uclalibrary.github.io//research-tips/embeds/zotero/&quot; target=&quot;preview-frame&quot; style=&quot;display: block;&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;pageview&lt;/i&gt;Preview:
+            &lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;collapsible-body&quot;&gt;
+                &lt;iframe src=&quot;https://uclalibrary.github.io//research-tips/embeds/zotero/&quot; width=&quot;100%&quot; height=&quot;400px&quot; name=&quot;preview-frame&quot; style=&quot;border-style: none;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt; 
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;modal-footer&quot;&gt;
+      &lt;a href=&quot;#!&quot; class=&quot;modal-action modal-close waves-effect waves-green btn-flat &quot;&gt;Got it!&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 &lt;!--
 &lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
     &lt;li&gt;
@@ -1045,8 +1476,7 @@ table, th, td {
   &lt;/ul&gt;
   --&gt;
   
-&lt;h5&gt;Image credits&lt;/h5&gt;
-&lt;em&gt;Raincloud Folder, data folder, Leaf Folder by &lt;a href=&quot;https://thenounproject.com/linseedstudio/&quot; target=&quot;_blank&quot;&gt;Linseed Studio&lt;/a&gt;, and Quote by &lt;a href=&quot;https://thenounproject.com/i/&quot; target=&quot;_blank&quot;&gt;irene hoffman&lt;/a&gt; from the Noun Project&lt;/em&gt;.
+
 &lt;/div&gt;
 </description>
         
@@ -1055,8 +1485,8 @@ table, th, td {
 </description>
         
         <pubDate>Thu, 07 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/zotero/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/zotero/</guid>
+        <link>https://uclalibrary.github.io//research-tips/zotero/</link>
+        <guid isPermaLink="true">https://uclalibrary.github.io//research-tips/zotero/</guid>
         
         <category>zotero</category>
         
@@ -1064,244 +1494,6 @@ table, th, td {
         
         
         <category>Finding and Citing Sources</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Find and Use Review Articles</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
-&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;p&gt;A review article provides an analysis of the state of research on a set of related research questions. Review articles often:&lt;/p&gt;
-
-&lt;ul class=&quot;browser-default&quot;&gt;
-    &lt;li&gt;summarize key research findings;&lt;/li&gt;
-    &lt;li&gt;reference must-read articles;&lt;/li&gt;
-    &lt;li&gt;describe current areas of agreement as well as controversies and debates;&lt;/li&gt;
-    &lt;li&gt;point out gaps in knowledge and unanswered questions;&lt;/li&gt;
-    &lt;li&gt;suggest directions for future research.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/lit-review-article-diagram-1080.png&quot; alt=&quot;Review Article&quot; data-caption=&quot;Review Article&quot; /&gt; 
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. 
-&lt;/p&gt;
-
-&lt;p&gt;Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.&lt;/p&gt;
-
-&lt;h3 id=&quot;heads-up&quot;&gt;Heads Up:&lt;/h3&gt;
-
-&lt;p&gt;Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.&lt;/p&gt;
-
-&lt;p&gt;Also note that for most senior theses in the sciences, the proper place to cite a review article is in the first few paragraphs of your introduction.  By placing references to a review article in your early intro, you give your reader a place to go for more information if they are unfamiliar with your field.&lt;/p&gt;
-
-&lt;p&gt;Be sure to review the writing prompt and check with your instructor to be sure!&lt;/p&gt;
-
-&lt;h3 id=&quot;how-do-i-find-review-articles&quot;&gt;How do I Find Review Articles?&lt;/h3&gt;
-
-&lt;p&gt;Finding a review article is relatively simple, though it varies slightly depending on what database you are using.&lt;/p&gt;
-
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;Web of Science&lt;/h4&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/web-of-science-wastewater-review.png&quot; alt=&quot;Filter your results for review articles.&quot; data-caption=&quot;Under Document Types click the checkbox next to Review and then click Refine.&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-        &lt;p&gt;Start with a search in &lt;strong&gt;&lt;a href=&quot;http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&amp;amp;product=WOS&amp;amp;highlighted_tab=WOS&amp;amp;search_mode=GeneralSearch&quot; target=&quot;_blank&quot;&gt;Web of Science&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-        &lt;p&gt;Then, on the results page, look for the “Document Types” filter on the left side of the page.&lt;/p&gt;
-        &lt;p&gt;Click the checkbox next to &quot;Review&quot; and then click &quot;Refine&quot; to see only the results classified as review articles.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;PubMed&lt;/h4&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png&quot; alt=&quot;Filter your results for review articles in PubMed.&quot; data-caption=&quot;more directions.&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-        &lt;p&gt;After your initial search in &lt;strong&gt;&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&amp;amp;tool=cdl&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/strong&gt;, look for the &quot;Articles Types&quot; filter on the left side of the page.&lt;/p&gt;
-        &lt;p&gt;Click &quot;Customize...&quot; and then click the checkbox next to review article related filters.&lt;/p&gt;
-        &lt;p&gt;Be sure to uncheck other article types if you would like to limit your search to review articles.&lt;/p&gt;
-        &lt;p&gt;Click &quot;Show&quot; to filter your search results.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;UCLA Library Journal Search&lt;/h4&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/journal-search-review.png&quot; alt=&quot;You can search for review journals from the library homepage.&quot; data-caption=&quot;Search for journals that specialize in publishing review articles from the UCLA Library homepage.&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-       &lt;p&gt;From the &lt;a href=&quot;http://library.ucla.edu&quot; target=&quot;_blank&quot;&gt;UCLA Library homepage&lt;/a&gt;, click the &quot;&lt;a href=&quot;http://www.library.ucla.edu/#journals&quot; target=&quot;_blank&quot;&gt;Journals&lt;/a&gt;&quot; tab to search for academic journals that focus on publishing review articles.&lt;/p&gt;
-       &lt;p&gt;Search for your discipline or subject area, and &lt;em&gt;Review&lt;/em&gt; (e.g., &lt;em&gt;Sociology Review&lt;/em&gt; or &lt;em&gt;Psychology Review&lt;/em&gt;).&lt;/p&gt;
-       &lt;p&gt;Be sure to change the drop-down menu to &quot;Contains&quot;&lt;/p&gt;
-       &lt;p&gt;On the results page, browse the list of journals, and then click on a title to visit the journal's website.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;Google Scholar and ArticlesPlus&lt;/h4&gt; 
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/articles-plus-review-article-search.png&quot; alt=&quot;Searching for review articles in ArticlesPlus or Google Scholar by adding review, literature review, and annual review to your search terms.&quot; data-caption=&quot;In Google Scholar and ArticlesPlus add review article related terms to your search.&quot; /&gt;  
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-        &lt;p&gt;In both &lt;a href=&quot;http://scholar.google.com&quot; target=&quot;_blank&quot;&gt;google scholar&lt;/a&gt; and &lt;a href=&quot;http://ucla.summon.serialssolutions.com/#!/&quot; target=&quot;_blank&quot;&gt;ArticlesPlus&lt;/a&gt; you can add &lt;em&gt;review&lt;/em&gt;, &lt;em&gt;&quot;literature review&quot;&lt;/em&gt;, &lt;em&gt;&quot;annual review&quot;&lt;/em&gt; or &lt;em&gt;&quot;review article&quot;&lt;/em&gt; to your search terms.&lt;/p&gt;
-        &lt;p&gt;Be sure to check that your results really are review articles! See our tips below to make sure.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;How do I know if an article is a &lt;em&gt;Review Article&lt;/em&gt; or a &lt;em&gt;Primary Research Article?&lt;/em&gt;&lt;/h3&gt;
-
-&lt;div class=&quot;row z-depth-2&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-      &lt;ul class=&quot;tabs&quot;&gt;
-        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a class=&quot;active&quot; href=&quot;#primary&quot;&gt;Primary Research Articles&lt;/a&gt;&lt;/li&gt;
-        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a href=&quot;#review&quot;&gt;Review Articles&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;primary&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;In primary research articles:&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
-            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
-            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
-            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h6&gt;Example abstract:&lt;/h6&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp;amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;review&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;In review articles:&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
-            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
-            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
-            &lt;/ul&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;h6&gt;Example abstract:&lt;/h6&gt;
-            &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp;amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- grid approach
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col s12 z-depth-2&quot;&gt;
-        &lt;h4&gt;In primary research articles:&lt;/h4&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
-            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
-            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
-            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;h5&gt;Primary research article - example abstract:&lt;/h5&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col m12 l6 z-depth-2&quot;&gt;
-        &lt;h4&gt;In review articles:&lt;/h4&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
-            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
-            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
---&gt;
-
-&lt;!-- this was the table approach
-&lt;table&gt;
-    &lt;tr&gt;
-    &lt;th&gt;&lt;h4&gt;In primary research articles:&lt;/h4&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;h4&gt;In review articles:&lt;/h4&gt;&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-    &lt;td valign=&quot;top&quot;&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
-            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
-            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
-            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/td&gt;
-    &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
-            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
-            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot; &gt;
-        &lt;h5&gt;Primary research article abstract&lt;/h5&gt;
-        &lt;/td&gt;
-        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot; &gt;
-        &lt;h5&gt;Review article abstract&lt;/h5&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
-        &lt;/td&gt;
-        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
---&gt;
-
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
-&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;p&gt;A review article provides an analysis of the state of research on a set of related research questions. Review articles often:&lt;/p&gt;
-
-&lt;/div&gt;&lt;/div&gt;
-</description>
-        
-        <pubDate>Wed, 06 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/review-articles/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/review-articles/</guid>
-        
-        <category>review articles</category>
-        
-        <category>search</category>
-        
-        
-        <category>Literature Reviews</category>
         
       </item>
       

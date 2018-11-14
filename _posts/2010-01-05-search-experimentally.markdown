@@ -26,6 +26,7 @@ tags:
 <p class="flow-text">Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.</p>
 
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/database-filtering-tools.jpg' | prepend: site.baseurl }}" alt="Web of Science search filters" data-caption="Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results."> 
+{% include embed-and-share-buttons.html %}
 
 
 ### Tips:

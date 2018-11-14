@@ -61,6 +61,7 @@ tags:
 <center>
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/embeds/zotero/" width="95%" height="600px"></iframe>
 </center>
+{% include embed-and-share-buttons.html %}
 <!--
 <ul class="collapsible" data-collapsible="expandable">
     <li>
@@ -73,5 +74,4 @@ tags:
   </ul>
   -->
   
-<h5>Image credits</h5>
-<em>Raincloud Folder, data folder, Leaf Folder by <a href="https://thenounproject.com/linseedstudio/" target="_blank">Linseed Studio</a>, and Quote by <a href="https://thenounproject.com/i/" target="_blank">irene hoffman</a> from the Noun Project</em>.
+

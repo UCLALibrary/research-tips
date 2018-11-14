@@ -22,7 +22,7 @@ tags:
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation" width="800px" height="600px"></iframe>
 </center>
 
-
+{% include embed-and-share-buttons.html %}
 
 ### Give it a try:
 

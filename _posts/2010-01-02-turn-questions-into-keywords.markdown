@@ -18,6 +18,7 @@ tags:
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?" data-caption="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> -->
 
 <iframe src="{{ '/embeds/turn-questions-into-keywords/' | prepend: site.baseurl }}" frameborder="0" width="100%" height="379px"></iframe>
+{% include embed-and-share-buttons.html %}
 
 
 
