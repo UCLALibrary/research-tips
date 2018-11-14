@@ -20,10 +20,7 @@ tags:
 </a>
 </div>
 
-
-#### Want more help?:
-
-Visit <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">http://www.library.ucla.edu/use/computers-computing-services/connect-campus</a> to learn more about getting configured!
+Want more help? <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">Click here</a> to learn more about getting configured!
 
 #### Tips:
 <ul class="collapsible" data-collapsible="expandable">
