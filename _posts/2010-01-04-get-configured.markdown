@@ -12,9 +12,9 @@ tags:
 - proxy
 ---
 
-<p class="intro">Set up your computer to access library resources (such as databases, electronic journals, and e-books) from off-campus.</p>
+<p class="intro">Set up your computer to access UCLA Library resources (such as databases, electronic journals, and e-books) from off-campus.</p>
 
-<div class="col m12 l6 hoverable">
+<div class="col m12 hoverable">
 <a class="rightaction" href="{{ '/assets/handouts/vpn.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout">
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/vpn.png' | prepend: site.baseurl }}" alt="Off-Campus Access to Online Resources" data-caption="Off-Campus Access to Online Resources"> 
 </a>
