@@ -29,7 +29,7 @@ tags:
     </div>
     <div class="col s12 m7" style="vertical-align: middle;">
     <p class="intro">The <i>Reading for Writing</i> Style Guide is a fill-in-the-blank Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide. </p>
-    <center><a class="waves-effect waves-light btn-large light-blue darken-3" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/edit?usp=sharing" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide</a></center>
+    <center><a class="waves-effect waves-light btn-large light-blue darken-3" href="https://docs.google.com/document/d/1nnUDkTkahggf6UCJBgMzAgfRkIQDNNgF_TQ88DOTtO4/copy?copyComments=true" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Reading for Writing Style Guide</a></center>
     </div>
 </div>
 
