@@ -11,17 +11,19 @@ tags:
 - time management
 ---
 
-<p class="intro">Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources.</p>
+<p class="intro">Tired of writing your paper the night before it's due? The Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources. Click the button below to get started!</p>
+
+<center><a class="waves-effect waves-light btn-large light-blue darken-3" href="https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/copy?copyComments=true" style="center; font-family:arial; font-size:100%;" target="_blank"><i class="material-icons right">open_in_new</i>Research Paper Planner</a></center>
+
+<br>
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hhv8PIFHvek" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
+
 {% include embed-and-share-buttons.html %}
-
-### Give it a try:
-
-<p class="flow-text"><a href="http://bit.ly/paper-planner" target="_blank">Open up the planner</a> and follow the instructions to make a copy into your Drive: <a href="http://bit.ly/paper-planner" target="_blank">http://bit.ly/paper-planner</a>.
-<p class="flow-text">Input the due date of one of your upcoming assignments and get started!</p>
 
 <!--
 ### Tips
