@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79667939-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-79667939-2');
+    </script>
+  <!-- end GA -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>
+    WI+RE&#39;s Elements Reference - WI+RE
+    
+  </title>
+
+  <meta name="description" content="Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.">
+    
+  <!-- Fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    
+  <!-- CSS -->
+    
+    
+    <link rel="stylesheet" href="/research-tips/assets/vendor/bootstrap/css/bootstrap.min.css">
+    
+    <!-- main css -->
+  <link rel="stylesheet" href="/research-tips/assets/main.css">
+
+<!-- custom stylesheet -->
+    <link rel="stylesheet" href="/research-tips/assets/custom.css">
+<!-- -->
+    
+  <link rel="canonical" href="http://localhost:4000/research-tips/elements/">
+  <link rel="alternate" type="application/rss+xml" title="WI+RE" href="/research-tips/feed.xml">
+
+</head>
+
+
+  <body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="/research-tips/" aria-label="WI+RE homepage">WI+RE</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/research-tips/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/research-tips/about/">About</a>
+        </li>
+        <!-- todo:: dropdown shows up behind masthead in chrome and safari - could not figure out z-index fixes -->
+        <!--
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item"  href="/research-tips/about">About WI+RE</a>
+          <a class="dropdown-item" href="/research-tips/about/creative-team/">The WI+RE Team</a>
+          <a class="dropdown-item" href="/research-tips/sandbox/">WI+RE's Sandbox</a>
+          <a class="dropdown-item" href="/research-tips/about/design-toolkit/">WI+RE's Design Toolkit</a>
+          <a class="dropdown-item" href="/research-tips/wire-way/">The WI+RE Way</a>
+        </div>
+        </li>
+          -->
+        <li class="nav-item">
+          <a class="nav-link" href="/research-tips/workshops">Workshops</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/research-tips/tutorials">Tutorials</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/research-tips/handouts">Handouts</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/research-tips/contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+    <!-- Page Header -->
+
+<header class="masthead" style="background-image: url('/research-tips/assets/images/backgrounds/jans-steps-background.jpg')">
+
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-11 col-xl-12 mx-auto">
+        <div class="page-heading">
+            <div class="masthead-text-box heading-text-box">
+          <h1>WI+RE's Elements Reference</h1>
+          
+            <span class="subheading">Having a massive list of every element of a theme is useful for quick referencing and ideas!</span>
+          
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-md-11 col-xl-10 mx-auto">
+
+      <h1>Content types</h1>
+
+<h2>Handouts</h2>
+
+<p>A printable PDF file.</p>
+
+<h3>Frontmatter</h3>
+...
+
+<h2>Pages</h2>
+
+<h2>Posts</h2>
+
+<h2>Team members</h2>
+
+<h3>Frontmatter</h3>
+
+<pre>
+<code>
+---
+title:  "Name"
+firstname: 
+lastname: 
+start-date:   YYYY-MM-DD 
+end-date:
+bio: >- 
+    A bio paragraph in first person.
+profile: /assets/images/team/...
+features:
+- feature1
+- feature2
+- feature3
+---
+</code>
+</pre>
+
+<h2>Tutorials</h2>
+
+<p>A quick and interactive online activity.</p>
+
+<h3>Frontmatter</h3>
+
+<pre>
+<code>
+---
+title:  "The tutorial title"
+date:   2009-12-28 
+description: >- 
+    This is a 1-2 sentence description of the tutorial.
+background: /assets/images/...
+thumbnail: # do we need this if we have background? Or are they two things?
+handout: the-name-of-the-handout-file
+category: Getting Started
+tags:
+- tag1
+- tag2
+- tag3
+---
+</code>
+</pre>
+
+## Workshops
+
+A series of related activities with integrated assessment and opportunities reflection.
+
+<header class="major">
+    <h1>Elements Reference</h1> </header>
+<!-- Text stuff -->
+    <h2>Text</h2>
+    <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>. This is <sup>superscript</sup> text and this is <sub>subscript</sub> text. This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, this is a <a href="#">link</a>.</p>
+    <hr />
+    <h2>Heading Level 2</h2>
+    <h3>Heading Level 3</h3>
+    <h4>Heading Level 4</h4>
+    <h5>Heading Level 5</h5>
+    <h6>Heading Level 6</h6>
+    <hr />
+    <header>
+        <h2>Heading with a Subtitle</h2>
+        <p>Subtitle text is italicized</p>
+    </header>
+    <p>This is the text that goes under the heading and the subtitle, most commonly referred to as: the paragraph. Paragraphs vary in length but in school we're taught to make them at least 7 sentences or else we risk getting a C. Since the paragraph didn't have a thesis or a closing argument, it's probably a C grade paragraph.</p>
+    <header>
+        <h3>Heading with a Subtitle</h3>
+        <p>This is the subtitle</p>
+    </header>
+    <p>This is the text that goes under the heading and the subtitle, most commonly referred to as: the paragraph. Paragraphs vary in length but in school we're taught to make them at least 7 sentences or else we risk getting a C. Since the paragraph didn't have a thesis or a closing argument, it's probably a C grade paragraph.</p>
+    <header>
+        <h4>Heading with a Subtitle</h4>
+        <p>Here is the subtitle again</p>
+    </header>
+    <p>This is the text that goes under the heading and the subtitle, most commonly referred to as: the paragraph. Paragraphs vary in length but in school we're taught to make them at least 7 sentences or else we risk getting a C. Since the paragraph didn't have a thesis or a closing argument, it's probably a C grade paragraph.</p>
+    <hr />
+<!-- Icons -->
+    <h2>Icons</h2>
+    <h3>Font Awesome</h3>
+    <p>Accessibility and font awesome icons: https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility</p>
+    <blockquote>If your icons are purely decorative, you’ll need to manually add an aria-hidden attribute to each of your icons so they’re accessible.</blockquote>
+    <pre>
+        <code>
+            &lt;i class=&quot;fas fa-camera-retro&quot; aria-hidden&gt;&lt;/i&gt;
+        </code>
+    </pre>
+    <blockquote>If your icons have semantic meaning, you’ll need to manually add a few things so that your icon is appropriately accessible: aria-hidden attribute + Provide a text alternative inside a <code>span</code> (or similar) element. Also include appropriate CSS to visually hide the element while keeping it accessible to assisitive technologies +
+    title attribute on the icon to provide a tooltip for sighted mouse users. </blockquote>
+    <pre>
+        <code>
+            &lt;i aria-hidden class=&quot;fas fa-car&quot; title=&quot;Time to destination by car&quot;&gt;&lt;/i&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Time to destination by car:&lt;/span&gt;
+            &lt;span&gt;4 minutes&lt;/span&gt;
+        </code>
+    </pre>
+    <p><i class="fab fa-accessible-icon"></i></p> 
+    <p><i class="fas fa-universal-access"></i></p>
+    <p><i class="fab fa-creative-commons"></i></p>
+    <p><i class="fas fa-box-open"></i></p>
+    <p><i class="fas fa-microscope"></i></p>
+    <p><i class="fas fa-book"></i></p>
+    
+<!-- Definition List --> 
+    <h3>Definition</h3>
+    <dl> <dt>Item 1</dt>
+        <dd>
+            <p>For item number one we have a brand new set of sample text that is purely meant to help you visualize what a completed website might look like. Definitely replace this!</p>
+        </dd> <dt>Item 2</dt>
+        <dd>
+            <p>For item number one we have a brand new set of sample text that is purely meant to help you visualize what a completed website might look like. Definitely replace this!</p>
+        </dd> <dt>Item 3</dt>
+        <dd>
+            <p>For item number one we have a brand new set of sample text that is purely meant to help you visualize what a completed website might look like. Definitely replace this!</p>
+        </dd>
+    </dl>
+    
+
+    <hr />
+<!-- Blockquote -->
+<h2>Blockquote</h2>
+<blockquote>Here is where you would generally insert a life-changing, Instagram worthy quote that will make all your friends jealous of your smartness.</blockquote>
+<hr />
+<!-- Table -->
+<h2>Table</h2>
+<h3>Default</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Item 1</td>
+                <td>This item costs money.</td>
+                <td>29.99</td>
+            </tr>
+            <tr>
+                <td>Item 2</td>
+                <td>And this one is not free either.</td>
+                <td>19.99</td>
+            </tr>
+            <tr>
+                <td>Item 3</td>
+                <td>Here we have another item.</td>
+                <td>29.99</td>
+            </tr>
+            <tr>
+                <td>Item 4</td>
+                <td>More items and stuff.</td>
+                <td>19.99</td>
+            </tr>
+            <tr>
+                <td>Item 5</td>
+                <td>The last item and stuff.</td>
+                <td>29.99</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2"></td>
+                <td>100.00</td>
+            </tr>
+        </tfoot>
+    </table>
+
+
+<!-- Tips -->
+
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
+  Tooltip on top
+</button>
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
+  Tooltip on right
+</button>
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">
+  Tooltip on bottom
+</button>
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="left" title="Tooltip on left">
+  Tooltip on left
+</button>
+
+
+<!-- Buttons -->
+
+
+<!-- Form -->
+
+
+<!-- Image -->
+
+
+<!-- Box -->
+
+
+<!-- Preformatted Code -->
+<h2>Preformatted</h2> <pre><code>i = 0;
+
+	while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+	}
+
+	print 'It took ' + i + ' iterations to sort the deck.';
+	</code></pre>
+
+
+    </div>
+  </div>
+</div>
+
+
+    <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          <li class="list-inline-item">
+            <a href="https://www.twitter.com/WIREbruin" aria-label="WI+RE Twitter account">
+              <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+          </li>
+          
+          
+          <li class="list-inline-item">
+            <a href="https://www.facebook.com/WIREbruin" aria-label="WI+RE Facebook account">
+                <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+          </li>
+          
+          
+          <li class="list-inline-item">
+            <a href="https://github.com/uclalibrary/research-tips" aria-label="WI+RE Github repository">
+              <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="copyright text-muted">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/" target="_blank"  aria-label="Creative Commons Attribution-NonCommercial-ShareAlike"><i class="fab fa-creative-commons  fa-3x"></i><i class="fab fa-creative-commons-by fa-3x"></i><i class="fab fa-creative-commons-nc fa-3x"></i><i class="fab fa-creative-commons-share fa-3x"></i></a><br>
+            All content on this site is Creative Commons Attribution-NonCommercial-ShareAlike by  The WI+RE Team 2019</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    <script src="/research-tips/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/research-tips/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/research-tips/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js"></script>
+
+<script src="/research-tips/assets/scripts.js"></script>
+
+
+
+
+  </body>
+
+</html>

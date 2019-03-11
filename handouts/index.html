@@ -1,43 +1,50 @@
 ---
-layout: default
-title: Research and Writing Handouts
+layout: page
+title: Handouts
+permalink: /handouts/
+background: 
 ---
-<h3>Research and Writing Handouts</h3>
+{% assign groups = site.handouts | group_by: "category" | sort: "date" %}
 
-<p>Whether you are just beginning to brainstorm or you are ready to share your research, there are handouts to help you at every stage of your writing process. Search for your particular need or explore our broader categories to get help with your research and writing.</p>
-
-
-<!-- a list of categories -->
-
-<div>Categories:
-{% for category in site.categories %}
-   <div class="chip"><a href="#{{ category | first }}">{{ category | first }}</a></div>
-{% endfor %}
-</div>
+{% for group in groups %}
+    <div class="card mt-5">
+        <div class="card-header pt-4">
+            <h2>{{ group.name }}</h2>
+        </div>
+        <div class="card-body">
+            <ul class="list-unstyled">
+            {% for handout in group.items %}
+                <li class="media mt-2">
+                    <a href="{{ handout.handout-url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                        {% if handout.thumbnail %}
+                            <img src="{{ handout.thumbnail | absolute_url }}" class="mr-3 img-fluid img-thumbnail d-none d-md-block" style="max-width: 100%;" alt="Handout icon">
+                        {% else %}
+                            <i class="fas fa-file-pdf fa-5x" aria-label="Handout PDF"></i>
+                        {% endif %}
+                    </a>
+                    <div class="media-body">
+                        <h3 class="mt-0 mb-1"><a href="{{ handout.url | relative_url | replace: '//', '/' }}">{{ handout.title }}</a></h3>
+                            <p class="post-subtitle text-justify">
+                                {% if handout.description %}
+                                    {{ handout.description }}
+                                {% else %}
+                                    {{ handout.excerpt | strip_html | truncatewords: 30 }}
+                                {% endif %}
+                            </p>
+                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                            <a href="{{ handout.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">More information</a>
+                            <a href="{{ handout.handout-url | relative_url | replace: '//', '/' }}" class="btn btn-primary">PDF</a>
+                        </div>
+                    </div>
+                </li>
+                <hr>
+            {%endfor%}
+            </ul>
+        </div>
+    </div>
+{%endfor%}
 
 <hr>
 
-<!-- cards by category -->
-{% for category in site.categories %}
-    <h3 class="category-title"><a id="{{ category | first }}"></a><a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" </a></h3>  
-        {% for posts in category %}
-            <div class="row"> 
-                {% for post in posts reversed %}
-                    {% if post.handout %} 
-                        <div class="col s12 m4">
-                            <div class="card">
-                                <div class="card-image">
-                                    <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="{{ post.title | append: " Handout" }}" aria-label="{{ post.title | append: " Handout" }}">
-                                        <img src="{{ site.url }}{{ site.baseurl }}{{ post.handout-thumbail }}" alt="{{ post.title | append: " Handout" }}" width="100%"></img></a>
-                                </div>
-                                <div>
-                                    <center><span class="card-title"><a href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank">{{ post.title }}</a></span></center>
-                                </div>
-                            </div>
-                        </div>
-                    {% endif %}
-            {% endfor %}
-            </div> 
-        {% endfor %}
-{% endfor %}
 
+{% include pager.html %}
