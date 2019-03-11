@@ -61,9 +61,9 @@ layout: default
                         <div class="carousel-inner">
                           {% for feature in page.features %}
                                 <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
-                                    <img src="{{ feature.feature-img | absolute_url }}" class="d-block w-100" style="object-fit: cover;" alt="{{ feature.feature-title }}">
+                                    <img src="{{ feature.feature-img | relative_url }}" class="d-block w-100" style="object-fit: cover;" alt="{{ feature.feature-title }}">
                                     <div class="carousel-caption">
-                                      <h5 class="text-white"><a href="{{ feature.feature-url | absolute_url }}" class="text-white">{{ feature.feature-title }}</a></h5>
+                                      <h5 class="text-white"><a href="{{ feature.feature-url | relative_url }}" class="text-white">{{ feature.feature-title }}</a></h5>
                                       <p>{{ feature.feature-note }}</p>
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@ layout: default
                             <ul>
                                 {% for workshop in site.workshops %}
                                     {% if workshop.authors contains page.title %}
-                                    <li><a href="{{ workshop.url | absolute_url}}">{{ workshop.title }}</a></li>
+                                    <li><a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a></li>
                                     {% endif %}
                                 {% endfor %}
                             </ul>
@@ -111,7 +111,7 @@ layout: default
                         <ul>
                             {% for tutorial in site.tutorials %}
                                 {% if tutorial.authors contains page.title %}
-                                <li><a href="{{ tutorial.url | absolute_url}}">{{ tutorial.title }}</a></li>
+                                <li><a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -124,7 +124,7 @@ layout: default
                         <ul>
                             {% for handout in site.handouts %}
                                 {% if handout.authors contains page.title %}
-                                <li><a href="{{ handout.url | absolute_url}}">{{ handout.title }}</a></li>
+                                <li><a href="{{ handout.url | relative_url}}">{{ handout.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -137,7 +137,7 @@ layout: default
                         <ul>
                             {% for post in site.posts %}
                                 {% if post.authors contains page.title %}
-                                <li><a href="{{ post.url | absolute_url}}">{{ post.title }}</a></li>
+                                <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -153,10 +153,10 @@ layout: default
             {% if workshop-contributor-list contains page.title or tutorial-contributor-list contains page.title or handout-contributor-list contains page.title or sandbox-contributor-list contains page.title %}
                 <h3 class="mt-5">My Contributions</h3>
                 <p><small>I also contributed to: 
-                    {% for workshop in site.workshops %}{% if workshop.contributors contains page.title %}<a href="{{ workshop.url | absolute_url}}">{{ workshop.title }}</a> | {% endif %}{% endfor%}
-                    {% for tutorial in site.tutorials %}{% if tutorial.contributors contains page.title %}<a href="{{ tutorial.url | absolute_url}}">{{ tutorial.title }}</a> | {% endif %}{% endfor%}
-                    {% for handout in site.handouts %}{% if handout.contributors contains page.title %}<a href="{{ handout.url | absolute_url}}">{{ handout.title }}</a> | {% endif %}{% endfor%}
-                    {% for post in site.posts %}{% if post.contributors contains page.title %}<a href="{{ post.url | absolute_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
+                    {% for workshop in site.workshops %}{% if workshop.contributors contains page.title %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a> | {% endif %}{% endfor%}
+                    {% for tutorial in site.tutorials %}{% if tutorial.contributors contains page.title %}<a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a> | {% endif %}{% endfor%}
+                    {% for handout in site.handouts %}{% if handout.contributors contains page.title %}<a href="{{ handout.url | relative_url}}">{{ handout.title }}</a> | {% endif %}{% endfor%}
+                    {% for post in site.posts %}{% if post.contributors contains page.title %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
                     </small>
                 </p>
             {% endif %}

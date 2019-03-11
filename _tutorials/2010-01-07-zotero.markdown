@@ -98,7 +98,7 @@ tags:
 -->
 
 <div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="{{ '/embeds/zotero/' | absolute_url }}"></iframe>
+  <iframe class="embed-responsive-item" src="{{ '/embeds/zotero/' | relative_url }}"></iframe>
 </div>
 
 <!-- include embed-and-share-buttons.html ? -->

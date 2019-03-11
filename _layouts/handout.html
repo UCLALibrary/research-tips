@@ -5,11 +5,11 @@ layout: post
 
 <div class="col-md-12">
             <div class="card">
-                <a href="{{ page.handout-url  | absolute_url }}"><img src="{{ page.thumbnail | absolute_url }}" class="card-img-top" alt="{{ handout.title }}: {{ page.description }}"></a>
+                <a href="{{ page.handout-url  | relative_url }}"><img src="{{ page.thumbnail | relative_url }}" class="card-img-top" alt="{{ handout.title }}: {{ page.description }}"></a>
               <div class="card-body">
                   <h5 class="card-title">{{ page.title }}</h5>
                 <p class="card-text">{{ page.description }}</p>
-                <a href="{{ handout.handout-url  | absolute_url }}" class="btn btn-primary">PDF</a>
+                <a href="{{ handout.handout-url  | relative_url }}" class="btn btn-primary">PDF</a>
               </div>
             </div>
 </div>

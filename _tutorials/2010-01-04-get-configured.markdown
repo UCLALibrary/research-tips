@@ -21,7 +21,7 @@ tags:
            
 <div class="col-sm">
 <a href="{{ '/assets/handouts/vpn.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout">
-<img class="img-fluid" src="{{ '/assets/images/Getting_Configured.png' | absolute_url }}" alt="Off Campus Access to Online Resources" data-caption="Off-Campus Access to Online Resources"> 
+<img class="img-fluid" src="{{ '/assets/images/Getting_Configured.png' | relative_url }}" alt="Off Campus Access to Online Resources" data-caption="Off-Campus Access to Online Resources"> 
 </a>
 </div>
 

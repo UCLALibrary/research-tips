@@ -20,9 +20,9 @@ background:
                 <li class="media mt-2">
                         <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
                             {% if tutorial.thumbnail %}
-                                <img src="{{ tutorial.thumbnail | absolute_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
+                                <img src="{{ tutorial.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
                             {% else %}
-                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | absolute_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Tutorial icon">
+                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Tutorial icon">
                             {% endif %}
                         </a>
                     <div class="media-body">

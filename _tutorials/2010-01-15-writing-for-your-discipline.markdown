@@ -43,7 +43,7 @@ tags:
   <div class="card-body">
     <div class="row">
         <div class="col col-sm-12 col-md-5">
-        <a href="https://docs.google.com/document/d/1Mg1rUtDZHHTbVoZsMxM-jjf6HAcm92Omkz4A5Rnulv0/copy?copyComments=true" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/WritingForYourDiscipline.png' | absolute_url }}"   alt="Screenshot of Writing for Your Discipline style guide." data-caption="Screenshot of Writing for Your Discipline style guide."></a>  
+        <a href="https://docs.google.com/document/d/1Mg1rUtDZHHTbVoZsMxM-jjf6HAcm92Omkz4A5Rnulv0/copy?copyComments=true" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/WritingForYourDiscipline.png' | relative_url }}"   alt="Screenshot of Writing for Your Discipline style guide." data-caption="Screenshot of Writing for Your Discipline style guide."></a>  
         </div>
         <div class="col col-sm-12 col-md-7">
             <p class="card-text">The <i>Writing for Your Discipline</i> Style Guide is a fillable Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide.</p>

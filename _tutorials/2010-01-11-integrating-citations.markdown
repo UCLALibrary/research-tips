@@ -22,7 +22,7 @@ materialize: yes
 <p class="intro" font-size="1">Looking to vary the ways in which you cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!</p>
 
 <div class="row">
-<div class="col s4"><img src="{{ 'assets/images/integrating-citations-gif.gif' | absolute_url }}" width="100%" frameborder="0" alt="Animation of multiple documents being integrated into a text as citations"></div>
+<div class="col s4"><img src="{{ 'assets/images/integrating-citations-gif.gif' | relative_url }}" width="100%" frameborder="0" alt="Animation of multiple documents being integrated into a text as citations"></div>
 <div class="col s8 intro" font-size="1">Now that you've done your research, it's time to cite your sources. We sampled several academic papers to show you a variety of ways you can integrate your sources into your own writing. In these examples, we followed the APA style guidelines. Use these strategies to diversify your writing and show your readers how your sources contributed to your work!</div>
 </div>
 

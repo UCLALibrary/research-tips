@@ -33,7 +33,7 @@ tags:
 <!-- todo:: new version of elevator speech animation - accessibility review + responsive -->
 
 <div>
-<iframe class="embedbox" src="{{ '/assets/animation/elevator-speech.html' | absolute_url }}" width="100%" height="400px"></iframe>
+<iframe class="embedbox" src="{{ '/assets/animation/elevator-speech.html' | relative_url }}" width="100%" height="400px"></iframe>
 </div>
 
 <!-- Elevator speech examples in tabs -->

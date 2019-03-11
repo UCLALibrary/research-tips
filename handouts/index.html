@@ -17,7 +17,7 @@ background:
                 <li class="media mt-2">
                     <a href="{{ handout.handout-url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
                         {% if handout.thumbnail %}
-                            <img src="{{ handout.thumbnail | absolute_url }}" class="mr-3 img-fluid img-thumbnail d-none d-md-block" style="max-width: 100%;" alt="Handout icon">
+                            <img src="{{ handout.thumbnail | relative_url }}" class="mr-3 img-fluid img-thumbnail d-none d-md-block" style="max-width: 100%;" alt="Handout icon">
                         {% else %}
                             <i class="fas fa-file-pdf fa-5x" aria-label="Handout PDF"></i>
                         {% endif %}
