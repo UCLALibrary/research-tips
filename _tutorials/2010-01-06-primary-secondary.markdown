@@ -9,6 +9,7 @@ contributors:
     - Miki Goral
     - Robert Gore
     - Janine Henri
+    - Callie Holmes
     - Diana King
     - Simon Lee
     - Henri Lim
