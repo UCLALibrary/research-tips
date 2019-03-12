@@ -7,6 +7,10 @@ authors:
 contributors: 
     - UCLA Powell Library
     - Emily Appleton
+    - Kelly Miller
+    - Undergraduate Research Center - Humanities, Arts, and Social Sciences
+awards:
+    - arlies2016-how-to
 description: Before you search, start by brainstorming a list of questions.
 thumbnail: /assets/tutorials/thumbnails/StartWithYourQuestionsThumbnail.jpg
 handout: /assets/handouts/questions.pdf
