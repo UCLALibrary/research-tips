@@ -37,7 +37,7 @@ At the same time, we were inspired by discussions with frequent WI+RE contributo
 </figure>
 </div>
 
-All of our projects involve extensive collaboration across the campus, and we wanted to make sure the new website clearly shared and celebrated these essential contributions. The result was a new "About" box that appears on each tutorial, workshop, and handout page. The about box lists the leads for projects, celebrates community contributors, and showcases awards and special recognitions.
+All of our projects involve extensive collaboration across the campus, and we wanted to make sure the new website clearly shared and celebrated these essential contributions. The result is a new "About" box that appears on each tutorial, workshop, and handout page. The about box lists the leads for projects, celebrates community contributors, and showcases awards and special recognitions.
 
 <h3 class="mt-3">Behind the scenes updates</h3>
 
