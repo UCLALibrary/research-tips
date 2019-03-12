@@ -307,3 +307,16 @@ header.masthead .post-heading .meta { font-size: 16px; font-weight: 300; font-st
     transform: rotate(-0.5deg);
 }
 
+
+/* Blockquote improvements */
+
+.blockquote {
+  color: #347bad;
+    
+}
+
+.blockquote-footer {
+  font-size: 70%;
+  color: #347bad;
+}
+
