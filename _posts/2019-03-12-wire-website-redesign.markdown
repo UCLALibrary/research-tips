@@ -52,7 +52,7 @@ More making! We're currently working on workshops about literature reviews and a
 
 <h3 class="mt-3">Thank you's!</h3>
 
-There are so many people to thank! First up, a big shout-out to the WI+RE team for their work on this site redesign! This update has been months in the making and has involved both  fun design work and some seriouis coding as well! Just about all current and former members of WI+RE were involved in some way and our current team members (Kian, Taylor, Juan, and April) did extensive reworking of our html, markdown, and media files to get the site up and running. Thank you!
+There are so many people to thank! First up, a big shout-out to the WI+RE team for their work on this site redesign! This update has been months in the making and has involved both  fun design work and some serious coding as well! Just about all current and former members of WI+RE were involved in some way and our current team members (Kian, Taylor, Juan, and April) did extensive reworking of our html, markdown, and media files to get the site up and running. Thank you!
 
 As mentioned, Marisa Méndez-Brady and Renee Romero gave us some very important feedback on community engagement that helped shape multiple areas of the site which led to significant improvements in how we provide attribution and celebrate community engagement. And Tinuola Awopetu's CSS magic saved the day on multiple occaisions. Thank you!
 
