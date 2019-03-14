@@ -5,8 +5,8 @@ authors:
     - Caitlin 
     - Shannon
 contributors: 
-    - Undergraduate Research Center: Sciences
-    - Undergraduate Research Center: Humanities and Social Sciences
+    - Undergraduate Research Center - Sciences
+    - Undergraduate Research Center - Humanities and Social Sciences
     - Undergraduate Writing Center
 notes: ""
 description: "Review articles give you an efficient way to get an overview of a body of research on your topic."

@@ -28,7 +28,7 @@ As we got started prototyping the website redesign, the WI+RE team was also work
 
 So, we started tinkering with the idea of portfolio-like profile pages for the Creative Team. This tied in nicely with the idea of intergrating our experimental sandbox directly into the site redesign - allowing WI+RE to share both published work and the behind-the-scenes prototyping and design that guides our process. This dual focus on showcasing finished work and relfecting on the process was the spark for building out our <a href="{{ '/about/creative-team' | relative_url }}" target="_blank">new portfolio pages </a> and WI+RE's <a href="{{ '/sandbox' | relative_url }}" target="_blank">Sandbox</a>.
 
-At the same time, we were inspired by discussions with frequent WI+RE contributors Marisa Méndez-Brady and Renee Romero to think about how the new site could celebrate the many contributions of our community members to each project. 
+At the same time, we were inspired by discussions with academic librarian, instructional designer, and WI+RE contributor Marisa Méndez-Brady and WI+RE co-founder Renee Romero to think about how the new site could celebrate the many contributions of our community members to each project. 
 
 <div class="col-12 col-sm-12 col-md-6 col-xl-4 float-right">
 <figure class="figure border border-primary shadow">
@@ -37,7 +37,7 @@ At the same time, we were inspired by discussions with frequent WI+RE contributo
 </figure>
 </div>
 
-All of our projects involve extensive collaboration across the campus, and we wanted to make sure the new website clearly shared and celebrated these essential contributions. The result is a new "About" box that appears on each tutorial, workshop, and handout page. The about box lists the leads for projects, celebrates community contributors, and showcases awards and special recognitions.
+All of our projects involve extensive collaboration across the campus, and we wanted to make sure the new website clearly shared and celebrated these essential contributions. The result is a new "About" box that appears on each tutorial, workshop, and handout page. The about box lists the leads for projects, celebrates community contributors, and showcases awards and special recognition.
 
 <h3 class="mt-3">Behind the scenes updates</h3>
 

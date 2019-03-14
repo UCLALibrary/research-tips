@@ -9,7 +9,7 @@ contributors:
     - Whitney Arnold
     - Leigh Harris
     - Simon Lee
-    - Marisa Mendez-Brady
+    - Marisa Méndez-Brady
     - Renee
     - Doug Worsham
 notes: ""

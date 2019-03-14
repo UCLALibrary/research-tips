@@ -8,6 +8,34 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: monthly
 ---
+<h1>testing</h1>
+
+<!-- collect authors -->
+{% assign tutorial-auth = site.tutorials | map: 'authors' | uniq %}
+{% assign workshop-auth = site.workshops | map: 'authors' | uniq  %}
+{% assign handout-auth = site.handouts | map: 'authors' | uniq %}
+{% assign post-auth = site.posts | map: 'authors' | uniq %}
+
+{% assign all-auth = tutorial-auth | concat: workshop-auth | concat: handout-auth | concat: post-auth | uniq | compact %}
+
+{%  assign all-auth-sort = all-auth | sort %}
+
+<p>site authors: {{ all-auth-sort | join: ', ' }} </p>
+
+<!-- collect contributors -->
+{% assign tutorial-contrib = site.tutorials | map: 'contributors' | uniq %}
+{% assign workshop-contrib = site.workshops | map: 'contributors' | uniq  %}
+{% assign handout-contrib = site.handouts | map: 'contributors' | uniq %}
+{% assign post-contrib = site.posts | map: 'contributors' | uniq %}
+
+{% assign all-contrib = tutorial-contrib | concat: workshop-contrib | concat: handout-contrib | uniq | compact %}
+
+{%  assign all-contrib-sort = all-contrib | sort %}
+
+<p>site contributors: {{ all-contrib-sort | join: ', ' }} </p>
+
+
+<hr>
 <h1>Content types</h1>
 
 <h2>Handouts</h2>
@@ -233,3 +261,5 @@ A series of related activities with integrated assessment and opportunities refl
 
 	print 'It took ' + i + ' iterations to sort the deck.';
 	</code></pre>
+
+
