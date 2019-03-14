@@ -5,7 +5,7 @@ authors:
     - Shannon
     - Taylor
     - Kian
-    - Jeannie
+    - Jeannie Chen
 contributors:
     - Whitney Arnold
     - Joanna Chen Cham
@@ -14,7 +14,7 @@ contributors:
     - Leigh Harris
     - Kelly Kistner
     - Simon Lee
-    - Nisha Moody
+    - Nisha Mody
     - Renee
     - Annelie Rugg
     - Doug

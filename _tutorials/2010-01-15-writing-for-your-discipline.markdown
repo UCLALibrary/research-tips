@@ -11,7 +11,7 @@ contributors:
     - Leigh Harris
     - Nisha Mody
     - Doug
-    - Undergraduate Writing Center
+    - UCLA Undergraduate Writing Center
 description: Want to improve your academic writing? Complete this interactive activity to take your writing to the next level.
 thumbnail: /assets/tutorials/thumbnails/WritingForYourDisciplineThumbnail.jpg
 category: Getting Started

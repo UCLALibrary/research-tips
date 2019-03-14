@@ -5,7 +5,7 @@ authors:
     - Caitlin
     - Shannon
     - Taylor
-    - Shushanik
+    - Shushanik Stepanyan
     - Kian
 contributors:
     - Simon Lee

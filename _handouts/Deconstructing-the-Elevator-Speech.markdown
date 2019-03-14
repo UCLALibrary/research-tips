@@ -2,11 +2,11 @@
 title:  "Deconstructing the Elevator Speech"
 date:   2019-02-25
 authors: 
-    - Mary
+    - Mary Tran
 contributors: 
-    - Taylor Harper
-    - Caitlin Meyer
-    - Doug Worsham
+    - Taylor
+    - Caitlin
+    - Doug
 notes: ""
 description: "An elevator speech is a great way to introduce yourself and your research to a wide range of audiences."
 handout-url: /assets/handouts/elevator-speech.pdf

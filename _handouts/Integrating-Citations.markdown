@@ -11,7 +11,7 @@ contributors:
     - Simon Lee
     - Marisa Méndez-Brady
     - Renee
-    - Doug Worsham
+    - Doug
 notes: ""
 description: "There are many ways to use citations to support an argument."
 handout-url: /assets/handouts/citation-integration-final.pdf

@@ -11,11 +11,11 @@ contributors:
     - Leigh Harris
     - Kelly Kistner
     - Simon Lee
-    - Caitlin Meyer
+    - Caitlin
     - Renee
     - Shushanik Stepanyan
     - Mary Tran
-    - Doug Worsham
+    - Doug
     - University of Minnesota Libraries Research Paper Calculator
 notes: ""
 description: "Break down your assigment and stay on top of deadlines with this useful planner!"

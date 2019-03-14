@@ -5,9 +5,9 @@ authors:
     - Caitlin 
     - Shannon
 contributors: 
-    - Undergraduate Research Center - Sciences
-    - Undergraduate Research Center - Humanities and Social Sciences
-    - Undergraduate Writing Center
+    - UCLA Undergraduate Research Center - Sciences
+    - UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences
+    - UCLA Undergraduate Writing Center
 notes: ""
 description: "Review articles give you an efficient way to get an overview of a body of research on your topic."
 handout-url: /assets/handouts/introduction-to-articlesplus-fixed.pdf

@@ -9,9 +9,9 @@ contributors:
     - Whitney Arnold
     - Janet Goins
     - Leigh Harris
-    - Nisha Moody
-    - Doug Worsham
-    - Undergraduate Writing Center
+    - Nisha Mody
+    - Doug
+    - UCLA Undergraduate Writing Center
 notes: ""
 description: "Want to improve your academic writing? Complete this interactive activity to take your writing to the next level."
 handout-url: /assets/handouts/reading-for-style-d2.pdf

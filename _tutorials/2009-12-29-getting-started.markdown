@@ -5,7 +5,7 @@ authors:
     - Taylor
     - Shannon
 contributors:
-    - Tony Aptonte
+    - Tony Aponte
     - Whitney Arnold
     - Joanna Chen Cham
     - Elizabeth Cheney 
@@ -17,7 +17,7 @@ contributors:
     - Simon Lee
     - Amy Liu 
     - Caitlin
-    - Nisha Moody
+    - Nisha Mody
     - Renee 
     - Annelie Rugg
     - Shushanik Stepanyan 

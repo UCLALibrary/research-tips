@@ -2,7 +2,7 @@
 title:  "Research Abstracts"
 date:   2010-01-09
 authors: 
-    - Mary
+    - Mary Tran
 contributors:
     - Taylor
     - Caitlin

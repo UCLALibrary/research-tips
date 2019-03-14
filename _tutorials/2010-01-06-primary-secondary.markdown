@@ -5,12 +5,12 @@ authors:
     - Kian
     - Jen
 contributors: 
-    - Allison Benedetti
+    - Allison R. Benedetti
     - Miki Goral
     - Robert Gore
     - Janine Henri
     - Callie Holmes
-    - Diana King
+    - Diana L. King
     - Simon Lee
     - Henri Lim
     - Marisa Méndez-Brady

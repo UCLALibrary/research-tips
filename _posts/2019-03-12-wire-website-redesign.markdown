@@ -2,6 +2,11 @@
 title:  "The redesigned WI+RE website!"
 date:   2019-01-12
 authors: Doug
+contributors:
+    - Marisa Méndez-Brady
+    - Renee
+    - Kian
+    
 description: >-
     We're thrilled to launch a major upgrade to our website!
 category: Updates
@@ -28,7 +33,7 @@ As we got started prototyping the website redesign, the WI+RE team was also work
 
 So, we started tinkering with the idea of portfolio-like profile pages for the Creative Team. This tied in nicely with the idea of intergrating our experimental sandbox directly into the site redesign - allowing WI+RE to share both published work and the behind-the-scenes prototyping and design that guides our process. This dual focus on showcasing finished work and relfecting on the process was the spark for building out our <a href="{{ '/about/creative-team' | relative_url }}" target="_blank">new portfolio pages </a> and WI+RE's <a href="{{ '/sandbox' | relative_url }}" target="_blank">Sandbox</a>.
 
-At the same time, we were inspired by discussions with academic librarian, instructional designer, and WI+RE contributor Marisa Méndez-Brady and WI+RE co-founder Renee Romero to think about how the new site could celebrate the many contributions of our community members to each project. 
+At the same time, we were inspired by discussions with academic librarian and WI+RE contributor Marisa Méndez-Brady and WI+RE co-founder Renee Romero to think about how the new site could celebrate the many contributions of our community members to each project. 
 
 <div class="col-12 col-sm-12 col-md-6 col-xl-4 float-right">
 <figure class="figure border border-primary shadow">
@@ -55,4 +60,28 @@ More making! We're currently working on workshops about literature reviews and a
 There are so many people to thank! First up, a big shout-out to the WI+RE team for their work on this site redesign! This update has been months in the making and has involved both  fun design work and some serious coding as well! Just about all current and former members of WI+RE were involved in some way and our current team members (Kian, Taylor, Juan, and April) did extensive reworking of our html, markdown, and media files to get the site up and running. Thank you!
 
 As mentioned, Marisa Méndez-Brady and Renee Romero gave us some very important feedback on community engagement that helped shape multiple areas of the site which led to significant improvements in how we provide attribution and celebrate community engagement. And Tinuola Awopetu's CSS magic saved the day on multiple occasions. Thank you!
+
+<!-- collect authors -->
+{% assign tutorial-auth = site.tutorials | map: 'authors' | uniq %}
+{% assign workshop-auth = site.workshops | map: 'authors' | uniq  %}
+{% assign handout-auth = site.handouts | map: 'authors' | uniq %}
+{% assign post-auth = site.posts | map: 'authors' | uniq %}
+{% assign all-auth = tutorial-auth | concat: workshop-auth | concat: handout-auth | concat: post-auth | uniq | compact %}
+{%  assign all-auth-sort = all-auth | sort %}
+<!-- collect contributors -->
+{% assign tutorial-contrib = site.tutorials | map: 'contributors' | uniq %}
+{% assign workshop-contrib = site.workshops | map: 'contributors' | uniq  %}
+{% assign handout-contrib = site.handouts | map: 'contributors' | uniq %}
+{% assign post-contrib = site.posts | map: 'contributors' | uniq %}
+{% assign all-contrib = tutorial-contrib | concat: workshop-contrib | concat: handout-contrib | uniq | compact %}
+{%  assign all-contrib-sort = all-contrib | sort %}
+<!-- concat and uniq auth and contrib -->
+{% assign all-authcontrib = all-auth-sort | concat: all-contrib-sort | uniq | compact %}
+{% assign all-authcontrib-sort = all-authcontrib | sort %}
+<!-- auth and contrib with profile links -->
+<!-- this captures the list of team member names from site.team-members -->
+{% capture member-name-list %}{{ site.team-members | map: 'title' | split: ',' }}{% endcapture %}
+
+And, as always, we are ever grateful for the many, many people and campus groups who have contributed to the content on the WI+RE website, including: {% for name in all-authcontrib-sort %}{% if member-name-list contains name %}<a href="{{ name | slugify | prepend: '/about/creative-team/' | absolute_url }}">{{ name }}</a>{% if forloop.last == false %}, {% endif %}{% else %}{{ name }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}. Thank you!
+
 

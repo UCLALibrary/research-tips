@@ -10,9 +10,9 @@ contributors:
     - Julia Glassman
     - Janet Goins
     - Leigh Harris
-    - Kelley Kistner
+    - Kelly Kistner
     - Simon Lee
-    - Nisha Moody
+    - Nisha Mody
     - Renee
     - Annelie Rugg
     - Doug
