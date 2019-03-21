@@ -1,75 +1,201 @@
 ---
 layout: default
 ---
-<h4>Looking for help with research and writing?</h4>
 
-<p>These quick and practical tips were collaboratively designed by students, faculty, librarians, and academic support staff across the UCLA campus. Let us know your <a href="https://goo.gl/forms/5mDfPqk838jzhB9X2" target="_blank">feedback and ideas for future projects</a>.</p>
-
-<!-- Create cards -->
-
-{% for post in site.posts reversed %}
-<div class="row">
-    <div class="col s12 m12">
-      <div class="card">
-        <div class="card-content">
-            <span class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
-          <!--<p>{{ post.excerpt }}</p>-->
-          <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-        </div>
-        <div class="card-action">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            Read More
-          </a>
-          <a class="rightaction" href="#modal-{{ post.url }}" aria-label="Embed code">
-            <i class="fa fa-code" aria-hidden="true"></i>
-              <!-- &lt; Embed &gt; -->
-          </a>
-            <a class="rightaction" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ site.baseurl }}{{ post.url }}&via={{ site.social.twitter }}&related={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a class="rightaction" href="https://facebook.com/sharer.php?u={{site.url}}{{ site.baseurl }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" aria-label="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-            <!-- ty: https://superdevresources.com/share-buttons-jekyll/ -->
-            {% if post.handout %}
-            {% if post.handout contains 'http' %}
-                <a class="rightaction" href="{{ page.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-            {% else %}
-                <a class="rightaction" href="{{ site.url }}{{ site.baseurl }}{{ post.handout }}" target="_blank" title="PDF Handout" aria-label="Handout"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+<!-- Page Header -->
+{% if page.background %}
+  <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+    <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+              <div class="masthead-text-box heading-text-box">
+            <h1 class="mb-0">{{ site.title }}</h1>
+                  <span class="subheading" style="margin-top: 0px;"><small>Writing Instruction + Research Education</small></span>
+            {% if site.description %}
+                  <p><span class="subheading">{{ site.description }}</span></p>
             {% endif %}
-        {% endif %}
+              </div>
+          </div>
         </div>
       </div>
     </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-10 mx-auto">
+
+        {{ content }}
+          
+        <!-- Features: Option 1 -->
+      <!-- ================================================== -->
+      <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+    <!-- Three columns -->
+    <div class="row">
+        <div class="col-lg-4">
+            <a class="" href="{{ '/workshops' | relative_url }}">
+                <button class="btn btn-light h-100">
+                    <img src="{{ '/assets/images/icons/np_certificate_928715_1E4B88.png' | relative_url }}" alt="Cornerstone Research Workshops Badge" class="w-50">
+                    <h2>Workshops</h2>
+                    <p>Gain a solid foundation in academic research and writing!</p>
+                </button>
+            </a>
+        </div>
+        <!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+            <a href="{{ '/tutorials' | relative_url }}">
+                <button class="btn btn-light h-100">
+                    <img src="{{ '/assets/images/icons/np_wireframe_162980_1E4B88.png' | relative_url }}" alt="Online tutorials" class="w-50">
+                    <h2>Tutorials</h2>
+                    <p>Get right to it with quick and practical tutorials.</p>
+                </button>
+            </a>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+            <a href="{{ '/handouts' | relative_url }}">
+                <button class="btn btn-light h-100">
+                    <img src="{{ '/assets/images/icons/np_report_1957810_1E4B88.png' | relative_url }}" alt="Handouts and printable activities" class="w-50">
+                    <h2>Handouts</h2>
+                    <p>Prefer to work on paper? No problem - we make printable handouts, too.</p>
+                </button>
+            </a>
+        </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+    </div>
 </div>
-{% endfor %}
-
-
-<!-- Create modal content -->
-
-{% for post in site.posts reversed %}
-<div id="modal-{{ post.url}}" class="modal modal-fixed-footer">
-    <div class="modal-content">
-      <p>Copy and paste the html code below to embed this research strategy into your site:</p>
-      
-<div class="highlighter-rouge">
-<pre class="highlight">
-<code>&lt;iframe src="{{ site.url }}{{ site.baseurl }}/embeds{{ post.url }}" width="100%" height="400px"&gt;&lt;/iframe&gt;</code>
-</pre>
-    </div>
-    
-<ul class="collapsible" data-collapsible="accordion">
-        <li>
-            <div class="collapsible-header" style="border-bottom-style: solid;"><a href="{{ site.url }}{{ site.baseurl }}/embeds{{ post.url }}" target="preview-frame{{ post.url }}" style="display: block;"><i class="material-icons">pageview</i>Preview:
-            </a></div>
-            <div class="collapsible-body">
-                <iframe src="{{ site.url }}{{ site.baseurl }}/embeds{{ post.url }}" width="100%" height="400px" name="preview-frame{{ post.url }}" style="border-style: none;"></iframe>
-            </div> 
-        </li>
-        
-    </ul>
-
-      
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Got it!</a>
-    </div>
 </div>
+          
+          
+        <!-- START THE FEATURETTES  -->
 
-{% endfor %}
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+          <div class="col-lg-5">
+            <h2 class="featurette-heading">Hi! <span class="text-muted">We're WI+RE.</span></h2>
+            <p class="lead">WI+RE is a learner-led community focused on helping everyone succeed in their writing and research projects.</p>
+          </div>
+          <div class="col-lg-7">
+              <span class="align-middle">
+                <img class="featurette-image img-fluid mx-auto align-middle img-thumbnail tilt-right-2" src="{{ '/assets/images/wire-creative-team-2.jpg' | relative_url }}" alt="WI+RE's creative team in the WI+RE studio">
+              </span>
+          </div>
+                <div class="col-lg-4 p-2 mt-3">
+                    <a class="btn btn-primary btn-block" href="{{ '/about/creative-team/' | relative_url }}" role="button">Meet the Creative Team &raquo;</a>
+                </div>
+                <div class="col-lg-4 p-2 mt-3">
+                    <a class="btn btn-primary btn-block" href="{{ '/sandbox/' | relative_url }}" role="button">Visit WI+RE's Sandbox &raquo;</a>
+                </div>
+                <div class="col-lg-4 p-2 mt-3">
+                    <a class="btn btn-primary btn-block" href="{{ '/about/design-toolkit/' | relative_url }}" role="button">Our Design Tools and Process &raquo;</a>
+                </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+          <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading">We share!</span></h2>
+            <p class="lead">As strong believers in open educational resources, all of our work is open source, and our tips can be shared, re-used, and re-mixed under creative commons Attribution-NonCommercial-ShareAlike license.</p>
+            <p>Want to collaborate? We would too! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our code repository</a> and <a href="{{ '/contact' | relative_url }}">let us know your ideas!</a></p>
+          </div>
+          <div class="col-md-5 order-md-1">
+            <img class="featurette-image img-fluid mx-auto" src="{{ '/assets/images/icons/np_open-education_33913_1E4B88.png' | relative_url }}" alt="Open Educational Resources">
+          </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- /END THE FEATURETTES -->
+
+        <!-- Home Featured Content List -->
+
+
+
+      <div class="card shadow mt-2">
+          <div class="card-header">
+              <h2>Featured Tutorials</h2>
+          </div>
+          <div class="card-body">
+    {% for tutorial in site.tutorials %}
+      {% if tutorial.featured %}
+            <li class="media mt-2">
+                        <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                            {% if tutorial.thumbnail %}
+                                <img src="{{ tutorial.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
+                            {% else %}
+                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Tutorial icon">
+                            {% endif %}
+                        </a>
+                    <div class="media-body">
+                            <h3 class="mt-0 mb-1"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
+                            <p class="post-subtitle text-justify">
+                                {% if tutorial.description %}
+                                    {{ tutorial.description }}
+                                {% else %}
+                                    {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
+                                {% endif %}
+                            </p>
+                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                            <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
+                            {% if tutorial.handout %}
+                                <a href="{{ tutorial.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                </li>
+                <hr>
+        {% endif %}
+    {%endfor%}
+          </div>
+      </div>
+
+          
+
+<div class="card shadow mt-2">
+          <div class="card-header">
+              <h2>Featured Workshops</h2>
+          </div>
+          <div class="card-body">
+    {% for workshop in site.workshops %}
+      {% if workshop.featured %}
+            <li class="media mt-2">
+                        <a href="{{ workshop.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                            {% if workshop.thumbnail %}
+                                <img src="{{ workshop.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="workshop icon">
+                            {% else %}
+                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="workshop icon">
+                            {% endif %}
+                        </a>
+                    <div class="media-body">
+                            <h3 class="mt-0 mb-1"><a href="{{ workshop.url | relative_url | replace: '//', '/' }}">{{ workshop.title }}</a></h3>
+                            <p class="post-subtitle text-justify">
+                                {% if workshop.description %}
+                                    {{ workshop.description }}
+                                {% else %}
+                                    {{ workshop.excerpt | strip_html | truncatewords: 30 }}
+                                {% endif %}
+                            </p>
+                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                            <a href="{{ workshop.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Start the workshop</a>
+                            {% if workshop.handout %}
+                                <a href="{{ workshop.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                </li>
+                <hr>
+        {% endif %}
+    {%endfor%}
+          </div>
+      </div>
+
+
+</div>

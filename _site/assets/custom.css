@@ -1,0 +1,322 @@
+/* Developer notes */
+/* ------------------------------------------------*/
+.notes {
+    border-bottom-color: rgb(0, 123, 255);
+    border-bottom-left-radius: 4px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(0, 123, 255);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: rgb(0, 123, 255);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: rgb(0, 123, 255);
+    border-top-left-radius: 4px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-sizing: border-box;
+    color: rgb(33, 37, 41);
+    font-family: "Lora", "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    text-align: left;
+}
+
+
+/* Improving default buttons */
+/* ------------------------------------------------*/
+.btn {
+    border-radius: .3rem;
+    text-transform: none;
+    text-decoration: none;
+    white-space: normal;
+}
+
+.accordion .btn {
+    text-align: left;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Lora", "Times New Roman", serif;
+}
+
+.accordion .card-body {
+    font-size: 16px;
+    font-family: "Lora", "Times New Roman", serif;
+    
+}
+
+.btn-outline-primary {
+  color: #005587;
+  border-color: #005587;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #005587;
+  border-color: #005587;
+}
+
+/* Custom less page header */
+header.masthead .page-heading {
+      padding: 100px 0 100px 0;
+}
+
+/* Custom post header */
+header.masthead .post-heading {
+      padding: 80px 0 80px 0;
+}
+.post-heading-text-box {
+  padding-left: 1.25rem;
+}
+
+/* Keep menu visible over elements and right-aligned on scroll */
+.fixed-top {
+  position: static;
+}
+
+/* Overlay text box on site header sections */
+.heading-text-box {
+  background-color: #005587;
+  border-radius: .5rem;
+  opacity: 1;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+
+/* Page Header */
+
+.masthead-text-box {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+@@ -13,8 +13,8 @@ header.masthead {
+    .subheading {
+              font-size: 14px;
+      font-weight: 500;
+      line-height: 1.3;
+    }   
+}
+
+@@ -44,6 +44,10 @@ header.masthead {
+       .subheading {
+        font-size: 18px;
+        padding: 0 .75rem;
+      }   
+}
+
+@@ -62,7 +66,7 @@ header.masthead {
+    .meta {
+        font-size: 16px;
+    }   
+}
+
+@@ -77,6 +81,9 @@ header.masthead {
+    .meta {
+        font-size: 20px;
+      }   
+}
+
+header.masthead .overlay { position: absolute; top: 0; left: 0; height: 100%; width: 100%; opacity: 0; }
+
+header.masthead .page-heading .subheading, header.masthead .site-heading .subheading { font-size: 20px; font-weight: 500; line-height: 1.3; display: block; margin: 10px 0 0; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+@media only screen and (min-width: 768px) { header.masthead .page-heading h1, header.masthead .site-heading h1 { font-size: 80px; }
+  header.masthead .page-heading .subheading, header.masthead .site-heading .subheading { font-size: 24px; padding: 0 .75rem; } }
+
+header.masthead .post-heading .meta { font-size: 16px; font-weight: 300; font-style: italic; font-family: 'Lora', 'Times New Roman', serif; }
+
+  header.masthead .post-heading .subheading { font-size: 30px; }
+  header.masthead .post-heading .meta { font-size: 20px; } }
+
+
+
+/* Colors - changing to UCLA brand */
+
+/* .btn-primary {
+  background-color: $ucla-darker-blue;
+} */
+
+/* CUSTOMIZE THE CAROUSEL -
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+  background: rgb(39, 116, 174, 1);
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+  background-color: #777;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+.carousel-control-prev-icon {
+    background: rgb(39, 116, 174, 1);
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background: rgb(39, 116, 174, 1);
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+
+/* Colors - background highlighting - integrating citations */
+.greenhighlighter {
+    background-color: #7FFF00;
+}
+
+.yellowhighlighter {
+    background-color: #FFFF00;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+
+/* Improving .lead
+-------------------------------------------------- */
+.lead {
+    border-color: #3284bf;
+    border-width: 3px;
+    border-style: solid;
+    margin: 16px;
+    padding: 24px;
+    font-family: 'Open Sans';
+}
+
+/* Improving breadcrumbs */
+.breadcrumb {
+  background-color: transparent;
+}
+
+
+/* Image tilt */
+/* ------------- */
+.tilt-right {
+    transform: rotate(3deg);
+}
+
+.tilt-right-2 {
+    transform: rotate(2deg);
+}
+
+.tilt-right-1 {
+    transform: rotate(1deg);
+}
+
+.tilt-right-tiny {
+    transform: rotate(0.5deg);
+}
+
+.tilt-left {
+    transform: rotate(-3deg);
+}
+
+
+.tilt-left-2 {
+    transform: rotate(-2deg);
+}
+
+.tilt-left-1 {
+    transform: rotate(-1deg);
+}
+
+.tilt-left-2 {
+    transform: rotate(-0.5deg);
+}
+
+
+/* Blockquote improvements */
+
+.blockquote {
+  color: #347bad;
+    
+}
+
+.blockquote-footer {
+  font-size: 70%;
+  color: #347bad;
+}
+

@@ -1,0 +1,91 @@
+---
+type: page
+title: WI+RE's Creative Team
+description: Get to know the learners, designers, and creators of WI+RE.
+background: /assets/images/backgrounds/art-creative-flying-17679-3000.jpg
+permalink: /about/creative-team/
+---
+
+<h2>Who's WI+RE?</h2>
+<p>Check out the WI+RE Creative team's portfolio pages and catch up with WI+RE alums!</p>
+{% assign groups = site.team-members | group_by: "category" | sort: "title" %}
+
+{% for group in groups %}
+    {% if group.name == "Creative Team"%}
+    <div class="card mt-5">
+        <div class="card-header pt-4">
+            <h2>{{ group.name }}</h2>
+        </div>
+        <div class="card-body">
+            <ul class="list-unstyled">
+            {% for team-member in group.items %}
+                <li class="media mt-2">
+                        <a href="{{ team-member.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                            {% if team-member.profile %}
+                                <img src="{{ team-member.profile | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="{{ team-member.title }}'s profile">
+                            {% else %}
+                                <img src="{{ '/assets/images/team/np_cat_114598_B8B8B8.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Generic Cat Profile Picture">
+                            {% endif %}
+                        </a>
+                    <div class="media-body">
+                            <h3 class="mt-0 mb-1"><a href="{{ team-member.url | relative_url | replace: '//', '/' }}">{{ team-member.title }}</a></h3>
+                            <p class="post-subtitle text-justify">
+                                {% if team-member.bio %}
+                                    {{ team-member.bio }}
+                                {% endif %}
+                            </p>
+                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                            <a href="{{ team-member.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Learn more</a>
+                        </div>
+                    </div>
+                </li>
+                <hr>
+            {%endfor%}
+            </ul>
+        </div>
+    </div>        
+    {% endif %}
+{%endfor%}
+
+{% for group in groups %}
+    {% if group.name != "Creative Team" %}
+    <div class="card mt-5">
+        <div class="card-header pt-4">
+            <h2>{{ group.name }}</h2>
+        </div>
+        <div class="card-body">
+            <ul class="list-unstyled">
+            {% for team-member in group.items %}
+                <li class="media mt-2">
+                        <a href="{{ team-member.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                            {% if team-member.profile %}
+                                <img src="{{ team-member.profile | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="{{ team-member.title }}'s profile">
+                            {% else %}
+                                <img src="{{ '/assets/images/team/np_cat_114598_B8B8B8.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Generic Cat Profile Picture">
+                            {% endif %}
+                        </a>
+                    <div class="media-body">
+                            <h3 class="mt-0 mb-1"><a href="{{ team-member.url | relative_url | replace: '//', '/' }}">{{ team-member.title }}</a></h3>
+                            <p class="post-subtitle text-justify">
+                                {% if team-member.bio %}
+                                    {{ team-member.bio }}
+                                {% endif %}
+                            </p>
+                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                            <a href="{{ team-member.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Learn more</a>
+                        </div>
+                    </div>
+                </li>
+                <hr>
+            {%endfor%}
+            </ul>
+        </div>
+    </div>        
+    {% endif %}
+{%endfor%}
+
+<hr>
+
+{% include pager.html %}
+
+

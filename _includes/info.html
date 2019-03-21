@@ -1,0 +1,55 @@
+<hr>
+{% capture member-name-list %}{{ site.team-members | map: 'title' | split: ',' }}{% endcapture %}
+<div class="card">
+  <div class="card-header">
+    About this {{ page.layout }}
+  </div>
+  <div class="card-body">
+        {% if page.awards %}
+            <h5 class="card-title">Awards and Recognition</h5>
+            <div class="container">
+                <div class="row">
+                    {% for award in page.awards %}
+                        <div class="col-sm-6">
+                            {% include /awards/{{ award }}.html %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif%}
+        <h5 class="card-title">Authors</h5>  
+        <p class="card-text">
+                {% if page.authors %}
+                    {% for authorname in page.authors %}
+                        {% if member-name-list contains authorname %}
+                            <a href="{{ authorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
+                        {% else %}
+                            {{ authorname }}{% if forloop.last == false %},{% endif %}
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+                {% endif %}
+        </p>
+      {% if page.contributors %}
+                  <h5 class="card-title">Contributors</h5>
+                  <p class="card-text">
+                    {% for contributorname in page.contributors %}
+                        {% if member-name-list contains contributorname %}
+                            <a href="{{ contributorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ contributorname }}</a>{% if forloop.last == false %},{% endif %}
+                        {% else %}
+                            {{ contributorname }}{% if forloop.last == false %},{% endif %}
+                        {% endif %}
+                    {% endfor %}
+                 </p>
+      {% endif %}
+      <!-- todo:: fix double research-tips -->
+      <!--
+              <h5 class="card-title">Link</h5>
+                <p class="card-text"><a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a></p>
+        -->
+    </div>
+</div>
+      
+
+

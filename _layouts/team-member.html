@@ -1,0 +1,172 @@
+---
+layout: default
+---
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% else %}
+<header class="masthead">
+{% endif %}
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="post-heading">
+            <div class="post-heading-text-box heading-text-box text-center">
+                <img class="rounded mx-auto d-block" style="max-height: 200px;" src="{{ page.profile | relative_url }}" alt="{{ page.firstname }}'s profile picture" />
+                <h1>
+                    {% if page.firstname %}
+                        {{ page.firstname }}
+                    {% else %}
+                        {{ page.title }}
+                    {% endif %}
+                </h1>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+            <!-- attempted breadcrumbs did not look nice -->
+            <!--
+            <p>
+                <small>
+                    <nav aria-label="breadcrumb">
+                      <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a href="#">About</a></li>
+                        <li class="breadcrumb-item"><a href="#">WI+RE Team</a></li>
+                      </ol>
+                    </nav>
+                </small>
+            </p>
+            -->
+            <h2>{{ page.firstname }} <span class="text-muted">{{ page.lastname }}</span></h2>
+            <p class="lead">
+                {{ page.bio }}
+            </p>
+<!-- Features -->
+            <h3 class="mt-5">Featured Projects:</h3>
+                <!-- turn this into a slideshow? -->
+                {% if page.features %}
+                    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+                        <ol class="carousel-indicators">
+                            {% for feature in page.features %}
+                                <li data-target="#carouselExampleCaptions" data-slide-to="{{ forloop.index0 }}" {% if forloop.first == true %}class="active">{% endif %}</li>
+                            {% endfor %}
+                        </ol>
+                        <div class="carousel-inner">
+                          {% for feature in page.features %}
+                                <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
+                                    <img src="{{ feature.feature-img | relative_url }}" class="d-block w-100" style="object-fit: cover;" alt="{{ feature.feature-title }}">
+                                    <div class="carousel-caption">
+                                      <h5 class="text-white"><a href="{{ feature.feature-url | relative_url }}" class="text-white">{{ feature.feature-title }}</a></h5>
+                                      <p>{{ feature.feature-note }}</p>
+                                    </div>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" style="color: #2774AE;" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                {% endif %}
+<!-- Authored and Co-authored projects -->
+            {% capture workshop-author-list %}{{ site.workshops | map: 'authors' | split: ',' }}{% endcapture %}
+            {% capture tutorial-author-list %}{{ site.tutorials | map: 'authors' | split: ',' }}{% endcapture %}
+            {% capture handout-author-list %}{{ site.handouts | map: 'authors' | split: ',' }}{% endcapture %}
+            {% capture sandbox-author-list %}{{ site.posts | map: 'authors' | split: ',' }}{% endcapture %}
+            {% if workshop-author-list contains page.title or tutorial-author-list contains page.title or handout-author-list contains page.title or sandbox-author-list contains page.title %}
+                <h3 class="mt-5">My Authored and Co-authored Projects</h3>
+            {% endif %}
+            <div class="container">
+                <div class="row">
+<!-- Workshops -->
+                {% if workshop-author-list contains page.title %}
+                    {% if workshop-author-list contains page.title %}
+                        <div class="col-sm-6">
+                            <h4 class="mt-5">Workshops</h4>
+                            <ul>
+                                {% for workshop in site.workshops %}
+                                    {% if workshop.authors contains page.title %}
+                                    <li><a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a></li>
+                                    {% endif %}
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    {% endif %}
+                {% endif %}
+<!-- Tutorials -->
+                {% if tutorial-author-list contains page.title %}
+                    <div class="col-sm-6">
+                        <h4 class="mt-5">Tutorials</h4>
+                        <ul>
+                            {% for tutorial in site.tutorials %}
+                                {% if tutorial.authors contains page.title %}
+                                <li><a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+<!-- Handouts -->
+                {% if handout-author-list contains page.title %}
+                    <div class="col-sm-6">
+                    <h4 class="mt-5">Handouts</h4>
+                        <ul>
+                            {% for handout in site.handouts %}
+                                {% if handout.authors contains page.title %}
+                                <li><a href="{{ handout.url | relative_url}}">{{ handout.title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+<!-- Sandbox Posts -->
+                {% if sandbox-author-list contains page.title %}
+                    <div class="col-sm-6">
+                        <h4 class="mt-5">Sandbox Posts</h4>
+                        <ul>
+                            {% for post in site.posts %}
+                                {% if post.authors contains page.title %}
+                                <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+                </div>
+            </div>
+<!-- Contributions -->
+            {% capture workshop-contributor-list %}{{ site.workshops | map: 'contributors' | split: ',' }}{% endcapture %}
+            {% capture tutorial-contributor-list %}{{ site.tutorials | map: 'contributors' | split: ',' }}{% endcapture %}
+            {% capture handout-contributor-list %}{{ site.handouts | map: 'contributors' | split: ',' }}{% endcapture %}
+            {% capture sandbox-contributor-list %}{{ site.posts | map: 'contributors' | split: ',' }}{% endcapture %}
+            {% if workshop-contributor-list contains page.title or tutorial-contributor-list contains page.title or handout-contributor-list contains page.title or sandbox-contributor-list contains page.title %}
+                <h3 class="mt-5">My Contributions</h3>
+                <p><small>I also contributed to: 
+                    {% for workshop in site.workshops %}{% if workshop.contributors contains page.title %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a> | {% endif %}{% endfor%}
+                    {% for tutorial in site.tutorials %}{% if tutorial.contributors contains page.title %}<a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a> | {% endif %}{% endfor%}
+                    {% for handout in site.handouts %}{% if handout.contributors contains page.title %}<a href="{{ handout.url | relative_url}}">{{ handout.title }}</a> | {% endif %}{% endfor%}
+                    {% for post in site.posts %}{% if post.contributors contains page.title %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
+                    </small>
+                </p>
+            {% endif %}
+            
+            <!-- prev-next buttons -->
+            {% include prev-next.html %}
+            
+            <!-- page specific content -->
+             {{ content }}
+        </div>
+    </div>
+</div>
+    

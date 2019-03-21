@@ -1,0 +1,56 @@
+<hr>
+<div class="container">
+    <div class="row">
+        <!-- Team Member special prev-next -->
+        {% if page.layout == "team-member" %}
+            <div class="col-sm-4">
+                {% if page.previous.url %}
+                    <a class="btn btn-primary btn-block my-1" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; {{ page.previous.firstname }}</a>
+                {% endif %}
+            </div>
+            <div class="col-sm-4">
+                <a class="btn btn-primary btn-block my-1" href="{{ '/about/creative-team' | relative_url }}"><span class="d-none d-md-inline">The </span>WI+RE Team</a>
+            </div>
+            <div class="col-sm-4">
+                {% if page.next.url %}
+                    <a class="btn btn-primary btn-block  my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">{{ page.next.firstname }} &rarr;</a>
+                {% endif %}
+            </div>
+        <!-- Sandbox special prev-next -->
+        {% elsif page.layout == "post" %}
+                <div class="col-sm-4">
+                    {% if page.previous.url %}
+                         <a class="btn btn-primary btn-block my-1" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline"> {{ page.layout | capitalize }}</span></a>
+                    {% endif %}
+                </div>
+                <div class="col-sm-4">
+                    <a class="btn btn-primary btn-block my-1" href="{{ site.baseurl }}/sandbox/">All<span class="d-none d-md-inline"> Sandbox Posts</span></a>
+                </div>
+                <div class="col-sm-4">
+                    {% if page.next.url %}
+                        <a class="btn btn-primary btn-block my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline"> {{ page.layout | capitalize }}</span> &rarr;</a>
+                    {% endif %}
+                </div>
+        <!-- standard prev-next -->
+        {% else %} 
+            <div class="col-sm-4">
+                {% if page.previous.url %} 
+                    <a class="btn btn-primary btn-block my-1" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline"> {{ page.layout | capitalize }}</span></a>
+                {% endif %}
+            </div>
+            <div class="col-sm-4">
+                <a class="btn btn-primary btn-block my-1" href="{{ site.baseurl }}/{{ page.layout | append:'s' }}">All<span class="d-none d-md-inline"> {{ page.layout | capitalize }}s</span></a>
+            </div>
+            <div class="col-sm-4">
+                {% if page.next.url %}
+                    <a class="btn btn-primary btn-block my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline"> {{ page.layout | capitalize }}</span> &rarr;</a>
+                {% endif %}
+            </div>
+                
+        {% endif %}
+
+    </div>
+</div>
+<hr>
+
+            
