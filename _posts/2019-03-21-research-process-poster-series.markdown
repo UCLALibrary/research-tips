@@ -34,7 +34,7 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ## The Interactive Poster Series
 
 <figure class="figure border border-primary shadow mt-3">
-  <img src="{{ '/assets/images/poster1.jpg' | relative_url }}" class="figure-img img-fluid rounded" alt="A poster from the Research Strategies Poster Series">
+  <img src="{{ '/assets/images/poster-1.jpg' | relative_url }}" class="figure-img img-fluid rounded" alt="A poster from the Research Strategies Poster Series">
   <figcaption class="figure-caption text-right">A poster from the Research Strategies Series.</figcaption>
 </figure>
 
