@@ -89,7 +89,7 @@ Click through the slideshow below to see prototypes for the project!
   <!--slideshow-->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ '/assets/images/poster-prototype-1.png' | relative_url }}" class="d-block w-100" alt="First Slide">
+      <img src="{{ '/assets/images/poster-prototype-1.png' | relative_url }}" class="d-block w-100 img-fluid" alt="First Slide">
     </div>
     <div class="carousel-item">
       <img src="{{ '/assets/images/poster-prototype-2.png' | relative_url }}" class="d-block img-fluid" alt="Second Slide">
