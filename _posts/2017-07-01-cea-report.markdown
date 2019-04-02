@@ -8,7 +8,7 @@ contributors:
     - UCLA Center for Educational Assessment  
 description: >-
     The UCLA Center for Educational Assessment recently published a report on student and faculty feedback on WI+RE's online workshops and tutorials
-category: Assessment
+category: Assessments and Reports
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 In June of 2017 UCLA's Center for Educational Assessment completed a [detailed report](https://ucla.box.com/v/wire-oid-report) on a variety of approaches to research and writing instruction, including WI+RE's online [Cornerstone Research workshops](http://ccle.ucla.edu/course/view/wire).

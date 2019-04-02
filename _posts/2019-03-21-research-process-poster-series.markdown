@@ -27,7 +27,7 @@ contributors:
     
 description: >-
     A summary of our poster series project and our SCILWorks 2019 presentation!
-category: Updates
+category: Assessments and Reports
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 

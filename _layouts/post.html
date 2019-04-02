@@ -21,7 +21,7 @@ layout: default
           <!-- this captures the list of team member names from site.team-members -->
           {% capture member-name-list %}{{ site.team-members | map: 'title' | split: ',' }}{% endcapture %}
           <!-- -->
-          <span class="meta">Created by
+          <span class="meta">{% if page.collection == "posts" %}Posted by{% else %}Created by{% endif %}
             {% if page.authors %}
                 {% for authorname in page.authors %}
                     {% if member-name-list contains authorname %}
