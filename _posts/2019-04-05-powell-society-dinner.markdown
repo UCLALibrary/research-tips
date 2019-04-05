@@ -3,8 +3,11 @@ title:  "WI+RE goes to the 2019 Powell Society Dinner!"
 date:   2019-04-05
 authors:
     - Kian
-    - Jen
 author: Kian
+contributors:
+    - Jen
+    - Doug
+
     
 description: >-
     Engaging with members of the Powell Society!
