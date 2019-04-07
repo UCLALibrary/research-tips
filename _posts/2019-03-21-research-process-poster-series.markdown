@@ -13,6 +13,7 @@ contributors:
     - Cassandra Bautista
     - Courtney Hoffner
     - Doug
+    - Doug Daniels
     - Emily Teng
     - Jade Alburo
     - Jamrensze “J-Mi” De Leon
