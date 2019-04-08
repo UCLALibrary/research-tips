@@ -13,6 +13,7 @@ contributors:
     - Cassandra Bautista
     - Courtney Hoffner
     - Doug
+    - Doug Daniels
     - Emily Teng
     - Jade Alburo
     - Jamrensze “J-Mi” De Leon
@@ -27,14 +28,14 @@ contributors:
     
 description: >-
     A summary of our poster series project and our SCILWorks 2019 presentation!
-category: Updates
+category: Assessments and Reports
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 
 ## The Interactive Poster Series
 
 <figure class="figure border border-primary shadow mt-3">
-  <img src="{{ '/assets/images/poster1.jpg' | relative_url }}" class="figure-img img-fluid rounded" alt="A poster from the Research Strategies Poster Series">
+  <img src="{{ '/assets/images/poster-1.jpg' | relative_url }}" class="figure-img img-fluid rounded" alt="A poster from the Research Strategies Poster Series">
   <figcaption class="figure-caption text-right">A poster from the Research Strategies Series.</figcaption>
 </figure>
 
@@ -89,7 +90,7 @@ Click through the slideshow below to see prototypes for the project!
   <!--slideshow-->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ '/assets/images/poster-prototype-1.png' | relative_url }}" class="d-block w-100" alt="First Slide">
+      <img src="{{ '/assets/images/poster-prototype-1.png' | relative_url }}" class="d-block w-100 img-fluid" alt="First Slide">
     </div>
     <div class="carousel-item">
       <img src="{{ '/assets/images/poster-prototype-2.png' | relative_url }}" class="d-block img-fluid" alt="Second Slide">
