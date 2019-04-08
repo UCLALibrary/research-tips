@@ -1,4 +1,6 @@
+
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2019-04-07T10:40:36-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">Interactive Poster Series - Research Strategies</title><link href="http://localhost:4000/research-tips/sandbox/research-process-poster-series/" rel="alternate" type="text/html" title="Interactive Poster Series - Research Strategies" /><published>2019-03-21T00:00:00-07:00</published><updated>2019-03-21T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/research-process-poster-series</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/research-process-poster-series/">&lt;h2 id=&quot;the-interactive-poster-series&quot;&gt;The Interactive Poster Series&lt;/h2&gt;
+
 
 &lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
   &lt;img src=&quot;/research-tips/assets/images/poster-1.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;A poster from the Research Strategies Poster Series&quot; /&gt;
@@ -121,7 +123,9 @@
 &lt;div class=&quot;text-center&quot;&gt;
     &lt;a href=&quot;https://ucla.box.com/v/SCILWorks2019Toolkit
 &quot; class=&quot;btn btn-primary&quot;&gt;Interactive Poster Toolkit &lt;i class=&quot;fas fa-external-link-alt&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
 &lt;/div&gt;</content><author><name>Kian</name></author><category term="Assessments and Reports" /><summary type="html">The Interactive Poster Series</summary></entry><entry><title type="html">The redesigned WI+RE website!</title><link href="http://localhost:4000/research-tips/sandbox/wire-website-redesign/" rel="alternate" type="text/html" title="The redesigned WI+RE website!" /><published>2019-01-12T00:00:00-08:00</published><updated>2019-01-12T00:00:00-08:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-website-redesign</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-website-redesign/">&lt;h2 id=&quot;redesigning-the-wire-website&quot;&gt;Redesigning the WI+RE website&lt;/h2&gt;
+
 
 &lt;p&gt;For the past few months now, the WI+RE Creative team has been working away on some major updates to our website. The site now features sections for workshops and handouts, portfolio pages for our creative team, improved accessibility, and a more visual approach to site navigation!&lt;/p&gt;
 
