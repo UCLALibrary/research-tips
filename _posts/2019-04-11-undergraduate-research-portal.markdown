@@ -16,17 +16,17 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 
 One of UCLA's greatest online assests is the Undergraduate Research Portal. This portal is designed for both faculty and students. Researchers and professors can post opportunities for students to search, and students can create a profile listing their skills, interests, and experiences that will help faculty find them. Students can also find opportunities themselves, filtering by academic credit, volunteer, paid, on campus, off campus, and more options tailored to their availability and passions.
 
-The following videos are designed to help faculty and students navigate the portals, respectively. Check them out to start posting opportunities,searching for potential research positions, and more! 
+The following videos are designed to help faculty and students navigate the portals, respectively. Check them out to start posting opportunities, searching for potential research positions, and more! 
 
 <div class="card">
   <!-- header with navigation tabs -->
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
       <li class="nav-item">
-        <a class="nav-link active" id="one-tab" data-toggle="tab" href="#one" role="tab" aria-controls="one" aria-selected="true">For faculty</a>
+        <a class="nav-link active" id="one-tab" data-toggle="tab" href="#one" role="tab" aria-controls="one" aria-selected="true">Example 1</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" id="two-tab" data-toggle="tab" href="#two" role="tab" aria-controls="two" aria-selected="false">For students</a>
+        <a class="nav-link" id="two-tab" data-toggle="tab" href="#two" role="tab" aria-controls="two" aria-selected="false">Example 2</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" id="three-tab" data-toggle="tab" href="#three" role="tab" aria-controls="three" aria-selected="false">Example 3</a>
