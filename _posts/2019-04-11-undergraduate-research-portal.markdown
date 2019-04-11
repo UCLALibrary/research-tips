@@ -38,12 +38,12 @@ The following videos are designed to help faculty and students navigate the port
     <div class="tab-content" id="myTabContent">
     <div class="tab-pane fade show active" id="one" role="tabpanel" aria-labelledby="one-tab">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=t8mgo_v9B1I" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t8mgo_v9B1I" allowfullscreen></iframe>
       </div>
     </div>
   <div class="tab-pane fade" id="two" role="tabpanel" aria-labelledby="two-tab">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=0gNNsNpt11g" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0gNNsNpt11g" allowfullscreen></iframe>
       </div>
     </div>
   <div class="tab-pane fade" id="three" role="tabpanel" aria-labelledby="three-tab"><div class="embed-responsive embed-responsive-16by9">
