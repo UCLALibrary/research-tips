@@ -23,13 +23,10 @@ The following videos are designed to help faculty and students navigate the port
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
       <li class="nav-item">
-        <a class="nav-link active" id="one-tab" data-toggle="tab" href="#one" role="tab" aria-controls="one" aria-selected="true">Example 1</a>
+        <a class="nav-link active" id="one-tab" data-toggle="tab" href="#one" role="tab" aria-controls="one" aria-selected="true">For faculty</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" id="two-tab" data-toggle="tab" href="#two" role="tab" aria-controls="two" aria-selected="false">Example 2</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" id="three-tab" data-toggle="tab" href="#three" role="tab" aria-controls="three" aria-selected="false">Example 3</a>
+        <a class="nav-link" id="two-tab" data-toggle="tab" href="#two" role="tab" aria-controls="two" aria-selected="false">For students</a>
       </li>
     </ul>
   </div>
@@ -44,11 +41,6 @@ The following videos are designed to help faculty and students navigate the port
   <div class="tab-pane fade" id="two" role="tabpanel" aria-labelledby="two-tab">
       <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0gNNsNpt11g" allowfullscreen></iframe>
-      </div>
-    </div>
-  <div class="tab-pane fade" id="three" role="tabpanel" aria-labelledby="three-tab"><div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mtaIGROpeuU" allowfullscreen></iframe>
-      </div>
       </div>
   </div>
 </div>
