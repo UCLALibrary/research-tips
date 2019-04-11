@@ -1,0 +1,41 @@
+---
+layout: default
+permalink: /404.html
+---
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Uh, oh - that page was not found</strong></p>
+    <p>¯\_(ツ)_/¯</p>
+    <p>Here are some things you might have been looking for:</p>
+    <div style="text-align: left;">  
+    <p>The <a href="{{ site.url }}">WI+RE homepage</a></p>  
+    <h2>Tutorials</h2>
+        {% for tutorial in site.tutorials %}
+            <p><a href="{{tutorial.url}}">{{tutorial.title}}</a></p>
+        {% endfor %}
+    <h2>Workshops</h2>
+        {% for workshop in site.workshops %}
+            <p><a href="{{workshop.url}}">{{workshop.title}}</a></p>
+        {% endfor %}
+    <h2>Handouts</h2>
+        {% for handout in site.handouts %}
+            <p><a href="{{handout.url}}">{{handout.title}}</a></p>
+        {% endfor %}
+    </div>
+</div>

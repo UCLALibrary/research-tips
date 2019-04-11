@@ -1,0 +1,54 @@
+---
+layout: page
+title: Tutorials and Videos
+description: Quick and practical research and writing tutorials.
+permalink: /tutorials/
+background: 
+---
+<!--Ideas: table of contents, ...?-->
+
+{% assign groups = site.tutorials | group_by: "category" | sort: "date" %}
+
+{% for group in groups %}
+    <div class="card mt-5 shadow">
+        <div class="card-header pt-4">
+            <h2 id="{{ group.name | slugify }}">{{ group.name }}</h2>
+        </div>
+        <div class="card-body">
+            <ul class="list-unstyled">
+            {% for tutorial in group.items %}
+                <li class="media mt-2">
+                        <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                            {% if tutorial.thumbnail %}
+                                <img src="{{ tutorial.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
+                            {% else %}
+                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Tutorial icon">
+                            {% endif %}
+                        </a>
+                    <div class="media-body">
+                            <h3 class="mt-0 mb-1"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
+                            <p class="post-subtitle text-justify">
+                                {% if tutorial.description %}
+                                    {{ tutorial.description }}
+                                {% else %}
+                                    {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
+                                {% endif %}
+                            </p>
+                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                            <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
+                            {% if tutorial.handout %}
+                                <a href="{{ tutorial.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                </li>
+                <hr>
+            {%endfor%}
+            </ul>
+        </div>
+    </div>
+{%endfor%}
+
+<hr>
+
+{% include pager.html %}

@@ -1,28 +1,47 @@
-<footer class="page-footer">
+<!-- Footer -->
+
+<hr>
+
+<footer>
   <div class="container">
     <div class="row">
-      <div class="col l6 s12">
-        <!--<h5 class="white-text"> {{ site.title }} </h5>-->
-        <p class="grey-text text-lighten-4"> {{ site.description }}</p>
-      </div>
-
-<div class="col l4 offset-l2 s12">
-    <!--    
-    <h5 class="white-text">Links</h5>
-        <ul>
-          <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-          <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          {% if site.twitter_username %}
+          <li class="list-inline-item">
+            <a href="https://www.twitter.com/{{ site.twitter_username }}" aria-label="{{ site.title }} Twitter account">
+              <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.facebook_username %}
+          <li class="list-inline-item">
+            <a href="https://www.facebook.com/{{ site.facebook_username }}" aria-label="{{ site.title }} Facebook account">
+                <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.github_username %}
+          <li class="list-inline-item">
+            <a href="https://github.com/{{ site.github_username }}" aria-label="{{ site.title }} Github repository">
+              <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
--->
+        <p class="copyright text-muted">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/" target="_blank"  aria-label="Creative Commons Attribution-NonCommercial-ShareAlike"><i class="fab fa-creative-commons  fa-3x"></i><i class="fab fa-creative-commons-by fa-3x"></i><i class="fab fa-creative-commons-nc fa-3x"></i><i class="fab fa-creative-commons-share fa-3x"></i></a><br>
+            All content on this site is Creative Commons Attribution-NonCommercial-ShareAlike by  {{ site.author }} {{ 'now' | date: "%Y" }}</p>
       </div>
-    </div>
-  </div>
-
-  <div class="footer-copyright">
-    <div class="container">
-    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">{{ site.name }}</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://library.ucla.edu" property="cc:attributionName" rel="cc:attributionURL">UCLA Library</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
     </div>
   </div>
 </footer>
-
-</body></html>

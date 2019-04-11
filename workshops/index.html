@@ -1,0 +1,51 @@
+---
+layout: page
+title: Workshops
+description: Interactive workshops to guide you through the research and writing process.
+permalink: /workshops/
+background: 
+---
+
+{% assign groups = site.workshops | group_by: "category" | sort: "date" %}
+
+{% for group in groups %}
+    <div class="card mt-5">
+        <div class="card-header pt-4">
+            <h2>{{ group.name }}</h2>
+        </div>
+        <div class="card-body">
+            <ul class="list-unstyled">
+            {% for workshop in group.items %}
+                <li class="media mt-2">
+                        <a href="{{ workshop.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                            {% if workshop.thumbnail %}
+                                <img src="{{ workshop.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Workshop icon">
+                            {% else %}
+                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Generic workshop icon">
+                            {% endif %}
+                        </a>
+                    <div class="media-body">
+                            <h3 class="mt-0 mb-1"><a href="{{ workshop.url | relative_url | replace: '//', '/' }}">{{ workshop.title }}</a></h3>
+                            <p class="post-subtitle text-justify">
+                                {% if workshop.description %}
+                                    {{ workshop.description }}
+                                {% endif %}
+                            </p>
+                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                            <a href="{{ workshop.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Start the Workshop</a>
+                            {% if workshop.handout %}
+                                <a href="{{ workshop.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Download the Handout</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                </li>
+                <hr>
+            {%endfor%}
+            </ul>
+        </div>
+    </div>
+{%endfor%}
+
+<hr>
+
+{% include pager.html %}

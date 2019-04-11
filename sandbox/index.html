@@ -1,0 +1,73 @@
+---
+layout: page
+title: WI+RE Sandbox ⛱
+description: A place for the WI+RE creative team to experiment, prototype, and talk about our work!
+permalink: /sandbox/
+background: '/assets/images/sand.jpg'
+---
+{% capture member-name-list %}{{ site.team-members | map: 'title' | split: ',' }}{% endcapture %}
+{% assign groups = site.posts | group_by: "category" | sort: "date" %}
+
+<!-- need to adjust this for responsive cards and improve card content -->
+<!--
+{% for group in groups %}
+    <div class="card mt-5 shadow w-50">
+        <div class="card-header pt-4">
+            <h2>{{ group.name }}</h2>
+        </div>
+        <ul>
+        {% for post in group.items %}
+                <li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>. Posted by
+              {% if post.authors %}
+                {% for authorname in post.authors %}
+                    {% if member-name-list contains authorname %}
+                        <a href="{{ authorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
+                    {% else %}
+                        {{ authorname }}{% if forloop.last == false %},{% endif %}
+                    {% endif %}
+                {% endfor %}
+              {% else %}
+                <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+              {% endif %}
+              on {{ post.date | date: '%B %d, %Y' }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+{% endfor %}
+-->
+
+
+{% for group in groups %}
+<div class="card mt-5 shadow">
+    <div class="card-header pt-4">
+        <h2>{{ group.name }}</h2>
+    </div>
+    {% for post in group.items %}
+        <article class="post-preview m-5">
+            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+              <h3 class="post-title">{{ post.title }}</h3>
+              {% if post.subtitle %}
+              <h4 class="post-subtitle">{{ post.subtitle }}</h4>
+              {% else %}
+              <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4>
+              {% endif %}
+            </a>
+            <p class="post-meta">Posted by
+              {% if post.authors %}
+                {% for authorname in post.authors %}
+                    {% if member-name-list contains authorname %}
+                        <a href="{{ authorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
+                    {% else %}
+                        {{ authorname }}{% if forloop.last == false %},{% endif %}
+                    {% endif %}
+                {% endfor %}
+              {% else %}
+                <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+              {% endif %}
+              on {{ post.date | date: '%B %d, %Y' }}</p>
+  </article>
+    <hr>
+    {% endfor %}
+</div>
+{% endfor %}
+

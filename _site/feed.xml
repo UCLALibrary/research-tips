@@ -1,1310 +1,633 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>WI+RE</title>
-    <description>Quick and practical research and writing strategies, collaboratively designed by students, teachers, and librarians at UCLA.</description>
-    <link>https://uclalibrary.github.io/research-tips/</link>
-    <atom:link href="https://uclalibrary.github.io/research-tips/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 May 2018 12:33:24 -0700</pubDate>
-    <lastBuildDate>Fri, 25 May 2018 12:33:24 -0700</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
-    
-      
-      <item>
-        <title>Reading Strategies</title>
-        <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2019-04-08T15:01:59-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">WI+RE goes to the 2019 Powell Society Dinner!</title><link href="http://localhost:4000/research-tips/sandbox/powell-society-dinner/" rel="alternate" type="text/html" title="WI+RE goes to the 2019 Powell Society Dinner!" /><published>2019-04-05T00:00:00-07:00</published><updated>2019-04-05T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/powell-society-dinner</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/powell-society-dinner/">&lt;p&gt;On March 27, 2019, members of the WI+RE creative team spent an evening engaging with members of the Powell Society at the Powell Society Dinner. This is an event where library patrons come together to learn about library resources that have been supported by their contributions. Check out this video recap of the event! (That’s us in the thumbnail!)&lt;/p&gt;
 
-&lt;!-- this is a comment, we use comments to write notes that only appear in code --&gt;
-&lt;!-- we also use comment to mark off sections of code to make things easier to read and scan --&gt;
-&lt;!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. --&gt;
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Last week we celebrated members of the Powell Society, whose generous gifts have a transformative effect on Library users. To learn more about the Powell Society and other giving opportunities call (310) 206-8526, or make a gift at &lt;a href=&quot;https://t.co/QPXif1qHeG&quot;&gt;https://t.co/QPXif1qHeG&lt;/a&gt;. &lt;a href=&quot;https://t.co/tcLT6l4Ed7&quot;&gt;pic.twitter.com/tcLT6l4Ed7&lt;/a&gt;&lt;/p&gt;&amp;mdash; UCLA Library (@UCLA_Library) &lt;a href=&quot;https://twitter.com/UCLA_Library/status/1113874604160737280?ref_src=twsrc%5Etfw&quot;&gt;April 4, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;!-- Start Plan Your Reading Session --&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/plan.png&quot; alt=&quot;Coffee Cup&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Plan Your Reading Session
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot;row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                &lt;p&gt;Planning your reading session can improve your reading efficiency by preventing distraction and burnout&lt;/p&gt; &lt;!--experiment with setting at p level --&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Gauge the quantity of reading and the time you have to read it.&lt;/li&gt;
-                &lt;li&gt;Be honest with yourself about how long your attention span is and how interested you are in the text.&lt;/li&gt;
-                &lt;li&gt;Schedule breaks or give yourself rewards every few pages or minutes during long reading sessions.&lt;/li&gt;
-                &lt;li&gt;Find a suitable reading environment. You can reserve study rooms here in the &lt;a href=&quot;http://www.library.ucla.edu/clicc/study-rooms&quot; target=&quot;blank&quot;&gt;library&lt;/a&gt; or &lt;a href=&quot;https://reslife.ucla.edu/reserve/&quot; target=&quot;blank&quot;&gt;residential halls&lt;/a&gt;.&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Plan Your Reading Session profile --&gt;&lt;/p&gt;
+&lt;p&gt;The WI+RE team was stationed at a table called “Students in the Lead: The Impact of UCLA Library Employment,” which featured student employees in the UCLA Library who have benefited from the skills they nurtured throughout the course of their employment. We had a great time talking to patrons about our experience creating instructional materials and the skill-sets we’ve developed as a result. Patrons were able to experience our resources firsthand by playing &lt;a href=&quot;https://uclalibrary.github.io/research-tips/primary-secondary/&quot;&gt;Wheel of Sources&lt;/a&gt;, our interactive video on primary and secondary sources.&lt;/p&gt;
 
-&lt;p&gt;&lt;!-- Start Turn Headings Into Questions --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/questions.png&quot; alt=&quot;Question Mark&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt; &lt;!-- should this be a heading? --&gt;
-                Turn Headings Into Questions
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt; &lt;!-- trying to set at div level --&gt;
-                &lt;p&gt;This strategy will ensure that you acquire relevant knowledge as you read a textbook or journal article.
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Restate section headings as questions. For example, a section heading titled, “Youth Social Media Use” could be turned into, “How do youth in different communities use social media? &lt;/li&gt;
-                &lt;li&gt;As you read and take notes, keep your question in mind. Write down information that answers the question.&lt;/li&gt;
-                &lt;li&gt;In the end, you should be able to summarize the answer to your question.&lt;/li&gt;
-                &lt;li&gt;You may need to revise your question if the content doesn't match up.&lt;/li&gt;
-                &lt;/ul&gt;&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Turn Headings Into Questions --&gt;&lt;/p&gt;
+&lt;p&gt;You can take a look at our slideshow featuring student leaders in the UCLA Library below:&lt;/p&gt;
 
-&lt;p&gt;&lt;!-- Start Take Relevant Notes--&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/notes.png&quot; alt=&quot;Paper and Pencil&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Take Relevant Notes
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                &lt;p&gt;Taking notes that are tailored to your assignment will save you time and effort.&lt;/p&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Ask yourself, “How will I be asked to demonstrate my knowledge of the text?”&lt;/li&gt;
-                &lt;li&gt;If the answer is a multiple-choice exam, make sure you’re keeping track of important terms and facts.&lt;/li&gt;
-                &lt;li&gt;If the answer is an essay, look out for useful quotes or themes.&lt;/li&gt;
-                &lt;li&gt;If you are expected to discuss the text in section, take down some of your questions and thoughts on the text.&lt;/li&gt;
-                &lt;li&gt;Structure your notes so that you will be able to access the important information when the time comes to demonstrate your knowledge. &lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Take Relevant Notes --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- Start Paraphrase as You Read --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/paraphrase.png&quot; alt=&quot;Thought Bubble&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Paraphrase as You Read
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                &lt;p&gt;Summarizing content in your own words ensures that you have understood the text and helps you remember what you’ve read.&lt;/p&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Whenever you encounter an important concept, paraphrase it in your notes or outline.&lt;/li&gt;
-                &lt;li&gt;Avoid summarizing using the exact words in the text, taking notes verbatim is not nearly as effective as writing in your own words.&lt;/li&gt;
-                &lt;li&gt;A few words or a sentence will suffice for each summary.&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Paraphrase as You Read  --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- Start Make an Annotation Legend --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/annotation.png&quot; alt=&quot;Legend&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Make an Annotation Legend
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                &lt;p&gt;Creating a key of symbols for annotating can help you make meaningful annotations that you can reference in the future.&lt;/p&gt;
-                &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;For example, a star might denote a main idea. Or a square might denote a connection to another text.&lt;/li&gt;
-                &lt;li&gt;Your key of symbols will vary from text to text, depending on what you are looking for!&lt;/li&gt;
-                &lt;li&gt;Avoid just highlighting or underlining— instead, make annotations that demonstrate and advance your understanding of the text.&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col s12 m5&quot;&gt;
-                &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Make an Annotation Legend  --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- Start Vary Your Reading Speed--&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/speed.png&quot; alt=&quot;Spedometor&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Vary Your Reading Speed
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-     &lt;div class=&quot;collapsible-body&quot;&gt;
-         &lt;div class=&quot;row&quot;&gt;
-             &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                 &lt;p&gt;Decreasing and increasing your speed as the content of the text changes can help you read efficiently.&lt;/p&gt;
-                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Decrease speed when you encounter unfamiliar ideas, complicated technical material, and content you want to memorize.&lt;/li&gt;
-                 &lt;li&gt;Increase speed when you encounter familiar ideas, redundant examples, irrelevant information, and unnecessary elaborations.&lt;/li&gt;
-                 &lt;li&gt;Use key phrases to identify when to decrease speed. For example, if you already understand the concept, you can speed up when you see the phrase “for example.” But you might want to slow down when you see something like “Conversely” which indicates a shift or new perspective.&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/div&gt;
-             &lt;div class=&quot;col s12 m5&quot;&gt;
-                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-     &lt;/div&gt;
-     &lt;/li&gt;
-     &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Vary Your Reading Speed --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- New Vocabulary --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/vocabulary.png&quot; alt=&quot;Dictionary&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Prioritize New Vocabulary
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-     &lt;div class=&quot;collapsible-body&quot;&gt;
-         &lt;div class=&quot;row&quot;&gt;
-             &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                 &lt;p&gt;Dealing with unfamiliar words appropriately will aid your comprehension of the text and boost your vocabulary.&lt;/p&gt;
-                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Differentiate between words to look up right now, words to look up later, and words that are not crucial to understanding the course material.&lt;/li&gt;
-                &lt;li&gt;If you cannot move forward in the text without understanding the meaning of a certain word, look it up now. &lt;/li&gt;
-                 &lt;li&gt;If a word is frequently repeated within a text, but you can still understand the text from context clues, it’s probably worth looking up later. Circle it and come back later.&lt;/li&gt;
-                 &lt;li&gt;Words that are only used once and don’t crucially impact your understanding of the text don’t need to be addressed right away. Don't let them distract you from the broader meaning of the text.&lt;/li&gt;
-                     &lt;li&gt;Develop a system for making your vocabulary easily accessible, like a circle that means &quot;look up later.&quot;&lt;/li&gt;
-                 &lt;/ul&gt;
-             &lt;/div&gt;
-             &lt;div class=&quot;col s12 m5&quot;&gt;
-                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-             &lt;/div&gt;
-         &lt;/div&gt;
-     &lt;/div&gt;
-     &lt;/li&gt;
-     &lt;/ul&gt;
-&lt;p&gt;&lt;!-- New Vocabulary --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- Start Identifying Uncertainties --&gt;&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-1 hoverable blue grey lighten-5 col s12&quot;&gt;
-         &lt;div class=&quot;row valign-wrapper col m6&quot;&gt;
-         &lt;div class=&quot; col s3&quot;&gt;
-              &lt;img src=&quot;/research-tips/assets/img/uncertainties.png&quot; alt=&quot;Graph with a chunk missing&quot; class=&quot;responsive-img&quot; /&gt; 
-        &lt;/div&gt;
-       &lt;div class=&quot;col s9&quot;&gt;
-             &lt;b&gt;&lt;span class=&quot;black-text&quot;&gt;
-                Identify Uncertainties
-                 &lt;/span&gt;&lt;/b&gt;
-             &lt;/div&gt;
-       &lt;/div&gt;
-       &lt;div class=&quot; row col m6&quot;&gt;&lt;center&gt;&lt;i class=&quot;material-icons md-36&quot;&gt;arrow_drop_down&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-     &lt;div class=&quot;collapsible-body&quot;&gt;
-         &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col s12 m7 smalltext&quot;&gt;
-                 &lt;p&gt;Designate a symbol, highlighter color, or other marker that you can use to make note of bits of text that you don’t understand or want more clarification on.&lt;/p&gt;
-                 &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;Make note of what you don’t understand… Then try to move on! &lt;/li&gt;
-                 &lt;li&gt;Don’t get bogged down by uncertainties—this can hinder your ability to comprehend the text as a whole.&lt;/li&gt;
-                 &lt;li&gt;It’s possible your question gets answered later on in the text! But if not, consider visiting your professor or TA to resolve your questions that you cannot answer using the text.&lt;/li&gt;
-                 &lt;/ul&gt;
-             &lt;/div&gt;
-             &lt;div class=&quot;col s12 m5&quot;&gt;
-                 &lt;img src=&quot;/research-tips/assets/img/coming_soon.png&quot; alt=&quot;Video Coming Soon!&quot; class=&quot;responsive-img&quot; /&gt;
-             &lt;/div&gt;
-         &lt;/div&gt;
-     &lt;/div&gt;
-     &lt;/li&gt;
-     &lt;/ul&gt;
-&lt;p&gt;&lt;!-- End Identifying Uncertainties --&gt;&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 07 Apr 2018 14:15:05 -0700</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/reading-strategies/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/reading-strategies/</guid>
-        
-        
-        <category>Getting Started</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Finding Scholarly Articles</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Ready to get the most out of your article search? This tutorial will help you successfully navigate search filters, construct effective searches, and download the full texts of your articles!&lt;/p&gt;
-
-&lt;iframe width=&quot;90%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/sH9h4xkY4ys&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;Visit your favorite database, or &lt;a href=&quot;http://www.library.ucla.edu/#databases&quot; target=&quot;_blank&quot;&gt;www.library.ucla.edu/#databases&lt;/a&gt;, and get searching! Use the tips you learned in the video to make sure that your search is neither too broad nor too narrow!&lt;/p&gt;
-
-&lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
-
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;Use synonyms or asterisks to broaden your search.&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;Use search filters and sorting options to narrow your search. &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;stars&lt;/i&gt;Use opposite search terms to find out if some authors have found conflicting results.&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header hoverable&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;ondemand_video&lt;/i&gt;For more help on turning your questions into keywords:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;/research-tips/embeds/turn-questions-into-keywords/&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header hoverable&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;forum&lt;/i&gt;Want to talk about it? Set up a &lt;em&gt;free research consultation&lt;/em&gt; to get help with research guides:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;p&gt;Ask a librarian &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;24/7 chat service&lt;/a&gt;.&lt;/p&gt;
-          &lt;p&gt;Set up a &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;research consultation at a UCLA Library&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Ready to get the most out of your article search? This tutorial will help you successfully navigate search filters, construct effective searches, and download the full texts of your articles!&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 11 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/finding-scholarly-articles/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/finding-scholarly-articles/</guid>
-        
-        
-        <category>Finding and Citing Sources</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Integrating Citations</title>
-        <description>&lt;p class=&quot;intro&quot; font-size=&quot;1&quot;&gt;Looking to vary the ways in which you cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s4&quot;&gt;&lt;img src=&quot;http://i.imgur.com/jhXEWwP.gif&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;col s8 intro&quot; font-size=&quot;1&quot;&gt;Now that you've done your research, it's time to cite your sources. We sampled several academic papers to show you a variety of ways you can integrate your sources into your own writing. Use these strategies to diversify your writing and show your readers how your sources contributed to your work!&lt;/div&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQ77LuY5UqfRZ2YKtW2XULy-ode2DHOSmP8di8CNc7un4T3GObYzVXceg5EIAnQMXWesAzJmUXLZ4KS/embed?start=false&amp;amp;loop=true&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;480&quot; height=&quot;299&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;citation-structures&quot;&gt;Citation Structures:&lt;/h3&gt;
+&lt;p&gt;Overall, the Powell Society Dinner was a wonderful opportunity for us to share our resources with supporters of the library (and to stuff our faces with delicious pie). We look forward to attending next year!&lt;/p&gt;</content><author><name>Kian</name></author><category term="Updates" /><summary type="html">On March 27, 2019, members of the WI+RE creative team spent an evening engaging with members of the Powell Society at the Powell Society Dinner. This is an event where library patrons come together to learn about library resources that have been supported by their contributions. Check out this video recap of the event! (That’s us in the thumbnail!)</summary></entry><entry><title type="html">Providing Research Help - Video Series</title><link href="http://localhost:4000/research-tips/sandbox/providing-research-help/" rel="alternate" type="text/html" title="Providing Research Help - Video Series" /><published>2019-04-05T00:00:00-07:00</published><updated>2019-04-05T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/providing-research-help</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/providing-research-help/">&lt;p&gt;Over the course of August 2018, the WI+RE team collaborated with librarians and student employees to produce a series of training videos for inquiry specialists in the UCLA Library. Inquiry specialists are student employees who help library patrons with a number of research-related tasks, including turning research questions into keywords, searching for articles in library databases, and finding books in the library.&lt;/p&gt;
 
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim without a quote&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
-    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-       &lt;div class=&quot;collapsible-body&quot;&gt;
-       &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-       &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;Some view cities as the storehouse of culture and creativity, and propose that urbanization is a consequence of the attractiveness of these social benefits&lt;/markgreen&gt; (&lt;markyellow&gt;Mumford, 1961&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt;  Oftentimes you do not need to directly quote a source to convey its conclusions or arguments – and some disciplines discourage quoting directly! Rather you can paraphrase the main point of a paper in your own words and provide an in-text citation. A benefit of using this strategy is that you can offer support for a claim without using a whole paragraph to introduce and frame a quote. You should make sure that you fully understand the paper's argument and that you are following university citation guidelines before attempting to paraphrase something from a paper. For aditional resources on paraphrasing click &lt;a href=&quot;http://guides.library.ucla.edu/bruin-success/3-11&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim that is supported by two or more sources&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt; (&lt;markyellow&gt;Citation 1&lt;/markyellow&gt;; &lt;markyellow&gt;Citation 2&lt;/markyellow&gt;).&lt;/p&gt; &lt;/div&gt;
-    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;Reviews of this literature concede difficulty in making direct comparisons of emission levels across different sets of analysis&lt;/markgreen&gt; (&lt;markyellow&gt;Bader and Bleischwitz, 2009&lt;/markyellow&gt;; &lt;markyellow&gt;Kennedy et al., 2009&lt;/markyellow&gt;; &lt;markyellow&gt;Ramaswami et al., 2012&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt; Sometimes there’s not just one source that perfectly supports your claim, or there are two major publications that deserve credit for providing evidence on a topic. This is a perfect time to use multiple citations. You can cite two, three, or more sources, but remember to cite only the publications that are most prominent so as not to clutter up your paper.&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Make a claim that has been supported in multiple contexts&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Context 1&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;), &lt;markgreen&gt;Context 2&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;), &lt;markgreen&gt;Context 3&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
-      &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-      &lt;/div&gt; 
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;These results are supported by more recent research on transportation energy consumption&lt;/markgreen&gt;  (&lt;markyellow&gt;Liddle, 2014&lt;/markyellow&gt;), &lt;markgreen&gt;electricity consumption in buildings&lt;/markgreen&gt; (&lt;markyellow&gt;Lariviere and Lafrance, 1999&lt;/markyellow&gt;), &lt;markgreen&gt;and overall urban GHG emissions&lt;/markgreen&gt; (&lt;markyellow&gt;Marcotullio et al., 2013b&lt;/markyellow&gt;). &lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt;Use this citation strategy when you want to show that a body of research has found support for some claim across several different contexts. This can show the robustness of an effect or phenomenon and can give your claim some added validity.&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Quote important or unique terms&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt; &quot;&lt;markyellow&gt;Term&lt;/markyellow&gt;&quot;(&lt;markyellow&gt;Citation&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
-    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-    &lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;The spatial implications of this thinking are manifest in the&lt;/markgreen&gt; &quot;&lt;markyellow&gt;concentric ring model&lt;/markyellow&gt;&quot; &lt;markgreen&gt;of urban expansion and its variants&lt;/markgreen&gt; (&lt;markyellow&gt;Harris and Ullman, 1945&lt;/markyellow&gt;)&lt;/p&gt;&lt;/div&gt;
-     &lt;div&gt; &lt;p&gt;While block or even whole-sentence citations are rare in most research papers in the science and social science disciplines, there is often a need to quote specific terms or phrases that were first coined by a certain source or that were well-explained in a specific paper.&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt; 
-    
-     &lt;li&gt; 
-     &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-     &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Use a direct quotation&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-     &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;markgreen&gt;Introduce quote&lt;/markgreen&gt;, &quot;&lt;markyellow&gt;Quotation&lt;/markyellow&gt;.&quot; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;)&lt;/p&gt;&lt;/div&gt;
-     &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-     &lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-       &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markgreen&gt;China’s &lt;/markgreen&gt; &quot;&lt;markyellow&gt;radical&lt;/markyellow&gt;” &lt;markgreen&gt;urbanization has underpinned the country’s economicgrowth and has been key to the nation’s economic growth strategy&lt;/markgreen&gt; (&lt;markyellow&gt;McGranahan et al., 2014&lt;/markyellow&gt;)&lt;/p&gt;&lt;/div&gt;
-      &lt;div&gt;&lt;p&gt;The appropriateness of quoting directly from a text varies widely across fields and document types. However, if it makes sense for your field and your purpose, a direct quotation can bring attention to specific language in your source.&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
+&lt;p&gt;The series consists of three videos that provide examples of inquiry specialists assisting library patrons with their research needs. The first video is an example of a negative interaction, the second video portrays a passable interaction, and the third is an example of a superb interaction. Click the tabs below to watch the videos!&lt;/p&gt;
 
-&lt;h3 id=&quot;specific-citation-strategies&quot;&gt;Specific Citation Strategies:&lt;/h3&gt;
-
-&lt;p&gt;You can use the structures provided above to cite and support all sorts of claims! Take a look at these examples of how you can use these strategies to help your reader understand the sources and how you are using them.&lt;/p&gt;
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-   &lt;li&gt;
-      &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
-      &lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Summarize your source&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;p class=&quot;two&quot; style=&quot;background:white;&quot;&gt;&lt;markgreen&gt;The studies of Newman and Kenworthy&lt;/markgreen&gt; (&lt;markyellow&gt;1989, 1999&lt;/markyellow&gt;) &lt;markgreen&gt;demonstrate a negative relationship between population density and transportation fuel use&lt;/markgreen&gt;.&lt;/p&gt;&lt;/font&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;You will help your reader understand your points better if you summarize the key points of a study. Describe the strengths or weaknesses a specific source that has been pivotal in your field. Describe the source's specific methodology, theory, or approach. Be sure to still include a citation. If you mention the name of the author in your text, you still need to provide the date of the study in a parenthetical citation.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
-      &lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Cite a method&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot; style=&quot;background:white;&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;markgreen&gt;Despite the popularity of the&lt;/markgreen&gt; &lt;markyellow&gt;WUP indicators&lt;/markyellow&gt;, &lt;markgreen&gt;they have been routinely criticized because the methodology relies on local- andcountry-speciﬁc deﬁnitions of bounding urban areas, resulting in of ten incomparable and widely diver-gent deﬁnitions of the population, density thresholds, or administrative/political units designated&lt;/markgreen&gt; (&lt;markyellow&gt;Sat-terthwaite, 2007&lt;/markyellow&gt;). &lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;This is an easy way to give credit to a source that has provided some evidence for the vailidity of a method or questionaire. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
-       &lt;/div&gt;
-    &lt;/li&gt;  
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-2 green lighten-5&quot;&gt;
-    &lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Compare sources&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;div&gt;&lt;p class=&quot;two&quot; style=&quot;background:white;&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;markgreen&gt;Some evidence for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities&lt;/markgreen&gt; (&lt;markyellow&gt;Bettencourt et al., 2007&lt;/markyellow&gt;; &lt;markyellow&gt;Fragkias et al., 2013&lt;/markyellow&gt;). &lt;markgreen&gt;Other evidence suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities&lt;/markgreen&gt; (&lt;markyellow&gt;Marcotullio et al., 2013&lt;/markyellow&gt;).&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;
+  &lt;!-- header with navigation tabs --&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;ul class=&quot;nav nav-tabs card-header-tabs&quot;&gt;
+      &lt;li class=&quot;nav-item&quot;&gt;
+        &lt;a class=&quot;nav-link active&quot; id=&quot;one-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#one&quot; role=&quot;tab&quot; aria-controls=&quot;one&quot; aria-selected=&quot;true&quot;&gt;Example 1&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&quot;nav-item&quot;&gt;
+        &lt;a class=&quot;nav-link&quot; id=&quot;two-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#two&quot; role=&quot;tab&quot; aria-controls=&quot;two&quot; aria-selected=&quot;false&quot;&gt;Example 2&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&quot;nav-item&quot;&gt;
+        &lt;a class=&quot;nav-link&quot; id=&quot;three-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#three&quot; role=&quot;tab&quot; aria-controls=&quot;three&quot; aria-selected=&quot;false&quot;&gt;Example 3&lt;/a&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
-
-&lt;p&gt; These are only a few of the ways you can use souces to provide support for your argument. Explore other papers in your field to get even more ideas on how to effectively integrate sources into your writing. &lt;/p&gt;
-
-&lt;h3 id=&quot;heads-up&quot;&gt;Heads Up:&lt;/h3&gt;
-
-&lt;p&gt;How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.
-
-&lt;!-- this looks like it is not ready to go yet, but it is super cool! looking forward to future development! --&gt;
-&lt;!--&lt;p&gt;For more information on how to read for writing style, check out our &lt;a href=&quot;/research-tips/checklist&quot;&gt;Reading for Writing Checklist&lt;/a&gt;.&lt;/p&gt;--&gt;
-
-&lt;p style=&quot;font-size: small;&quot;&gt;Marcotullio, P. J., Hughes, S., Sarzynski, A., Pincetl, S., Sanchez Peña, L., Romero-Lankao, P., Runfola, D. and Seto, K. C. (2014), Urbanization and the carbon cycle: Contributions from social science. Earth's Future, 2: 496–514. doi:10.1002/2014EF000257&lt;/p&gt;
- 
- &lt;!--  &lt;li&gt;
-      &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Talk in depth about the strengths or weaknesses one specific study or source&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markgreen&gt;Claim&lt;/markgreen&gt;, &lt;markyellow&gt;Citation&lt;/markyellow&gt; &lt;markgreen&gt;Discussion&lt;/markgreen&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- card body with tab content --&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;div class=&quot;tab-content&quot; id=&quot;myTabContent&quot;&gt;
+    &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;one&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;one-tab&quot;&gt;
+      &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/lCbah9EJ4vc&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; &lt;markgreen&gt;The studies of Newman and Kenworthy&lt;/markgreen&gt; (&lt;markyellow&gt;1989, 1999&lt;/markyellow&gt;) &lt;markgreen&gt;demonstrate a negative relationship between population density and transportation feul use&lt;/markgreen&gt;. &lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt;This strategy should be used to discuss pivotal pieces of work in your field or to describe a shift or outlier in methodology, theory, approach etc.&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Cite a source that created or provided validation for a method&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt; &lt;markpurple&gt;Method&lt;/markpurple&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
-      &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-          &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt; quote coming! &lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt;This is an easy way to provide some evidence for the vailidity of your method or study design. Readers can reference your citation if they are interested in knowing more about the method and its standing in the current literature.&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;  
-    &lt;li&gt;
-    &lt;div class=&quot;collapsible-header row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;b&gt;Compare sources&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;&lt;p&gt;&lt;markgreen&gt;Claim&lt;/markgreen&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;) &lt;markpink&gt;Comparison&lt;/markpink&gt; (&lt;markyellow&gt;Citation&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
-    &lt;div&gt;&lt;center&gt;&lt;i class=&quot;fa fa-angle-double-down&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/center&gt;&lt;/div&gt;
     &lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-      &lt;div class=&quot;intro&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;/div&gt;
-          &lt;div class=&quot;col s12 m5;m8&quot;&gt;&lt;p class=&quot;two&quot;&gt;&lt;markpink&gt;Some evidence&lt;/markpink&gt; &lt;markgreen&gt;for this scalling relationship suggests that urban areas with larger population sizes have proportionally smaller energy infrastructures than smaller cities&lt;/markgreen&gt; (&lt;markyellow&gt;Bettencourt et al., 2007&lt;/markyellow&gt;; &lt;markyellow&gt;Fragkias et al., 2013&lt;/markyellow&gt;). &lt;markpink&gt;Other evidence&lt;/markpink&gt; &lt;markgreen&gt;suggests that GHG emissions may increase more than proportionally to population size, such that larger cities exhibit proportionally higher energy demand as they grow than do smaller cities&lt;/markgreen&gt; (&lt;markyellow&gt;Marcotullio et al., 2013&lt;/markyellow&gt;).&lt;/p&gt;&lt;/div&gt;
-       &lt;div&gt;&lt;p&gt;This is one of the most important techniques for creating an effective literature review. This allows you and your readers to consider controversies and discrepancies among the current literature, revealing gaps in the literature or points of contension for further study. &lt;/p&gt;&lt;/div&gt;
+  &lt;div class=&quot;tab-pane fade&quot; id=&quot;two&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;two-tab&quot;&gt;
+      &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/yXNTZYFRKcc&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/div&gt;
-      &lt;/li&gt; --&gt;
-&lt;/p&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot; font-size=&quot;1&quot;&gt;Looking to vary the ways in which you cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;tab-pane fade&quot; id=&quot;three&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;three-tab&quot;&gt;&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/mtaIGROpeuU&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- --&gt;
 
-</description>
-        
-        <pubDate>Mon, 11 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/integrating-citations/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/integrating-citations/</guid>
-        
-        
-        <category>Writing with Sources</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Expanding Perspectives in Your Search</title>
-        <description>&lt;p class=&quot;flow-text&quot;&gt;This tutorial challenges researchers and students to actively seek sources that push outside of their starting perspective. With a more balanced survey of the literature, you will be able to refine and hone your research question within the context of the broader research.&lt;/p&gt;
+&lt;p&gt;Members of the WI+RE team were involved in every step of the process. We collaborated on the script and storyboard, filmed the video, and edited the final product. Here are some photos of the team in action on the day of the shoot.&lt;/p&gt;
 
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rx7RYxP6QM0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
-
-&lt;p&gt; Once you have chosen a few areas to actively expand your perspective, you will need to make important decions about what to include and exclude from your search.&lt;p&gt;
-&lt;p&gt; Be sure to refer to your assignment guidelines as to what types of sources are appropriate and how much evidence you are expected to provide. If you are not working inside an assignment for a class, try looking at a few articles in your discipline to see what types of sources they include and what the conventions of the field are!&lt;/p&gt; 
-&lt;p&gt; Good Luck! &lt;/p&gt;
-
-&lt;/p&gt;&lt;/p&gt;
-</description>
-        
-          <description>&lt;p class=&quot;flow-text&quot;&gt;This tutorial challenges researchers and students to actively seek sources that push outside of their starting perspective. With a more balanced survey of the literature, you will be able to refine and hone your research question within the context of the broader research.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/expanding-perspectives/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/expanding-perspectives/</guid>
-        
-        <category>expanding perspectives</category>
-        
-        <category>search bias</category>
-        
-        
-        <category>Finding and Citing Sources</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Creating Literature Reviews</title>
-        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-&lt;!-- &lt;p class=&quot;flow-text&quot;&gt;Literature reviews are great resources for research projects in all disciplines. Not only do they present the key ideas in a field and point to must-read articles, but they also suggest directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review - covering everything from your role as the author of a literature review to organizational approaches and writing strategies.&lt;/p&gt; &lt;BR&gt; &lt;p&gt; This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. &lt;/p&gt; --&gt;
-&lt;p class=&quot;flow-text&quot;&gt;Literature reviews are great resources for research projects in all disciplines, presenting the key ideas in a field, pointing to must-read articles, and sugesting directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review.&lt;/p&gt;
-&lt;p&gt; This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. &lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u-jg92ZjObg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;the-process&quot;&gt;The Process&lt;/h3&gt;
-&lt;p class=&quot;flow-text&quot;&gt;&quot;The Literature&quot; in literature reviews refers to the body of scholarly research on a topic - including articles, books, datasets, and more. After you’ve gathered a mix of resources for your review, it’s tempting to summarize each one and call it a day. However, literature reviews are more than a collection of summaries: they analyze connections and disagreements between sources, identify gaps in the collective knowledge, and more. Check out the video below for more information:&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZDhHkKO3urg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;iframe src=&quot;https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWIREbruin%2Fposts%2F2109597252700591&amp;amp;width=500&quot; width=&quot;500&quot; height=&quot;713&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;types-of-literature-reviews&quot;&gt;Types of Literature Reviews&lt;/h3&gt;
+&lt;p&gt;Producing this project was a blast, and we hope that future inquiry specialists will find these videos helpful!&lt;/p&gt;</content><author><name>Kian</name></author><category term="Updates" /><summary type="html">Over the course of August 2018, the WI+RE team collaborated with librarians and student employees to produce a series of training videos for inquiry specialists in the UCLA Library. Inquiry specialists are student employees who help library patrons with a number of research-related tasks, including turning research questions into keywords, searching for articles in library databases, and finding books in the library.</summary></entry><entry><title type="html">Interactive Poster Series - Research Strategies</title><link href="http://localhost:4000/research-tips/sandbox/research-process-poster-series/" rel="alternate" type="text/html" title="Interactive Poster Series - Research Strategies" /><published>2019-03-21T00:00:00-07:00</published><updated>2019-03-21T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/research-process-poster-series</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/research-process-poster-series/">&lt;h2 id=&quot;the-interactive-poster-series&quot;&gt;The Interactive Poster Series&lt;/h2&gt;
 
-&lt;p class=&quot;flow-text&quot;&gt;As mentioned in the first video, literature reviews can take different shapes based on your research needs. You can either have a narrow or broad focus, and the finished piece can stand on its own or be part of a bigger project.&lt;/p&gt;
-&lt;p&gt;&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/lit-review-plot.jpg&quot; alt=&quot;Types of reviews and where to use them&quot; data-caption=&quot;Types of reviews and where to use them&quot; /&gt; 
-&lt;i&gt;Image adapted from NCSU Libraries’ Graduate Student Literature Review Workshop.&lt;/i&gt;&lt;/p&gt;
+&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
+  &lt;img src=&quot;/research-tips/assets/images/poster-1.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;A poster from the Research Strategies Poster Series&quot; /&gt;
+  &lt;figcaption class=&quot;figure-caption text-right&quot;&gt;A poster from the Research Strategies Series.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;h3 id=&quot;skimming-for-what-you-need&quot;&gt;Skimming for What You Need&lt;/h3&gt;
-&lt;p class=&quot;flow-text&quot;&gt;&lt;i&gt;Adapted from UCLA Professor Snowden Becker's &lt;a href=&quot;https://snowdenbecker.files.wordpress.com/2016/09/how-to-read-an-article_2016.pdf&quot;&gt;&quot;How to Read an Article&quot;&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Start at the ends.&lt;/b&gt; Important information is usually concentrated in the abstract, introduction, and conclusion of the piece. From this quick scan, you can likely tell if this resource is important to your research and merits inclusion in your literature review.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Look for landmarks.&lt;/b&gt; Journal articles generally follow a set structure with titled subsections like &lt;i&gt;Problem Statement&lt;/i&gt; or &lt;i&gt;Research Methods &amp;amp; Design&lt;/i&gt; that allow you to skip to the content you need.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Take notes as you go.&lt;/b&gt; While you may remember the central argument or findings of a resource now, after you look through a whole body of research you may lose the nuances of individual pieces. Important things to keep track of may include central ideas, research methods, referenced works, and refuted or counter-argued ideas. &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;From October through December of 2018, WI+RE put together a 6-week interactive poster series in campus libraries asking students about their favorite research strategies. Each week, there was a new question, ranging from &lt;em&gt;“What are your favorite strategies for choosing a research topic?”&lt;/em&gt; to &lt;em&gt;“What are your favorite strategies for writing a reference list or works cited page?”&lt;/em&gt; Students had the option to put a sticker on their favorite answer or write in their own answer.&lt;/p&gt;
 
-&lt;/p&gt;
-</description>
-        
-          <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-&lt;!-- &lt;p class=&quot;flow-text&quot;&gt;Literature reviews are great resources for research projects in all disciplines. Not only do they present the key ideas in a field and point to must-read articles, but they also suggest directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review - covering everything from your role as the author of a literature review to organizational approaches and writing strategies.&lt;/p&gt; &lt;BR&gt; &lt;p&gt; This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. &lt;/p&gt; --&gt;
-&lt;p class=&quot;flow-text&quot;&gt;Literature reviews are great resources for research projects in all disciplines, presenting the key ideas in a field, pointing to must-read articles, and sugesting directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review.&lt;/p&gt;
-&lt;p&gt; This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. &lt;/p&gt;
+&lt;p&gt;Some answer spaces could be flipped open to reveal a link to a relevant resource. For example, flipping over the answer “Brainstorm topics of interest” in the above poster would reveal a link to our &lt;a href=&quot;https://uclalibrary.github.io/research-tips/questions/&quot;&gt;Mapping Your Research Ideas&lt;/a&gt; tutorial.&lt;/p&gt;
 
-</description>
-        
-        <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/literature-reviews/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/literature-reviews/</guid>
-        
-        <category>writing a literature review</category>
-        
-        <category>writing</category>
-        
-        <category>reading</category>
-        
-        
-        <category>Literature Reviews</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Getting Started with Research at UCLA</title>
-        <description>&lt;p class=&quot;flow-text&quot;&gt;Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The 1st poster from our new survey poster series is up! Here it is pictured next to some early prototypes. Take a 2 minute study break &lt;a href=&quot;https://twitter.com/UCLASciLibs?ref_src=twsrc%5Etfw&quot;&gt;@UCLASciLibs&lt;/a&gt; (Biomed Lib) to try it out. We&amp;#39;ll be hosting related FB and Twitter polls and may expand to Powell and YRL, so stay tuned! &lt;a href=&quot;https://twitter.com/hashtag/research?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#research&lt;/a&gt; &lt;a href=&quot;https://t.co/zt93Zwwp16&quot;&gt;pic.twitter.com/zt93Zwwp16&lt;/a&gt;&lt;/p&gt;&amp;mdash; UCLA WI+RE (@WIREbruin) &lt;a href=&quot;https://twitter.com/WIREbruin/status/1024379653807464448?ref_src=twsrc%5Etfw&quot;&gt;July 31, 2018&lt;/a&gt;&lt;/blockquote&gt;
+        &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We are so excited about our fall research series! Keep an eye out for posters in Powell Library, the Biomedical Library, and other locations across campus for a chance to share your research process and learn about others&amp;#39; too! &lt;a href=&quot;https://twitter.com/hashtag/WIREresources?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#WIREresources&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/research?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#research&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/researchstrategies?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#researchstrategies&lt;/a&gt; &lt;a href=&quot;https://t.co/3z7Mjq4tBw&quot;&gt;pic.twitter.com/3z7Mjq4tBw&lt;/a&gt;&lt;/p&gt;&amp;mdash; UCLA WI+RE (@WIREbruin) &lt;a href=&quot;https://twitter.com/WIREbruin/status/1050501748777934848?ref_src=twsrc%5Etfw&quot;&gt;October 11, 2018&lt;/a&gt;&lt;/blockquote&gt;
+        &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At the end of each week, we tallied up the results and created a video that goes through the most popular answers and offers more helpful resources. Check out one of the videos below!&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thank you all for participating in our first week of the interactive poster series! Here&amp;#39;s what you all shared about your favorite strategies for choosing a research topic. Stay tuned for a summary of week 4 soon!&lt;a href=&quot;https://twitter.com/hashtag/WIREresources?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#WIREresources&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/research?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#research&lt;/a&gt; &lt;a href=&quot;https://t.co/kHV33QnsFj&quot;&gt;pic.twitter.com/kHV33QnsFj&lt;/a&gt;&lt;/p&gt;&amp;mdash; UCLA WI+RE (@WIREbruin) &lt;a href=&quot;https://twitter.com/WIREbruin/status/1057364574695878656?ref_src=twsrc%5Etfw&quot;&gt;October 30, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 class=&quot;mt-5&quot;&gt;Redefining Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;When we began this project, our primary goal was to help students understand the role of subject librarians. After some deliberation, we realized that this learning outcome was too library-centered — we needed a learning outcome that would be more beneficial to a wider group of learners. So we changed the focus of our project to when, why, and how to get research help at the library.&lt;/p&gt;
+
+&lt;p&gt;Then we took it one step further. We thought, “What if we could frame this project as a dialogue with students? What if we could learn about &lt;em&gt;their&lt;/em&gt; research strategies, and provide some helpful tips at the same time?” We wanted to engage with students about their research experience, and reframe the library as a place where learners can authentically share their educational experiences. The flow chart below shows the evolution of learning outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/research-tips/assets/images/poster-learning-outcomes.png&quot; class=&quot;img-fluid mt-2&quot; alt=&quot;Our learning outcome evolved from understanding the role of subject librarians, to when, why, and how to get research help at the library, to engaging with students about their research process.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This next graphic shows the twofold goal of the interactive poster series.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/research-tips/assets/images/poster-challenge.png&quot; class=&quot;img-fluid mt-2&quot; alt=&quot;Our project aimed to situate library resources within the student research process while we learned about the student research process.&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;prototypes&quot;&gt;Prototypes&lt;/h2&gt;
+
+&lt;p&gt;Click through the slideshow below to see prototypes for the project!&lt;/p&gt;
+
+&lt;!--How do I make the carousel responsive?&quot;--&gt;
+
+&lt;div id=&quot;demo&quot; class=&quot;carousel slide shadow&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;ul class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  
+  &lt;!--slideshow--&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;carousel-item active&quot;&gt;
+      &lt;img src=&quot;/research-tips/assets/images/poster-prototype-1.png&quot; class=&quot;d-block w-100 img-fluid&quot; alt=&quot;First Slide&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img src=&quot;/research-tips/assets/images/poster-prototype-2.png&quot; class=&quot;d-block img-fluid&quot; alt=&quot;Second Slide&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img src=&quot;/research-tips/assets/images/poster-prototype-3.png&quot; class=&quot;d-block w-100&quot; alt=&quot;Third Slide&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img src=&quot;/research-tips/assets/images/poster-prototype-4.png&quot; class=&quot;d-block img-fluid&quot; alt=&quot;Fourth Slide&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;!--controls--&gt;
+  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#demo&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#demo&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 class=&quot;mt-5&quot;&gt;Results&lt;/h2&gt;
+
+&lt;div class=&quot;container mb-3&quot;&gt;
+  &lt;div class=&quot;row align-items-center&quot;&gt;
+    &lt;div class=&quot;col-xl-7&quot;&gt;
+      &lt;p&gt;The series gathered 859 responses, with 72 original write in responses. The average number of weekly responses across all libraries was 143. Undergraduates responded more overall than undergraduates, providing 492 versus 367 responses. Thus, undergraduate responses comprised 57% of responses, and graduate responses comprised 43%. Powell garnered the largest number of responses at 488, though two posters were placed in Powell (the entrance to ‘Night Powell’ and the rotunda), which should be taken into consideration. After Powell, Biomed had the next largest number of responses at 285, followed by SEL with 86 responses. 15 responses came from social media polls. Week two of the series gained the most traction, with 267 responses, followed by week one at 141 responses, week five at 113, week three at 111, the demo week at 100, week four at 65 and week six at 62.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl-5&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-lg-6 col-xl-12 col-12&quot;&gt;&lt;img src=&quot;/research-tips/assets/images/poster-responses-1.png&quot; class=&quot;img-fluid mt-2&quot; alt=&quot;Undergraduates had 492 responses, or 57%, and Graduates had 367 responses, or 367.&quot; /&gt;&lt;/div&gt;
+                &lt;div class=&quot;col-lg-6 col-xl-12 col-12&quot;&gt;&lt;img src=&quot;/research-tips/assets/images/poster-responses-2.png&quot; class=&quot;img-fluid mt-2&quot; alt=&quot;Most responses during Week 2. The question was What are your favorite strategies for choosing a research paper?&quot; /&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;row justify-content-center&quot;&gt;
+                &lt;div class=&quot;col-lg-6 col-xl-12 col-12&quot;&gt;
+                &lt;img src=&quot;/research-tips/assets/images/poster-responses-3.png&quot; class=&quot;img-fluid mt-2&quot; alt=&quot;The libraries with the most responses were, in order, Powell Library, Biomedical Library, and Science and Engineering Library&quot; /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;/h2&gt;
+
+&lt;p&gt;These results have implications for the focus of future instructional tutorials by revealing current research practices and illuminating areas that students are not considering. For example, most survey respondents resorted to using a website for managing citations, which provides space for educating students about Zotero by comparing it to a website they might already use like bibme. Google Scholar was selected more frequently than a library database for finding citations, so this opens again up an opportunity for educating students on the differences between Google Scholar and a library database in a way that presents how easy library databases are to use. Lastly, the finding that many students prefer to keep their research private encourages a conversation around the benefits of sharing research and communicating scientific inquiry to the public. Many of the write in options focused on interacting with a specific library staff at the Biomedical library, and the consistency of these responses supports the benefit of having a public facing and lively staff person interacting with students and breaking down the boundaries and barriers of library interaction. Besides content and resource implications, there are also insights from this project that can influence similar future projects. The number of answers peaked at week two, which also coincided with the highest number of original write in options. Number of answers fluctuated over time, but stayed strongest and most consistent within the first three weeks, which may indicate that a shorter and condensed series may capture attention from start to finish most effectively, and that 3-4 weeks would be a more ideal time timeframe. Finding new ways to encourage write in options may help increase overall interactions as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;scil-works-2019&quot;&gt;SCIL Works 2019&lt;/h2&gt;
+
+&lt;p&gt;Jen and Kian gave a presentation on the interactive poster series at &lt;a href=&quot;http://www.carl-acrl.org/ig/scil/scilworks/2019/&quot;&gt;SCIL Works 2019&lt;/a&gt;! Check out the slides below!&lt;/p&gt;
+
+&lt;div class=&quot;text-center pb-4&quot;&gt;
+    &lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vSAUfFDSJazCbxpU3K74Ub0IVUAegwXpeP20lNmrEScCwV76lmDMgLTYVELY6YmGPq4Epjd9Ro7MHlN/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;480&quot; height=&quot;299&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot; class=&quot;tw-align-center&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;want-to-make-your-own-interactive-poster-series&quot;&gt;Want to make your own interactive poster series?&lt;/h2&gt;
+
+&lt;p&gt;We’ve created a toolkit that contains everything you need to make your own interactive poster series. Click the button below to get started!&lt;/p&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;a href=&quot;https://ucla.box.com/v/SCILWorks2019Toolkit
+&quot; class=&quot;btn btn-primary&quot;&gt;Interactive Poster Toolkit &lt;i class=&quot;fas fa-external-link-alt&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;</content><author><name>Kian</name></author><category term="Assessments and Reports" /><summary type="html">The Interactive Poster Series</summary></entry><entry><title type="html">Prototype - Reading Scholarly Articles</title><link href="http://localhost:4000/research-tips/sandbox/prototype-scholarly-reading/" rel="alternate" type="text/html" title="Prototype - Reading Scholarly Articles" /><published>2019-01-12T00:00:00-08:00</published><updated>2019-01-12T00:00:00-08:00</updated><id>http://localhost:4000/research-tips/sandbox/prototype-scholarly-reading</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/prototype-scholarly-reading/">&lt;p&gt;Learn how to effectively and efficiently read scholarly articles so that you can get the most out of your time and effort!&lt;/p&gt;
+
+&lt;p&gt;If you are struggling to get through your reading assignments, take a minute to watch this short video on reading scholarly articles. You will learn where to start, how to skim, and what to be on the look out for. Remember that practice makes perfect, so don't be discouraged if it takes some time to get through the first few articles.&lt;/p&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2fIpRwxH30U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-
-&lt;p&gt;Check out the Undergraduate Research Center for the Humanities, Arts and Social sciences &lt;a href=&quot;http://www.ugeducation.ucla.edu/urhass/&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;.&lt;p&gt;
-&lt;p&gt;Check out the Undergraduate Research Center for the Sciences &lt;a href=&quot;http://www.ugresearchsci.ucla.edu/&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;/p&gt;
-</description>
-        
-          <description>&lt;p class=&quot;flow-text&quot;&gt;Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 10 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/getting-started/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/getting-started/</guid>
-        
-        <category>Getting started with research</category>
-        
-        <category>getting started</category>
-        
-        <category>research at UCLA</category>
-        
-        
-        <category>Getting Started</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Research Abstracts</title>
-        <description>&lt;p class=&quot;intro&quot;&gt; Are you applying to present your research project at a conference or submitting it for publication? If yes, you will most likely have to submit a research abstract. Here's a quick introduction that will teach you all about abstracts.&lt;/p&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt; You can navigate through the module below and learn: &lt;/p&gt;
-&lt;ul class=&quot;browser-default&quot;&gt;
-  &lt;li&gt; What is a research abstract? &lt;/li&gt;
-  &lt;li&gt; How to write an effective abstract &lt;/li&gt;
-  &lt;li&gt; The difference between an ineffective and effective abstract &lt;/li&gt; 
-&lt;/ul&gt;
-&lt;p class=&quot;flow-text&quot;&gt; You can also view sample abstracts for your particular field of study and explore the various components of an abstract. &lt;/p&gt;
-
-&lt;center&gt;
-  &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation&quot; width=&quot;800px&quot; height=&quot;600px&quot;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;480px&quot; src=&quot;https://ucla.box.com/s/ef2zk53drfl7z0ap90jm5uoeh0zdzjbj&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;give-it-a-try&quot;&gt;Give it a try:&lt;/h3&gt;
 
-&lt;p class=&quot;flow-text&quot;&gt; Draft an abstract for your research project using the tips discussed in the interactive module above. Keep in mind that an effective abstract is clear and concise; it should clearly state your research project's question, methodology/approach, findings, and significance. &lt;/p&gt;
+&lt;p&gt;Open up a scholarly article and give it a try. You may prefer to print the article and work with a pencil and highlighter, or you may prefer to work inside a PDF reader.&lt;/p&gt;</content><author><name>The WI+RE Team</name></author><category term="Prototypes" /><summary type="html">Learn how to effectively and efficiently read scholarly articles so that you can get the most out of your time and effort!</summary></entry><entry><title type="html">The redesigned WI+RE website!</title><link href="http://localhost:4000/research-tips/sandbox/wire-website-redesign/" rel="alternate" type="text/html" title="The redesigned WI+RE website!" /><published>2019-01-12T00:00:00-08:00</published><updated>2019-01-12T00:00:00-08:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-website-redesign</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-website-redesign/">&lt;h2 id=&quot;redesigning-the-wire-website&quot;&gt;Redesigning the WI+RE website&lt;/h2&gt;
 
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt; Are you applying to present your research project at a conference or submitting it for publication? If yes, you will most likely have to submit a research abstract. Here's a quick introduction that will teach you all about abstracts.&lt;/p&gt;
+&lt;p&gt;For the past few months now, the WI+RE Creative team has been working away on some major updates to our website. The site now features sections for workshops and handouts, portfolio pages for our creative team, improved accessibility, and a more visual approach to site navigation!&lt;/p&gt;
 
-</description>
-        
-        <pubDate>Sat, 09 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/research-abstracts/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/research-abstracts/</guid>
-        
-        <category>research abstract</category>
-        
-        <category>abstract</category>
-        
-        
-        <category>Sharing Your Research</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Deconstructing the Elevator Speech</title>
-        <description>&lt;p class=&quot;intro&quot;&gt; You've spent weeks, months, and maybe even years working on a research project. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? You should take some time now and create an elevator speech to pitch in these situations.&lt;/p&gt;
+&lt;figure class=&quot;figure border border-primary shadow&quot;&gt;
+  &lt;img src=&quot;/research-tips/assets/images/wire-site-content-types.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;WI+RE website content types: Workshops, Tutorials, and Handouts.&quot; /&gt;
+  &lt;figcaption class=&quot;figure-caption text-right&quot;&gt;New sections of the website feature workshops and handouts.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
+&lt;h3 class=&quot;mt-3&quot;&gt;Celebrating Creativity and Community&lt;/h3&gt;
 
-&lt;h4&gt;So what is an elevator speech?&lt;/h4&gt;
+&lt;p&gt;As we got started prototyping the website redesign, the WI+RE team was also working on a book chapter exploring the relationship between WI+RE employment and AAC&amp;amp;U’s &lt;a href=&quot;https://www.aacu.org/resources/high-impact-practices&quot; target=&quot;_blank&quot;&gt;High Impact Practices (HIPs)&lt;/a&gt; in higher education. Looking through the HIPs, we noticed a discussion of e-Portlios as a High Impact Practice that made us wonder - could the new WI+RE site have e-Portfolios?&lt;/p&gt;
 
-&lt;p&gt;In a research setting, an elevator speech introduces you as a researcher, your research questions, and the significance of your research. Because an elevator speech is short, typically 30 seconds to 2 minutes, it is a great way to introduce and share your research with others at formal networking events, conferences, casual conversations, or even during an actual elevator ride.&lt;/p&gt;
-&lt;p&gt; Ultimately, your elevator speech should provide a 'hook' and make your listener want to know more about your research! &lt;/p&gt;
+&lt;blockquote class=&quot;blockquote border border-primary shadow&quot;&gt;
+  &lt;p class=&quot;mb-0 px-5&quot;&gt;ePortfolios enable students to electronically collect their work over time, reflect upon their personal and academic growth, and then share selected items with others, such as professors, advisors, and potential employers. Because collection over time is a key element of the ePortfolio process, employing ePortfolios in collaboration with other high-impact practices provides opportunities for students to make connections between various educational experiences.&lt;/p&gt;
+  &lt;footer class=&quot;blockquote-footer mt-0 text-right px-5&quot;&gt;&lt;cite title=&quot;Source Title&quot;&gt;High-Impact Educational Practices: What They Are, Who Has Access to Them, and Why They Matter, by George D. Kuh (AAC&amp;amp;U, 2008). &lt;a href=&quot;https://www.aacu.org/sites/default/files/files/LEAP/hip_tables.pdf&quot; target=&quot;_blank&quot;&gt;Excerpt from AAC&amp;amp;U&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;h4&gt;Basic Components of an Elevator Speech&lt;/h4&gt;
-&lt;p&gt;Below is a visual representation of the basic components of an elevator speech. Each 'floor' corresponds to a different part of the elevator speech. &lt;/p&gt;
-&lt;p&gt;You can click the elevator buttons and read more on what should be included in that particular section.&lt;/p&gt;
-&lt;center&gt;
-  &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/research-tips/assets/animation/elevator-speech.html&quot; width=&quot;600px&quot; height=&quot;400px&quot;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
+&lt;p&gt;So, we started tinkering with the idea of portfolio-like profile pages for the Creative Team. This tied in nicely with the idea of intergrating our experimental sandbox directly into the site redesign - allowing WI+RE to share both published work and the behind-the-scenes prototyping and design that guides our process. This dual focus on showcasing finished work and relfecting on the process was the spark for building out our &lt;a href=&quot;/research-tips/about/creative-team&quot; target=&quot;_blank&quot;&gt;new portfolio pages &lt;/a&gt; and WI+RE’s &lt;a href=&quot;/research-tips/sandbox&quot; target=&quot;_blank&quot;&gt;Sandbox&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
+&lt;p&gt;At the same time, we were inspired by discussions with academic librarian and WI+RE contributor Marisa Méndez-Brady and WI+RE co-founder Renee Romero to think about how the new site could celebrate the many contributions of our community members to each project.&lt;/p&gt;
 
-&lt;head&gt;
-&lt;style&gt;
-/* Style the tab */
-div.tab {
-    overflow: hidden;
-    border: 1px solid #ccc;
-    background-color: #f1f1f1;
-}
-
-/* Style the buttons inside the tab */
-div.tab button {
-    background-color: inherit;
-    float: left;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    padding: 14px 16px;
-    transition: 0.3s;
-    font-size: 17px;
-}
-
-/* Change background color of buttons on hover */
-div.tab button:hover {
-    background-color: #ddd;
-}
-
-/* Create an active/current tablink class */
-div.tab button.active {
-    background-color: #ccc;
-}
-
-/* Style the tab content */
-.tabcontent {
-    display: none;
-    padding: 6px 12px;
-    border: 1px solid #ccc;
-    border-top: none;
-}
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p&gt;You can check out some quick video examples below by clicking on the various tabs:&lt;/p&gt;
-
-&lt;div class=&quot;tab&quot;&gt;
-  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event, 'Who')&quot; id=&quot;defaultOpen&quot;&gt;Who&lt;/button&gt;
-  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event, 'What')&quot;&gt;What&lt;/button&gt;
-  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event, 'Where')&quot;&gt;Where&lt;/button&gt;
-  &lt;button class=&quot;tablinks&quot; onclick=&quot;openCity(event,
-'Why')&quot;&gt;Why&lt;/button&gt;
+&lt;div class=&quot;col-12 col-sm-12 col-md-6 col-xl-4 float-right&quot;&gt;
+&lt;figure class=&quot;figure border border-primary shadow&quot;&gt;
+  &lt;img src=&quot;/research-tips/assets/images/wire-site-about-tutorial.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;The new WI+RE site improves attribution for creators and community members.&quot; /&gt;
+  &lt;figcaption class=&quot;figure-caption text-right&quot;&gt;&lt;small&gt;WI+RE is working on ways to celebrate the contributions of our amazing community members!&lt;/small&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;div id=&quot;Who&quot; class=&quot;tabcontent&quot;&gt;
-  &lt;h3&gt;Who&lt;/h3&gt;
-  &lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
+&lt;p&gt;All of our projects involve extensive collaboration across the campus, and we wanted to make sure the new website clearly shared and celebrated these essential contributions. The result is a new “About” box that appears on each tutorial, workshop, and handout page. The about box lists the leads for projects, celebrates community contributors, and showcases awards and special recognition.&lt;/p&gt;
+
+&lt;h3 class=&quot;mt-3&quot;&gt;Behind the scenes updates&lt;/h3&gt;
+
+&lt;p&gt;On the technical side of things, we moved from the mix of Materialize and Bootstrap that made up our previous site, to Bootstrap-only for CSS. While we miss quite a few of Materialize’s fancier features, we’re also excited about the simplicity of working with one CSS framework at a time! For this site, we’re using a modified version of the &lt;a href=&quot;https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll&quot; target=&quot;_blank&quot;&gt;Start Bootstrap&lt;/a&gt; theme.&lt;/p&gt;
+
+&lt;p&gt;Big thanks to Tinuola Awopetu from UCLA Library’s DIIT for help customizing and improving the CSS! Tinuola made several key contributions to the look and feel of the site!&lt;/p&gt;
+
+&lt;p&gt;As always, our code is open source and publicly available on &lt;a href=&quot;https://github.com/uclalibrary/research-tips&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 class=&quot;mt-3&quot;&gt;What's next?&lt;/h3&gt;
+&lt;p&gt;More making! We’re currently working on workshops about literature reviews and avoiding plagiarism, and continuing a big project on reading scientific literature. Also be on the lookout for a video or tutorial on eScholarship, and write-ups on our recent and upcoming conference presentations!&lt;/p&gt;
+
+&lt;h3 class=&quot;mt-3&quot;&gt;Thank you's!&lt;/h3&gt;
+
+&lt;p&gt;There are so many people to thank! First up, a big shout-out to the WI+RE team for their work on this site redesign! This update has been months in the making and has involved both  fun design work and some serious coding as well! Just about all current and former members of WI+RE were involved in some way and our current team members (Kian, Taylor, Juan, and April) did extensive reworking of our html, markdown, and media files to get the site up and running. Thank you!&lt;/p&gt;
+
+&lt;p&gt;As mentioned, Marisa Méndez-Brady and Renee Romero gave us some very important feedback on community engagement that helped shape multiple areas of the site which led to significant improvements in how we provide attribution and celebrate community engagement. And Tinuola Awopetu’s CSS magic saved the day on multiple occasions. Thank you!&lt;/p&gt;
+
+&lt;!-- collect authors --&gt;
+
+&lt;!-- collect contributors --&gt;
+
+&lt;!-- concat and uniq auth and contrib --&gt;
+
+&lt;!-- auth and contrib with profile links --&gt;
+&lt;!-- this captures the list of team member names from site.team-members --&gt;
+
+&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to the content on the WI+RE website, including: Alicia Reiley, Allison R. Benedetti, Amber West, Amy Liu, Annelie Rugg, Annie Pho, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/april&quot;&gt;April&lt;/a&gt;, Beth Goodhue, Bethany Meyers, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/caitlin&quot;&gt;Caitlin&lt;/a&gt;, Callie Holmes, Courtney Hoffner, Dana Cairns Watson, Diana L. King, Diane Mizrachi, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/doug&quot;&gt;Doug&lt;/a&gt;, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Henri Lim, Janet Goins, Janine Henri, Jeannie Chen, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/jen&quot;&gt;Jen&lt;/a&gt;, Joanna Chen Cham, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/juan&quot;&gt;Juan&lt;/a&gt;, Juan Jaime, Julia Glassman, Kate McAllister, Kelly Kistner, Kelly Miller, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/kian&quot;&gt;Kian&lt;/a&gt;, Leigh Harris, Liz Galvin Lew, Marisa Méndez-Brady, Mary Tran, Matthew Vest, Miki Goral, Miriam Posner, Nina Mamikunian, Nisha Mody, Powell Library, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/renee&quot;&gt;Renee&lt;/a&gt;, Robert Freel, Robert Gore, Scott Martin, Shanna Shaked, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/shannon&quot;&gt;Shannon&lt;/a&gt;, Shushanik Stepanyan, Simon Lee, Sophia Wu, Tara Prescott, &lt;a href=&quot;http://localhost:4000/research-tips/about/creative-team/taylor&quot;&gt;Taylor&lt;/a&gt;, Thomas Garbelotti, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, University of Minnesota Libraries Research Paper Calculator, Whitney Arnold, Zoe Borovsky. Thank you!&lt;/p&gt;</content><author><name>The WI+RE Team</name></author><category term="Updates" /><summary type="html">Redesigning the WI+RE website</summary></entry><entry><title type="html">Prototype - Primary and Secondary Sources</title><link href="http://localhost:4000/research-tips/sandbox/primary-and-secondary-sources-prototypes/" rel="alternate" type="text/html" title="Prototype - Primary and Secondary Sources" /><published>2018-07-23T18:01:01-07:00</published><updated>2018-07-23T18:01:01-07:00</updated><id>http://localhost:4000/research-tips/sandbox/primary-and-secondary-sources-prototypes</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/primary-and-secondary-sources-prototypes/">&lt;p&gt;Here are some early prototypes for &lt;a href=&quot;https://uclalibrary.github.io/research-tips/primary-secondary/&quot;&gt;Wheel of Sources&lt;/a&gt;, our activity on primary and secondary sources.&lt;/p&gt;
+
+&lt;h3 id=&quot;learning-outcomes&quot;&gt;Learning Outcomes&lt;/h3&gt;
+
+&lt;p&gt;Learners will be able to…&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Identify a source as primary or secondary given a specific research topic or discipline.&lt;/li&gt;
+  &lt;li&gt;Identify a source that one research topic would treat as primary, and another research topic would treat as secondary.&lt;/li&gt;
+  &lt;li&gt;Generate ideas for types of primary sources that may be relevant to their research area.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;scratch-prototype&quot;&gt;Scratch Prototype&lt;/h3&gt;
+
+&lt;iframe allowtransparency=&quot;true&quot; width=&quot;485&quot; height=&quot;402&quot; src=&quot;//scratch.mit.edu/projects/embed/236057405/?autostart=false&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If the activity doesn’t work, &lt;a href=&quot;https://scratch.mit.edu/projects/236057405/&quot;&gt;click here to play the prototype!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This prototype was made using Scratch, a simple coding interface developed at MIT. It demonstrates a potential drag-and-drop mechanism and an early example of level-design.&lt;/p&gt;
+
+&lt;h3 id=&quot;marvel-prototype---sourcery-the-game&quot;&gt;Marvel Prototype - Sourcery: The Game&lt;/h3&gt;
+
+&lt;iframe allowtransparency=&quot;true&quot; width=&quot;970&quot; height=&quot;804&quot; src=&quot;//marvelapp.com/182a540g/screen/45554966&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If the activity doesn’t work, &lt;a href=&quot;https://marvelapp.com/182a540g&quot;&gt;click here to play the prototype!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper prototype tries to get at the second of the three learning outcomes. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds.&lt;/p&gt;</content><author><name>Kian</name></author><category term="Prototypes" /><summary type="html">Here are some early prototypes for Wheel of Sources, our activity on primary and secondary sources.</summary></entry><entry><title type="html">Playlist - Primary and Secondary Sources</title><link href="http://localhost:4000/research-tips/sandbox/resource-playlist-primary-and-secondary-sources/" rel="alternate" type="text/html" title="Playlist - Primary and Secondary Sources" /><published>2018-07-23T18:01:01-07:00</published><updated>2018-07-23T18:01:01-07:00</updated><id>http://localhost:4000/research-tips/sandbox/resource-playlist-primary-and-secondary-sources</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/resource-playlist-primary-and-secondary-sources/">&lt;p&gt;Here is a playlist of WI+RE’s favorite online resources on primary and secondary sources. Enjoy!&lt;/p&gt;
+
+&lt;div class=&quot;card-deck&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;What's the Difference Between Primary and Secondary Sources?&lt;/h5&gt;
+            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Imagine Easy Solutions&lt;/h6&gt;
+            &lt;div class=&quot;text-center pt-3&quot;&gt;
+                 &lt;a href=&quot;https://www.youtube.com/watch?v=1m5l_FnHZ0o&quot; class=&quot;btn btn-primary&quot;&gt;Link&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;card-text&quot;&gt;This video explains the differences in how the humanities and sciences define primary and secondary sources. They also give lots of great examples!&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Primary and Secondary Sources&lt;/h5&gt;
+            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by SCSU Hilton C. Buley Library&lt;/h6&gt;
+            &lt;div class=&quot;text-center pt-3&quot;&gt;
+                 &lt;a href=&quot;https://libguides.southernct.edu/c.php?g=7346&amp;amp;p=35333&quot; class=&quot;btn btn-primary&quot;&gt;Link&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;card-text&quot;&gt;This resource from Southern Connecticut State University contains examples of primary and secondary sources in the Arts and Humanities, Social Sciences, Education, and more.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card-deck mt-3&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Primary, Secondary, and Tertiary Sources in the Health Sciences&lt;/h5&gt;
+            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt; by University of Minnisota Bio-Medical Library&lt;/h6&gt;
+            &lt;div class=&quot;text-center pt-3&quot;&gt;
+                 &lt;a href=&quot;https://hsl.lib.umn.edu/biomed/help/primary-secondary-and-tertiary-sources-health-sciences&quot; class=&quot;btn btn-primary&quot;&gt;Link&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;card-text&quot;&gt;Are you a health science major? Then look no further! This resource gives criteria for defining primary, secondary, and tertiary sources, and gives lots of examples. We especially like the graph at the bottom of the page.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>Kian</name></author><category term="Playlists" /><summary type="html">Here is a playlist of WI+RE’s favorite online resources on primary and secondary sources. Enjoy!</summary></entry><entry><title type="html">Design Jam #1!</title><link href="http://localhost:4000/research-tips/sandbox/design-jam-1/" rel="alternate" type="text/html" title="Design Jam #1!" /><published>2018-05-02T18:01:01-07:00</published><updated>2018-05-02T18:01:01-07:00</updated><id>http://localhost:4000/research-tips/sandbox/design-jam-1</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/design-jam-1/">&lt;p&gt;We’re thrilled to host our very first design jam!&lt;/p&gt;
+
+&lt;p&gt;Design jams give us the chance to share ideas and prototypes in progress with the WI+RE community and get essential feedback on our work. Today we organized our jam session around 3 design challenges from our current projects. For each, we set up a table and facilitated a quick, 15-minute activity to gather insights and inform our next steps. Participants got to visit each table to provide their ideas, feedback, and advice.&lt;/p&gt;
+
+&lt;h2 id=&quot;design-challenge-tables&quot;&gt;Design Challenge Tables&lt;/h2&gt;
+
+&lt;h3 class=&quot;mt-4&quot;&gt;❶ Reading strategies&lt;/h3&gt;
+
+&lt;p&gt;What are the top challenges with academic reading? What are your favorite reading strategies?&lt;/p&gt;
+
+&lt;p&gt;To address these challenges, we’re currently gathering ideas and storyboarding. Our initial approach is to explore creating a series of very short (1 minute or less) personal narratives that introduce a wide variety of reading strategies. Our hope for this project is that we’ll be able to help learners think about and expand their reading toolbox.&lt;/p&gt;
+
+&lt;nav&gt;
+  &lt;div class=&quot;nav nav-tabs&quot; id=&quot;nav-tab&quot; role=&quot;tablist&quot;&gt;
+    &lt;a class=&quot;nav-item nav-link active&quot; id=&quot;nav-jam-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#nav-jam&quot; role=&quot;tab&quot; aria-controls=&quot;nav-jam&quot; aria-selected=&quot;true&quot;&gt;Design Jam Activity&lt;/a&gt;
+    &lt;a class=&quot;nav-item nav-link&quot; id=&quot;nav-ideas-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#nav-ideas&quot; role=&quot;tab&quot; aria-controls=&quot;nav-ideas&quot; aria-selected=&quot;false&quot;&gt;Ideas and Feedback&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;div class=&quot;tab-content&quot; id=&quot;nav-tabContent&quot;&gt;
+  &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;nav-jam&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;nav-jam-tab&quot;&gt;
+      &lt;img class=&quot;img-fluid border mt-2&quot; src=&quot;/research-tips/assets/images/WIRE-reading-strategies-brainstorm.jpg&quot; alt=&quot;Reading strategies brainstorming handout with areas for communication challenges and strategies for email and in-person communication.&quot; /&gt;
+      &lt;p&gt;At this table we expanded on a few conversations we have been having on &lt;a href=&quot;https://twitter.com/WIREbruin/status/984915720801632257?ref_src=twsrc%5Etfw&quot; target=&quot;_blank&quot;&gt;social media&lt;/a&gt; to gather ideas and advice on quick academic reading tips we can share with students. We also shared a few storyboards in progress, and asked for feedback using one of our favorite feedback activities: &quot;I like, I wish, What if?&quot; or IL/IW/WI.&lt;/p&gt;
+      &lt;p&gt;In an IL/IW/WI activity, participants provide feedback, starting their sentences with &quot;I like...&quot; &quot;I wish...&quot; or &quot;What if...?&quot; in order to share feedback that is both helpful and specific.&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://ucla.box.com/s/a0i1j5zpsvvmmgpb2ytgpb1ee167ox88&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Handout&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;tab-pane fade&quot; id=&quot;nav-ideas&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;nav-ideas-tab&quot;&gt;
+    &lt;p&gt;&lt;b&gt;Key Reading Strategies&lt;/b&gt;&lt;/p&gt;
+       &lt;ul class=&quot;browser-default&quot;&gt;
+        &lt;li&gt;Reading quickly and reading efficiently can seem like they’re at odds with each other.&lt;/li&gt;
+        &lt;li&gt;What does it mean to create “good” notes to refer to later?&lt;/li&gt;
+        &lt;li&gt;For reading online vs. in print, see Diane Mizrachi, (2016) &lt;a href=&quot;https://doi.org/10.1108/RSR-04-2016-0024&quot; target=&quot;_blank&quot;&gt;&quot;Buy, borrow, or access online?: Format behaviors among college freshmen in a reading-intensive course&quot;&lt;/a&gt;, Reference Services Review, Vol. 44 Issue: 4, pp.583-595.&lt;/li&gt;
+        &lt;li&gt;Breaking down and mapping out major ideas.&lt;/li&gt;
+        &lt;li&gt;Knowing when to stop to look up unfamiliar vocabulary, and when to read on.&lt;/li&gt;
+        &lt;li&gt;ESL students undergo a double translation process; first they must make sense of the English words, then translate the English words into an abstraction of the topic.&lt;/li&gt;
+        &lt;/ul&gt;
+       &lt;p&gt;&lt;b&gt;Suggestions and Recommendations&lt;/b&gt;&lt;/p&gt;
+       &lt;ul class=&quot;browser-default&quot;&gt;
+        &lt;li&gt;Vary reading strategy according to article type.&lt;/li&gt;
+        &lt;li&gt;For journal articles (especially in Social Sciences), read the Abstract and Results first.&lt;/li&gt;
+        &lt;li&gt;Know when to skim and when to read closely.&lt;/li&gt;
+        &lt;li&gt;As a skimming strategy, read the first sentence of each paragraph.&lt;/li&gt;
+        &lt;li&gt;Color-code or highlight notes according to degree of importance.&lt;/li&gt;
+        &lt;li&gt;Try reading out loud.&lt;/li&gt;
+        &lt;li&gt;For copious amounts of reading, create a reading group where every member closely reads a certain text and gives an overview to the other members.&lt;/li&gt;
+        &lt;li&gt;Create a dialogue with the text through active/participatory reading.&lt;/li&gt;
+        &lt;li&gt;Know the limits of your attention span, but also know that further reading practice can help you develop your reading stamina.&lt;/li&gt;
+       &lt;/ul&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id=&quot;What&quot; class=&quot;tabcontent&quot;&gt;
-  &lt;h3&gt;What&lt;/h3&gt;
-&lt;center&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/rlPloFiK-e8?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;  
-&lt;/div&gt;
+&lt;hr /&gt;
 
-&lt;div id=&quot;Where&quot; class=&quot;tabcontent&quot;&gt;
-  &lt;h3&gt;Where&lt;/h3&gt;
-  &lt;center&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
-&lt;/div&gt;
+&lt;h3 class=&quot;mt-4&quot;&gt;❷ Communicating with instructors&lt;/h3&gt;
 
-&lt;div id=&quot;Why&quot; class=&quot;tabcontent&quot;&gt;
-  &lt;h3&gt;Why&lt;/h3&gt;
- &lt;center&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
-&lt;/div&gt;
+&lt;p&gt;What are your tips and advice for communicating with instructors via email and in-person? We’re exploring a variety of formats, including infographics and interactive websites, to help with this challenge!&lt;/p&gt;
 
-&lt;script&gt;
-function openCity(evt, cityName) {
-    var i, tabcontent, tablinks;
-    tabcontent = document.getElementsByClassName(&quot;tabcontent&quot;);
-    for (i = 0; i &lt; tabcontent.length; i++) {
-        tabcontent[i].style.display = &quot;none&quot;;
-    }
-    tablinks = document.getElementsByClassName(&quot;tablinks&quot;);
-    for (i = 0; i &lt; tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace(&quot; active&quot;, &quot;&quot;);
-    }
-    document.getElementById(cityName).style.display = &quot;block&quot;;
-    evt.currentTarget.className += &quot; active&quot;;
-}
-
-// Get the element with id=&quot;defaultOpen&quot; and click on it
-document.getElementById(&quot;defaultOpen&quot;).click();
-&lt;/script&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;!--
-&lt;div class=&quot;row z-depth-2&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-      &lt;ul class=&quot;tabs&quot;&gt;
-        &lt;li class=&quot;tab col s3&quot;&gt;&lt;a class=&quot;active&quot; href=&quot;#who&quot;&gt;Who&lt;/a&gt;&lt;/li&gt;
-        &lt;li class=&quot;tab col s3&quot;&gt;&lt;a href=&quot;#what&quot;&gt;What&lt;/a&gt;&lt;/li&gt;
-        &lt;li class=&quot;tabl col s3&quot;&gt;&lt;a href=&quot;#where&quot;&gt;Where&lt;/a&gt;&lt;/li&gt;
-        &lt;li class=&quot;tabl col s3&quot;&gt;&lt;a href=&quot;#why&quot;&gt;Why&lt;/a&gt;&lt;/li&gt;
+&lt;nav&gt;
+  &lt;div class=&quot;nav nav-tabs&quot; id=&quot;nav-tab&quot; role=&quot;tablist&quot;&gt;
+    &lt;a class=&quot;nav-item nav-link active&quot; id=&quot;nav-jam2-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#nav-jam2&quot; role=&quot;tab&quot; aria-controls=&quot;nav-jam2&quot; aria-selected=&quot;true&quot;&gt;Design Jam Activity&lt;/a&gt;
+    &lt;a class=&quot;nav-item nav-link&quot; id=&quot;nav-ideas2-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#nav-ideas2&quot; role=&quot;tab&quot; aria-controls=&quot;nav-ideas2&quot; aria-selected=&quot;false&quot;&gt;Ideas and Feedback&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;div class=&quot;tab-content&quot; id=&quot;nav-tabContent&quot;&gt;
+  &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;nav-jam2&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;nav-jam2-tab&quot;&gt;
+      &lt;img class=&quot;img-fluid border mt-2&quot; src=&quot;/research-tips/assets/images/WIRE-Challenge-and-Advice-Map.jpg&quot; alt=&quot;A circle in the middle of the page labeled Challenges. Two boxes on either side - the left box labeled e-mail and the right box labeled in-person.&quot; /&gt;
+      &lt;p&gt;At this table, we mapped out both the challenges related to student-instructor communication as well as top tips and advice for both e-mail and in-person.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;tab-pane fade&quot; id=&quot;nav-ideas2&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;nav-ideas2-tab&quot;&gt;
+    &lt;p&gt;&lt;b&gt;Challenges&lt;/b&gt;&lt;/p&gt;
+     &lt;ul class=&quot;browser-default&quot;&gt;
+       &lt;li&gt;Fear/intimidation/imposter syndrome about contacting faculty&lt;/li&gt;
+       &lt;li&gt;Not familiar with academic conventions&lt;/li&gt;
+       &lt;li&gt;What do you do if there’s no response? &lt;/li&gt;
+       &lt;li&gt;How do you physically find them!&lt;/li&gt;
+       &lt;li&gt;Is my question valid? &lt;/li&gt;
+       &lt;li&gt;What do I call them? &lt;/li&gt;
+       &lt;li&gt;What tone do I use? &lt;/li&gt;
+       &lt;li&gt;What language? Is colloquial okay? What if we speak colloquially in person? &lt;/li&gt;
+       &lt;li&gt;Do I state my purpose right away, or should i make small talk? &lt;/li&gt;
+       &lt;li&gt;Your timeline and the faculty timeline are not compatible! &lt;/li&gt;
+      &lt;li&gt;When to contact TA vs faculty&lt;/li&gt;
+     &lt;/ul&gt;
+      &lt;div class=&quot;row&quot;&gt;
+    &lt;p&gt;&lt;b&gt;Advice for email&lt;/b&gt;&lt;/p&gt;
+      &lt;ul class=&quot;browser-default&quot;&gt;
+       &lt;li&gt;Err on the side of formality&lt;/li&gt;
+       &lt;li&gt;Background familiarity with the assignment, or the faculty member’s work&lt;/li&gt;
+       &lt;li&gt;Keep your email short&lt;/li&gt;
+       &lt;li&gt;Make sure you can’t find the information elsewhere and identify where the gaps are (why you are contacting THEM specifically). Show them that you tried to find it yourself. &lt;/li&gt;
+       &lt;li&gt;Make it clear what you need (know  your goals for the conversation and make that clear to them as well)&lt;/li&gt;
+       &lt;li&gt;Attach cv/resume if applicable&lt;/li&gt;
+       &lt;li&gt;Give them context, explain which class you are in, what assignment you are working on, etc. &lt;/li&gt;
+       &lt;li&gt;Address them how they would like to be addressed (google them to find out about phd or see how they sign off on group emails/syllabus)&lt;/li&gt;
+       &lt;li&gt;Identify yourself! &lt;/li&gt;
+       &lt;li&gt;Please and thank you’s!&lt;/li&gt;
+       &lt;li&gt;Sign off “thanks in advance”&lt;/li&gt;
+       &lt;li&gt;Send it at an appropriate hour! &lt;/li&gt;
+       &lt;li&gt;Indicate that you appreciate their time&lt;/li&gt;
+       &lt;li&gt;Don’t wait until it’s too late! &lt;/li&gt;
+       &lt;li&gt;Hello and Dear vs Hey and Hi&lt;/li&gt;
+       &lt;li&gt;If you are asking for an appointment tell them WHAT you would like to discuss in the appointment&lt;/li&gt;
+       &lt;li&gt;Save as much back and forth as possible. If you scheduling appointment tell them in your FIRST email what your availability is! &lt;/li&gt;
+       &lt;li&gt;State what’s your timeline&lt;/li&gt;
+     &lt;/ul&gt;&lt;/div&gt;
+     &lt;p&gt;&lt;b&gt;Advice for in-person&lt;/b&gt;&lt;/p&gt;
+      &lt;ul class=&quot;browser-default&quot;&gt;
+       &lt;li&gt;Might want to email first to set something up and to set clear goals/expectations&lt;/li&gt;
+       &lt;li&gt;Be succinct&lt;/li&gt;
+       &lt;li&gt;Why are you contacting them specifically (for research mentor)? &lt;/li&gt;
+       &lt;li&gt;Bring cv/resume if appropriate&lt;/li&gt;
+       &lt;li&gt;Be on time&lt;/li&gt;
+       &lt;li&gt;Always confirm location&lt;/li&gt;
+       &lt;li&gt;Send email to notify if you are going to be late or need to reschedule. &lt;/li&gt;
+       &lt;li&gt;Have an elevator speech ready for if there is a shortage of time but also have a longer version ready for if you are the only one there and they have lots of time to chat! &lt;/li&gt;
+       &lt;li&gt;Come prepared &lt;/li&gt;
+       &lt;li&gt;Be mindful of their time and other students’ time&lt;/li&gt;
+       &lt;li&gt;Coming in person is often more efficient use of your time! &lt;/li&gt;
+       &lt;li&gt;Thank them for their time&lt;/li&gt;
+       &lt;li&gt;Send materials to them so they don’t have to touch your computer! &lt;/li&gt;
+       &lt;li&gt;Bring paper/pens&lt;/li&gt;
+       &lt;li&gt;If coming in for writing help… be specific about what “feedback” you want&lt;/li&gt;
+       &lt;li&gt;look at your work and identify three questions or topics (that emerge from assignments or course topics) that you’d like to address—and challenge yourself to do this before week 5, whether or not you’re having problems in the class. Then it won’t feel so hard to reach out when/if you do need help.&lt;/li&gt;
+       &lt;li&gt;Hello and Dear vs Hey and Hi and other forms of chumminess! &lt;/li&gt;
+       &lt;li&gt;Start with the most important questions&lt;/li&gt;
+       &lt;li&gt;If you don’t have enough knowledge to ask specific questions: say that! ““I am interested in x, but I don’t quite understand the issue enough to ask for further clarification. Can you explain what you think is especially interesting or important about x?&lt;/li&gt;
+       &lt;li&gt;Don’t make generalizations about a bad experience in office hours. All instructors are different and come from different contexts! &lt;/li&gt;
+       &lt;li&gt;Talk to the Faculty in Residence who lives in your building on campus.&lt;/li&gt;
+       &lt;li&gt;Try a peer resource, like the Writing Center, first. Talking to a peer can be less intimidating&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div id=&quot;who&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;Who&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;br&gt;&lt;center&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NBa0cnsRMUQ?start=24&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
-&lt;br&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;what&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;What&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;br&gt;&lt;center&gt;
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/rlPloFiK-e8?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt; &lt;br&gt;
-        &lt;/div&gt;
-       &lt;/div&gt;
-    &lt;div id=&quot;where&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;Where&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;br&gt;&lt;center&gt;
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/LqLjyY4yQ5Y?start=4&amp;amp;end=10&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt; &lt;br&gt;
-        &lt;/div&gt;
-       &lt;/div&gt;
-    &lt;div id=&quot;why&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;Why&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;br&gt;&lt;center&gt;
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/gw3LN_pK_rU?start=8&amp;amp;end=29&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; style=&quot;font-size: 1.4rem;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt; &lt;br&gt;
-        &lt;/div&gt;
-       &lt;/div&gt;    
-     &lt;/div&gt;
-    &lt;/div&gt;
-   --&gt;     
- 
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-
-&lt;h4&gt;Delivering an Elevator Speech&lt;/h4&gt;
-&lt;p&gt;It's important to &lt;b&gt;&lt;i&gt; consider whom your audience is &lt;/i&gt;&lt;/b&gt; when delivering an elevator speech. For instance, it's a good idea to leave out jargon if you're pitching your research project to a lay audience as opposed to a group of experts in your field. 
-
-&lt;head&gt;
-&lt;style&gt;
-table, th, td {
-  border: 2px solid black;
-  }
-  &lt;/style&gt;
-  &lt;/head&gt;
-&lt;table style=&quot;width:100%&quot;&gt;
-  &lt;tc&gt;
-  &lt;th&gt;&lt;center&gt;Avoid using acronyms&lt;/center&gt;&lt;/th&gt;
-    &lt;td&gt;Spell out acronyms before proceeding to use them
-    &lt;ul class=&quot;browser-default&quot;&gt;
-    &lt;li&gt;For example, non-governmental organization instead of NGO&lt;/li&gt;
-    &lt;li&gt;For example, marine protected area instead of MPA&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/td&gt; 
-  &lt;/tc&gt;
-  &lt;tr&gt;
-  &lt;th&gt;&lt;center&gt;Use everyday examples/analogies&lt;/center&gt;&lt;/th&gt;
-    &lt;td&gt;
-    &lt;ul class=&quot;browser-default&quot;&gt;
-    &lt;li&gt;For example, describe DNA's role as a 'blueprint' for the cell&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;/table&gt;
-
-&lt;p&gt;Here's an example of how you can edit a technical and jargon-heavy passage so it's more suitable for a wider audience. &lt;/p&gt;
-
-&lt;head&gt;
-&lt;style&gt;
-table, th, td {
-  border: 2px solid black;
-  }
-  &lt;/style&gt;
-  &lt;/head&gt;
-&lt;table style=&quot;width:100%&quot;&gt;
-  &lt;tr&gt;
-  &lt;th&gt;&lt;center&gt;Before&lt;/center&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;center&gt;After&lt;/center&gt;&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt; &lt;center&gt;A SNP can produce a change in amino acid sequence, which consequently could affect the structure and function of the resulting protein. An example of this can be found in the oxygen-binding protein: hemoglobin. When the sixth amino acid is changed from glutamic acid to valine--a hydrophobic amino acid--hemoglobin will occasionally collapse on itself, thus forming a sickle-shaped red blood cell. This condition is known as sickle-cell anemia. &lt;/center&gt; &lt;/td&gt;
-  &lt;td&gt; &lt;center&gt;A single-nucleotide polymorphism (SNP) is a variation in a single base in DNA. This change can affect the structure and function of the resulting protein. Hemoglobin, a protein important in transporting oxygen to our cells, can become sickle-shaped as a result of a SNP. This condition is known as sickle-cell anemia. &lt;/center&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt; Remember to keep it simple and to the point. State your research topic, report your findings, and convey its significance. It's a good idea to write out a draft first and read it out loud a few times to make sure it flows and is of appropriate length. &lt;/p&gt;
-&lt;p&gt;And most importantly, &lt;b&gt;&lt;i&gt; practice &lt;/i&gt;&lt;/b&gt;delivering your elevator speech a lot. This will help calm your nerves so you don't freeze up when you're about to share your research with others. To make your elevator speech not sound robotic, it's a good idea to memorize key points of your research rather than a full script. &lt;/p&gt;
-&lt;p&gt;And lastly, be &lt;b&gt;&lt;i&gt; enthusiastic. &lt;/i&gt;&lt;/b&gt; Recall what first sparked your interest in your research and be sure to convey that to your audience. &lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-
-&lt;h4&gt;What's the difference between an elevator speech and an abstract?&lt;/h4&gt;
-&lt;p&gt;Although both serve to present your research and its significance in a concise manner, elevator speeches and abstracts differ in format and purpose. &lt;/p&gt;
-
-&lt;head&gt;
-&lt;style&gt;
-table, th, td {
-  border: 2px solid black;
-  }
-  &lt;/style&gt;
-  &lt;/head&gt;
-&lt;table style=&quot;width:100%&quot;&gt;
-  &lt;tr&gt;
-  &lt;th&gt;&lt;center&gt;Elevator Speech&lt;/center&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;center&gt;Abstract&lt;/center&gt;&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt; 
-    &lt;ul class=&quot;browser-default&quot;&gt;
-      &lt;li type=&quot;square&quot;&gt;Typically lasting from 30 seconds to 2 minutes (length of an elevator ride)&lt;/li&gt;
-      &lt;li type=&quot;square&quot;&gt;Delivered orally&lt;/li&gt;
-      &lt;li type=&quot;square&quot;&gt;Purpose: introduce yourself as a researcher, your research project, and its significance so your audience will want to &lt;i&gt;learn more&lt;/i&gt; about your research&lt;/li&gt;
-      &lt;/ul&gt; 
-  &lt;/td&gt;
-  &lt;td&gt;
-    &lt;ul class=&quot;browser-default&quot;&gt;
-    &lt;li type=&quot;square&quot;&gt;Brief paragraph (often 150-300 words)&lt;/li&gt;
-    &lt;li type=&quot;square&quot;&gt;Presented in written form&lt;/li&gt;
-    &lt;li type=&quot;square&quot;&gt;Purpose: explain your research project and its significance in order to present at conferences, publish in journals, or apply for funding&lt;/li&gt;
-    &lt;li&gt;Can also be used to apply for a research scholarship or fellowship&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt; &lt;b&gt;Note:&lt;/b&gt; If you've already written your abstract for your research paper, you can use it as a starting basis for your elevator speech. You can think of your elevator speech as a more condensed version of your abstract. Remember, the main purpose of the elevator speech is to engage your listeners so they're interested in learning about the details of your project. &lt;/p&gt;
-
-
-&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt; You've spent weeks, months, and maybe even years working on a research project. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? You should take some time now and create an elevator speech to pitch in these situations.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Fri, 08 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/</guid>
-        
-        <category>elevator speech</category>
-        
-        <category>elevator pitch</category>
-        
-        
-        <category>Sharing Your Research</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Get Started with Zotero</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!&lt;/p&gt;
-
-&lt;!-- Maybe here in the &quot;diagram&quot; space we can put 3 cool things you can do with Zotero with just text and images? --&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col s12 m6&quot;&gt;
-      &lt;div class=&quot;card&quot; style=&quot;height: 100%;&quot;&gt;
-        &lt;!-- I think the side-by-side gifs might have made for too much motion on the screen. What do you think about stills? --&gt;
-        &lt;div class=&quot;card-image&quot;&gt;
-          &lt;img src=&quot;/research-tips/assets/img/content/zotero-project-folders_150.png&quot; alt=&quot;Zotero libraries can be organized by class, paper, and topic&quot; /&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;card-content&quot;&gt;
-        &lt;span class=&quot;card-title&quot;&gt;Organize your sources&lt;/span&gt;
-        &lt;p&gt;Organize all of your research sources within a single, searchable interface.&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-   &lt;div class=&quot;col s12 m6&quot;&gt;
-      &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-image&quot;&gt;
-          &lt;img src=&quot;/research-tips/assets/img/content/zotero-citations.png&quot; alt=&quot;Zotero's plug-in for word allows you to create citations while writing a paper.&quot; /&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;card-content&quot;&gt;
-          &lt;span class=&quot;card-title&quot;&gt;Cite as you write&lt;/span&gt;
-          &lt;p&gt;Choose your style of citation, and then easily insert an in-text citation.&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;!--
-    &lt;div class=&quot;col s12 m4&quot;&gt;
-      &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-image&quot;&gt;
-          &lt;img style=&quot;max-height: 144px;&quot; src=&quot;https://www.evernote.com/l/AN9ofhgS_rxB_o_EKsusvT_PPd2cCsR22XYB/image.png&quot; alt=&quot;Make a biblography with copy and paste.&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;card-content&quot;&gt;
-          &lt;span class=&quot;card-title&quot;&gt;Make bibliographies instantly&lt;/span&gt;
-          &lt;p&gt;Select your sources and make a bibilography with ease.&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt; 
-  --&gt;
-&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;
-
-&lt;h3&gt;Give it a try:&lt;/h3&gt;
-
-&lt;p class=&quot;flow-text&quot;&gt;Want to get started? Check out our &lt;a href=&quot;http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/&quot; target=&quot;_blank&quot;&gt;Zotero tutorial&lt;/a&gt;:&lt;/p&gt;
-
-&lt;center&gt;
-  &lt;iframe class=&quot;embedbox&quot; src=&quot;https://uclalibrary.github.io/research-tips/embeds/zotero/&quot; width=&quot;95%&quot; height=&quot;600px&quot;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
-&lt;!--
-&lt;ul class=&quot;collapsible&quot; data-collapsible=&quot;expandable&quot;&gt;
-    &lt;li&gt;
-      &lt;div class=&quot;collapsible-header&quot;&gt;&lt;i class=&quot;material-icons&quot;&gt;forum&lt;/i&gt;Want to talk about it? Set up a &lt;em&gt;free research consultation&lt;/em&gt; to get help developing your ideas:&lt;/div&gt;
-      &lt;div class=&quot;collapsible-body&quot;&gt;
-        &lt;p&gt;Ask a librarian &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;24/7 chat service&lt;/a&gt;.&lt;/p&gt;
-          &lt;p&gt;Set up a &lt;a href=&quot;http://library.ucla.edu/questions&quot; target=&quot;_blank&quot;&gt;research consultation at a UCLA Library&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  --&gt;
-  
-&lt;h5&gt;Image credits&lt;/h5&gt;
-&lt;em&gt;Raincloud Folder, data folder, Leaf Folder by &lt;a href=&quot;https://thenounproject.com/linseedstudio/&quot; target=&quot;_blank&quot;&gt;Linseed Studio&lt;/a&gt;, and Quote by &lt;a href=&quot;https://thenounproject.com/i/&quot; target=&quot;_blank&quot;&gt;irene hoffman&lt;/a&gt; from the Noun Project&lt;/em&gt;.
 &lt;/div&gt;
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!&lt;/p&gt;
 
-</description>
-        
-        <pubDate>Thu, 07 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/zotero/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/zotero/</guid>
-        
-        <category>zotero</category>
-        
-        <category>citation management software</category>
-        
-        
-        <category>Finding and Citing Sources</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Find and Use Review Articles</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
-&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;p&gt;A review article provides an analysis of the state of research on a set of related research questions. Review articles often:&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 class=&quot;mt-4&quot;&gt;❸ Expanding perspectives in your search&lt;/h3&gt;
+
+&lt;p&gt;In this project we’re exploring how to help researchers expand their search beyond their initial ideas to include a more diverse set of perpectives and resources.&lt;/p&gt;
+
+&lt;nav&gt;
+  &lt;div class=&quot;nav nav-tabs&quot; id=&quot;nav-tab&quot; role=&quot;tablist&quot;&gt;
+    &lt;a class=&quot;nav-item nav-link active&quot; id=&quot;nav-jam3-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#nav-jam3&quot; role=&quot;tab&quot; aria-controls=&quot;nav-jam3&quot; aria-selected=&quot;true&quot;&gt;Design Jam Activity&lt;/a&gt;
+    &lt;a class=&quot;nav-item nav-link&quot; id=&quot;nav-ideas3-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#nav-ideas3&quot; role=&quot;tab&quot; aria-controls=&quot;nav-ideas3&quot; aria-selected=&quot;false&quot;&gt;Ideas and Feedback&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;div class=&quot;tab-content&quot; id=&quot;nav-tabContent&quot;&gt;
+  &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;nav-jam3&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;nav-jam3-tab&quot;&gt;
+      &lt;img class=&quot;img-fluid border mt-2&quot; src=&quot;/research-tips/assets/images/WIRE-ILIWWI-cover.png&quot; alt=&quot;A heart next to the words I like, a dandelion next to the words I wish, and conversation bubbles next to the words What if&quot; /&gt;
+      &lt;p&gt;At this table, we shared our prototype in progress and gathered feedback using &quot;I like, I wish, What if?&quot;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://ucla.box.com/s/a0i1j5zpsvvmmgpb2ytgpb1ee167ox88&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Handout&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;tab-pane fade&quot; id=&quot;nav-ideas3&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;nav-ideas3-tab&quot;&gt;
+    &lt;ul class=&quot;browser-default mt-4&quot;&gt;&lt;li&gt;Overall, the feedback was widely supportive of our visuals. The bruin bear is a crowd pleaser. The revamped flashlight section was also brought up by multiple people as being their favorite part! The pie chart design is also effective. We got some good feedback on our script, as well!&lt;/li&gt;
+      &lt;li&gt;One small thing that is yet unresolved is how much spinning is too much spinning. There were as many proponents of the spinning as there were people cautious about it… perhaps just a little less spinning might be recommended (e.g. the “Your current research” text in the center toward the start of the video)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;A few wishes/what if’s included:&lt;/b&gt;&lt;/p&gt;
+    &lt;ul class=&quot;browser-default&quot;&gt;
+     &lt;li&gt;Adding a glossary for terms (e.g. “academia,” “primary source)—this may be best implemented in the interactive module part of the tutorial. We were imagining something that you could hover over, perhaps…&lt;/li&gt;
+     &lt;li&gt;Emphasizing a few more things:
+        &lt;ul class=&quot;browser-default&quot;&gt;&lt;li&gt;That your “research question” is a malleable, changing thing; it isn’t static, and your thesis will grow and change as you expand your perspectives&lt;/li&gt;
+        &lt;li&gt;To refer back to the prompt &amp;amp; bring drafts, questions, etc. to the InqLab 
+Pointing students toward our other materials (once they have these resources, what do they do with them? Direct them to other things we’ve made)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+     &lt;li&gt;The “Other Disciplines” section—perhaps instead of having the bear move from building to building, the buildings could be highlighted/grow bigger/etc as the corresponding audio refers to them (if it says psychology, the building that represents “psychology” is lit up, etc.)&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;wrap-up-chat&quot;&gt;Wrap-up chat:&lt;/h3&gt;
+
+&lt;p&gt;To wrap things up, we had did some whole group brainstorming and generated some great ideas for potential future projects and events:&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-your-ideas-for-new-design-challenges&quot;&gt;What are your ideas for new design challenges?&lt;/h4&gt;
 
 &lt;ul class=&quot;browser-default&quot;&gt;
-    &lt;li&gt;summarize key research findings;&lt;/li&gt;
-    &lt;li&gt;reference must-read articles;&lt;/li&gt;
-    &lt;li&gt;describe current areas of agreement as well as controversies and debates;&lt;/li&gt;
-    &lt;li&gt;point out gaps in knowledge and unanswered questions;&lt;/li&gt;
-    &lt;li&gt;suggest directions for future research.&lt;/li&gt;
+    &lt;li&gt;What do I do with feedback from my instructors? How to interpret and use instructor feedback?&lt;/li&gt;
+    &lt;li&gt;Proposal writing.&lt;/li&gt;
+    &lt;li&gt;Advocating for your work and ideas.&lt;/li&gt;
+    &lt;li&gt;Imposter syndrome.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&quot;what-feedback-do-you-have-on-this-meeting-iliwwi&quot;&gt;What feedback do you have on this meeting? IL/IW/WI?&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;I like:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;browser-default&quot;&gt;
+    &lt;li&gt;Open format, can join any time&lt;/li&gt;
+    &lt;li&gt;Creative conversations and idea sharing.&lt;/li&gt;
+    &lt;li&gt;Bringing together instructors, students, and staff to talk about learning challenges.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;What if?&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;browser-default&quot;&gt;
+    &lt;li&gt;What if there were a WI+RE roadshow, where we take design challenges to various campus groups to get feedback during their scheduled meeting times?&lt;/li&gt;
+    &lt;li&gt;What if there were puppies? And cookies? at the meetings?.&lt;/li&gt;
+    &lt;li&gt;What if we partnered with the Cross-Campus Teaching Innovations Group? Maybe hosting a quick roadshow at one of their meetings?&lt;/li&gt;
+    &lt;li&gt;What if we offered drop-in hours as part of our regular work - i.e., drop-in and provide feedback when you have time.&lt;/li&gt;
+    &lt;li&gt;What if we invited students to share their challenges with us somehow within the library? e.g., a &quot;feeling stuck?&quot; pop-up.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Slides and other materials from the event&lt;/h3&gt;
+
+&lt;p&gt;Here are the slides for the event:&lt;/p&gt;
+
+&lt;div style=&quot;width: 80%; margin-left: auto; margin-right: auto;&quot;&gt;
+&lt;div class=&quot;canva-embed&quot; data-height-ratio=&quot;0.5625&quot; data-design-id=&quot;DAC2nqmN4L8&quot; style=&quot;padding:56.25% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;&quot;&gt;&lt;/div&gt;&lt;script async=&quot;&quot; src=&quot;https://sdk.canva.com/v1/embed.js&quot;&gt;&lt;/script&gt;&lt;a href=&quot;https://www.canva.com/design/DAC2nqmN4L8/view?utm_content=DAC2nqmN4L8&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=embeds&amp;amp;utm_source=link&quot; target=&quot;_blank&quot;&gt;WI+RE Design Jam 1&lt;/a&gt; by &lt;a href=&quot;https://www.canva.com/dmworsham?utm_campaign=designshare&amp;amp;utm_medium=embeds&amp;amp;utm_source=link&quot; target=&quot;_blank&quot;&gt;by the WI+RE team&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;img class=&quot;responsive-img materialboxed&quot; src=&quot;/research-tips/assets/img/content/lit-review-article-diagram-1080.png&quot; alt=&quot;Review Article&quot; data-caption=&quot;Review Article&quot; /&gt; 
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;Many of the activities were drawn from the &lt;a href=&quot;https://ucla.app.box.com/v/build-something-toolkit&quot;&gt;Build Something Toolkit&lt;/a&gt;.&lt;/p&gt;</content><author><name>The WI+RE Team</name></author><category term="Updates" /><summary type="html">We’re thrilled to host our very first design jam!</summary></entry><entry><title type="html">Welcome to the sandbox!</title><link href="http://localhost:4000/research-tips/sandbox/welcome-to-the-wire-sandbox/" rel="alternate" type="text/html" title="Welcome to the sandbox!" /><published>2018-04-08T14:15:05-07:00</published><updated>2018-04-08T14:15:05-07:00</updated><id>http://localhost:4000/research-tips/sandbox/welcome-to-the-wire-sandbox</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/welcome-to-the-wire-sandbox/">&lt;p&gt;Hi there! Welcome to the WI+RE sandbox! This is WI+RE’s place to play around and experiment with web publishing. We can explore all kinds of things here - protoypes, playlists, coding, editing, html, css, web animations - you name it!&lt;/p&gt;
 
-&lt;p&gt;You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. 
-&lt;/p&gt;
+&lt;h4 id=&quot;inspirational-quotes-on-learning-creativity-and-design-from-the-wire-team&quot;&gt;Inspirational quotes on learning, creativity, and design from the WI+RE team&lt;/h4&gt;
 
-&lt;p&gt;Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When everyone in the classroom, teacher and students recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;cite&gt;bell hooks, Teaching Critical Thinking: Practical Wisdom&lt;/cite&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
 
-&lt;h3 id=&quot;heads-up&quot;&gt;Heads Up:&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Dream a little before you think.&lt;/p&gt;
 
-&lt;p&gt;Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Toni Morrison&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Also note that for most senior theses in the sciences, the proper place to cite a review article is in the first few paragraphs of your introduction.  By placing references to a review article in your early intro, you give your reader a place to go for more information if they are unfamiliar with your field.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Every child is an artist. The problem is how to remain an artist once he grows up.&lt;/p&gt;
 
-&lt;p&gt;Be sure to review the writing prompt and check with your instructor to be sure!&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Pablo Picasso&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h3 id=&quot;how-do-i-find-review-articles&quot;&gt;How do I Find Review Articles?&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Whoever you are, no matter how lonely,&lt;br /&gt;
+the world offers itself to your imagination,&lt;br /&gt;
+calls to you like the wild geese, harsh and exciting –&lt;br /&gt;
+over and over announcing your place&lt;br /&gt;
+in the family of things.&lt;/p&gt;
 
-&lt;p&gt;Finding a review article is relatively simple, though it varies slightly depending on what database you are using.&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Mary Oliver&lt;/em&gt;, “Wild Geese”&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;Web of Science&lt;/h4&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/web-of-science-wastewater-review.png&quot; alt=&quot;Filter your results for review articles.&quot; data-caption=&quot;Under Document Types click the checkbox next to Review and then click Refine.&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-        &lt;p&gt;Start with a search in &lt;strong&gt;&lt;a href=&quot;http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&amp;amp;product=WOS&amp;amp;highlighted_tab=WOS&amp;amp;search_mode=GeneralSearch&quot; target=&quot;_blank&quot;&gt;Web of Science&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-        &lt;p&gt;Then, on the results page, look for the “Document Types” filter on the left side of the page.&lt;/p&gt;
-        &lt;p&gt;Click the checkbox next to &quot;Review&quot; and then click &quot;Refine&quot; to see only the results classified as review articles.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.&lt;/p&gt;
 
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;PubMed&lt;/h4&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png&quot; alt=&quot;Filter your results for review articles in PubMed.&quot; data-caption=&quot;more directions.&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-        &lt;p&gt;After your initial search in &lt;strong&gt;&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&amp;amp;tool=cdl&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/strong&gt;, look for the &quot;Articles Types&quot; filter on the left side of the page.&lt;/p&gt;
-        &lt;p&gt;Click &quot;Customize...&quot; and then click the checkbox next to review article related filters.&lt;/p&gt;
-        &lt;p&gt;Be sure to uncheck other article types if you would like to limit your search to review articles.&lt;/p&gt;
-        &lt;p&gt;Click &quot;Show&quot; to filter your search results.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;em&gt;Steve Jobs&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;UCLA Library Journal Search&lt;/h4&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/journal-search-review.png&quot; alt=&quot;You can search for review journals from the library homepage.&quot; data-caption=&quot;Search for journals that specialize in publishing review articles from the UCLA Library homepage.&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-       &lt;p&gt;From the &lt;a href=&quot;http://library.ucla.edu&quot; target=&quot;_blank&quot;&gt;UCLA Library homepage&lt;/a&gt;, click the &quot;&lt;a href=&quot;http://www.library.ucla.edu/#journals&quot; target=&quot;_blank&quot;&gt;Journals&lt;/a&gt;&quot; tab to search for academic journals that focus on publishing review articles.&lt;/p&gt;
-       &lt;p&gt;Search for your discipline or subject area, and &lt;em&gt;Review&lt;/em&gt; (e.g., &lt;em&gt;Sociology Review&lt;/em&gt; or &lt;em&gt;Psychology Review&lt;/em&gt;).&lt;/p&gt;
-       &lt;p&gt;Be sure to change the drop-down menu to &quot;Contains&quot;&lt;/p&gt;
-       &lt;p&gt;On the results page, browse the list of journals, and then click on a title to visit the journal's website.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The worst enemy to creativity is self-doubt.&lt;/p&gt;
 
-&lt;div class=&quot;row z-depth-2 hoverable blue lighten-5&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;Google Scholar and ArticlesPlus&lt;/h4&gt; 
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m5&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/articles-plus-review-article-search.png&quot; alt=&quot;Searching for review articles in ArticlesPlus or Google Scholar by adding review, literature review, and annual review to your search terms.&quot; data-caption=&quot;In Google Scholar and ArticlesPlus add review article related terms to your search.&quot; /&gt;  
-    &lt;/div&gt;
-    &lt;div class=&quot;col s12 m7&quot;&gt;
-        &lt;p&gt;In both &lt;a href=&quot;http://scholar.google.com&quot; target=&quot;_blank&quot;&gt;google scholar&lt;/a&gt; and &lt;a href=&quot;http://ucla.summon.serialssolutions.com/#!/&quot; target=&quot;_blank&quot;&gt;ArticlesPlus&lt;/a&gt; you can add &lt;em&gt;review&lt;/em&gt;, &lt;em&gt;&quot;literature review&quot;&lt;/em&gt;, &lt;em&gt;&quot;annual review&quot;&lt;/em&gt; or &lt;em&gt;&quot;review article&quot;&lt;/em&gt; to your search terms.&lt;/p&gt;
-        &lt;p&gt;Be sure to check that your results really are review articles! See our tips below to make sure.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;em&gt;Sylvia Plath&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h3&gt;How do I know if an article is a &lt;em&gt;Review Article&lt;/em&gt; or a &lt;em&gt;Primary Research Article?&lt;/em&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;You’ve got to jump off cliffs all the time and build your wings on the way down.&lt;/p&gt;
 
-&lt;div class=&quot;row z-depth-2&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-      &lt;ul class=&quot;tabs&quot;&gt;
-        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a class=&quot;active&quot; href=&quot;#primary&quot;&gt;Primary Research Articles&lt;/a&gt;&lt;/li&gt;
-        &lt;li class=&quot;tab col s6&quot;&gt;&lt;a href=&quot;#review&quot;&gt;Review Articles&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;primary&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;In primary research articles:&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
-            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
-            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
-            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-        &lt;h6&gt;Example abstract:&lt;/h6&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp;amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;review&quot; class=&quot;col s12&quot;&gt;
-        &lt;h4&gt;In review articles:&lt;/h4&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
-            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
-            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
-            &lt;/ul&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col s12&quot;&gt;
-            &lt;h6&gt;Example abstract:&lt;/h6&gt;
-            &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot; /&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp;amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;em&gt;Annie Dillard&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;!-- grid approach
+&lt;blockquote&gt;
+  &lt;p&gt;We live in a bewildering world.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col s12 z-depth-2&quot;&gt;
-        &lt;h4&gt;In primary research articles:&lt;/h4&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
-            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
-            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
-            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;h5&gt;Primary research article - example abstract:&lt;/h5&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col m12 l6 z-depth-2&quot;&gt;
-        &lt;h4&gt;In review articles:&lt;/h4&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
-            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
-            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;em&gt;Stephen Hawking&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
---&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Too busy watering my own grass to notice if yours is greener.&lt;/p&gt;
 
-&lt;!-- this was the table approach
-&lt;table&gt;
-    &lt;tr&gt;
-    &lt;th&gt;&lt;h4&gt;In primary research articles:&lt;/h4&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;h4&gt;In review articles:&lt;/h4&gt;&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-    &lt;td valign=&quot;top&quot;&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about performing a study, or conducting an investigation;&lt;/li&gt;
-            &lt;li&gt;the articles often contain a methods section or describe how the original research was performed;&lt;/li&gt;
-            &lt;li&gt;the focus is often narrower, investingating specific research questions;&lt;/li&gt;
-            &lt;li&gt;while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/td&gt;
-    &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;ul class=&quot;browser-default&quot;&gt;
-            &lt;li&gt;the abstracts often talk about summarizing existing evidence;&lt;/li&gt;
-            &lt;li&gt;the articles often do not include a methods section;&lt;/li&gt;
-            &lt;li&gt;the focus is often on summarizing and analyzing a broad set of questions related to a research area.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot; &gt;
-        &lt;h5&gt;Primary research article abstract&lt;/h5&gt;
-        &lt;/td&gt;
-        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot; &gt;
-        &lt;h5&gt;Review article abstract&lt;/h5&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td  valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-primary-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., &amp; Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.&lt;/p&gt;
-        &lt;/td&gt;
-        &lt;td valign=&quot;top&quot; style=&quot;vertical-align: top;&quot;&gt;
-        &lt;img class=&quot;responsive-img materialboxed imagestep&quot; src=&quot;/research-tips/assets/img/content/rop-review-annotated.jpg&quot; alt=&quot;In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic.&quot; data-caption=&quot;The abstract for a primary research article discusses a study or investigation.&quot;&gt;
-        &lt;p style=&quot;font-size: small;&quot;&gt;Tottenham, N., &amp; Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.&lt;/p&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
+  &lt;p&gt;&lt;em&gt;Russ&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
---&gt;
+&lt;h3 id=&quot;an-introduction-to-editing-posts-in-jekyll-and-markdown&quot;&gt;An introduction to editing posts in Jekyll and markdown&lt;/h3&gt;
 
-</description>
-        
-          <description>&lt;p class=&quot;intro&quot;&gt;Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start. 
-&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col s12&quot;&gt;
-&lt;p&gt;A review article provides an analysis of the state of research on a set of related research questions. Review articles often:&lt;/p&gt;
+&lt;p&gt;We may also use this space to do more process oriented posts and share some of our prototypes - we’ll see!&lt;/p&gt;
 
-&lt;/div&gt;&lt;/div&gt;
-</description>
-        
-        <pubDate>Wed, 06 Jan 2010 00:00:00 -0800</pubDate>
-        <link>https://uclalibrary.github.io/research-tips/review-articles/</link>
-        <guid isPermaLink="true">https://uclalibrary.github.io/research-tips/review-articles/</guid>
-        
-        <category>review articles</category>
-        
-        <category>search</category>
-        
-        
-        <category>Literature Reviews</category>
-        
-      </item>
-      
-    
-  </channel>
-</rss>
+&lt;p&gt;For now, let’s use this as an opportunity to talk about how posts work.&lt;/p&gt;
+
+&lt;p&gt;You’ll find the code for this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Take a look at the code repository at &lt;a href=&quot;https://github.com/UCLALibrary/wire-sandbox&quot;&gt;https://github.com/UCLALibrary/wire-sandbox&lt;/a&gt; and see if you can find the code for this post.&lt;/p&gt;
+
+&lt;p&gt;The code for this post is written in something called markdown, which is kind of like a simplified version of html. We use both markdown and html (and some ruby) in our posts.&lt;/p&gt;
+
+&lt;p&gt;Here’s a quick &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown cheatsheet&lt;/a&gt; to get you started.&lt;/p&gt;
+
+&lt;h4 id=&quot;ready-for-a-challenge&quot;&gt;Ready for a challenge?&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make a fork of the WI+RE site.&lt;/li&gt;
+  &lt;li&gt;In your fork, find the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory&lt;/li&gt;
+  &lt;li&gt;Edit this post - it is called &lt;code class=&quot;highlighter-rouge&quot;&gt;2018-04-08-welcome-to-the-wire-sandbox.md&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add a quote you like to the section below! Check out the previous examples to see how the formatting works! Also add yourself to the list of authors in the metadata at the top of the page.&lt;/li&gt;
+  &lt;li&gt;Check out your change! It should be posted to the version of the site that is now hosted on your github pages account. The url should look something like this: &lt;code class=&quot;highlighter-rouge&quot;&gt;https://yourgithubusername.github.io/wire-sandbox/&lt;/code&gt; - did it work? If not, find someone to help troubleshoot!&lt;/li&gt;
+  &lt;li&gt;Like your changes? Create a pull request to get your changes added back in to the sandbox site! After you make your pull request, you’ll need to find Shannon, Taylor, or Doug to merge your changes into the sandbox.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>The WI+RE team</name></author><category term="Updates" /><summary type="html">Hi there! Welcome to the WI+RE sandbox! This is WI+RE’s place to play around and experiment with web publishing. We can explore all kinds of things here - protoypes, playlists, coding, editing, html, css, web animations - you name it!</summary></entry><entry><title type="html">WI+RE’s Center for Educational Assessment Report</title><link href="http://localhost:4000/research-tips/sandbox/cea-report/" rel="alternate" type="text/html" title="WI+RE's Center for Educational Assessment Report" /><published>2017-07-01T00:00:00-07:00</published><updated>2017-07-01T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/cea-report</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/cea-report/">&lt;p&gt;In June of 2017 UCLA’s Center for Educational Assessment completed a &lt;a href=&quot;https://ucla.box.com/v/wire-oid-report&quot;&gt;detailed report&lt;/a&gt; on a variety of approaches to research and writing instruction, including WI+RE’s online &lt;a href=&quot;http://ccle.ucla.edu/course/view/wire&quot;&gt;Cornerstone Research workshops&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote border border-primary shadow&quot;&gt;
+    &lt;p class=&quot;mb-5 px-5&quot;&gt;The Center for Educational Assessment (CEA) provided an evaluation of ongoing activities of the WI+RE team which included face-to-face workshops, online tutorials, and course and faculty collaborations. The assessment focus captured both student and faculty perspectives and included review and analysis of existing data provided by the project collaborators and interviews conducted by CEA researchers with select instructors. Existing data included responses to pre- and post-surveys given to students attending the Cornerstone Research Workshops, a post-survey completed by users of an online instructional module, and an active questionnaire integrated through CCLE completed by students of a Psychology course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It was wonderful to work with the expert team at the CEA, and we greatly appreciated their mixed methods approach which included both analysis of student learning and faculty interviews.&lt;/p&gt;
+
+&lt;h3 id=&quot;summary-of-findings&quot;&gt;Summary of Findings&lt;/h3&gt;
+
+&lt;h4 id=&quot;mapping-your-research-ideas-online-module&quot;&gt;&lt;a href=&quot;https://youtu.be/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ&quot;&gt;Mapping Your Research Ideas Online Module&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Video modules were helpful and provided direction for developing research topics&lt;/strong&gt;: Respondents praised the mapping your research video for being concise, straightforward, and easy to follow, as well as providing guidance for focusing topics, creating outlines, and starting research papers. The video also aided students with systematic development and focus of questions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;psychology-188b-ccle-modules-online&quot;&gt;Psychology 188B CCLE Modules (online)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Students found the module to be well designed&lt;/strong&gt;: Respondents acknowledged that the components of the module were simple, straightforward, comprehensive, and well made.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Students found the activities and strategies to be very helpful&lt;/strong&gt;: Respondents appreciated the step-by-step process of developing a research question and seeking out resources, as well as new tips for utilizing familiar research databases.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;faculty-engagement-interviews&quot;&gt;Faculty Engagement Interviews&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Faculty across the board had positive experiences&lt;/strong&gt;: Faculty found the workshops, modules, and tutorials to be well designed and very helpful for their courses and students. Everyone plans to continue to use the research and writing tools in their courses.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Faculty desired efficiency in teaching&lt;/strong&gt;: Faculty expressed a preference for teaching students the basics and fundamentals about research writing outside of class time so that class time can be used more productively and for greater depth.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Course integration was wide-ranging&lt;/strong&gt;: The various research and writing tools were incorporated into the courses in a mix of in-person, online, and hybrid modes via class time, library time, and CCLE (a course management system).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Faculty affirmed student improvement&lt;/strong&gt;: While acknowledging lack of control groups or pre- and post-tests, there still appeared to be evidence of improvement, including greater understanding of research writing and higher sophistication of work from students.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To learn more, check out the &lt;a href=&quot;https://ucla.box.com/v/wire-oid-report&quot;&gt;full report&lt;/a&gt;, which also includes an assessment of the face to face research workshop series and has extensive notes on student and faculty feedback.&lt;/p&gt;
+
+&lt;p&gt;Thank you to OID, CEA, and everyone that contributed to this assessment project!&lt;/p&gt;</content><author><name>Doug</name></author><category term="Assessments and Reports" /><summary type="html">In June of 2017 UCLA’s Center for Educational Assessment completed a detailed report on a variety of approaches to research and writing instruction, including WI+RE’s online Cornerstone Research workshops.</summary></entry></feed>

@@ -1,0 +1,117 @@
+---
+title:  "Get Started with Zotero"
+date:   2010-01-07
+authors: 
+    - Caitlin
+    - Shannon
+    - Taylor
+    - Mary Tran
+    - Shushanik Stepanyan
+contributors: 
+    - Whitney Arnold
+    - Allison R. Benedetti 
+    - Zoe Borovsky
+    - Joanna Chen Cham
+    - Elizabeth Cheney
+    - Robert Freel
+    - Julia Glassman
+    - Janet Goins
+    - Robert Gore
+    - Leigh Harris
+    - Juan Jaime
+    - Diana L. King
+    - Kelly Kistner
+    - Simon Lee
+    - Nina Mamikunian
+    - Scott Martin
+    - Bethany Meyers
+    - Annie Pho
+    - Miriam Posner
+    - Alicia Reiley
+    - Renee
+    - Annelie Rugg
+    - Erin Sanders
+    - Doug
+description: Learn how to use Zotero, a free and easy citation tool.
+thumbnail: /assets/tutorials/thumbnails/ZoteroThumbnail.png
+handout: 
+category: Finding and Citing Sources
+tags:
+- zotero
+- citation management software 
+---
+
+<p class="intro">With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!</p>
+
+<!-- Maybe here in the "diagram" space we can put 3 cool things you can do with Zotero with just text and images? -->
+<!--
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="card" style="height: 100%;">
+        <!- - I think the side-by-side gifs might have made for too much motion on the screen. What do you think about stills? - ->
+        <div class="card-image">
+          <img src="{{ '/assets/img/content/zotero-project-folders_150.png' | prepend: site.baseurl }}" alt="Zotero libraries can be organized by class, paper, and topic">
+        </div>
+        <div class="card-content">
+        <span class="card-title">Organize your sources</span>
+        <p>Organize all of your research sources within a single, searchable interface.</p>
+        </div>
+      </div>
+    </div>
+   <div class="col s12 m6">
+      <div class="card">
+        <div class="card-image">
+          <img src="{{ '/assets/img/content/zotero-citations.png' | prepend: site.baseurl }}" alt="Zotero's plug-in for word allows you to create citations while writing a paper.">
+        </div>
+        <div class="card-content">
+          <span class="card-title">Cite as you write</span>
+          <p>Choose your style of citation, and then easily insert an in-text citation.</p>
+        </div>
+      </div>
+    </div>
+    <!- -
+    <div class="col s12 m4">
+      <div class="card">
+        <div class="card-image">
+          <img style="max-height: 144px;" src="https://www.evernote.com/l/AN9ofhgS_rxB_o_EKsusvT_PPd2cCsR22XYB/image.png" alt="Make a biblography with copy and paste.">
+        </div>
+        <div class="card-content">
+          <span class="card-title">Make bibliographies instantly</span>
+          <p>Select your sources and make a bibilography with ease.</p>
+        </div>
+      </div>
+    </div>
+  </div> 
+  - -> 
+-->
+
+<!--
+<h3>&nbsp;</h3>
+<h3>Give it a try
+<p >Want to get started? Check out our <a href="http://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/" target="_blank">Zotero tutorial</a>:</p>
+-->
+
+<!--
+<center>
+  <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/embeds/zotero/" width="95%" height="600px"></iframe>
+</center>
+-->
+
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="{{ '/embeds/zotero/' | relative_url }}"></iframe>
+</div>
+
+<!-- include embed-and-share-buttons.html ? -->
+<!--
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">forum</i>Want to talk about it? Set up a <em>free research consultation</em> to get help developing your ideas:</div>
+      <div class="collapsible-body">
+        <p>Ask a librarian <a href="http://library.ucla.edu/questions" target="_blank">24/7 chat service</a>.</p>
+          <p>Set up a <a href="http://library.ucla.edu/questions" target="_blank">research consultation at a UCLA Library</a>.</p>
+      </div>
+    </li>
+  </ul>
+  -->
+  
+

@@ -1,67 +1,52 @@
 ---
 layout: default
 ---
-{% if page.image %}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% else %}
+<header class="masthead">
+{% endif %}
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-11 col-xl-10 mx-auto">
+          <!-- all the same between post and page before this point -->
+        <div class="post-heading"> <!-- configure this in custom css -->
+            <div class="post-heading-text-box heading-text-box">
+        <h1>{{ page.title }}</h1>
+          {% if page.subtitle %}
+          <h2 class="subheading">{{ page.subtitle }}</h2>
+          {% endif %}
+          <!-- this captures the list of team member names from site.team-members -->
+          {% capture member-name-list %}{{ site.team-members | map: 'title' | split: ',' }}{% endcapture %}
+          <!-- -->
+          <span class="meta">{% if page.collection == "posts" %}Posted by{% else %}Created by{% endif %}
+            {% if page.authors %}
+                {% for authorname in page.authors %}
+                    {% if member-name-list contains authorname %}
+                        <a href="{{ authorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
+                    {% else %}
+                        {{ authorname }}{% if forloop.last == false %},{% endif %}
+                    {% endif %}
+                {% endfor %}
+            {% else %}
+                <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+            {% endif %}
+            <!--on {{ page.date | date: '%B %d, %Y' }}--></span>
+            </div>
+        </div>
       </div>
-  {% endif %}
+    </div>
+  </div>
+</header>
 
-<h1 class="postTitle">{{ page.title }}</h1>
-  <!-- <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p> -->
-{{ content }}
-
-{% include embed-and-share.html %}
-
-
-<!-- *** -->
-<!-- POST NAVIGATION with cards-->
-<!-- *** -->
-
-<hr>
-
-<div class="row">
-    {% if page.previous.url %}
-    <!-- Card 1 -->
-        <div class="col s6">
-          <div class="card hoverable">
-            <a href="{{ page.previous.url | prepend: site.baseurl }}">
-                <div class="card-content">
-              <!--<span class="card-title waves-effect"><a href="{{ page.previous.url | prepend: site.baseurl }}"><i class="material-icons">chevron_left</i>&nbsp;{{ page.previous.title }}</a></span>-->
-                <i class="material-icons">chevron_left</i>&nbsp;{{ page.previous.title }}
-              <!--<p>I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>-->
-            </div>
-                </a>
-            <!--
-            <div class="card-action">
-              <a href="#">This is a link</a>
-              <a href="#">This is a link</a>
-            </div>
-            -->
-          </div>
-        </div>
-    {% endif %}
-    
-
-    {% if page.next.url %}  
-        <!-- Card 2 -->
-            <div class="col s6"> <!-- offset-s6 should have worked -->
-          <div class="card hoverable">
-              <a href="{{ page.next.url | prepend: site.baseurl }}">
-              <div class="card-content" style="text-align: right;">
-              <!--<span class="card-title waves-effect"><a href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}&nbsp;<i class="material-icons">chevron_right</i></a></span>-->
-                  {{ page.next.title }}&nbsp;<i class="material-icons">chevron_right</i>
-            </div>
-            </a>
-            <!--
-            <div class="card-action">
-              <a href="#">This is a link</a>
-              <a href="#">This is a link</a>
-            </div>
-            -->
-          </div>
-        </div>
-    {% endif %}
-    
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-md-11 col-xl-10 mx-auto">
+        {{ content }}
+        {% include info.html %}
+        {% include prev-next.html %}
+    </div>
+  </div>
 </div>
