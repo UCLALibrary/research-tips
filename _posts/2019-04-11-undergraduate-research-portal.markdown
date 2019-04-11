@@ -4,7 +4,7 @@ date:   2019-04-05
 authors:
     - Taylor
     - Shannon
-author: Kian
+author: Taylor
 contributors:
     - Janet Goins
     
