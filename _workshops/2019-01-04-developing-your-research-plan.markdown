@@ -6,7 +6,7 @@ authors:
     - Kian
 contributors:
 description: "In this activity, you will be asked to think about your research topic or question and come up with a few concrete project goals. Then, you will learn more about the research process, what challenges and successes are to come, and several strategies to tackle your tasks!"
-thumbnail: /assets/workshops/thumbnails/Clever-Collector.png
+thumbnail: /assets/workshops/thumbnails/Prudent-Planner.png
 category: Cornerstone Research Workshops
 tags:
 - planning a research project
