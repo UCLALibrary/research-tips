@@ -27,6 +27,7 @@ handout: /assets/handouts/PSS_handout_primary-secondary.pdf
 handout-thumbail: /assets/handouts/thumbnails/PSS_handout_thumbnail
 thumbnail: /assets/tutorials/thumbnails/WheelOfSourcesThumbnail.png
 category: Finding and Citing Sources
+featured: yes
 tags:
 - primary
 - secondary
