@@ -1,5 +1,5 @@
 ---
-title:  "Avoiding Plagiarism and Using Sources"
+title:  "Avoiding Plagiarism and Citing Sources"
 date:   2019-01-06
 authors:
     - Kian
