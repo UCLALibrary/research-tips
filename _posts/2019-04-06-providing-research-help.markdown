@@ -9,6 +9,8 @@ contributors:
     - Jen
     - Renee
     - Annie Pho
+    - Alana Enriquez
+    - Gavin Jackson
     
 description: >-
     Producing training videos for inquiry specialists.
