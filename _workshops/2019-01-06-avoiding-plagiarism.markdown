@@ -15,7 +15,7 @@ contributors:
     - Jacelyn Omusi
     - Lou Baya Ould Rouis
     - Valeria Morales
-thumbnail: /assets/workshops/thumbnails/Certified_Citer.png
+thumbnail: /assets/workshops/thumbnails/Certified-Citer.png
 description: "Avoiding plagiarism can be more tricky than it seems at first glance. Complete this activity to learn strategies for avoiding plagiarism."
 category: Cornerstone Research Workshops
 tags:
