@@ -1,7 +1,7 @@
 ---
-title: "Playlist - Primary and Secondary Sources"
+title: "Resource Spotlight - Primary and Secondary Sources"
 date: 2018-07-24 01:01:01 +0000
-category: Playlists
+category: Resource Playlists
 authors: 
     - Kian 
 author: Kian
