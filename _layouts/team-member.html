@@ -49,9 +49,9 @@ layout: default
                 {{ page.bio }}
             </p>
 <!-- Features -->
+            {% if page.features[0]['feature-title'] %}
             <h3 class="mt-5">Featured Projects:</h3>
-                <!-- turn this into a slideshow? -->
-                {% if page.features %}
+                <!-- todo:: improve this slideshow? -->
                     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
                         <ol class="carousel-indicators">
                             {% for feature in page.features %}

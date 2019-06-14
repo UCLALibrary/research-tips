@@ -10,7 +10,7 @@ bio: >-
     Juan is an undergraduate studying Economics and Film. He is interested in creating impactful visually interesting learning materials.
 profile: /assets/images/team/juan.JPG
 features:
-    - feature-title: ""
+    - feature-title: 
       feature-img: 
       feature-url: 
       feature-note: 
