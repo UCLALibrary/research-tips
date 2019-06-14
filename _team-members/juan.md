@@ -5,7 +5,7 @@ lastname:  Díaz
 background: 
 start-date:   2018-04
 end-date:
-category: Creative Team
+category: Alumni
 bio: >- 
     Juan is an undergraduate studying Economics and Film. He is interested in creating impactful visually interesting learning materials.
 profile: /assets/images/team/juan.JPG
