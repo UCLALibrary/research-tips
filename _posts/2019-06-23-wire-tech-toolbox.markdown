@@ -8,7 +8,7 @@ description: >-
 category: Updates
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
-Curious to know how WI+RE puts together our online learning modules? While it is true that the most important part of our work is the [learner-led design process](https://uclalibrary.github.io/research-tips/), technology tools play an important role as well. Here's a quick list of WI+RE's current toolbox, with links to some of the tutorials new WI+RE designers use to get to know these tools.
+Curious to know how WI+RE puts together our online learning modules? While it is true that the most important part of our work is the [learner-led design process](https://uclalibrary.github.io/research-tips/about/design-toolkit/), technology tools play an important role as well. Here's a quick list of WI+RE's current toolbox, with links to some of the tutorials new WI+RE designers use to get to know these tools.
 
 ### [Asana](https://asana.com/)
 
