@@ -26,6 +26,10 @@ We also use quite a bit of markdown for web work. WI+RE students have liked this
 
 [Github](http://github.com/) and [github pages](https://pages.github.com/) are essential tools for WI+RE as we use them to host our website and tutorials! We use github pages because: it is free, it let's us build a pretty robust website but doesn't use a database to serve up pages (which means there are very few security concerns), and it allows us to share our code freely on one of the world's largest open code-sharing sites! WI+RE students start learning GitHub using this [getting started guide](https://guides.github.com/activities/hello-world/)
 
+### H5P
+
+Many of our recent projects - including the [Cornerstone Research Workshop Series](https://uclalibrary.github.io/research-tips/workshops/) and [Wheel of Sources](https://uclalibrary.github.io/research-tips/primary-secondary/) - use [H5P](https://h5p.org/) to add interactive elements to videos and slideshows.
+
 ### Creative Commons
 
 Perhaps not really a "technology" in the traditional sense, but we use and talk about creative commons quite a bit, so new WI+RE students watch and discuss a [short video on creative commons and how it works](https://vimeo.com/13590841)
