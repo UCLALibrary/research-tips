@@ -40,7 +40,7 @@ We use [the audacity site itself](https://www.audacityteam.org/) to introduce th
 
 ### [Hype](https://tumult.com/hype/)
 
-One of only a few paid applications in the WI+RE toolbox, Hype has been a key tool for many of our projects. We use it to create HTML5 animations. WI+RE students get to know Hype primarily through experimentation as they create their [learning narrative videos](https://www.youtube.com/channel/UCRPedAkolOOC6z-iP2S-clQ  ), but we use [introductory YouTube videos](https://www.youtube.com/watch?v=s8xqJHJIyfw) to get them started. 
+One of only a few paid applications in the WI+RE toolbox, Hype has been a key tool for many of our projects. We use it to create HTML5 animations. WI+RE students get to know Hype primarily through experimentation as they create their [learning narrative videos](https://www.youtube.com/channel/UCRPedAkolOOC6z-iP2S-clQ), but we use [introductory YouTube videos](https://www.youtube.com/watch?v=s8xqJHJIyfw) to get them started. 
 
 ### [Noun Project](https://thenounproject.com/)
 
