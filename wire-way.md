@@ -34,7 +34,7 @@ Learning happens in many formats, from videos and animations to printable handou
 We’re learners, not voice actors. We avoid “tutorial voice” and instead share our work in our own varied voices.
 
 ### Celebrate our diverse communities.
-We choose positive, inclusive, and relevant examples that celebrate the diversity of our communities. 
+We celebrate the diversity of our communities through positive, inclusive, and relevant pedagogy.
 
 ### Collaborate creatively.
 We use a rich and growing toolkit of design tools to collaborate and partner with learners, researchers, librarians, and teachers throughout the creative process.
