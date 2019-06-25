@@ -5,7 +5,7 @@ lastname:  Harper
 background: 
 start-date:   2016-10 
 end-date:
-category: Creative Team
+category: Alumni
 bio: >- 
     Taylor is an undergraduate studying English and Creative Writing. She is one of WI+RE's original instructional design assistants. Her interests are in diverse learning perspectives, practices, and pedagogy. She also manages WI+RE's social media, sharing the team's work both in person and online.
 profile: /assets/images/team/IMG_0872.JPG
