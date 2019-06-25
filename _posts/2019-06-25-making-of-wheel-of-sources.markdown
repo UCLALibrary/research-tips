@@ -6,7 +6,7 @@ authors:
 author: Kian
     
 description: >-
-    Watch our short video about the prototyping process behind WI+RE's award-winning instructional resource, Wheel of Sources.
+    Watch our video about the prototyping process behind WI+RE's award-winning instructional resource, Wheel of Sources.
 category: Prototypes
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
