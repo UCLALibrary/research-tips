@@ -15,7 +15,7 @@ Google Scholar has the potential to be a powerful search tool. WI+RE is working 
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="card mb-3">
+    <div class="card mb-3 shadow-sm">
       <div class="card-body">
         <h5 class="card-title">Google Scholar - Five Top Tips</h5>
         <h6 class="card-subtitle mb-2 text-muted">by Cardiff University Library</h6>
@@ -25,7 +25,7 @@ Google Scholar has the potential to be a powerful search tool. WI+RE is working 
     </div>
   </div>
   <div class="col-sm-6">
-    <div class="card mb-3">
+    <div class="card mb-3 shadow-sm">
       <div class="card-body">
         <h5 class="card-title">Google Scholar - Search Tips</h5>
         <h6 class="card-subtitle mb-2 text-muted">by Google</h6>
