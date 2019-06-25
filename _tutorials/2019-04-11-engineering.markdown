@@ -8,7 +8,7 @@ contributors:
     - UCLA Powell Library
 awards:
 description: Learn how to do research for your engineering class.
-thumbnail: /assets/tutorials/thumbnails/StartWithYourQuestionsThumbnail.jpg
+thumbnail: /assets/tutorials/thumbnails/EngineeringResearchThumbnail.jpg
 handout:
 handout-thumbail:
 category: Getting Started
