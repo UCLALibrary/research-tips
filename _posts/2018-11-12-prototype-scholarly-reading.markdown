@@ -1,6 +1,6 @@
 ---
 title:  "Prototype - Reading Scholarly Articles"
-date:   2019-01-12
+date:   2018-11-12
 description: >-
     Here's a prototype we are working on designed to help learners get the most out of reading scholarly articles. Let us know what you think!
 category: Prototypes

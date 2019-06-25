@@ -1,6 +1,6 @@
 ---
 title:  "Navigating the Undergradate Research Portal - Video Series"
-date:   2019-04-05
+date:   2019-04-11
 authors:
     - Taylor
     - Shannon
