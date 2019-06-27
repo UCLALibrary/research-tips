@@ -8,6 +8,44 @@ background: '/assets/images/sand.jpg'
 {% capture member-name-list %}{{ site.team-members | map: 'title' | split: ',' }}{% endcapture %}
 {% assign groups = site.posts | group_by: "category" | sort: "date" %}
 
+{% for post in site.posts %}
+      <div class="row align-items-center">
+          <div class="col-12">
+              <p><small class="text-muted"><span class="date">Posted {{ post.date | date: '%B %d, %Y'  }} in {{ post.category }}</span>
+                  {% if post.authors %} by 
+                        {% for authorname in post.authors %}
+                            {% if member-name-list contains authorname %}
+                            <a href="{{ authorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
+                            {% else %}
+                            {{ authorname }}{% if forloop.last == false %},{% endif %}
+                            {% endif %}
+                        {% endfor %}
+                    {% else %}
+                    <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+                    {% endif %}
+                  </small></p>
+          </div>
+          <!--
+          {% if post.image and post.image-alt %}
+          <div class="col col-md-auto">
+              <a href="{{ post.url | absolute_url }}">
+            <img class="img-fluid rounded mb-3 mb-md-0 mx-auto d-block" style="max-height: 100px;" src="{{ post.feature | prepend: site.feature-dir | absolute_url}}" alt="{{ post.feature-alt }}">
+          </a>
+          </div>
+          {% endif %}
+          -->
+          <!--
+          <div class="col-12 col-sm-6 col-md-auto">
+              <p><small class="text-muted">{{ post.category }}</small></p>
+          </div>
+          -->
+          <div class="col-12">
+              <h3 style="font-size: .9em;"><a href="{{ post.url | absolute_url }}" style="text-decoration: none;">{{ post.title }}</a></h3>
+          </div>
+    </div>
+    <hr>
+{% endfor %}
+
 <!-- need to adjust this for responsive cards and improve card content -->
 <!--
 {% for group in groups %}
@@ -36,7 +74,8 @@ background: '/assets/images/sand.jpg'
 {% endfor %}
 -->
 
-
+<!-- longer list categorized by group -->
+<!--
 {% for group in groups %}
 <div class="card mt-5 shadow">
     <div class="card-header pt-4">
@@ -70,4 +109,4 @@ background: '/assets/images/sand.jpg'
     {% endfor %}
 </div>
 {% endfor %}
-
+-->
