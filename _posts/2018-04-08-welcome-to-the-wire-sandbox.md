@@ -59,6 +59,10 @@ in the family of things.
 >
 >_Russ_
 
+>Either write something worth reading or do something worth writing about.
+>
+>_Benjamin Franklin_
+
 ### An introduction to editing posts in Jekyll and markdown
 
 We may also use this space to do more process oriented posts and share some of our prototypes - we'll see!
