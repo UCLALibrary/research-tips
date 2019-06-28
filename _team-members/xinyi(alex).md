@@ -7,7 +7,7 @@ end-date:
 category: Creative Team
 bio: >- 
     Xinyi is an undergraduate double majoring in Biology and Applied Math. She is excited to combine design and pedagogy to make resources on research and learning more accessible for UCLA students.
-profile: /assets/images/team/your-photo.jpg
+profile: assets/images/team/Xinyi(Alex).png
 features:
     - feature-title: 
       feature-img: 
