@@ -13,6 +13,7 @@ authors:
     - Jeannie Chen
     - April
     - Sophia Wu
+    - Xinyi(Alex)
 author: The WI+RE team 
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
@@ -62,6 +63,10 @@ in the family of things.
 >Either write something worth reading or do something worth writing about.
 >
 >_Benjamin Franklin_
+
+>Today is the first day of the rest of your life.
+>
+>_John Denvor_
 
 ### Want to add your favorite quote to this page?
 
