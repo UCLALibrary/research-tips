@@ -36,5 +36,5 @@ category: Finding and Citing Sources
     <li>Use synonyms to broaden your search.</li>
     <li>Use search filters and sorting options to narrow your search.</li>
     <li>Use opposite search terms to find out if some authors have found conflicting results.</li>
-    <li>For more help on turning your questions into keywords... tutorial insert</li>
+    <li>For more help on turning your questions into keywords, see our workshop on <a href="https://uclalibrary.github.io/research-tips/workshops/developing-research-questions-and-creating-keywords/" target="_blank">Developing Research Questions and Creating Keywords</a></li>
 </ul>
