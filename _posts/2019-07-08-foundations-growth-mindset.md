@@ -1,7 +1,7 @@
 ---
 title: "Foundations in Learner-Centered Design - Growth Mindset"
 date: 2019-07-08 01:01:01 +0000
-category: Resource Playlists
+category: Updates
 authors: 
     - Xinyi(Alex) 
 author: Xinyi(Alex)
