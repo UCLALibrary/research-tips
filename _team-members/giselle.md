@@ -11,6 +11,6 @@ profile: /assets/images/team/Gisellepic.jpg
 features:
     - feature-title: 
       feature-img: 
-      feature-url: https://giselleburns.github.io/research-tips/about/creative-team/
+      feature-url: 
       feature-note: 
 ---
