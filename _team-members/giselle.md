@@ -7,7 +7,7 @@ end-date:
 category: Creative Team
 bio: >- 
     My name is Giselle Burns and I am an undergraduate Psychology major. I enjoy learning about learning, and I hope to inspire others to do the same!
-profile: /assets/images/team/Gisellepic.jpg
+profile: /assets/images/team/Gisellepic.JPG
 features:
     - feature-title: 
       feature-img: 
