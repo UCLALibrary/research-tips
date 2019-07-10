@@ -14,6 +14,8 @@ contributors:
     - Nisha Mody
     - Shannon
     - Doug
+    - April
+    - Renee Romero
 thumbnail: /assets/workshops/thumbnails/Rockstar-Reviewer.png
 description: "Writing a literature review can seem like a daunting task. Complete this activity to learn strategies for writing a literature review!"
 category: Cornerstone Research Workshops
