@@ -85,9 +85,8 @@ layout: default
             {% capture tutorial-author-list %}{{ site.tutorials | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture handout-author-list %}{{ site.handouts | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture sandbox-author-list %}{{ site.posts | map: 'authors' | split: ',' }}{% endcapture %}
-            {% if workshop-author-list contains page.title or tutorial-author-list contains page.title or handout-author-list contains page.title or sandbox-author-list contains page.title %}
+            {% if workshop-author-list contains page.username or tutorial-author-list contains page.username or handout-author-list contains page.username or sandbox-author-list contains page.username %}
                 <h3 class="mt-5">My Projects</h3>
-                <p>I authored or co-authored the following projects:</p>
             {% endif %}
             <div class="container">
                 <div class="row">

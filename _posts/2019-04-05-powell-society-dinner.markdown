@@ -6,7 +6,7 @@ authors:
 author: Kian
 contributors:
     - Jen
-    - Doug
+    - doug-worsham
 
     
 description: >-

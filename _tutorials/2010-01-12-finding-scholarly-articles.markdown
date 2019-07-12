@@ -15,7 +15,7 @@ contributors:
     - Nisha Mody
     - Renee
     - Annelie Rugg
-    - Doug
+    - doug-worsham
 description: How to search for and access scholarly articles
 thumbnail: /assets/tutorials/thumbnails/FindingArticlesThumbnail.jpg
 category: Finding and Citing Sources

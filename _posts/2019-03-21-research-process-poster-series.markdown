@@ -12,7 +12,7 @@ contributors:
     - Carlos Zamora
     - Cassandra Bautista
     - Courtney Hoffner
-    - Doug
+    - doug-worsham
     - Doug Daniels
     - Emily Teng
     - Jade Alburo

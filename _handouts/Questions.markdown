@@ -2,7 +2,7 @@
 title:  "Start with Your Questions"
 date:   2019-02-25
 authors: 
-    - Doug 
+    - doug-worsham 
     - Renee 
 contributors: 
     - UCLA Powell Library

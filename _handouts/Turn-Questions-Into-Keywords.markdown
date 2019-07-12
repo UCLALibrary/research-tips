@@ -2,7 +2,7 @@
 title:  "Turn Questions Into Keywords"
 date:   2019-02-25
 authors: 
-    - Doug
+    - doug-worsham
     - Taylor
     - Shannon
 contributors: 

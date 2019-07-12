@@ -7,7 +7,7 @@ authors:
     - Jacy Black
 contributors:
     - April
-    - Doug
+    - doug-worsham
     - Nisha Mody
     - Alicia Reiley
     - Alana Enriquez

@@ -1,7 +1,7 @@
 ---
 title:  "The redesigned WI+RE website!"
 date:   2019-01-12
-authors: Doug
+authors: doug-worsham
 contributors:
     - Marisa Méndez-Brady
     - Renee

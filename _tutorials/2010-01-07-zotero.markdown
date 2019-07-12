@@ -31,7 +31,7 @@ contributors:
     - Renee
     - Annelie Rugg
     - Erin Sanders
-    - Doug
+    - doug-worsham
 description: Learn how to use Zotero, a free and easy citation tool.
 thumbnail: /assets/tutorials/thumbnails/ZoteroThumbnail.png
 handout: 

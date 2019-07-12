@@ -4,7 +4,7 @@ date:   2010-01-02
 authors: 
     - Taylor
     - Shannon
-    - Doug
+    - doug-worsham
 contributors: 
     - Caitlin
     - Renee

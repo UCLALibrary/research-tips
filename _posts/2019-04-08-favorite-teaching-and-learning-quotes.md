@@ -4,7 +4,7 @@ date:   2018-04-08 21:15:05 +0000
 category: Updates
 background: /assets/images/art-close-up-comic-16516.jpg
 authors: 
-    - Doug
+    - doug-worsham
     - Jen
     - Juan
     - Kian

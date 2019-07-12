@@ -3,7 +3,7 @@ title:  "Start with your Questions"
 date:   2010-01-01
 authors: 
     - Renee 
-    - Doug
+    - doug-worsham
 contributors: 
     - UCLA Powell Library
     - Emily Appleton

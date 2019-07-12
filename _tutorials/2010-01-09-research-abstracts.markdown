@@ -7,7 +7,7 @@ contributors:
     - Taylor
     - Caitlin
     - Shannon
-    - Doug
+    - doug-worsham
 description: A research abstract is a snapshot of your research project that concisely presents your research and its significance.
 thumbnail: /assets/tutorials/thumbnails/ResearchAbstractsThumbnail.jpg
 category: Sharing Your Research 

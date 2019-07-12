@@ -17,7 +17,7 @@ contributors:
     - Nisha Mody
     - Renee
     - Annelie Rugg
-    - Doug
+    - doug-worsham
 description: Move past your initial search to expand your perspectives on your topic. 
 thumbnail: /assets/tutorials/thumbnails/ExpandingPerspectivesThumbnail.png
 category: Finding and Citing Sources

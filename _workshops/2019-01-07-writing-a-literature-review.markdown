@@ -13,7 +13,7 @@ contributors:
     - Caitlin
     - Nisha Mody
     - Shannon
-    - Doug
+    - doug-worsham
     - April
     - Renee Romero
 thumbnail: /assets/workshops/thumbnails/Rockstar-Reviewer.png

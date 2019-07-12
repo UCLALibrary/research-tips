@@ -15,7 +15,7 @@ contributors:
     - Renee
     - Shushanik Stepanyan
     - Mary Tran
-    - Doug
+    - doug-worsham
     - University of Minnesota Libraries Research Paper Calculator
 description: Break down your assigment and stay on top of deadlines with this useful planner!! 
 thumbnail: /assets/tutorials/thumbnails/ResearchPaperPlannerThumbnail.jpg

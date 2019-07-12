@@ -11,7 +11,7 @@ contributors:
     - Marisa Méndez-Brady
     - Caitlin
     - Renee
-    - Doug
+    - doug-worsham
 description: There are many ways to use citations to support an argument.
 thumbnail: /assets/tutorials/thumbnails/IntegratingCitations.jpg
 handout: /assets/handouts/citation-integration-final.pdf

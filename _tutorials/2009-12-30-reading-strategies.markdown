@@ -11,7 +11,7 @@ authors:
     - Emily
     - Sophia Wu
 contributors: 
-    - Doug
+    - doug-worsham
     - UCLA Powell Library
 description: 
 thumbnail: /assets/tutorials/thumbnails/ReadingStrategiesThumbnail.jpg

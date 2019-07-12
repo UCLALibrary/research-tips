@@ -6,7 +6,7 @@ authors:
 contributors: 
     - Taylor
     - Caitlin
-    - Doug
+    - doug-worsham
 notes: ""
 description: "An elevator speech is a great way to introduce yourself and your research to a wide range of audiences."
 handout-url: /assets/handouts/elevator-speech.pdf

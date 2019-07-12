@@ -10,7 +10,7 @@ contributors:
     - Robert Gore
     - Janine Henri
     - Callie Holmes
-    - Doug
+    - doug-worsham
     - Diana L. King
     - Simon Lee
     - Henri Lim

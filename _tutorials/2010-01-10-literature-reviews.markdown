@@ -14,7 +14,7 @@ contributors:
     - Renee
     - Annelie Rugg
     - Mary Tran
-    - Doug
+    - doug-worsham
 description: Demystify the ever mysterious literature review! 
 thumbnail: /assets/tutorials/thumbnails/CreatingLiteratureReviewsThumbnail.png
 category: Literature Reviews
