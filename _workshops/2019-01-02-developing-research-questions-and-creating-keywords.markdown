@@ -6,7 +6,7 @@ authors:
     - Shannon
     - Taylor
     - Kian
-    - Doug
+    - doug-worsham
 contributors:
     - Emily Appleton
 thumbnail: 
