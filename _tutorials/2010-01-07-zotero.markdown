@@ -2,9 +2,9 @@
 title:  "Get Started with Zotero"
 date:   2010-01-07
 authors: 
-    - Caitlin
-    - Shannon
-    - Taylor
+    - caitlin-meyer
+    - shannon-roux
+    - taylor-harper
     - Mary Tran
     - Shushanik Stepanyan
 contributors: 
@@ -28,7 +28,7 @@ contributors:
     - Annie Pho
     - Miriam Posner
     - Alicia Reiley
-    - Renee
+    - renee-romero
     - Annelie Rugg
     - Erin Sanders
     - doug-worsham

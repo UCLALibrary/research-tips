@@ -4,8 +4,8 @@ date:   2019-02-25
 authors: 
     - Mary Tran
 contributors: 
-    - Taylor
-    - Caitlin
+    - taylor-harper
+    - caitlin-meyer
     - doug-worsham
 notes: ""
 description: "An elevator speech is a great way to introduce yourself and your research to a wide range of audiences."

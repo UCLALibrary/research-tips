@@ -2,20 +2,20 @@
 title:  "Writing a Literature Review"
 date:   2019-01-07
 authors:
-    - Kian
-    - Taylor
+    - kian-ravaei
+    - taylor-harper
 contributors:
     - Whitney Arnold
     - Janet Goins
     - Fernando Gomez
     - Leigh Harris
     - Christine Holten
-    - Caitlin
+    - caitlin-meyer
     - Nisha Mody
-    - Shannon
+    - shannon-roux
     - doug-worsham
-    - April
-    - Renee Romero
+    - april-zhou
+    - renee-romero
 thumbnail: /assets/workshops/thumbnails/Rockstar-Reviewer.png
 description: "Writing a literature review can seem like a daunting task. Complete this activity to learn strategies for writing a literature review!"
 category: Cornerstone Research Workshops

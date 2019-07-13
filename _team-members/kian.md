@@ -1,5 +1,7 @@
 ---
 title:  "Kian"
+username: kian-ravaei
+displayname: Kian Ravaei
 firstname: Kian
 lastname: Ravaei
 background: 

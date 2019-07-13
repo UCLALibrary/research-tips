@@ -1,5 +1,7 @@
 ---
 title:  "Renee"
+username: renee-romero
+displayname: Renee Romero
 firstname: Renee
 lastname:  Romero
 background: 

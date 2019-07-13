@@ -3,8 +3,8 @@ title: "Foundations in Learner-Centered Design - Growth Mindset"
 date: 2019-07-08 01:01:01 +0000
 category: Updates
 authors: 
-    - Xinyi(Alex) 
-author: Xinyi(Alex)
+    - xinyi-yan 
+author: xinyi-yan
 ---
 
 Here are some articles & other media resources on Growth Mindset, to be incorportated into the Foundations tutorial in the future.

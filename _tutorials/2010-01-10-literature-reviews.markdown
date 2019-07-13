@@ -2,16 +2,16 @@
 title:  "Creating Literature Reviews"
 date:   2010-01-10
 authors: 
-    - Caitlin
-    - Taylor
-    - Shannon
+    - caitlin-meyer
+    - taylor-harper
+    - shannon-roux
 contributors:
     - Whitney Arnold
     - Joanna Chen Cham
     - Janet Goins
     - Leigh Harris
     - Nisha Mody
-    - Renee
+    - renee-romero
     - Annelie Rugg
     - Mary Tran
     - doug-worsham

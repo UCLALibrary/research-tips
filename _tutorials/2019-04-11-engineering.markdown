@@ -3,7 +3,7 @@ title:  "Getting Started with Engineering Research"
 date:   2019-04-11
 authors: 
     - Shushanik Stepanyan
-    - Juan
+    - juan-diaz
 contributors: 
     - UCLA Powell Library
 awards:

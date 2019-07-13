@@ -2,8 +2,8 @@
 title:  "Primary and Secondary Sources"
 date:   2010-01-06
 authors: 
-    - Kian
-    - Jen
+    - kian-ravaei
+    - jen-pierre
 contributors: 
     - Allison R. Benedetti
     - Miki Goral
@@ -17,7 +17,7 @@ contributors:
     - Marisa Méndez-Brady
     - Annie Pho
     - Alicia Reiley
-    - Renee
+    - renee-romero
     - Matthew Vest
 awards:
     - primo

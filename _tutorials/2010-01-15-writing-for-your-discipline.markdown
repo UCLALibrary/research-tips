@@ -2,9 +2,9 @@
 title:  "Writing for Your Discipline"
 date:   2010-01-15
 authors: 
-    - Kian
-    - Taylor
-    - Shannon
+    - kian-ravaei
+    - taylor-harper
+    - shannon-roux
 contributors:
     - Whitney Arnold
     - Janet Goins

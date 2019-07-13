@@ -2,11 +2,11 @@
 title:  "Collecting and Citing Sources"
 date:   2019-01-02
 authors:
-    - Caitlin
-    - Shannon
-    - Taylor
+    - caitlin-meyer
+    - shannon-roux
+    - taylor-harper
     - Shushanik Stepanyan
-    - Kian
+    - kian-ravaei
 contributors:
     - Simon Lee
     - doug-worsham

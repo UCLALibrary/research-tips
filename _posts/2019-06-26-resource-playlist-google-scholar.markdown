@@ -2,8 +2,8 @@
 title:  "Resource Playlist - Google Scholar"
 date:   2019-06-26
 authors:
-    - Kian
-author: Kian
+    - kian-ravaei
+author: kian-ravaei
     
 description: >-
     A playlist of WI+RE's favorite resources for using Google Scholar.

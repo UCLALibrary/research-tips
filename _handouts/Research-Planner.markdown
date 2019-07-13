@@ -2,8 +2,8 @@
 title:  "Research Paper Planner"
 date:   2019-02-25
 authors:
-    - Shannon
-    - Taylor
+    - shannon-roux
+    - taylor-harper
 contributors:
     - Whitney Arnold
     - Joanna Chen Cham
@@ -11,8 +11,8 @@ contributors:
     - Leigh Harris
     - Kelly Kistner
     - Simon Lee
-    - Caitlin
-    - Renee
+    - caitlin-meyer
+    - renee-romero
     - Shushanik Stepanyan
     - Mary Tran
     - doug-worsham

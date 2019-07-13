@@ -1,5 +1,7 @@
 ---
 title:  "Juan"
+username: juan-diaz
+displayname: Juan Díaz
 firstname: Juan
 lastname:  Díaz
 background: 

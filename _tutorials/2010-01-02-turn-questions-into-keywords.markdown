@@ -2,12 +2,12 @@
 title:  "Turn Questions into Keywords"
 date:   2010-01-02
 authors: 
-    - Taylor
-    - Shannon
+    - taylor-harper
+    - shannon-roux
     - doug-worsham
 contributors: 
-    - Caitlin
-    - Renee
+    - caitlin-meyer
+    - renee-romero
     - UCLA Powell Library
 description: Improve the effectiveness of your searches by generating a variety of keywords.
 thumbnail: /assets/tutorials/thumbnails/QuestionsKeywordsThumbnail.jpg

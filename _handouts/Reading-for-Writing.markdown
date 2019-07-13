@@ -2,9 +2,9 @@
 title:  "Reading for Writing"
 date:   2019-02-25
 authors: 
-    - Kian
-    - Taylor
-    - Shannon
+    - kian-ravaei
+    - taylor-harper
+    - shannon-roux
 contributors:
     - Whitney Arnold
     - Janet Goins

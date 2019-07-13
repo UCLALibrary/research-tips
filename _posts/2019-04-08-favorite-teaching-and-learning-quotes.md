@@ -5,15 +5,15 @@ category: Updates
 background: /assets/images/art-close-up-comic-16516.jpg
 authors: 
     - doug-worsham
-    - Jen
-    - Juan
-    - Kian
-    - Shannon
-    - Taylor
+    - jen-pierre
+    - juan-diaz
+    - kian-ravaei
+    - shannon-roux
+    - taylor-harper
     - Jeannie Chen
-    - April
+    - april-zhou
     - Sophia Wu
-    - Xinyi(Alex)
+    - xinyi-yan
 author: The WI+RE team 
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?

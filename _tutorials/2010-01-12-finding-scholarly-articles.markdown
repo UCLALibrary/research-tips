@@ -2,8 +2,8 @@
 title:  "Finding Scholarly Articles"
 date:   2010-01-11
 authors: 
-    - Taylor
-    - Shannon
+    - taylor-harper
+    - shannon-roux
 contributors: 
     - Whitney Arnold
     - Joanna Chen Cham
@@ -13,7 +13,7 @@ contributors:
     - Kelly Kistner
     - Simon Lee
     - Nisha Mody
-    - Renee
+    - renee-romero
     - Annelie Rugg
     - doug-worsham
 description: How to search for and access scholarly articles

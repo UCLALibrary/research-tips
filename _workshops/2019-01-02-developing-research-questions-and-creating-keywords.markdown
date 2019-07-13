@@ -2,10 +2,10 @@
 title:  "Developing Research Questions and Creating Keywords"
 date:   2019-01-02
 authors:
-    - Renee
-    - Shannon
-    - Taylor
-    - Kian
+    - renee-romero
+    - shannon-roux
+    - taylor-harper
+    - kian-ravaei
     - doug-worsham
 contributors:
     - Emily Appleton

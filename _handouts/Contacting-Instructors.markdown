@@ -2,14 +2,14 @@
 title:  "Contacting Instructors"
 date:   2019-02-25
 authors: 
-    - Shannon
-    - Kian
-    - Taylor
+    - shannon-roux
+    - kian-ravaei
+    - taylor-harper
 contributors:
     - Whitney Arnold 
     - Allison R. Benedetti
     - Jeannie Chen
-    - Juan 
+    - juan-diaz 
     - Thomas Garbelotti
     - Janet Goins
     - Beth Goodhue
@@ -19,7 +19,7 @@ contributors:
     - Kate McAllister
     - Diane Mizrachi
     - Tara Prescott 
-    - Renee 
+    - renee-romero 
     - Shanna Shaked
     - Dana Cairns Watson
     - Amber West
