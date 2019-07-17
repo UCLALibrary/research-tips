@@ -2,16 +2,16 @@
 title:  "Integrating Citations"
 date:   2010-01-11
 authors: 
-    - Shannon
+    - shannon-roux
 contributors: 
     - Whitney Arnold
-    - Taylor
+    - taylor-harper
     - Leigh Harris
     - Simon Lee
     - Marisa Méndez-Brady
-    - Caitlin
-    - Renee
-    - Doug
+    - caitlin-meyer
+    - renee-romero
+    - doug-worsham
 description: There are many ways to use citations to support an argument.
 thumbnail: /assets/tutorials/thumbnails/IntegratingCitations.jpg
 handout: /assets/handouts/citation-integration-final.pdf

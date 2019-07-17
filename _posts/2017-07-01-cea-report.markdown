@@ -2,7 +2,7 @@
 title:  "WI+RE's Center for Educational Assessment Report"
 date:   2017-07-01
 authors:
-    - Doug
+    - doug-worsham
 contributors:
     - UCLA Office of Instructional Development
     - UCLA Center for Educational Assessment  

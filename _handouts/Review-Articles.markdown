@@ -2,8 +2,8 @@
 title:  "Find and Use Review Articles"
 date:   2019-02-25
 authors: 
-    - Caitlin 
-    - Shannon
+    - caitlin-meyer 
+    - shannon-roux
 contributors: 
     - UCLA Undergraduate Research Center - Sciences
     - UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences

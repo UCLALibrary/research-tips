@@ -1,5 +1,7 @@
 ---
 title:  "April"
+username: april-zhou
+displayname: April Zhou
 firstname: April
 lastname: Zhou
 background: 

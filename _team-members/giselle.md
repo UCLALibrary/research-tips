@@ -1,5 +1,7 @@
 ---
 title:  "Giselle"
+username: giselle-burns
+displayname: Giselle Burns
 firstname: Giselle
 lastname: Burns
 start-date: 2019-06-25

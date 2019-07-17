@@ -4,10 +4,10 @@ date:   2010-01-09
 authors: 
     - Mary Tran
 contributors:
-    - Taylor
-    - Caitlin
-    - Shannon
-    - Doug
+    - taylor-harper
+    - caitlin-meyer
+    - shannon-roux
+    - doug-worsham
 description: A research abstract is a snapshot of your research project that concisely presents your research and its significance.
 thumbnail: /assets/tutorials/thumbnails/ResearchAbstractsThumbnail.jpg
 category: Sharing Your Research 

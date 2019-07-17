@@ -2,9 +2,9 @@
 title:  "Getting Started with Research at UCLA"
 date:   2018-12-19
 authors:
-    - Shannon
-    - Taylor
-    - Kian
+    - shannon-roux
+    - taylor-harper
+    - kian-ravaei
 contributors:
     - "UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences"
     - "UCLA Undergraduate Research Center - Sciences"

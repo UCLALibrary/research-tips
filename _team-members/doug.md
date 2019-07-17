@@ -1,9 +1,11 @@
 ---
-title:  "Doug"
+title: "Doug"
+username: doug-worsham
+displayname: Doug Worsham
 firstname: Doug
 lastname:  Worsham
 background: 
-start-date:   YYYY-MM-DD 
+start-date:
 end-date:
 category: Community
 bio: >- 

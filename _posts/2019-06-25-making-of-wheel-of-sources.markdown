@@ -2,8 +2,8 @@
 title:  "The Making of Wheel of Sources"
 date:   2019-06-25
 authors:
-    - Kian
-author: Kian
+    - kian-ravaei
+author: kian-ravaei
     
 description: >-
     Watch our video about the prototyping process behind WI+RE's award-winning instructional resource, Wheel of Sources.

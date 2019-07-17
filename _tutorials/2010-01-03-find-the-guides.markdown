@@ -3,7 +3,7 @@ title:  "Find the Right Research Guides"
 date:   2010-01-03
 authors: 
     - Simon Lee
-    - Renee
+    - renee-romero
 contributors: 
     - UCLA Powell Library
 description: Find the guide that's right for you! UCLA Library staff have put together hundreds of guides for hundreds of subjects, courses, and special topics.

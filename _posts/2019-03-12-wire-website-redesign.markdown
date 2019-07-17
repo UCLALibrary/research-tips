@@ -1,11 +1,11 @@
 ---
 title:  "The redesigned WI+RE website!"
 date:   2019-01-12
-authors: Doug
+authors: doug-worsham
 contributors:
     - Marisa Méndez-Brady
-    - Renee
-    - Kian
+    - renee-romero
+    - kian-ravaei
     
 description: >-
     We're thrilled to launch a major upgrade to our website!

@@ -2,22 +2,22 @@
 title:  "Primary and Secondary Sources"
 date:   2010-01-06
 authors: 
-    - Kian
-    - Jen
+    - kian-ravaei
+    - jen-pierre
 contributors: 
     - Allison R. Benedetti
     - Miki Goral
     - Robert Gore
     - Janine Henri
     - Callie Holmes
-    - Doug
+    - doug-worsham
     - Diana L. King
     - Simon Lee
     - Henri Lim
     - Marisa Méndez-Brady
     - Annie Pho
     - Alicia Reiley
-    - Renee
+    - renee-romero
     - Matthew Vest
 awards:
     - primo

@@ -2,8 +2,8 @@
 title:  "Research Paper Planner"
 date:   2019-02-25
 authors:
-    - Shannon
-    - Taylor
+    - shannon-roux
+    - taylor-harper
 contributors:
     - Whitney Arnold
     - Joanna Chen Cham
@@ -11,11 +11,11 @@ contributors:
     - Leigh Harris
     - Kelly Kistner
     - Simon Lee
-    - Caitlin
-    - Renee
+    - caitlin-meyer
+    - renee-romero
     - Shushanik Stepanyan
     - Mary Tran
-    - Doug
+    - doug-worsham
     - University of Minnesota Libraries Research Paper Calculator
 notes: ""
 description: "Break down your assigment and stay on top of deadlines with this useful planner!"

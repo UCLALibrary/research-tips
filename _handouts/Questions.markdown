@@ -2,8 +2,8 @@
 title:  "Start with Your Questions"
 date:   2019-02-25
 authors: 
-    - Doug 
-    - Renee 
+    - doug-worsham 
+    - renee-romero 
 contributors: 
     - UCLA Powell Library
     - Emily Appleton

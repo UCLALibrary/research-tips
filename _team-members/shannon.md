@@ -1,5 +1,7 @@
 ---
 title:  "Shannon"
+username: shannon-roux
+displayname: Shannon Roux
 firstname: Shannon
 lastname:  Roux
 background: 

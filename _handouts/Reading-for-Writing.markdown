@@ -2,15 +2,15 @@
 title:  "Reading for Writing"
 date:   2019-02-25
 authors: 
-    - Kian
-    - Taylor
-    - Shannon
+    - kian-ravaei
+    - taylor-harper
+    - shannon-roux
 contributors:
     - Whitney Arnold
     - Janet Goins
     - Leigh Harris
     - Nisha Mody
-    - Doug
+    - doug-worsham
     - UCLA Undergraduate Writing Center
 notes: ""
 description: "Want to improve your academic writing? Complete this interactive activity to take your writing to the next level."
