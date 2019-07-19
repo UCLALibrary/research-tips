@@ -14,11 +14,16 @@ authors:
     - April
     - Sophia Wu
     - Xinyi(Alex)
+    - Giselle Burns
 author: The WI+RE team 
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
 Here's a collection of quotes gathered by the WI+RE team:
+
+> Either write something worth reading or do something worth writing about.
+>
+>_Benjamin Franklin_
 
 > When everyone in the classroom, teacher and students recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful.
 > - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
