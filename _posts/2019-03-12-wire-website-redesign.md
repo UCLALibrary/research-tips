@@ -77,11 +77,13 @@ As mentioned, Marisa Méndez-Brady and Renee Romero gave us some very important 
 {%  assign all-contrib-sort = all-contrib | sort %}
 <!-- concat and uniq auth and contrib -->
 {% assign all-authcontrib = all-auth-sort | concat: all-contrib-sort | uniq | compact %}
-{% assign all-authcontrib-sort = all-authcontrib | sort %}
+{% assign all-authcontrib-sort = all-authcontrib | sort_natural %}
 <!-- auth and contrib with profile links -->
 <!-- this captures the list of team member names from site.team-members -->
-{% capture member-name-list %}{{ site.team-members | map: 'title' | split: ',' }}{% endcapture %}
+{% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 
-And, as always, we are ever grateful for the many, many people and campus groups who have contributed to the content on the WI+RE website, including: {% for name in all-authcontrib-sort %}{% if member-name-list contains name %}<a href="{{ name | slugify | prepend: '/about/creative-team/' | absolute_url }}">{{ name }}</a>{% if forloop.last == false %}, {% endif %}{% else %}{{ name }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}. Thank you!
+And, as always, we are ever grateful for the many, many people and campus groups who have contributed to the content on the WI+RE website, including: {% for name in all-authcontrib-sort %}{% if member-name-list contains name %}{% for team-member in site.team-members %}{% if name == team-member.username %}<a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | absolute_url }}">{{ team-member.displayname }}</a>{% endif %}{% endfor %}{% if forloop.last == false %}, {% endif %}{% else %}{{ name }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}.
+
+Thank you!
 
 
