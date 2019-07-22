@@ -2,8 +2,8 @@
 title:  "Getting Started with Research at UCLA"
 date:   2010-01-10
 authors: 
-    - Taylor
-    - Shannon
+    - taylor-harper
+    - shannon-roux
 contributors:
     - Tony Aponte
     - Whitney Arnold
@@ -16,9 +16,9 @@ contributors:
     - Kelly Kistner
     - Simon Lee
     - Amy Liu 
-    - Caitlin
+    - caitlin-meyer
     - Nisha Mody
-    - Renee 
+    - renee-romero 
     - Annelie Rugg
     - Shushanik Stepanyan 
     - Mary Tran 

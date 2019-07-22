@@ -2,16 +2,16 @@
 title:  "Reading Strategies"
 date:   2018-04-07 21:15:05 +0000
 authors: 
-    - Kian
-    - Jen
-    - Shannon
-    - Juan
+    - kian-ravaei
+    - jen-pierre
+    - shannon-roux
+    - juan-diaz
     - Jeannie Chen
-    - April
+    - april-zhou
     - Emily
     - Sophia Wu
 contributors: 
-    - Doug
+    - doug-worsham
     - UCLA Powell Library
 description: 
 thumbnail: /assets/tutorials/thumbnails/ReadingStrategiesThumbnail.jpg

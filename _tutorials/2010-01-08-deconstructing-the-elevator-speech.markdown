@@ -4,9 +4,9 @@ date:   2010-01-08
 authors: 
     - Mary Tran
 contributors: 
-    - Taylor
-    - Caitlin
-    - Doug
+    - taylor-harper
+    - caitlin-meyer
+    - doug-worsham
 description: An elevator speech is a great way to introduce yourself and your research to a wide range of audiences.
 thumbnail: /assets/tutorials/thumbnails/ElevatorSpeechThumbnail.jpg
 category: Sharing Your Research

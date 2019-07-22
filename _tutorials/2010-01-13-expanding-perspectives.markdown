@@ -2,9 +2,9 @@
 title:  "Expanding Perspectives in Your Search"
 date:   2010-01-10
 authors: 
-    - Shannon
-    - Taylor
-    - Kian
+    - shannon-roux
+    - taylor-harper
+    - kian-ravaei
     - Jeannie Chen
 contributors:
     - Whitney Arnold
@@ -15,9 +15,9 @@ contributors:
     - Kelly Kistner
     - Simon Lee
     - Nisha Mody
-    - Renee
+    - renee-romero
     - Annelie Rugg
-    - Doug
+    - doug-worsham
 description: Move past your initial search to expand your perspectives on your topic. 
 thumbnail: /assets/tutorials/thumbnails/ExpandingPerspectivesThumbnail.png
 category: Finding and Citing Sources

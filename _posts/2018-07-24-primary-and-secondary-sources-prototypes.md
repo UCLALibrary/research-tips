@@ -3,8 +3,8 @@ title: "Prototype - Primary and Secondary Sources"
 date: 2018-07-24 01:01:01 +0000
 category: Prototypes
 authors: 
-    - Kian
-author: Kian
+    - kian-ravaei
+author: kian-ravaei
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 

@@ -2,7 +2,7 @@
 title:  "WI+RE's tech toolbox (a snapshot)"
 date:   2019-06-23
 authors:
-    - Doug    
+    - doug-worsham    
 description: >-
     A quick overview of some of WI+RE's most commonly used technology tools - with links to learning activities used by new WI+RE designers
 category: Updates

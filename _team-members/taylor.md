@@ -1,5 +1,7 @@
 ---
 title:  "Taylor"
+username: taylor-harper
+displayname: Taylor Harper
 firstname: Taylor
 lastname:  Harper
 background: 

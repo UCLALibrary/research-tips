@@ -1,5 +1,7 @@
 ---
-title:  "Xinyi(Alex)"
+title:  "Xinyi"
+username: xinyi-yan
+displayname: Xinyi(Alex) Yan
 firstname: Xinyi(Alex)
 lastname: Yan
 start-date: 2019-06-25 

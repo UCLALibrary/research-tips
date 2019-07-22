@@ -2,11 +2,12 @@
 title:  "Avoiding Plagiarism and Citing Sources"
 date:   2019-01-06
 authors:
-    - Kian
-    - Taylor
+    - kian-ravaei
+    - taylor-harper
     - Jacy Black
 contributors:
-    - Doug
+    - april-zhou
+    - doug-worsham
     - Nisha Mody
     - Alicia Reiley
     - Alana Enriquez
@@ -15,6 +16,8 @@ contributors:
     - Jacelyn Omusi
     - Lou Baya Ould Rouis
     - Valeria Morales
+    - Simon Lee
+    - renee-romero
 thumbnail: /assets/workshops/thumbnails/Certified-Citer.png
 description: "Avoiding plagiarism can be more tricky than it seems at first glance. Complete this activity to learn strategies for avoiding plagiarism."
 category: Cornerstone Research Workshops

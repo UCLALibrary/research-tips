@@ -1,5 +1,7 @@
 ---
 title:  "Caitlin"
+username: caitlin-meyer
+displayname: Caitlin Meyer
 firstname: Caitlin
 lastname:  Meyer
 background: 

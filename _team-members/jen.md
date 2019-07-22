@@ -1,5 +1,7 @@
 ---
 title:  "Jen"
+username: jen-pierre
+displayname: Jen Pierre
 firstname: Jen
 lastname: Pierre
 background: 

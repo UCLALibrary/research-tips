@@ -2,29 +2,29 @@
 title:  "Interactive Poster Series - Research Strategies"
 date:   2019-03-21
 authors:
-    - Kian
-    - Jen
-author: Kian
+    - kian-ravaei
+    - jen-pierre
+author: kian-ravaei
 contributors:
     - Alicia Reiley
-    - April
+    - april-zhou
     - Ben Alkaly
     - Carlos Zamora
     - Cassandra Bautista
     - Courtney Hoffner
-    - Doug
+    - doug-worsham
     - Doug Daniels
     - Emily Teng
     - Jade Alburo
     - Jamrensze “J-Mi” De Leon
     - Jeannie Chen
     - Joseph Babi
-    - Juan
+    - juan-diaz
     - Juan Jaime
     - Marisa Méndez-Brady
-    - Renee Romero
+    - renee-romero
     - Sophia Wu
-    - Taylor
+    - taylor-harper
     
 description: >-
     A summary of our poster series project and our SCILWorks 2019 presentation!

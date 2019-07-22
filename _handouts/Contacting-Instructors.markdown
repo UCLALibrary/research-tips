@@ -2,14 +2,14 @@
 title:  "Contacting Instructors"
 date:   2019-02-25
 authors: 
-    - Shannon
-    - Kian
-    - Taylor
+    - shannon-roux
+    - kian-ravaei
+    - taylor-harper
 contributors:
     - Whitney Arnold 
     - Allison R. Benedetti
     - Jeannie Chen
-    - Juan 
+    - juan-diaz 
     - Thomas Garbelotti
     - Janet Goins
     - Beth Goodhue
@@ -19,11 +19,11 @@ contributors:
     - Kate McAllister
     - Diane Mizrachi
     - Tara Prescott 
-    - Renee 
+    - renee-romero 
     - Shanna Shaked
     - Dana Cairns Watson
     - Amber West
-    - Doug
+    - doug-worsham
 notes: ""
 description: >-
     As students, you will often need to get in touch with your instructors. Whether it is a TA, professor, or faculty advisor, a little bit of etiquette can go a long way to making sure your communication is efficient and effective for everyone involved.

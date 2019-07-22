@@ -2,12 +2,12 @@
 title:  "Providing Research Help - Video Series"
 date:   2019-04-06
 authors:
-    - Kian
-author: Kian
+    - kian-ravaei
+author: kian-ravaei
 contributors:
-    - Juan
-    - Jen
-    - Renee
+    - juan-diaz
+    - jen-pierre
+    - renee-romero
     - Annie Pho
     - Alana Enriquez
     - Gavin Jackson

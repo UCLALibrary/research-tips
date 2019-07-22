@@ -2,9 +2,9 @@
 title:  "Navigating the Undergradate Research Portal - Video Series"
 date:   2019-04-11
 authors:
-    - Taylor
-    - Shannon
-author: Taylor
+    - taylor-harper
+    - shannon-roux
+author: taylor-harper
 contributors:
     - Janet Goins
     

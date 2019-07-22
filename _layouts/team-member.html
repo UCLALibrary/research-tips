@@ -15,8 +15,8 @@ layout: default
             <div class="post-heading-text-box heading-text-box text-center">
                 <img class="rounded mx-auto d-block" style="max-height: 200px;" src="{{ page.profile | relative_url }}" alt="{{ page.firstname }}'s profile picture" />
                 <h1>
-                    {% if page.firstname %}
-                        {{ page.firstname }}
+                    {% if page.displayname %}
+                        {{ page.displayname }}
                     {% else %}
                         {{ page.title }}
                     {% endif %}
@@ -44,7 +44,8 @@ layout: default
                 </small>
             </p>
             -->
-            <h2>{{ page.firstname }} <span class="text-muted">{{ page.lastname }}</span></h2>
+            <!-- do we need to repeat the name?
+            <!-- <h2>{{ page.firstname }} <span class="text-muted">{{ page.lastname }}</span></h2>-->
             <p class="lead">
                 {{ page.bio }}
             </p>
@@ -84,33 +85,31 @@ layout: default
             {% capture tutorial-author-list %}{{ site.tutorials | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture handout-author-list %}{{ site.handouts | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture sandbox-author-list %}{{ site.posts | map: 'authors' | split: ',' }}{% endcapture %}
-            {% if workshop-author-list contains page.title or tutorial-author-list contains page.title or handout-author-list contains page.title or sandbox-author-list contains page.title %}
-                <h3 class="mt-5">My Authored and Co-authored Projects</h3>
+            {% if workshop-author-list contains page.username or tutorial-author-list contains page.username or handout-author-list contains page.username or sandbox-author-list contains page.username %}
+                <h3 class="mt-5">My Projects</h3>
             {% endif %}
             <div class="container">
                 <div class="row">
 <!-- Workshops -->
-                {% if workshop-author-list contains page.title %}
-                    {% if workshop-author-list contains page.title %}
+                {% if workshop-author-list contains page.username %}
                         <div class="col-sm-6">
                             <h4 class="mt-5">Workshops</h4>
                             <ul>
                                 {% for workshop in site.workshops %}
-                                    {% if workshop.authors contains page.title %}
+                                    {% if workshop.authors contains page.username %}
                                     <li><a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a></li>
                                     {% endif %}
                                 {% endfor %}
                             </ul>
                         </div>
-                    {% endif %}
                 {% endif %}
 <!-- Tutorials -->
-                {% if tutorial-author-list contains page.title %}
+                {% if tutorial-author-list contains page.username %}
                     <div class="col-sm-6">
                         <h4 class="mt-5">Tutorials</h4>
                         <ul>
                             {% for tutorial in site.tutorials %}
-                                {% if tutorial.authors contains page.title %}
+                                {% if tutorial.authors contains page.username %}
                                 <li><a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
@@ -118,12 +117,12 @@ layout: default
                     </div>
                 {% endif %}
 <!-- Handouts -->
-                {% if handout-author-list contains page.title %}
+                {% if handout-author-list contains page.username %}
                     <div class="col-sm-6">
                     <h4 class="mt-5">Handouts</h4>
                         <ul>
                             {% for handout in site.handouts %}
-                                {% if handout.authors contains page.title %}
+                                {% if handout.authors contains page.username %}
                                 <li><a href="{{ handout.url | relative_url}}">{{ handout.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
@@ -131,12 +130,12 @@ layout: default
                     </div>
                 {% endif %}
 <!-- Sandbox Posts -->
-                {% if sandbox-author-list contains page.title %}
+                {% if sandbox-author-list contains page.username %}
                     <div class="col-sm-6">
                         <h4 class="mt-5">Sandbox Posts</h4>
                         <ul>
                             {% for post in site.posts %}
-                                {% if post.authors contains page.title %}
+                                {% if post.authors contains page.username %}
                                 <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
@@ -150,13 +149,14 @@ layout: default
             {% capture tutorial-contributor-list %}{{ site.tutorials | map: 'contributors' | split: ',' }}{% endcapture %}
             {% capture handout-contributor-list %}{{ site.handouts | map: 'contributors' | split: ',' }}{% endcapture %}
             {% capture sandbox-contributor-list %}{{ site.posts | map: 'contributors' | split: ',' }}{% endcapture %}
-            {% if workshop-contributor-list contains page.title or tutorial-contributor-list contains page.title or handout-contributor-list contains page.title or sandbox-contributor-list contains page.title %}
+            {% if workshop-contributor-list contains page.username or tutorial-contributor-list contains page.username or handout-contributor-list contains page.username or sandbox-contributor-list contains page.username %}
                 <h3 class="mt-5">My Contributions</h3>
                 <p><small>I also contributed to: 
-                    {% for workshop in site.workshops %}{% if workshop.contributors contains page.title %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a> | {% endif %}{% endfor%}
-                    {% for tutorial in site.tutorials %}{% if tutorial.contributors contains page.title %}<a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a> | {% endif %}{% endfor%}
-                    {% for handout in site.handouts %}{% if handout.contributors contains page.title %}<a href="{{ handout.url | relative_url}}">{{ handout.title }}</a> | {% endif %}{% endfor%}
-                    {% for post in site.posts %}{% if post.contributors contains page.title %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
+                    {% for workshop in site.workshops %}{% if workshop.contributors contains page.username %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a> | {% endif %}{% endfor%}
+                    {% for tutorial in site.tutorials %}{% if tutorial.contributors contains page.username %}<a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a> | {% endif %}{% endfor%}
+                    {% for handout in site.handouts %}{% if handout.contributors contains page.username %}<a href="{{ handout.url | relative_url}}">{{ handout.title }}</a> | {% endif %}{% endfor%}
+                    {% for post in site.posts %}{% if post.contributors contains page.username %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
+                    {% for post in site.posts %}{% if post.contributors contains page.username %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
                     </small>
                 </p>
             {% endif %}
