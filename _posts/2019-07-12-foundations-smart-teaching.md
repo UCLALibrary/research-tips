@@ -1,6 +1,6 @@
 ---
 title: "Foundations in Learner-Centered Design - Smart Teaching"
-date: 2019-07-12 04:20:01 +0000
+date: 2019-07-12 04:21:01 +0000
 category: Updates
 authors: 
     - Giselle 
