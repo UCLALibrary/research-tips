@@ -3,8 +3,8 @@ title: "Foundations in Learner-Centered Design - Smart Teaching"
 date: 2019-07-12 04:21:01 +0000
 category: Updates
 authors: 
-    - Giselle 
-author: Giselle
+    - giselle-burns 
+author: giselle-burns
 ---
 
 Here are a few articles and videos about Smart Teaching that can be used in the Foundations tutorial in the future.
