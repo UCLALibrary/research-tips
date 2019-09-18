@@ -35,5 +35,7 @@ tags:
 
 <h3 class="mt-3">Give it a try:</h3>
 
-<p ><a href="http://bit.ly/paper-planner" target="_blank">Open up the planner</a> and follow the instructions to make a copy into your Drive: <a href="http://bit.ly/paper-planner" target="_blank">http://bit.ly/paper-planner</a>.
+<p ><a href="https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/copy" target="_blank">Open up the planner</a> and follow the instructions to make a copy into your Drive: <a href="https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/copy" target="_blank">http://bit.ly/copy-the-paper-planner</a>.
 <p >Input the due date of one of your upcoming assignments and get started!</p>
+<h4>Writing a paper for the <a href="https://uclausj.weebly.com/">undergraduate science journal</a>? We have a special planner for you!</h4>
+<p>Just make a copy of the <a href="https://docs.google.com/spreadsheets/d/15cwDTiDNmZRcY_RtIrdNBGY2Qxb2MptUD9XP_4W08J0/copy" target="_blank">Undergraduate Science Journal Paper Planner</a> and get started!</p>
