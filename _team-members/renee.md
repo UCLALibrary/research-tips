@@ -7,9 +7,9 @@ lastname:  Romero
 background: 
 start-date:   YYYY-MM-DD 
 end-date:
-category: Community
+category: Founders
 bio: >- 
-    Renee Romero is an Instructional Design and Technology Consultant at UCLA Library, the Social Media Manager of Powell Library’s social media channels, and one of the founders of WI+RE. Renee enjoys devising practical steps to reach theoretical ideals, and critically examining the ways we think, learn, and teach. 
+    Renee Romero is a Sciences Librarian at UCLA Library, and one of the founders of WI+RE. She works on outreach initiatives, and serves as a liaison to the science and engineering community and the Interracial Dynamics Cluster. Renee enjoys devising practical steps to reach theoretical ideals, and critically examining the ways we think, learn, and teach.
 profile: /assets/images/team/renee.png
 features:
     - feature-title: "Start with Your Questions"
