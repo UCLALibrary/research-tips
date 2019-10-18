@@ -15,7 +15,7 @@ authors:
     - Sophia Wu
     - giselle-burns
     - xinyi-yan
-    - royson-lin
+    - Royson Lin
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
