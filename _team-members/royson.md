@@ -7,7 +7,7 @@ end-date:
 category: Creative Team
 bio: >- 
     Royson is an undergraduate majoring in Cognitive Science with the Specialization in Computing. He looks forward to designing accessible, universal tools to help learners and researchers achieve their goals.
-profile: /assets/images/team/your-photo.jpg
+profile: /assets/images/team/royson.jpg
 features:
     - feature-title: 
       feature-img: 
