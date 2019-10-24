@@ -2,12 +2,12 @@
 title:  "eScholarship: Open Access, Easy Access"
 date:   2019-10-24
 authors:
-    - April
-author: April
+    - april-zhou
+author: april-zhou
 contributors:
-    - Jen
-    - Kian
-    - Taylor
+    - jen-pierre
+    - kian-ravaei
+    - taylor-harper
     - Marty Brennan
     - Jennifer Chan
     - Wynn Tranfield
