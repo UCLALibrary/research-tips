@@ -15,6 +15,7 @@ authors:
     - Sophia Wu
     - giselle-burns
     - xinyi-yan
+    - royson-lin
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -71,6 +72,10 @@ in the family of things.
 >Today is the first day of the rest of your life.
 >
 >_John Denvor_
+
+>Design is the art of planning, and it is the art of making things possible.
+>
+>_Paula Scher_
 
 ### Want to add your favorite quote to this page?
 
