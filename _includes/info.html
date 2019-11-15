@@ -40,11 +40,11 @@
                   <p class="card-text">
                     {% for contributorname in page.contributors %}
                         {% if member-name-list contains contributorname %}
-                            {% for team-member in site.team-members %}
+                            {%- for team-member in site.team-members -%}
                                 {% if contributorname == team-member.username %}
                                     <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
                                 {% endif %}
-                            {% endfor %}{% if forloop.last == false %},{% endif %}
+                            {%- endfor -%}{% if forloop.last == false %},{% endif %}
                         {% else %}
                             {{ contributorname }}{% if forloop.last == false %},{% endif %}
                         {% endif %}
