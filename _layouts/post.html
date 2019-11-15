@@ -27,7 +27,7 @@ layout: default
                     {% if member-name-list contains authorname %}
                         {% for team-member in site.team-members %}
                             {% if authorname == team-member.username %}
-                                <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
+                                <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname | remove: " " }}</a>
                             {% endif %}
                         {% endfor %}{% if forloop.last == false %},{% endif %}
                     {% else %}
