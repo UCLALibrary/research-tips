@@ -22,14 +22,14 @@ layout: default
           {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
           <!-- -->
           <span class="meta">{% if page.collection == "posts" %}Posted by{% else %}Created by{% endif %}
-            {% if page.authors %}
+             {% if page.authors %}
                 {% for authorname in page.authors %}
                     {% if member-name-list contains authorname %}
                         {% for team-member in site.team-members %}
                             {% if authorname == team-member.username %}
-                                <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>{% if forloop.last == false %},{% endif %}
+                                <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
                             {% endif %}
-                        {% endfor %}
+                        {% endfor %}{% if forloop.last == false %},{% endif %}
                     {% else %}
                         {{ authorname }}{% if forloop.last == false %},{% endif %}
                     {% endif %}
