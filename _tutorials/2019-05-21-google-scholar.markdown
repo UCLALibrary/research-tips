@@ -2,12 +2,12 @@
 title:  "Using Google Scholar"
 date:   2019-05-21
 authors: 
-    - Kian
-    - Taylor
-    - Royson
-    - Xinyi(Alex)
+    - kian-ravaei
+    - taylor-harper
+    - royson-lin
+    - xinyi-yan
 contributors: 
-    - Doug
+    - doug-worsham
 awards:
 description: Discover useful features of Google Scholar to help you find exactly what you're looking for.
 thumbnail: /assets/tutorials/thumbnails/GoogleScholarThumbnail.png
