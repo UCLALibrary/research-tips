@@ -2,14 +2,14 @@
 title:  "Contacting Instructors"
 date:   2020-01-07
 authors: 
-    - Shannon
-    - Kian
-    - Taylor
+    - shannon-roux
+    - kian-ravaei
+    - taylor-harper
 contributors:
     - Whitney Arnold 
     - Allison R. Benedetti
     - Jeannie Chen
-    - Juan 
+    - juan-diaz 
     - Thomas Garbelotti
     - Janet Goins
     - Beth Goodhue
@@ -19,11 +19,11 @@ contributors:
     - Kate McAllister
     - Diane Mizrachi
     - Tara Prescott 
-    - Renee 
+    - renee-romero 
     - Shanna Shaked
     - Dana Cairns Watson
     - Amber West
-    - Doug
+    - doug-worsham
 description: >-
     Tips for contacting instructors over email and in-person.
 thumbnail: /assets/tutorials/thumbnails/ContactingInstructorsThumbnail.png
