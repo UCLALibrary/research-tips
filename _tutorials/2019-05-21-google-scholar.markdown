@@ -158,3 +158,29 @@ Using Google Scholar to find sources for your research can yield you a lot of ar
             </div>
         </div>
     </div>
+    
+<!--Accessing Articles-->
+<div class="card mb-3">
+    <div class="card-header" id="headingThree">
+        <h5 class="mb-0">
+            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+            Accessing Articles
+            </button>
+        </h5>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingThree">
+        <div class="card-body">
+            <p>Found a good article? How do you go about obtaining the full text without having to pay?</p>
+            <p>If you are a UC student, you can read certain articles for free via a special link: the UC-eLinks button! If it is available and you are connected to a UC Wi-Fi network directly or via VPN, the button should show up.</p>
+                <p style="text-align:center;"><img src="../assets/images/google-scholar/uc-elinks.png" class="img-fluid border" alt="A screenshot showing the location of the UC-eLinks button, directly to the right of an applicable search result."></p>
+            <p>If you don’t see the UC-eLinks button, try:</p>
+            <ol>
+                <li>Clicking the link directly to the right of the search result.</li>
+                <li>Clicking “All x versions.”</li>
+                <li>Clicking the arrow icon to show more options.</li>
+            </ol>
+            <p style="text-align:center;"><img src="../assets/images/google-scholar/three-ways.jpg" class="img-fluid border" alt="A screenshot showing the three alternative places in a search result to find the full version."> </p>
+            <p>If you still can’t locate a full version, try the free <a href="https://openaccessbutton.org">Open Access Button</a> or <a href="https://unpaywall.org">Unpaywall</a> browser extensions. Good luck!</p>
+        </div>
+    </div>
+    </div>
