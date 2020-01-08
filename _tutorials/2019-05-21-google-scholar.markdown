@@ -171,7 +171,7 @@ Using Google Scholar to find sources for your research can yield you a lot of ar
     <div id="collapseSix" class="collapse" aria-labelledby="headingThree">
         <div class="card-body">
             <p>Found a good article? How do you go about obtaining the full text without having to pay?</p>
-            <p>If you are a UC student, you can read certain articles for free via a special link: the UC-eLinks button! If it is available and you are connected to a UC Wi-Fi network directly or via VPN, the button should show up.</p>
+            <p>If you are a UC student, you can read certain articles for free via a special link: the UC-eLinks button! It should appear if you're connected to a UC Wi-Fi network or a <a href="https://uclalibrary.github.io/research-tips/get-configured/">campus VPN</a>.</p>
                 <p style="text-align:center;"><img src="../assets/images/google-scholar/uc-elinks.png" class="img-fluid border" alt="A screenshot showing the location of the UC-eLinks button, directly to the right of an applicable search result."></p>
             <p>If you don’t see the UC-eLinks button, try:</p>
             <ol>
