@@ -13,7 +13,7 @@ description: Discover useful features of Google Scholar to help you find exactly
 thumbnail: /assets/tutorials/thumbnails/GoogleScholarThumbnail.png
 handout:
 handout-thumbail: 
-category: Getting Started
+category: Finding and Citing Sources
 tags:
 - searching
 - finding articles
