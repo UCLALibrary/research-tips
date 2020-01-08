@@ -26,7 +26,7 @@ contributors:
     - Doug
 description: >-
     Tips for contacting instructors over email and in-person.
-thumbnail: ContactingInstructorsThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/ContactingInstructorsThumbnail.png
 handout: /assets/handouts/contacting-faculty-combined.pdf
 category: Getting Started
 tags:
