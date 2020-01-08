@@ -127,7 +127,7 @@ Using Google Scholar to find sources for your research can yield you a lot of ar
                   Using parentheses to group terms together (like in math) is not supported in Google Search.
                 </div>
               </div>
-                <p>References: <a href="http://musingsaboutlibrarianship.blogspot.com/2015/10/6-common-misconceptions-when-doing.html">6 common misconceptions when doing advanced Google Searching</a>, <a href="https://booleanstrings.com/2018/04/23/should-you-trust-all-google-tip-sheets/">Should You Trust All Google Tip Sheets?</a>, <a href="https://www.wur.nl/en/article/How-to-use-Google-Scholar.htm">How to use Google Scholar</a>, <a href="https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/edit">Google Advanced Search Operators</a></p>
+                <p>References: <a href="http://musingsaboutlibrarianship.blogspot.com/2015/10/6-common-misconceptions-when-doing.html" target="_blank">6 common misconceptions when doing advanced Google Searching</a>, <a href="https://booleanstrings.com/2018/04/23/should-you-trust-all-google-tip-sheets/" target="_blank">Should You Trust All Google Tip Sheets?</a>, <a href="https://www.wur.nl/en/article/How-to-use-Google-Scholar.htm" target="_blank">How to use Google Scholar</a>, <a href="https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/edit" target="_blank">Google Advanced Search Operators</a></p>
         </div>
     </div>
 </div>
@@ -171,7 +171,7 @@ Using Google Scholar to find sources for your research can yield you a lot of ar
     <div id="collapseSix" class="collapse" aria-labelledby="headingThree">
         <div class="card-body">
             <p>Found a good article? How do you go about obtaining the full text without having to pay?</p>
-            <p>If you are a UC student, you can read certain articles for free via a special link: the UC-eLinks button! It should appear if you're connected to a UC Wi-Fi network or a <a href="https://uclalibrary.github.io/research-tips/get-configured/">campus VPN</a>.</p>
+            <p>If you are a UC student, you can read certain articles for free via a special link: the UC-eLinks button! It should appear if you're connected to a UC Wi-Fi network or a <a href="https://uclalibrary.github.io/research-tips/get-configured/" target="_blank">campus VPN</a>.</p>
                 <p style="text-align:center;"><img src="../assets/images/google-scholar/uc-elinks.png" class="img-fluid border" alt="A screenshot showing the location of the UC-eLinks button, directly to the right of an applicable search result."></p>
             <p>If you don’t see the UC-eLinks button, try:</p>
             <ol>
@@ -180,7 +180,7 @@ Using Google Scholar to find sources for your research can yield you a lot of ar
                 <li>Clicking the arrow icon to show more options.</li>
             </ol>
             <p style="text-align:center;"><img src="../assets/images/google-scholar/three-ways.jpg" class="img-fluid border" alt="A screenshot showing the three alternative places in a search result to find the full version."> </p>
-            <p>If you still can’t locate a full version, try the free <a href="https://openaccessbutton.org">Open Access Button</a> or <a href="https://unpaywall.org">Unpaywall</a> browser extensions. Good luck!</p>
+            <p>If you still can’t locate a full version, try the free <a href="https://openaccessbutton.org" target="_blank">Open Access Button</a> or <a href="https://unpaywall.org" target="_blank">Unpaywall</a> browser extensions. Good luck!</p>
         </div>
     </div>
     </div>
