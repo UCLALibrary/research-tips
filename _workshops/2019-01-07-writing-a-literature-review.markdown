@@ -18,7 +18,7 @@ contributors:
     - renee-romero
 thumbnail: /assets/workshops/thumbnails/Rockstar-Reviewer.png
 awards:
-    - primo
+    - primo2020
 description: "Writing a literature review can seem like a daunting task. Complete this activity to learn strategies for writing a literature review!"
 category: Cornerstone Research Workshops
 tags:
