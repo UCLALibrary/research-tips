@@ -2,11 +2,13 @@
 title:  "Using Google Scholar"
 date:   2019-05-21
 authors: 
-    - kian-ravaei
-    - taylor-harper
     - royson-lin
+    - kian-ravaei
     - xinyi-yan
 contributors: 
+    - giselle-burns
+    - taylor-harper
+    - renee-romero
     - doug-worsham
 awards:
 description: Discover useful features of Google Scholar to help you find exactly what you're looking for.
