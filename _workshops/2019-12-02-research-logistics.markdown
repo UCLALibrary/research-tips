@@ -11,7 +11,7 @@ contributors:
     - Tama Hasson
     - renee-romero
     - doug-worsham
-thumbnail: 
+thumbnail: /assets/workshops/thumbnails/ResearchLogisticsThumbnail.png
 description: "Before getting started with research, it's important to know the difference between faculty- and student-led projects, as well as how to earn course credit for your research."
 category: Entering Research Workshops
 ---
