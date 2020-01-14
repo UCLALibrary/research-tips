@@ -178,7 +178,7 @@ Using Google Scholar to find sources for your research can yield you a lot of ar
             <p>If you don’t see the UC-eLinks button, try:</p>
             <ol>
                 <li>Clicking the link directly to the right of the search result.</li>
-                <li>Clicking “All x versions.”</li>
+                <li>Clicking “All <i>x</i> versions.”</li>
                 <li>Clicking the arrow icon to show more options.</li>
             </ol>
             <p style="text-align:center;"><img src="../assets/images/google-scholar/three-ways.jpg" class="img-fluid border" alt="A screenshot showing the three alternative places in a search result to find the full version."> </p>
