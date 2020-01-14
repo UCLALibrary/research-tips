@@ -2,10 +2,9 @@
 title:  "Beginning Your Research Journey"
 date:   2019-12-01
 authors:
+    - giselle-burns
     - kian-ravaei
     - xinyi-yan
-    - royson-lin
-    - giselle-burns
 contributors:
     - Janet Goins
     - Kelly Kistner

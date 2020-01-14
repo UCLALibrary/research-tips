@@ -2,10 +2,9 @@
 title:  "Finding a Research Mentor or Project"
 date:   2019-12-03
 authors:
+    - giselle-burns
     - kian-ravaei
     - xinyi-yan
-    - royson-lin
-    - giselle-burns
 contributors:
     - Janet Goins
     - Kelly Kistner
