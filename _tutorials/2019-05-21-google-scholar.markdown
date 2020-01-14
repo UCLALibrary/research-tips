@@ -161,14 +161,14 @@ Using Google Scholar to find sources for your research can yield you a lot of ar
     
 <!--Accessing Articles-->
 <div class="card mb-3">
-    <div class="card-header" id="headingThree">
+    <div class="card-header" id="headingFour">
         <h5 class="mb-0">
-            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
             Accessing Articles
             </button>
         </h5>
     </div>
-    <div id="collapseSix" class="collapse" aria-labelledby="headingThree">
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour">
         <div class="card-body">
             <p>Found a good article? How do you go about obtaining the full text without having to pay?</p>
             <p>If you are a UC student, you can read certain articles for free via a special link: the UC-eLinks button! It should appear if you're connected to a UC Wi-Fi network or a <a href="https://uclalibrary.github.io/research-tips/get-configured/" target="_blank">campus VPN</a>.</p>
