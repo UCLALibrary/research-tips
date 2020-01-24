@@ -45,7 +45,7 @@ For our Refine Your Search tip using Google Search operators, I created a vision
   <figcaption class="figure-caption text-right">My final Refine Your Search prototype.</figcaption>
 </figure>
 
-You can see what the actual tip looks like below, or by visiting us on our website at https://uclalibrary.github.io/research-tips/google-scholar/ ;)
+You can see what the actual tip looks like below, or by visiting us on our website at [https://uclalibrary.github.io/research-tips/google-scholar/](https://uclalibrary.github.io/research-tips/google-scholar/) ;)
 
 <figure class="figure border border-primary shadow mt-3">
   <img src="{{ '/assets/images/google-scholar-reflection/refine-your-search-result.png' | relative_url }}" class="figure-img img-fluid rounded" alt="The Refine Your Search tip as it stands on the website.">
