@@ -37,7 +37,7 @@ tags:
 
 Click the button below to make a copy of the planner into your Drive:
     
-<a class="btn btn-primary btn-block my-1" href="https://bit.ly/copy-the-paper-planner" target="_blank" role="button">Copy the paper planner</a>
+<a class="btn btn-primary my-1" href="https://bit.ly/copy-the-paper-planner" target="_blank" role="button">Copy the paper planner</a>
     
 <p >Input the due date of one of your upcoming assignments and get started!</p>
 <h4>Writing a paper for the <a href="https://uclausj.weebly.com/">undergraduate science journal</a>? We have a special planner for you!</h4>
