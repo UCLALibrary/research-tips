@@ -37,7 +37,7 @@ tags:
 
 <p ><a href="https://docs.google.com/spreadsheets/d/1lbyfLTPHUQWUuQWYNh9sEMSVeTSsIl3hIvTGUmmjA68/copy" target="_blank">Open up the planner</a> and follow the instructions to make a copy into your Drive:
     
-<a class="btn btn-outline-primary btn-block" href="https://bit.ly/copy-the-paper-planner" role="button">Copy the paper planner</a>
+<a class="btn" href="https://bit.ly/copy-the-paper-planner" target="_blank" role="button">Copy the paper planner</a>
     
 <p >Input the due date of one of your upcoming assignments and get started!</p>
 <h4>Writing a paper for the <a href="https://uclausj.weebly.com/">undergraduate science journal</a>? We have a special planner for you!</h4>
