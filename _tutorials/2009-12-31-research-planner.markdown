@@ -16,6 +16,7 @@ contributors:
     - Shushanik Stepanyan
     - Mary Tran
     - doug-worsham
+    - royson-lin
     - University of Minnesota Libraries Research Paper Calculator
 description: Break down your assigment and stay on top of deadlines with this useful planner!! Writing for the Undergraduate Science Journal? We have a planner for that, too!
 thumbnail: /assets/tutorials/thumbnails/ResearchPaperPlannerThumbnail.jpg
