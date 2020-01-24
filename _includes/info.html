@@ -23,9 +23,9 @@
                     {% for authorname in page.authors %}
                         {% if member-name-list contains authorname %}
                             {% for team-member in site.team-members %}
-                                {% if authorname == team-member.username %}
+                                {%- if authorname == team-member.username -%}
                                     <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
-                                {% endif %}
+                                {%- endif -%}
                             {% endfor %}{% if forloop.last == false %},{% endif %}
                         {% else %}
                             {{ authorname }}{% if forloop.last == false %},{% endif %}
@@ -41,9 +41,9 @@
                     {% for contributorname in page.contributors %}
                         {% if member-name-list contains contributorname %}
                             {% for team-member in site.team-members %}
-                                {% if contributorname == team-member.username %}
+                                {%- if contributorname == team-member.username -%}
                                     <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
-                                {% endif %}
+                                {%- endif -%}
                             {% endfor %}{% if forloop.last == false %},{% endif %}
                         {% else %}
                             {{ contributorname }}{% if forloop.last == false %},{% endif %}
