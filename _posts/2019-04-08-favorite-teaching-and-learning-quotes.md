@@ -85,11 +85,13 @@ The code for this post is written in something called markdown, which is kind of
 
 Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to get you started.
 
-#### Ready for a challenge?
+#### Give it a try!
 
-1. Make a fork of the WI+RE site.
-2. In your fork, find the `_posts` directory
-3. Edit this post - it is called `2019-04-08-favorite-teaching-and-learning-quotes.md`
-4. Add a quote you like to the section below! Check out the previous examples to see how the formatting works! Also add yourself to the list of authors in the metadata at the top of the page.
-5. Check out your change! It should be posted to the version of the site that is now hosted on your github pages account. The url should look something like this: `https://yourgithubusername.github.io/research-tips/` - did it work? If not, find someone to help troubleshoot!
-6. Like your changes? Create a pull request to get your changes added back in to the sandbox site! An experienced member of the WI+RE team call review your pull request to merge your changes into the sandbox.
+1. First, find the code repository at https://github.com/UCLALibrary/research-tips - look for the _posts directory and see if you can find the code for this post. It should be in a file called 2019-04-08-favorite-teaching-and-learning-quotes.md
+2. Make a fork of the WI+RE site.
+3. In *your fork*, find the _posts directory
+4. Edit the post called 2019-04-08-favorite-teaching-and-learning-quotes.md
+5. Add a quote you like to the section below! Check out the previous examples to see how the formatting works! 
+6. Add yourself to the list of authors in the metadata at the top of the page.
+7. Check out your change! It should be posted to the version of the site that is now hosted on your github pages account. The url should look something like this: https://yourgithubusername.github.io/research-tips/ - did it work? If not, find someone to help troubleshoot!
+8. Like your changes? Create a pull request to get your changes added back in to the sandbox site! An experienced member of the WI+RE team will review your pull request to merge your changes into the sandbox.
