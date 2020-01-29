@@ -93,5 +93,5 @@ Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wik
 4. Edit the post called 2019-04-08-favorite-teaching-and-learning-quotes.md
 5. Add a quote you like to the section below! Check out the previous examples to see how the formatting works! 
 6. Add yourself to the list of authors in the metadata at the top of the page.
-7. Check out your change! It should be posted to the version of the site that is now hosted on your github pages account. The url should look something like this: https://yourgithubusername.github.io/research-tips/ - did it work? If not, find someone to help troubleshoot!
+7. Check out your change! It should be posted to the version of the site that is now hosted on your github pages account. The url should look something like this: https://yourgithubusername.github.io/research-tips/ - Note that it can take several minutes for your changes to publish on the site. To check on the publishing status, visit the "Settings" page for your branch, and then look under the "GitHub Pages" to see if your branch has been published.
 8. Like your changes? Create a pull request to get your changes added back in to the sandbox site! An experienced member of the WI+RE team will review your pull request to merge your changes into the sandbox.
