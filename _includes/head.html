@@ -35,7 +35,7 @@
                     {% if member-name-list contains authorname %}
                         {% for team-member in site.team-members %}
                             {%- if authorname == team-member.username -%}
-                                <meta name="DC.creator" content="{{ team-member.lastname }}, {{ team-member.firstname}}" />
+                                <meta name="DC.creator" content="{{ team-member.firstname}} {{ team-member.lastname }}" />
                                 
                             {%- endif -%}
                         {% endfor %}
@@ -47,6 +47,20 @@
                 <meta name="DC.creator" content="{{ site.author }}" />
     {% endif %}
     
+    <!-- contributors -->
+        {% if page.contributors %}
+                    {% for contributorname in page.contributors %}
+                        {% if member-name-list contains contributorname %}
+                            {% for team-member in site.team-members %}
+                                {%- if contributorname == team-member.username -%}
+                                    <meta name="DC.contributor" content="{{ team-member.firstname}} {{ team-member.lastname }}" />
+                                {%- endif -%}
+                            {% endfor %}
+                        {% else %}
+                            <meta name="DC.contributor" content="{{ contributorname }}" />
+                        {% endif %}
+                    {% endfor %}
+      {% endif %}
     <!-- date -->
     {% if page.date %}
         <meta name="DCterms.issued" content="{{ page.date | date: '%B %d, %Y' }}" />
