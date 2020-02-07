@@ -72,7 +72,7 @@
     {% endif %}
 
     <!-- website type -->
-        <meta name="DC.Type" content="Open Educational Resources" />
+        <meta name="DC.Type" content="{{ page.layout }}" />
 
     <!-- rights -->
         <meta name="DC.rights" content="Creative Commons Attribution-NonCommercial-ShareAlike" />
@@ -101,7 +101,7 @@
     <link rel="stylesheet" href="{{"/assets/custom.css" | relative_url }}">
 <!-- -->
     
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
 </head>
