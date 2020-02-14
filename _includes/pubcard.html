@@ -1,0 +1,17 @@
+<div class="card mb-2">
+              <div class="card-body">
+                  <h5 class="card-title"><a href="{{ pub.url}}" target="_blank"><i aria-hidden="true" class="{{ pub.fa-icon }}" title="{{ pub.type }}"></i><span class="sr-only">{{ pub.type }}</span> {{pub.title}}</a></h5>
+                <p class="card-text"><small>{{pub.place}}. By 
+                    {% for authorname in pub.authors %}
+                        {% if member-name-list contains authorname %}
+                            {% for team-member in site.team-members %}
+                                {%- if authorname == team-member.username -%}
+                                    <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
+                                {%- endif -%}
+                            {% endfor %}{% if forloop.last == false %},{% else %}.{% endif %}
+                        {% else %}
+                            {{ authorname }}{% if forloop.last == false %},{% else %}.{% endif %}
+                        {% endif %}
+                    {% endfor %} {{ pub.date | date: "%b %d, %Y" }}.</small></p>
+                </div>
+</div>

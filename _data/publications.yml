@@ -1,6 +1,11 @@
 twentytwenty:
 - title: "More Than an Internship: A Student-led Learning Community for Instructional Design."
-  authors: Pierre, J., Harper, T., Meyer, C., Ravaei, K., & Worsham, D.
+  authors:
+    - jen-pierre
+    - taylor-harper
+    - caitlin-meyer
+    - kian-ravaei
+    - doug-worsham
   type: Book chapter
   date: 2020-06
   year: 2020
@@ -8,7 +13,12 @@ twentytwenty:
   url: 
   fa-icon: fas fa-book
 - title: "The WI+RE Way: A manifesto and a process for learner-led design"
-  authors: Harper, T., Mody, N., Ravaei, K., Romero, R., & Worsham, D.
+  authors:
+    - taylor-harper
+    - Nisha Mody
+    - kian-ravaei
+    - renee-romero
+    - doug-worsham
   type: Journal Article
   date: 2020-01-30
   year: 2020
@@ -18,15 +28,18 @@ twentytwenty:
 
 twentynineteen:
 - title: "Getting started with student-centered design"
-  authors: Worsham, D., & Ravaei, K.
-  type: 
+  authors:
+  - doug-worsham
+  - kian-ravaei
+  type: Webinar
   date: 2019-07-30
   year: 2019
   place: Florida Library Association Academic Instruction & Information Literacy Roundtable, Online Webinar
   url: https://dmcwo.github.io/dmcwo/presentations/getting-started-student-centered-design
   fa-icon: fas fa-images
 - title: "WI+RE: Creating a learner-led instructional design team in your library"
-  authors: Worsham, D.
+  authors:
+  - doug-worsham
   type: Conference Presentation
   date: 2019-06-24
   year: 2019
@@ -34,7 +47,10 @@ twentynineteen:
   url: https://dmcwo.github.io/dmcwo/presentations/creating-a-learner-led-design-team
   fa-icon: fas fa-images
 - title: "Better Together: Student-Led Collaborative Media Creation"
-  authors: Romero, R., Worsham, D., & Pho, A.
+  authors:
+    - renee-romero
+    - doug-worsham
+    - Annie Pho
   type: 
   date: 2019-05-11
   year: 2019
@@ -42,7 +58,9 @@ twentynineteen:
   url: https://dmcwo.github.io/dmcwo/presentations/better-together-student-led-media
   fa-icon: fas fa-images
 - title: "Intersecting Surveys and Fun: Reducing Library Anxiety in a Library Poster Survey Series"
-  authors: Pierre, J., & Ravaei, K.
+  authors: 
+  - jen-pierre
+  - kian-ravaei
   type: Conference Presentation
   date: 2019-02-08
   year: 2019
@@ -52,7 +70,9 @@ twentynineteen:
 
 twentyeighteen:
 - title: "Let’s Build Something! A Rapid-Prototyping Instructional Design Workshop"
-  authors: Brecher Cook, D., & Worsham, D.
+  authors: 
+  - Dani Brecher Cook
+  - doug-worsham
   type: Pre-conference workshop
   date: 2018, April 13
   year: 2018
@@ -60,7 +80,10 @@ twentyeighteen:
   url: http://conf2018.carl-acrl.org/session/lets-build-something-a-rapid-prototyping-instructional-design-workshop/
   fa-icon: fas fa-images 
 - title: "Flipping Engineering Information Literacy Instruction"
-  authors: Cheney, E., Aponte, T., & Worsham, D.
+  authors: 
+  - Liz Cheney
+  - Tony Aponte
+  - doug-worsham
   type: Lightning Talk
   date: 2018, February 23
   year: 2018
@@ -70,7 +93,8 @@ twentyeighteen:
 
 twentyseventeen:
 - title: "Reimagining the slideshow: Using reveal.js to create Choose Your Own Adventure library tutorials"
-  authors: Caitlin, M.
+  authors:
+  - caitlin-meyer
   type: Poster Presentation
   date: 2017, March 7
   year: 2017
@@ -80,7 +104,10 @@ twentyseventeen:
 
 twentysixteen:
 - title: "Engaging Campus Partners to Develop a Hybrid Toolkit for Student Success"
-  authors: Lee, S., Romero, R., & Worsham, D.
+  authors:
+  - Simon Lee
+  - renee-romero
+  - doug-worsham
   type: Poster Presentation
   date: 2016-08-11
   year: 2016

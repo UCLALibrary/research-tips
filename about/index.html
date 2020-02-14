@@ -41,17 +41,18 @@ background: '/assets/images/backgrounds/art-creative-flying-17679-3000.jpg'
   </div>
 </div>
 
+<!-- this captures the list of team member names from site.team-members -->
+{% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
+
 <h4 class="mt-5">Publications and Presentations</h4>
+<!-- the content in this section comes from _data/publications.yml -->
+<!-- to edit content in this section, edit _data/publications.yml -->
+
 <h5 class="mt-3">2020</h5>
 <div class="row justify-content-start">
     <div class="col-md-10 col-sm-12">
         {% for pub in site.data.publications.twentytwenty %}
-            <div class="card mb-2">
-              <div class="card-body">
-                  <h5 class="card-title"><a href="{{ pub.url}}" target="_blank"><i aria-hidden="true" class="{{ pub.fa-icon }}" title="{{ pub.type }}"></i><span class="sr-only">{{ pub.type }}</span> {{pub.title}}</a></h5>
-                <p class="card-text"><small>{{pub.place}}. By {{ pub.authors }}. {{ pub.date | date: "%b %d, %Y" }}.</small></p>
-                </div>
-            </div>
+            {% include pubcard.html %}
     {% endfor %}
     </div>
 </div>
@@ -60,12 +61,7 @@ background: '/assets/images/backgrounds/art-creative-flying-17679-3000.jpg'
 <div class="row justify-content-start">
     <div class="col-md-10 col-sm-12">
         {% for pub in site.data.publications.twentynineteen %}
-            <div class="card mb-2">
-              <div class="card-body">
-                  <h5 class="card-title"><a href="{{ pub.url}}" target="_blank"><i aria-hidden="true" class="{{ pub.fa-icon }}" title="{{ pub.type }}"></i><span class="sr-only">{{ pub.type }}</span> {{pub.title}}</a></h5>
-                <p class="card-text"><small>{{pub.place}}. By {{ pub.authors }}. {{ pub.date | date: "%b %d, %Y" }}.</small></p>
-                </div>
-            </div>
+            {% include pubcard.html %}
     {% endfor %}
     </div>
 </div>
@@ -74,12 +70,7 @@ background: '/assets/images/backgrounds/art-creative-flying-17679-3000.jpg'
 <div class="row justify-content-start">
     <div class="col-md-10 col-sm-12">
         {% for pub in site.data.publications.twentyeighteen %}
-            <div class="card mb-2">
-              <div class="card-body">
-                  <h5 class="card-title"><a href="{{ pub.url}}" target="_blank"><i aria-hidden="true" class="{{ pub.fa-icon }}" title="{{ pub.type }}"></i><span class="sr-only">{{ pub.type }}</span> {{pub.title}}</a></h5>
-                <p class="card-text"><small>{{pub.place}}. By {{ pub.authors }}. {{ pub.date | date: "%b %d, %Y" }}.</small></p>
-                </div>
-            </div>
+            {% include pubcard.html %}
     {% endfor %}
     </div>
 </div>
@@ -88,12 +79,7 @@ background: '/assets/images/backgrounds/art-creative-flying-17679-3000.jpg'
 <div class="row justify-content-start">
     <div class="col-md-10 col-sm-12">
         {% for pub in site.data.publications.twentyseventeen %}
-            <div class="card mb-2">
-              <div class="card-body">
-                  <h5 class="card-title"><a href="{{ pub.url}}" target="_blank"><i aria-hidden="true" class="{{ pub.fa-icon }}" title="{{ pub.type }}"></i><span class="sr-only">{{ pub.type }}</span> {{pub.title}}</a></h5>
-                <p class="card-text"><small>{{pub.place}}. By {{ pub.authors }}. {{ pub.date | date: "%b %d, %Y" }}.</small></p>
-                </div>
-            </div>
+            {% include pubcard.html %}
     {% endfor %}
     </div>
 </div>
@@ -102,12 +88,7 @@ background: '/assets/images/backgrounds/art-creative-flying-17679-3000.jpg'
 <div class="row justify-content-start">
     <div class="col-md-10 col-sm-12">
         {% for pub in site.data.publications.twentysixteen %}
-            <div class="card mb-2">
-              <div class="card-body">
-                  <h5 class="card-title"><a href="{{ pub.url}}" target="_blank"><i aria-hidden="true" class="{{ pub.fa-icon }}" title="{{ pub.type }}"></i><span class="sr-only">{{ pub.type }}</span> {{pub.title}}</a></h5>
-                <p class="card-text"><small>{{pub.place}}. By {{ pub.authors }}. {{ pub.date | date: "%b %d, %Y" }}.</small></p>
-                </div>
-            </div>
+            {% include pubcard.html %}
     {% endfor %}
     </div>
 </div>
