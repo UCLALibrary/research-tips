@@ -1,0 +1,101 @@
+twentytwenty:
+- title: "More Than an Internship: A Student-led Learning Community for Instructional Design."
+  authors: Pierre, J., Harper, T., Meyer, C., Ravaei, K., & Worsham, D.
+  type: Book chapter
+  date: 2020-06
+  year: 2020
+  place: Engaging Students Through Campus Libraries - High Impact Learning Models
+  url: 
+  fa-icon: fas fa-book
+- title: "The WI+RE Way: A manifesto and a process for learner-led design"
+  authors: Harper, T., Mody, N., Ravaei, K., Romero, R., & Worsham, D.
+  type: Journal Article
+  date: 2020-01-30
+  year: 2020
+  place: The Journal of New Librarianship, 5(1)
+  url: https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design
+  fa-icon: fas fa-file-alt
+
+twentynineteen:
+- title: "Getting started with student-centered design"
+  authors: Worsham, D., & Ravaei, K.
+  type: 
+  date: 2019-07-30
+  year: 2019
+  place: Florida Library Association Academic Instruction & Information Literacy Roundtable, Online Webinar
+  url: https://dmcwo.github.io/dmcwo/presentations/getting-started-student-centered-design
+  fa-icon: fas fa-images
+- title: "WI+RE: Creating a learner-led instructional design team in your library"
+  authors: Worsham, D.
+  type: Conference Presentation
+  date: 2019-06-24
+  year: 2019
+  place: American Library Association Annual Conference, Washington, D.C.
+  url: https://dmcwo.github.io/dmcwo/presentations/creating-a-learner-led-design-team
+  fa-icon: fas fa-images
+- title: "Better Together: Student-Led Collaborative Media Creation"
+  authors: Romero, R., Worsham, D., & Pho, A.
+  type: 
+  date: 2019-05-11
+  year: 2019
+  place: LOEX 2019, Minneapolis, MN
+  url: https://dmcwo.github.io/dmcwo/presentations/better-together-student-led-media
+  fa-icon: fas fa-images
+- title: "Intersecting Surveys and Fun: Reducing Library Anxiety in a Library Poster Survey Series"
+  authors: Pierre, J., & Ravaei, K.
+  type: Conference Presentation
+  date: 2019-02-08
+  year: 2019
+  place: SCIL Works 2019, California State University, Dominguez Hills.
+  url: https://uclalibrary.github.io/research-tips/sandbox/research-process-poster-series/
+  fa-icon: fas fa-images
+
+twentyeighteen:
+- title: "Let’s Build Something! A Rapid-Prototyping Instructional Design Workshop"
+  authors: Brecher Cook, D., & Worsham, D.
+  type: Pre-conference workshop
+  date: 2018, April 13
+  year: 2018
+  place: 2018 CARL Conference, The Academic Library in Times of Change, Redwood City, CA
+  url: http://conf2018.carl-acrl.org/session/lets-build-something-a-rapid-prototyping-instructional-design-workshop/
+  fa-icon: fas fa-images 
+- title: "Flipping Engineering Information Literacy Instruction"
+  authors: Cheney, E., Aponte, T., & Worsham, D.
+  type: Lightning Talk
+  date: 2018, February 23
+  year: 2018
+  place: Southern California Instruction Librarians Works, Culver City, CA
+  url: http://www.carl-acrl.org/ig/scil/
+  fa-icon: fas fa-bolt
+
+twentyseventeen:
+- title: "Reimagining the slideshow: Using reveal.js to create Choose Your Own Adventure library tutorials"
+  authors: Caitlin, M.
+  type: Poster Presentation
+  date: 2017, March 7
+  year: 2017
+  place: Code4Lib, Los Angeles, CA
+  url: https://2017.code4lib.org/posters/Reimagining-the-slideshow-using-revealjs-to-create-Choose-Your-Own-Adventure-library-tutorials
+  fa-icon: fas fa-images
+
+twentysixteen:
+- title: "Engaging Campus Partners to Develop a Hybrid Toolkit for Student Success"
+  authors: Lee, S., Romero, R., & Worsham, D.
+  type: Poster Presentation
+  date: 2016-08-11
+  year: 2016
+  place: National Diversity in Libraries Conference, Los Angeles, CA
+  url: 
+  fa-icon: fas fa-images
+
+template:
+- title: ""
+  authors: 
+  type: 
+  date: 
+  year: 
+  place: 
+  url: 
+  fa-icon: 
+
+
