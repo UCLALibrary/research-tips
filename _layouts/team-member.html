@@ -86,10 +86,50 @@ layout: default
             {% capture handout-author-list %}{{ site.handouts | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture sandbox-author-list %}{{ site.posts | map: 'authors' | split: ',' }}{% endcapture %}
             {% if workshop-author-list contains page.username or tutorial-author-list contains page.username or handout-author-list contains page.username or sandbox-author-list contains page.username %}
-                <h3 class="mt-5">My Projects</h3>
+
+<h3 class="mt-5">My WI+RE Portfolio</h3>
             {% endif %}
             <div class="container">
                 <div class="row">
+<!-- Publications and Presentations -->
+                    <!-- Gather publication and presentation authors -->
+                        {% assign twentytwentyAuthors = site.data.publications.twentytwenty | map: 'authors'  | join: ', ' %}
+                        {% assign twentynineteenAuthors = site.data.publications.twentynineteen | map: 'authors'  | join: ', ' %}
+                        {% assign twentyeighteenAuthors = site.data.publications.twentyeighteen | map: 'authors'  | join: ', ' %}
+                        {% assign twentyseventeenAuthors = site.data.publications.twentyseventeen | map: 'authors'  | join: ', ' %}
+                        {% assign twentysixteenAuthors = site.data.publications.twentysixteen | map: 'authors'  | join: ', ' %}
+                    <!-- end gather -->
+                    <!-- check to see if current user is an author -->
+                        {% if twentytwentyAuthors contains page.username or twentynineteenAuthors contains page.username or twentyeighteenAuthors contains page.username or twentyseventeenAuthors contains page.username or twentysixteenAuthors contains page.username %}
+                            {% assign isAnAuthor = true %}
+                        {% endif %}
+                    <!-- Create pub and pres list for authors -->
+                    {% if isAnAuthor == true %}
+                        <h4 class="mt-5">Publications &amp; Presentations</h4>
+                        <ul class="fa-ul">
+                            {% for pub in site.data.publications.twentytwenty %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentynineteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentyeighteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentyseventeen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentysixteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                    
+                    
+
+                    
+
+                    
 <!-- Workshops -->
                 {% if workshop-author-list contains page.username %}
                         <div class="col-sm-6">

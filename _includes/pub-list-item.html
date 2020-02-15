@@ -1,0 +1,4 @@
+<!--{% assign item-authors = item.authors | join: ", " %}-->
+    {% if pub.authors contains page.username %}
+        <li><span class="fa-li"><i aria-hidden="true" class="{{ pub.fa-icon }}" title="{{ pub.type }}"></i><span class="sr-only">{{ pub.type }}</span></span><a href="{{ pub.url}}" target="_blank">{{pub.title}}</a></li>
+    {% endif %}

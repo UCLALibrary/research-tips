@@ -8,6 +8,54 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: monthly
 ---
+<h1>Testing</h1>
+
+<h3>all pubs</h3>
+<h4>2020</h4>
+<!-- gather authors by year -->
+{% assign twentytwentyAuthors = site.data.publications.twentytwenty | map: 'authors'  | join: ', ' %}
+{% assign twentynineteenAuthors = site.data.publications.twentynineteen | map: 'authors'  | join: ', ' %}
+{% assign twentyeighteenAuthors = site.data.publications.twentyeighteen | map: 'authors'  | join: ', ' %}
+{% assign twentyseventeenAuthors = site.data.publications.twentyseventeen | map: 'authors'  | join: ', ' %}
+{% assign twentysixteenAuthors = site.data.publications.twentysixteen | map: 'authors'  | join: ', ' %}
+<!-- -->
+<hr>
+<p>2020:{{ twentytwentyAuthors }}</p>
+<p>2019: {{ twentynineteenAuthors }}</p>
+<p>2018: {{ twentyeighteenAuthors }}</p>
+<p>2017: {{ twentyseventeenAuthors }}</p>
+<p>2016: {{ twentysixteenAuthors }}</p>
+<hr>
+{% if twentytwentyAuthors contains 'voldemort' or twentynineteenAuthors contains 'voldemort' %}
+2019 and 2020 is a yes
+{% else %}
+2019 and 2020 is a no
+{% endif %}
+<hr>
+<hr>
+
+<p>testin</p>
+
+{% assign currentname = "doug-worsham"  %}
+
+{% for item in site.data.publications.twentynineteen %}
+{% assign item-authors = item.authors | join: ", " %}
+<p>item authors: {{ item-authors }}</p>
+    {% if item-authors contains currentname %}
+        {{ item.title }}
+    {% else %}
+        <p>nope</p>
+    {% endif %}
+{% endfor %}
+
+<hr>
+
+<!--
+{% assign allpubs = site.data.publications.twentytwenty | concat: site.data.publications.twentynineteen | concat: site.data.publications.twentyeighteen %}
+
+{{ allpubs }}
+-->
+
 <h1>Content types</h1>
 
 <h2>Handouts</h2>
