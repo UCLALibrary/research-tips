@@ -137,7 +137,7 @@ layout: default
                             <ul>
                                 {% for workshop in site.workshops %}
                                     {% if workshop.authors contains page.username %}
-                                    <li><a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a></li>
+                                    <li><a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a>{% if workshop.awards %}{% for award in workshop.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}</li>
                                     {% endif %}
                                 {% endfor %}
                             </ul>
@@ -150,7 +150,7 @@ layout: default
                         <ul>
                             {% for tutorial in site.tutorials %}
                                 {% if tutorial.authors contains page.username %}
-                                <li><a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a></li>
+                                <li><a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a>{% if tutorial.awards %}{% for award in tutorial.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -163,7 +163,7 @@ layout: default
                         <ul>
                             {% for handout in site.handouts %}
                                 {% if handout.authors contains page.username %}
-                                <li><a href="{{ handout.url | relative_url}}">{{ handout.title }}</a></li>
+                                <li><a href="{{ handout.url | relative_url}}">{{ handout.title }}</a>{% if handout.awards %}{% for award in handout.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -176,7 +176,7 @@ layout: default
                         <ul>
                             {% for post in site.posts %}
                                 {% if post.authors contains page.username %}
-                                <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
+                                <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a>{% if post.awards %}{% for award in post.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -192,11 +192,10 @@ layout: default
             {% if workshop-contributor-list contains page.username or tutorial-contributor-list contains page.username or handout-contributor-list contains page.username or sandbox-contributor-list contains page.username %}
                 <h3 class="mt-5">My Contributions</h3>
                 <p><small>I also contributed to: 
-                    {% for workshop in site.workshops %}{% if workshop.contributors contains page.username %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a> | {% endif %}{% endfor%}
-                    {% for tutorial in site.tutorials %}{% if tutorial.contributors contains page.username %}<a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a> | {% endif %}{% endfor%}
-                    {% for handout in site.handouts %}{% if handout.contributors contains page.username %}<a href="{{ handout.url | relative_url}}">{{ handout.title }}</a> | {% endif %}{% endfor%}
-                    {% for post in site.posts %}{% if post.contributors contains page.username %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
-                    {% for post in site.posts %}{% if post.contributors contains page.username %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a> | {% endif %}{% endfor%}
+                    {% for workshop in site.workshops %}{% if workshop.contributors contains page.username %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a>{% if workshop.awards %}{% for award in workshop.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %} | {% endif %}{% endfor%}
+                    {% for tutorial in site.tutorials %}{% if tutorial.contributors contains page.username %}<a href="{{ tutorial.url | relative_url}}">{{ tutorial.title }}</a>{% if tutorial.awards %}{% for award in tutorial.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %} | {% endif %}{% endfor%}
+                    {% for handout in site.handouts %}{% if handout.contributors contains page.username %}<a href="{{ handout.url | relative_url}}">{{ handout.title }}</a>{% if handout.awards %}{% for award in handout.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %} | {% endif %}{% endfor%}
+                    {% for post in site.posts %}{% if post.contributors contains page.username %}<a href="{{ post.url | relative_url}}">{{ post.title }}</a>{% if post.awards %}{% for award in post.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %} | {% endif %}{% endfor%}
                     </small>
                 </p>
             {% endif %}

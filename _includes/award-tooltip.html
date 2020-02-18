@@ -1,0 +1,11 @@
+<i class="fas fa-award" data-toggle="tooltip" data-placement="top" data-html="true" title="{% for award in item.awards %}
+    {% if award == "merlot-5-star-editor-review" %}
+        5-star editor review on merlot.org
+    {% elsif award == "primo" %}
+        Accepted to the PRIMO database of peer-reviewed materials online
+    {% elsif award contains "primo-site-of-the-month" %}
+        Featured as a PRIMO site of the month
+    {% else %}
+        Award                                   
+    {% endif %}{% if forloop.last == true %}.{% else %}<br><br>{% endif %}
+{% endfor %}"></i>
