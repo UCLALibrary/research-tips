@@ -11,4 +11,36 @@ permalink: /search/
 <div class="gcse-searchbox"></div>
 <div class="gcse-searchresults"></div>
 
-<p>Not finding what you are looking for? <a href="{{ '/contact' | relative_url }}" target="_blank">Contact the WI+RE team</a> and let us know how we can help!</p>
+<p>Not finding what you are looking for? Take a look at the list of all our resources below, or <a href="{{ '/contact' | relative_url }}" target="_blank">contact the WI+RE team</a> and let us know how we can help!</p>
+
+<h2 class="mt-5">WI+RE's Resources</h2>
+
+{% assign allContent = site.documents | sort: "title" %}
+
+<table class="table table-sm table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Type</th>
+            <th scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for contentItem in allContent %}
+            {% if contentItem.layout != "team-member" and contentItem.layout != "embed-simple" and contentItem.layout != "embed" %}
+                <tr>
+                    <th scope="row">
+                        <a href="{{ contentItem.url | relative_url }}">{{ contentItem.title }}</a>
+                        {% if contentItem.awards %}
+                            {% for award in contentItem.awards %}
+                                {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
+                            {% endfor %}
+                        {% endif %}
+                    </th>
+                    <td>{{ contentItem.layout | capitalize }}</td>
+                    <td>{{ contentItem.description }}</td>
+                </tr>
+            {% endif %}
+        {% endfor %}
+    </tbody>
+</table>

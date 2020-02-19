@@ -19,6 +19,67 @@
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     
+  <!-- Zotero/DC metadata -->
+    <!-- this captures the list of team member names from site.team-members -->
+          {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
+    <!-- -->
+    
+    <meta name="DC.title" content="{{ page.title }}" />
+    
+    <!-- website title -->
+    <meta name="DC.source" content="{{ site.title }} - {{ site.description }}" />
+    
+    <!-- authors -->
+    {% if page.authors %}
+                {% for authorname in page.authors %}
+                    {% if member-name-list contains authorname %}
+                        {% for team-member in site.team-members %}
+                            {%- if authorname == team-member.username -%}
+                                <meta name="DC.creator" content="{{ team-member.firstname}} {{ team-member.lastname }}" />
+                                
+                            {%- endif -%}
+                        {% endfor %}
+                    {% else %}
+                        <meta name="DC.creator" content="{{ authorname }}" />
+                    {% endif %}
+                {% endfor %}
+            {% else %}
+                <meta name="DC.creator" content="{{ site.author }}" />
+    {% endif %}
+    
+    <!-- contributors -->
+        {% if page.contributors %}
+                    {% for contributorname in page.contributors %}
+                        {% if member-name-list contains contributorname %}
+                            {% for team-member in site.team-members %}
+                                {%- if contributorname == team-member.username -%}
+                                    <meta name="DC.contributor" content="{{ team-member.firstname}} {{ team-member.lastname }}" />
+                                {%- endif -%}
+                            {% endfor %}
+                        {% else %}
+                            <meta name="DC.contributor" content="{{ contributorname }}" />
+                        {% endif %}
+                    {% endfor %}
+      {% endif %}
+    <!-- date -->
+    {% if page.date %}
+        <meta name="DCterms.issued" content="{{ page.date | date: '%B %d, %Y' }}" />
+    {% endif %}
+    
+    <!-- abstract -->
+    {% if page.description %}
+        <meta name="DCterms.abstract" content="{{ page.description }}" />
+    {% endif %}
+
+    <!-- website type -->
+        <meta name="DC.Type" content="{{ page.layout }}" />
+
+    <!-- rights -->
+        <meta name="DC.rights" content="Creative Commons Attribution-NonCommercial-ShareAlike" />
+
+    <!-- end Zotero/DC metadata -->
+    
+    
   <!-- Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -40,7 +101,7 @@
     <link rel="stylesheet" href="{{"/assets/custom.css" | relative_url }}">
 <!-- -->
     
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
 </head>
