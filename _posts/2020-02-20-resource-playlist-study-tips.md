@@ -56,7 +56,6 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Change It Up</h5>
-            <h6 class="card-subtitle mb-2 text-muted">by people</h6>
 	    <p class="card-text"></p>
             <p class="card-text">You may have heard of the idea of having a single dedicated "study spot" that you do all your studying in. Maybe it's your desk at home or a library on campus. However, did you know that you might actually learn better if you switch it up and study in multiple different places? Smith & Rothkopf found that students who took an 8-hour statistics course over four days in four different classrooms did better on a test in a completely new environment compared to students who took the course in the same room. This might be useful for you if you like to study in places that are not the exam location, like most of us!  Check out their study!</p>
 	    <div class="text-center pt-3">
@@ -67,7 +66,6 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Think About It</h5>
-            <h6 class="card-subtitle mb-2 text-muted">by people</h6>
             <p class="card-text">Another helpful memory aid is processing the material deeply. This paper by Craik and Lockhart suggests a framework for human memory that stresses the importance of depths or levels of processing and predicts that the deeper information is processed, the longer it will be remembered.</p>
 			<div class="text-center pt-3">
             	<a href="https://www.sciencedirect.com/science/article/pii/S002253717280001X" class="btn btn-primary">Craik and Lockhart 1972</a>
