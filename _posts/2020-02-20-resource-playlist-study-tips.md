@@ -41,7 +41,8 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
             </div>
             <p class="card-text">Here are two plain English articles breaking down the testing effect.</p>
             <div class="text-center pt-3">
-	     	 <a href="https://www.psychologytoday.com/us/blog/ulterior-motives/201108/test-yourself-learn-better" class="btn btn-primary" target="_blank">Test Yourself to Learn Better</a><a href="https://knowledgeplus.nejm.org/blog/what-is-the-testing-effect-and-how-does-it-affect-learning-knowledge-and-retention/" class="btn btn-primary" target="_blank">What Is the Testing Effect, and How Does It Affect Learning, Knowledge, and Retention?</a>
+	     	 <a href="https://www.psychologytoday.com/us/blog/ulterior-motives/201108/test-yourself-learn-better" class="btn btn-primary" target="_blank">Test Yourself to Learn Better</a>
+		 <a href="https://knowledgeplus.nejm.org/blog/what-is-the-testing-effect-and-how-does-it-affect-learning-knowledge-and-retention/" class="btn btn-primary" target="_blank">What Is the Testing Effect, and How Does It Affect Learning, Knowledge, and Retention?</a>
             </div>
 	    <p class="card-text">And here's a video if that's your style!</p>
 	    <div class="text-center pt-3">
