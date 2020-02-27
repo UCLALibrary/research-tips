@@ -14,18 +14,18 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
         <div class="card-body">
             <h5 class="card-title">Space It Out</h5>
 	    <p class="card-text">Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the <i>spacing effect</i>.</p>
+            <p class="card-text">Check out this article to see how a study on how using spacing with flashcards was more effective than massing.</p>
             <div class="text-center pt-3">
 	    	 <a href="https://search.proquest.com/psycinfo/docview/742972135/5B61771A0A56494BPQ/1?accountid=14512" class="btn btn-primary" target="_blank">Kornell 2009</a>
             </div>
-            <p class="card-text">Check out this article to see how a study on how using spacing with flashcards was more effective than massing.</p>
+		<p class="card-text">Here's an article explaining the research and delving deeper into other studies.</p>
 	    <div class="text-center pt-3">
                  <a href="http://www.psychologytoday.com/blog/everybody-is-stupid-except-you/201009/study-better-space-it-out-and-mix-it" class="btn btn-primary" target="_blank">Study better: Space it out and mix it up</a>
             </div>
-	    <p class="card-text">Here's an article explaining the research and delving deeper into other studies.</p>
+	    <p class="card-text">And finally, a video to break it all down and explain how you can incorporate spacing into your studying in the future!</p>
 	    <div class="text-center pt-3">
                  <a href="https://www.youtube.com/watch?v=cVf38y07cfk" class="btn btn-primary" target="_blank">Spaced repetition in learning theory</a>
             </div>
-	    <p class="card-text">And finally, a video to break it all down and explain how you can incorporate spacing into your studying in the future!</p>
         </div>
     </div>
 </div>
@@ -35,18 +35,18 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
         <div class="card-body">
             <h5 class="card-title">Test Yourself</h5>
 	    <p class="card-text">Many studies have also shown that testing yourself on content you've just read or watched actually helps you remember it way better than simply rereading or rewatching the material. This is known as the <i>testing effect</i>. One strong hypothesis about why it works is because testing yourself is a form of retrieval practice, or training yourself to recall something, which is the exact thing you need to do come test time!</p>
+			<p class="card-text">Check out this study on how quizzes and multiple choice tests improved performance on tests compared to rereading.</p>
             <div class="text-center pt-3">
 	    	 <a href="http://dx.doi.org/10.1080/09541440701326154" class="btn btn-primary" target="_blank">McDaniel et al. 2007</a>
             </div>
-            <p class="card-text">Check out this study on how quizzes and multiple choice tests improved performance on tests compared to rereading.</p>
+            <p class="card-text">Here are two plain English articles breaking down the testing effect.</p>
             <div class="text-center pt-3">
 	     	 <a href="https://www.psychologytoday.com/us/blog/ulterior-motives/201108/test-yourself-learn-better" class="btn btn-primary" target="_blank">Test Yourself to Learn Better</a><a href="https://knowledgeplus.nejm.org/blog/what-is-the-testing-effect-and-how-does-it-affect-learning-knowledge-and-retention/" class="btn btn-primary" target="_blank">What Is the Testing Effect, and How Does It Affect Learning, Knowledge, and Retention?</a>
             </div>
-            <p class="card-text">Here are two plain English articles breaking down the testing effect.</p>
+	    <p class="card-text">And here's a video if that's your style!</p>
 	    <div class="text-center pt-3">
                  <a href="https://www.youtube.com/watch?v=cVf38y07cfk" class="btn btn-primary" target="_blank">Testing effect (test-enhanced learning) in learning theory</a>
             </div>
-	    <p class="card-text">And here's a video if that's your style!</p>
         </div>
     </div>
 </div>
@@ -67,10 +67,10 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
         <div class="card-body">
             <h5 class="card-title">Think About It</h5>
             <h6 class="card-subtitle mb-2 text-muted">by people</h6>
-            <div class="text-center pt-3">
-                 <a href="https://www.sciencedirect.com/science/article/pii/S002253717280001X">Craik and Lockhart 1972</a>
-            </div>
             <p class="card-text">Another helpful memory aid is processing the material deeply. This paper by Craik and Lockhart suggests a framework for human memory that stresses the importance of depths or levels of processing and predicts that the deeper information is processed, the longer it will be remembered.</p>
+			<div class="text-center pt-3">
+            	<a href="https://www.sciencedirect.com/science/article/pii/S002253717280001X" class="btn btn-primary">Craik and Lockhart 1972</a>
+            </div>
 	    <p class="card-text">Interestingly enough, this ties very tightly into understanding the material....</p>
         </div>
     </div>
