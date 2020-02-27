@@ -52,7 +52,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
     </div>
 </div>
 
-<div class="card-deck">
+<div class="card-deck mt-3">
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Change It Up</h5>
