@@ -15,32 +15,125 @@ permalink: /search/
 
 <h2 class="mt-5">WI+RE's Resources</h2>
 
-{% assign allContent = site.documents | sort: "title" %}
-
-<table class="table table-sm table-striped table-bordered">
-    <thead>
-        <tr>
-            <th scope="col">Title</th>
-            <th scope="col">Type</th>
-            <th scope="col">Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for contentItem in allContent %}
-            {% if contentItem.layout != "team-member" and contentItem.layout != "embed-simple" and contentItem.layout != "embed" %}
+<!-- -->
+<!-- Workshops tab-->
+<!-- -->
+<div class="accordion" id="accordianResources">
+  <div class="card">
+    <div class="card-header" id="workshopTab">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          Workshops
+        </button>
+      </h2>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="workshopTab" data-parent="#accordianResources">
+      <div class="card-body">
+        <p>Gain a solid foundation in academic research and writing with our 30 minute interactive mini-lessons. </p>
+          <table class="table table-sm table-striped table-bordered">
+            <thead>
+            <tr>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+          {% for workshop in site.workshops %}
                 <tr>
                     <th scope="row">
-                        <a href="{{ contentItem.url | relative_url }}">{{ contentItem.title }}</a>
-                        {% if contentItem.awards %}
-                            {% for award in contentItem.awards %}
+                        <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+                        {% if workshop.awards %}
+                            {% for award in workshop.awards %}
                                 {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
                             {% endfor %}
                         {% endif %}
                     </th>
-                    <td>{{ contentItem.layout | capitalize }}</td>
-                    <td>{{ contentItem.description }}</td>
+                    <td>{{ workshop.description }}</td>
                 </tr>
-            {% endif %}
-        {% endfor %}
-    </tbody>
-</table>
+            {% endfor %}
+              </tbody>
+          </table>
+      </div>
+    </div>
+  </div>
+<!-- -->
+<!-- Tutorials tab-->
+<!-- -->
+  <div class="card">
+    <div class="card-header" id="tutorialTab">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Tutorials
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="tutorialTab" data-parent="#accordianResources">
+      <div class="card-body">
+                <p>Get right to it with our collection of 5 minute research and writing tutorials.</p>
+          <table class="table table-sm table-striped table-bordered">
+            <thead>
+            <tr>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+          {% for tutorial in site.tutorials %}
+                <tr>
+                    <th scope="row">
+                        <a href="{{ workshop.url | relative_url }}">{{ tutorial.title }}</a>
+                        {% if tutorial.awards %}
+                            {% for award in tutorial.awards %}
+                                {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
+                            {% endfor %}
+                        {% endif %}
+                    </th>
+                    <td>{{ tutorial.description }}</td>
+                </tr>
+            {% endfor %}
+              </tbody>
+          </table>
+      </div>
+    </div>
+  </div>
+<!-- -->
+<!-- Handouts tab-->
+<!-- -->
+  <div class="card">
+    <div class="card-header" id="handoutTab">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Handouts
+        </button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="handoutTab" data-parent="#accordianResources">
+      <div class="card-body">
+            <p>Printable PDFs of our most popular resources.</p>
+          <table class="table table-sm table-striped table-bordered">
+            <thead>
+            <tr>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+          {% for handout in site.handouts %}
+                <tr>
+                    <th scope="row">
+                        <a href="{{ workshop.url | relative_url }}">{{ handout.title }}</a>
+                        {% if handout.awards %}
+                            {% for award in handout.awards %}
+                                {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
+                            {% endfor %}
+                        {% endif %}
+                    </th>
+                    <td>{{ handout.description }}</td>
+                </tr>
+            {% endfor %}
+              </tbody>
+          </table>
+      </div>
+    </div>
+  </div>
+</div>
