@@ -29,8 +29,8 @@ permalink: /search/
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="workshopTab" data-parent="#accordianResources">
       <div class="card-body">
-        <p>Gain a solid foundation in academic research and writing with our 30 minute interactive mini-lessons. </p>
-          <table class="table table-sm table-striped table-bordered">
+        <p>Gain a solid foundation in <a href="#">test</a> academic research and writing with our 30 minute interactive mini-lessons. </p>
+          <table class="table table-sm table-bordered table-hover">
             <thead>
             <tr>
                 <th scope="col">Title</th>
@@ -40,14 +40,14 @@ permalink: /search/
         <tbody>
           {% for workshop in site.workshops %}
                 <tr>
-                    <th scope="row">
-                        <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+                    <td>
+                        <a href="{{ workshop.url | relative_url }}" >{{ workshop.title }}</a>
                         {% if workshop.awards %}
                             {% for award in workshop.awards %}
                                 {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
                             {% endfor %}
                         {% endif %}
-                    </th>
+                    </td>
                     <td>{{ workshop.description }}</td>
                 </tr>
             {% endfor %}
@@ -70,7 +70,7 @@ permalink: /search/
     <div id="collapseTwo" class="collapse" aria-labelledby="tutorialTab" data-parent="#accordianResources">
       <div class="card-body">
                 <p>Get right to it with our collection of 5 minute research and writing tutorials.</p>
-          <table class="table table-sm table-striped table-bordered">
+          <table class="table table-sm table-bordered table-hover">
             <thead>
             <tr>
                 <th scope="col">Title</th>
@@ -80,14 +80,14 @@ permalink: /search/
         <tbody>
           {% for tutorial in site.tutorials %}
                 <tr>
-                    <th scope="row">
-                        <a href="{{ workshop.url | relative_url }}">{{ tutorial.title }}</a>
+                    <td>
+                        <a href="{{ tutorial.url | relative_url }}">{{ tutorial.title }}</a>
                         {% if tutorial.awards %}
                             {% for award in tutorial.awards %}
                                 {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
                             {% endfor %}
                         {% endif %}
-                    </th>
+                    </td>
                     <td>{{ tutorial.description }}</td>
                 </tr>
             {% endfor %}
@@ -120,14 +120,14 @@ permalink: /search/
         <tbody>
           {% for handout in site.handouts %}
                 <tr>
-                    <th scope="row">
-                        <a href="{{ workshop.url | relative_url }}">{{ handout.title }}</a>
+                    <td>
+                        <a href="{{ handout.url | relative_url }}">{{ handout.title }}</a>
                         {% if handout.awards %}
                             {% for award in handout.awards %}
                                 {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
                             {% endfor %}
                         {% endif %}
-                    </th>
+                    </td>
                     <td>{{ handout.description }}</td>
                 </tr>
             {% endfor %}
