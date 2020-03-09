@@ -1,0 +1,13 @@
+{% if award == "merlot-5-star-editor-review" %}
+        {% assign awardName = "5-star editor review on merlot.org" %}
+{% elsif award == "primo" or award == "primo2020" %}
+        {% assign awardName = "Accepted to the PRIMO database of Peer reviewed materials online" %}
+{% elsif award contains "primo-site-of-the-month" %}
+        {% assign awardName = "Featured as a PRIMO site of the month" %}
+{% elsif award == "arlies2018-diversity" %}
+        {% assign awardName = "Winner of the ARLies award for Best Reflection of Diversity at the 2018 ARL Film Festival" %}
+{% elsif award == "arlies2016-how-to" %}
+        {% assign awardName = "Nominated for an ARLies award at the 2016 ARL Film Festival" %}
+{% else %}
+        {% assign awardName = "Award Winner" %}
+{% endif %}

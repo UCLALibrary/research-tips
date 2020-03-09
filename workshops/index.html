@@ -9,9 +9,20 @@ background:
 {% assign groups = site.workshops | group_by: "category" | sort: "date" %}
 
 {% for group in groups %}
+    {% assign anchorname = group.name | slugify %}
+    <a href="#{{ anchorname }}">
+        <button type="button" class="btn btn-primary">
+            {{ group.name }}
+        </button>
+    </a> 
+{% endfor %}
+          
+
+{% for group in groups %}
     <div class="card mt-5">
         <div class="card-header pt-4">
-            <h2>{{ group.name }}</h2>
+            {% assign anchorname = group.name | slugify %}
+            <h2 id="{{ anchorname }}">{{ group.name }}</h2>
         </div>
         <div class="card-body">
             <ul class="list-unstyled">
