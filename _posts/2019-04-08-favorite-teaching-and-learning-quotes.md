@@ -15,15 +15,19 @@ authors:
     - Sophia Wu
     - giselle-burns
     - xinyi-yan
+    - renee-romero
     - royson-lin
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
 Here's a collection of quotes gathered by the WI+RE team:
 
+> You must never feel badly about making mistakes ... as long as you take the trouble to learn from them. For you often learn more by being wrong for the right reasons than you do by being right for the wrong reasons.
+> _Norton Juster_
+
 > Either write something worth reading or do something worth writing about.
 >
->_Benjamin Franklin_
+> _Benjamin Franklin_
 
 > When everyone in the classroom, teacher and students recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful.
 > - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
@@ -43,19 +47,19 @@ calls to you like the wild geese, harsh and exciting –
 over and over announcing your place  
 in the family of things.
 >
->_Mary Oliver_, "Wild Geese"
+> _Mary Oliver_, "Wild Geese"
 
 > Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things. And the reason they were able to do that was that they've had more experiences or they have thought more about their experiences than other people.
 >
->_Steve Jobs_
+> _Steve Jobs_
 
 >The worst enemy to creativity is self-doubt.
 >
->_Sylvia Plath_
+> _Sylvia Plath_
 
 >You've got to jump off cliffs all the time and build your wings on the way down.
 >
->_Annie Dillard_
+> _Annie Dillard_
 
 >We live in a bewildering world.
 >
