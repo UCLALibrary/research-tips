@@ -15,15 +15,19 @@ authors:
     - Sophia Wu
     - giselle-burns
     - xinyi-yan
+    - renee-romero
     - royson-lin
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
 Here's a collection of quotes gathered by the WI+RE team:
 
+> You must never feel badly about making mistakes ... as long as you take the trouble to learn from them. For you often learn more by being wrong for the right reasons than you do by being right for the wrong reasons.
+> _Norton Juster_
+
 > Either write something worth reading or do something worth writing about.
 >
->_Benjamin Franklin_
+> _Benjamin Franklin_
 
 > When everyone in the classroom, teacher and students recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful.
 > - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
@@ -43,19 +47,19 @@ calls to you like the wild geese, harsh and exciting –
 over and over announcing your place  
 in the family of things.
 >
->_Mary Oliver_, "Wild Geese"
+> _Mary Oliver_, "Wild Geese"
 
 > Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things. And the reason they were able to do that was that they've had more experiences or they have thought more about their experiences than other people.
 >
->_Steve Jobs_
+> _Steve Jobs_
 
 >The worst enemy to creativity is self-doubt.
 >
->_Sylvia Plath_
+> _Sylvia Plath_
 
 >You've got to jump off cliffs all the time and build your wings on the way down.
 >
->_Annie Dillard_
+> _Annie Dillard_
 
 >We live in a bewildering world.
 >
@@ -85,11 +89,13 @@ The code for this post is written in something called markdown, which is kind of
 
 Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to get you started.
 
-#### Ready for a challenge?
+#### Give it a try!
 
-1. Make a fork of the WI+RE site.
-2. In your fork, find the `_posts` directory
-3. Edit this post - it is called `2019-04-08-favorite-teaching-and-learning-quotes.md`
-4. Add a quote you like to the section below! Check out the previous examples to see how the formatting works! Also add yourself to the list of authors in the metadata at the top of the page.
-5. Check out your change! It should be posted to the version of the site that is now hosted on your github pages account. The url should look something like this: `https://yourgithubusername.github.io/research-tips/` - did it work? If not, find someone to help troubleshoot!
-6. Like your changes? Create a pull request to get your changes added back in to the sandbox site! An experienced member of the WI+RE team call review your pull request to merge your changes into the sandbox.
+1. First, find the code repository at https://github.com/UCLALibrary/research-tips - look for the _posts directory and see if you can find the code for this post. It should be in a file called 2019-04-08-favorite-teaching-and-learning-quotes.md
+2. Make a fork of the WI+RE site.
+3. In *your fork*, find the _posts directory
+4. Edit the post called 2019-04-08-favorite-teaching-and-learning-quotes.md
+5. Add a quote you like to the section below! Check out the previous examples to see how the formatting works! 
+6. Add yourself to the list of authors in the metadata at the top of the page.
+7. Check out your change! It should be posted to the version of the site that is now hosted on your github pages account. The url should look something like this: https://yourgithubusername.github.io/research-tips/ - Note that it can take several minutes for your changes to publish on the site. To check on the publishing status, visit the "Settings" page for your branch, and then look under the "GitHub Pages" to see if your branch has been published.
+8. Like your changes? Create a pull request to get your changes added back in to the sandbox site! An experienced member of the WI+RE team will review your pull request to merge your changes into the sandbox.

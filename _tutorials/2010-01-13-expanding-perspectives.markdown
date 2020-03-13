@@ -18,6 +18,9 @@ contributors:
     - renee-romero
     - Annelie Rugg
     - doug-worsham
+awards:
+    - merlot-5-star-editor-review
+merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=1379137
 description: Move past your initial search to expand your perspectives on your topic. 
 thumbnail: /assets/tutorials/thumbnails/ExpandingPerspectivesThumbnail.png
 category: Finding and Citing Sources

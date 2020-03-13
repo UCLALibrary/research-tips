@@ -11,7 +11,7 @@ contributors:
     - Tama Hasson
     - renee-romero
     - doug-worsham
-thumbnail: 
+thumbnail: /assets/workshops/thumbnails/ResearchMentorThumbnail.png
 description: "Once you've decided to do research, the next step is to make a list of research opportunities that interest you!"
 category: Entering Research Workshops
 ---

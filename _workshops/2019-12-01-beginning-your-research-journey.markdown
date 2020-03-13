@@ -11,7 +11,7 @@ contributors:
     - Tama Hasson
     - renee-romero
     - doug-worsham
-thumbnail: 
+thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
 description: "Anyone can get started with research—all it takes is some curiosity and persistence! This quick workshop will help you get started."
 category: Entering Research Workshops
 ---
