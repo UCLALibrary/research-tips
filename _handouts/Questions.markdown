@@ -11,6 +11,7 @@ notes: ""
 description: "Before you search, start by brainstorming a list of questions."
 handout-url: /assets/handouts/questions.pdf
 thumbnail: /assets/handouts/thumbnails/questions-tn.png
+embed-url: https://app.box.com/embed/s/gtz601isbz4sgr62umnjfyqvfbhb2o7i?sortColumn=date&view=list
 category: Getting Started
 tags:
 - topic mapping
