@@ -11,6 +11,7 @@ notes: ""
 description: "An elevator speech is a great way to introduce yourself and your research to a wide range of audiences."
 handout-url: /assets/handouts/elevator-speech.pdf
 thumbnail: /assets/handouts/thumbnails/elevator-speech-tn.png
+embed-url: https://app.box.com/embed/s/ev70dc4ggig03c97duucouhk3isaihrg?sortColumn=date&view=list
 category: Sharing Your Research
 tags:
 - elevator speech
