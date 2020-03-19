@@ -68,7 +68,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
             <h5 class="card-title">Think About It</h5>
             <p class="card-text">Another helpful memory aid is processing the material deeply. This paper by Craik and Lockhart suggests a framework for human memory that stresses the importance of depths or levels of processing and predicts that the deeper information is processed, the longer it will be remembered.</p>
 			<div class="text-center pt-3">
-            	<a href="https://www.sciencedirect.com/science/article/pii/S002253717280001X" class="btn btn-primary">Craik and Lockhart 1972</a>
+            	<a href="https://www.sciencedirect.com/science/article/pii/S002253717280001X" class="btn btn-primary">Craik & Lockhart 1972</a>
             </div>
 	    <p class="card-text">Interestingly enough, this ties very tightly into understanding the material....</p>
         </div>
