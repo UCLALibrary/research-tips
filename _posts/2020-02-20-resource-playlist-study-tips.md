@@ -52,7 +52,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
             </div>
 	    <p class="card-text">And here's a video if that's your style!</p>
 	    <div class="text-center pt-3">
-                 <a href="https://www.youtube.com/watch?v=cVf38y07cfk" class="btn btn-primary" target="_blank">Testing effect (test-enhanced learning) in learning theory</a>
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/cVf38y07cfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
