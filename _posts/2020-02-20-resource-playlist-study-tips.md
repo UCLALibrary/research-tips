@@ -27,9 +27,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
                  <a href="http://www.psychologytoday.com/blog/everybody-is-stupid-except-you/201009/study-better-space-it-out-and-mix-it" class="btn btn-primary" target="_blank">Study better: Space it out and mix it up</a>
             </div>
 	    <p class="card-text">And finally, a video to break it all down and explain how you can incorporate spacing into your studying in the future!</p>
-		<div class="embed-responsive embed-responsive-16by9">
-			<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=cVf38y07cfk" frameborder="0" allowfullscreen></iframe>
-		</div>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/cVf38y07cfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>
