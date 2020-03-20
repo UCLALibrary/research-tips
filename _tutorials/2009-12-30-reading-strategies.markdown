@@ -36,7 +36,7 @@ category: Getting Started
     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe>
     </div>
-                <p class="card-text">Planning your reading session can improve your reading efficiency by preventing distraction and burnout</p>
+                <p class="card-text">Planning your reading session can improve your reading efficiency by preventing distraction and burnout.</p>
                 <ul class="browser-default activator">
                     <li>Gauge the quantity of reading and the time you have to read it.</li>
                     <li>Be honest with yourself about how long your attention span is and how interested you are in the text.</li>
