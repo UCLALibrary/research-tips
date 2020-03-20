@@ -14,6 +14,10 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
         <div class="card-body">
             <h5 class="card-title">Space It Out</h5>
 	    <p class="card-text">Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the <i>spacing effect</i>.</p>
+		<figure class="figure border border-primary shadow mt-3">
+			<img src="{{ '/assets/images/study-tips/spacing.png' | relative_url }}" class="figure-img img-fluid rounded">
+			<figcaption class="figure-caption text-right">Taylor's empathy map.</figcaption>
+		</figure>
             <p class="card-text">Check out this article to see how a study on how using spacing with flashcards was more effective than massing.</p>
             <div class="text-center pt-3">
 	    	 <a href="https://search.proquest.com/psycinfo/docview/742972135/5B61771A0A56494BPQ/1?accountid=14512" class="btn btn-primary" target="_blank">Kornell 2009</a>
