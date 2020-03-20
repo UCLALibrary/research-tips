@@ -25,6 +25,11 @@ You can find the project [here](https://uclalibrary.github.io/research-tips/sand
 
 # Rationale behind my design
 
+<figure class="figure border border-primary shadow mt-3">
+  <img src="{{ '/assets/images/study-tips/making-of-study-tips.jpg' | relative_url }}" class="figure-img img-fluid rounded" alt="Taylor's empathy map.">
+  <figcaption class="figure-caption text-right">Taylor's empathy map.</figcaption>
+</figure>
+
 I used cards to present the information to give the impression of distinct, packageable, and useful content that one could pick and choose from.
 
 Spacing and testing went at the top and received full-width cards because they were advice that had the most robust evidence backing their use as study aids, and I wanted students to be exposed to the methods and the research behind them as early on as possible.
