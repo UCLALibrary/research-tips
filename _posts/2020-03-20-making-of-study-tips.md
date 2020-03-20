@@ -21,13 +21,13 @@ These past two quarters, I had the pleasure of working with WI+RE, and this quar
 
 The six tips I discussed were spacing, testing, studying in different contexts, processing more deeply, understanding, and exercising.
 
-You can find the project [here](https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/)!
+You can find the project website [here](https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/)!
 
 # Rationale behind my design
 
 <figure class="figure border border-primary shadow mt-3">
-  <img src="{{ '/assets/images/study-tips/making-of-study-tips.jpg' | relative_url }}" class="figure-img img-fluid rounded" alt="Taylor's empathy map.">
-  <figcaption class="figure-caption text-right">Taylor's empathy map.</figcaption>
+  <img src="{{ '/assets/images/study-tips/making-of-study-tips.jpg' | relative_url }}" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption text-right">My planning process behind the website.</figcaption>
 </figure>
 
 I used cards to present the information to give the impression of distinct, packageable, and useful content that one could pick and choose from.
