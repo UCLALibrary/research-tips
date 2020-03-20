@@ -39,7 +39,16 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
         <div class="card-body">
             <h5 class="card-title">Test Yourself</h5>
 	    <p class="card-text">Many studies have also shown that testing yourself on content you've just read or watched actually helps you remember it way better than simply rereading or rewatching the material. This is known as the <i>testing effect</i>. One strong hypothesis about why it works is because testing yourself is a form of retrieval practice, or training yourself to recall something, which is the exact thing you need to do come test time!</p>
-			<p class="card-text">Check out this study on how quizzes and multiple choice tests improved performance on tests compared to rereading.</p>
+		<p class="card-text">Unfortunately, this is one of those counter-intuitive strategies that, while it works well, feels like it <i>doesn't</i>. Roediger and Karpicke (2006) found that while participants remembered information a lot better over the long term when they tested themselves compared to simply studying more, they judged the restudying to help them more than testing did.</p>
+		<figure class="figure border border-primary shadow mt-3">
+			<img src="{{ '/assets/images/study-tips/testing-vs-restudying.png' | relative_url }}" class="figure-img img-fluid rounded">
+			<figcaption class="figure-caption text-right">Test performance after testing vs. restudying.</figcaption>
+		</figure>
+		<figure class="figure border border-primary shadow mt-3">
+			<img src="{{ '/assets/images/study-tips/testing-performance-vs-jol.png' | relative_url }}" class="figure-img img-fluid rounded">
+			<figcaption class="figure-caption text-right">Test performance vs. judgment of learning for testing v. restudying.</figcaption>
+		</figure>
+		<p class="card-text">Check out this study on how quizzes and multiple choice tests improved performance on tests compared to rereading.</p>
             <div class="text-center pt-3">
 	    	 <a href="http://dx.doi.org/10.1080/09541440701326154" class="btn btn-primary" target="_blank">McDaniel et al. 2007</a>
             </div>
