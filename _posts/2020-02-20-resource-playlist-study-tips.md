@@ -46,7 +46,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 		</figure>
 		<figure class="figure border border-primary shadow mt-3">
 			<img src="{{ '/assets/images/study-tips/testing-performance-vs-jol.png' | relative_url }}" class="figure-img img-fluid rounded">
-			<figcaption class="figure-caption text-right">Test performance vs. judgment of learning for testing v. restudying.</figcaption>
+			<figcaption class="figure-caption text-right">Test performance vs. judgment of learning for testing vs. restudying.</figcaption>
 		</figure>
 		<p class="card-text">Check out this study on how quizzes and multiple choice tests improved performance on tests compared to rereading.</p>
             <div class="text-center pt-3">
@@ -71,7 +71,12 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Change It Up</h5>
-	    <p class="card-text"></p>
+		<div class="text-center pt-3">
+			<figure class="figure border border-primary shadow mt-3">
+			<img src="{{ '/assets/images/study-tips/study-in-different-places.gif' | relative_url }}" class="figure-img img-fluid rounded">
+			<figcaption class="figure-caption text-right">Study in different places!</figcaption>
+		</figure>
+		</div>
             <p class="card-text">You may have heard of the idea of having a single dedicated "study spot" that you do all your studying in. Maybe it's your desk at home or a library on campus. However, did you know that you might actually learn better if you switch it up and study in multiple different places? Smith & Rothkopf found that students who took an 8-hour statistics course over four days in four different classrooms did better on a test in a completely new environment compared to students who took the course in the same room. This might be useful for you if you like to study in places that are not the exam location, like most of us!  Check out their study!</p>
 	    <div class="text-center pt-3">
 	    	 <a href="http://people.tamu.edu/~stevesmith/SmithMemory/SmithRothkopf1984.pdf" class="btn btn-primary" target="_blank">Smith & Rothkopf 1984</a>
