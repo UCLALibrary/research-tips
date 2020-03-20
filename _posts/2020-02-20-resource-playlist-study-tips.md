@@ -16,7 +16,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 	    <p class="card-text">Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the <i>spacing effect</i>.</p>
 		<figure class="figure border border-primary shadow mt-3">
 			<img src="{{ '/assets/images/study-tips/spacing.png' | relative_url }}" class="figure-img img-fluid rounded">
-			<figcaption class="figure-caption text-right">Taylor's empathy map.</figcaption>
+			<figcaption class="figure-caption text-right">The spacing effect (from https://www.scotthyoung.com/blog/2018/12/24/why-cram/).</figcaption>
 		</figure>
             <p class="card-text">Check out this article to see how a study on how using spacing with flashcards was more effective than massing.</p>
             <div class="text-center pt-3">
