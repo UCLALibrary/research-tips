@@ -17,6 +17,7 @@ authors:
     - xinyi-yan
     - renee-romero
     - royson-lin
+    - Chris-Lopez
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -80,6 +81,10 @@ in the family of things.
 >Design is the art of planning, and it is the art of making things possible.
 >
 >_Paula Scher_
+
+>Love takes off masks that we fear we cannot live without and know we cannot live within.
+>
+>_James Baldwin_, "The Fire Next Time"
 
 ### Want to add your favorite quote to this page?
 
