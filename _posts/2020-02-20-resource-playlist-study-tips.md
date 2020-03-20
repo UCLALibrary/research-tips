@@ -119,7 +119,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 		<div class="text-center pt-3">
 			<figure class="figure border border-primary shadow mt-3">
 				<img src="{{ '/assets/images/study-tips/old-people-walking.png' | relative_url }}" class="figure-img img-fluid rounded">
-				<figcaption class="figure-caption text-right">Study in different places!</figcaption>
+				<figcaption class="figure-caption text-right">Older people getting some exercise.</figcaption>
 			</figure>
 		</div>
             <p class="card-text">Aside from being a valuable study break, exercise has been shown to have innumerable health benefits, one of which is improvements in memory!</p>
