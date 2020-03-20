@@ -48,7 +48,7 @@ category: Getting Started
 <!-- End Plan Your Reading Session-->
 
 <!-- Turn Headings Into Questions -->
-<div class="card">
+<div class="card mt-3">
     <div class="card-body">
                 <h3 class="card-title">Turn Headings Into Questions</h3>
                 <div class="embed-responsive embed-responsive-16by9">
@@ -66,7 +66,7 @@ category: Getting Started
 <!-- Turn Headings Into Questions -->
 
 <!-- Start Paraphrase as you read -->
-<div class="card">
+<div class="card mt-3">
     <div class="card-body">
                 <h3 class="card-title">Paraphrase as You Read</h3>
                 <div class="embed-responsive embed-responsive-16by9">
@@ -83,7 +83,7 @@ category: Getting Started
 <!-- End Paraphrase as you read -->
  
  <!-- Start Take Relevant Notes -->
-<div class="card">
+<div class="card mt-3">
     <div class="card-body">
                 <h3 class="card-title">Take Relevant Notes</h3>
                 <div class="embed-responsive embed-responsive-16by9">
@@ -101,7 +101,7 @@ category: Getting Started
 <!-- End Take Relevant Notes-->
 
 <!-- Make an Annotation Legend -->
-<div class="card">
+<div class="card mt-3">
     <div class="card-body">
                 <h3 class="card-title">Make an Annotation Legend</h3>
                 <div class="embed-responsive embed-responsive-16by9">
@@ -117,7 +117,7 @@ category: Getting Started
 <!-- End Make an Annotation Legend -->
 
 <!-- Read for What You Need-->
-<div class="card">
+<div class="card mt-3">
     <div class="card-body">
                 <h3 class="card-title">Vary Your Speed for What You Need</h3>
                 <div class="embed-responsive embed-responsive-16by9">
@@ -133,7 +133,7 @@ category: Getting Started
 <!-- Read for What You Need -->
 
 <!-- Prioritize New Vocabulary -->
-<div class="card">
+<div class="card mt-3">
     <div class="card-body">
                 <h3 class="card-title">Prioritize New Vocabulary</h3>
                 <div class="embed-responsive embed-responsive-16by9">
@@ -151,7 +151,7 @@ category: Getting Started
 <!-- Prioritize New Vocabulary -->
 
 <!-- Identify Uncertainties -->
-<div class="card">
+<div class="card mt-3">
     <div class="card-body">
                 <h3 class="card-title">Identifying Uncertainties</h3>
                 <div class="embed-responsive embed-responsive-16by9">
