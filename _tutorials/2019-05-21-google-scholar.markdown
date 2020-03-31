@@ -11,6 +11,7 @@ contributors:
     - renee-romero
     - doug-worsham
 awards:
+    - merlot-5-star-editor-review
 description: Discover useful features of Google Scholar to help you find exactly what you're looking for.
 thumbnail: /assets/tutorials/thumbnails/GoogleScholarThumbnail.png
 handout:
