@@ -19,7 +19,6 @@ contributors:
 thumbnail: /assets/workshops/thumbnails/Rockstar-Reviewer.png
 awards:
     - primo2020
-    - merlot-5-star-editor-review
 description: "Writing a literature review can seem like a daunting task. Complete this activity to learn strategies for writing a literature review!"
 category: Cornerstone Research Workshops
 tags:
