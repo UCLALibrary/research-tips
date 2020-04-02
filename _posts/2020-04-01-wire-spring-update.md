@@ -4,8 +4,9 @@ date:   2020-03-20
 authors:
     - doug-worsham
     - xinyi-yan
-contributors:
     - kian-ravaei
+contributors:
+
 description: >-
     What's new with the WI+RE team as we head into the Spring 2020 quarter
 category: Updates
@@ -84,13 +85,11 @@ Please take a look and let us know your feedback! We are currently looking for i
       </div>
       <div class="col-sm-12 col-md-6">
           <p>WI+RE has a new tutorial on <a href="https://uclalibrary.github.io/research-tips/google-scholar/" target="_blank">Using Google Scholar</a> and includes topics like advanced search, quotes and exact phrases, and accessing articles.</p>
+          <p>This tutorial has already received a 5-star editoral review on MERLOT! This project was authored by Royson Lin, Kian Ravaei, and Xinyi(Alex) Yan, and made possible by the contributions of Giselle Burns, Taylor Harper, Renee Romero, and Doug Worsham.</p>
+          <p>Would you like to see more Google Scholar tips? Let us know!</p>
       </div>
     </div>
 </div>
-
-This tutorial has already received a 5-star editoral review on MERLOT! This project was authored by Royson Lin, Kian Ravaei, and Xinyi(Alex) Yan, and made possible by the contributions of Giselle Burns, Taylor Harper, Renee Romero, and Doug Worsham.
-
-Would you like to see more Google Scholar tips? Let us know!
 
 ## Peer-Reviewed Materials
 
