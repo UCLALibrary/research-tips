@@ -9,6 +9,7 @@ background: '/assets/images/sand.jpg'
 {% assign groups = site.posts | group_by: "category" | sort: "date" %}
 
 {% for post in site.posts %}
+    {% if post.draft != true %}
       <div class="row align-items-center">
           <div class="col-12">
               <p><small class="text-muted"><span class="date">Posted {{ post.date | date: '%B %d, %Y'  }} in {{ post.category }}</span>
@@ -48,6 +49,7 @@ background: '/assets/images/sand.jpg'
           </div>
     </div>
     <hr>
+    {% endif %}
 {% endfor %}
 
 <!-- need to adjust this for responsive cards and improve card content -->
