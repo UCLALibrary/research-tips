@@ -1,5 +1,5 @@
 ---
-title:  "WI+RE Spring Update"
+title:  "WI+RE 2020 Spring Update"
 date:   2020-03-20
 authors:
     - doug-worsham
