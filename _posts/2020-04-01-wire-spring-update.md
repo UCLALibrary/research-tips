@@ -1,5 +1,5 @@
 ---
-title:  "WI+RE 2020 Spring Update"
+title:  "WI+RE Spring Update"
 date:   2020-03-20
 authors:
     - doug-worsham
@@ -19,11 +19,13 @@ draft: true
 
 ## What's on your mind and how can we help?
 
-WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help. Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. What's on your mind and how can we help?
+WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.
 
-## How to integrate WI+RE materials into your courses
+Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning.
 
-....
+## How to integrate WI+RE workshops into your courses
+
+Want to integrate WI+RE workhshops directly into your own webpage or CCLE course site? No problem! You can follow this [how-to guide from Humtech](https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/) or [contact us directly](https://uclalibrary.github.io/research-tips/contact/)!
 
 ## New website: CREATES for reading and analyzing science articles
 
