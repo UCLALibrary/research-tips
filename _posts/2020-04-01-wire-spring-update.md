@@ -83,12 +83,12 @@ Please take a look and let us know your feedback! We are currently looking for i
         </figure>
       </div>
       <div class="col-sm-12 col-md-6">
-          <p>WI+RE has a new tutorial on <a href="https://uclalibrary.github.io/research-tips/google-scholar/" target="_blank">Using Google Scholar</a>! It includes topics like Advanced Search, Quotes and Exact Phrases, and Accessing Articles.</p>
+          <p>WI+RE has a new tutorial on <a href="https://uclalibrary.github.io/research-tips/google-scholar/" target="_blank">Using Google Scholar</a> and includes topics like Advanced Search, Quotes and Exact Phrases, and Accessing Articles.</p>
       </div>
     </div>
 </div>
 
-Using Google Scholar has already received a 5-star editoral review on MERLOT! This project was authored by Royson Lin, Kian Ravaei, and Xinyi(Alex) Yan, and made possible by the contributions of Giselle Burns, Taylor Harper, Renee Romero, and Doug Worsham.
+This tutorial has already received a 5-star editoral review on MERLOT! This project was authored by Royson Lin, Kian Ravaei, and Xinyi(Alex) Yan, and made possible by the contributions of Giselle Burns, Taylor Harper, Renee Romero, and Doug Worsham.
 
 Would you like to see more Google Scholar tips? Let us know!
 
