@@ -31,32 +31,61 @@ Want to integrate WI+RE workhshops directly into your own webpage or CCLE course
 
 WI+RE is thrilled to announce that through our collaboration with Jordan Moberg Parker, Director of Undergraduate Laboratory Curriculum and Assessment in Microbiology, Immunology, and Molecular Genetics, we're launching the CREATES website!
 
-<!-- image of CREATES here -->
+<!-- image of CREATES here  -->
+
+<figure class="figure">
+  <img src="https://uclalibrary.github.io/creates/img/creates-overview-image.jpeg" class="figure-img img-fluid rounded" alt="the CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles.">
+  <figcaption class="figure-caption">The CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles.</figcaption>
+</figure>
+
+
 
 C.R.E.A.T.E.S. is a set of 6 steps that help learners read and critically analyze scientific papers. The C.R.E.A.T.E.S. method, pioneered by Dr. Sally Hoskins, has a demonstrated positive impact on undergraduate students self-confidence in scientific reading, as well as in their general perceptions of and beleifs about science and scientific thinking (<a href="https://doi.org/10.1187/cbe.11-03-0027" target="_blank">Hoskins, et. al, 2017</a>).
 
-We're really excited about the visual design of the site, the interactive elements, and the extensive use of annotated examples of previous CREATES projects. We really hope students and teachers enjoy the site!
-
-Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, provided the initial set of instructional materials and examples of student work, and whose countless hours providing feedback and advice made the project possible! 
-
-BIG, big, big congratulations to Kian and Alex for authoring the website and creating the multimedia!
-
-And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!
+Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, for providing the initial set of instructional materials and examples of student work, and for contributibng countless hours providing feedback and advice to make the project possible! BIG, big, big congratulations to Kian and Alex for authoring the website and creating the multimedia! And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!
 
 ## Article Published - The WI+RE Way
 
-....
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-6">
+        <figure class="figure">
+            <img src="https://uclalibrary.github.io/research-tips/assets/images/awards/wire-way-article-cover.jpg" class="figure-img img-fluid rounded" alt="Journal of New Librarianship cover for the WI+RE Way article.">
+            <figcaption class="figure-caption">New publication: The WI+RE Way!</figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-12 col-md-6">
+          <p>WI+RE is thrilled to announce the publication of <a href="https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design" target="_blank">The WI+RE Way: a manifesto and a process for learner-led design</a> as an essay in the Journal of New Librarianship!</p>
+      </div>
+    </div>
+</div>
+
+If you're curious about values-driven design and would like to see specific examples of how the WI+RE team integrates our values into our design process, this is the article for you! 
+
+Congratulations to the team of library staff and learner-designers that co-authored this paper: Taylor Harper, Nisha Mody, Kian Ravaei, Renee Romero, and Doug Worsham!
 
 ## New Workshops Series: Entering Research
 
-...
+WI+RE recently launched three new workshops as part of the new [Entering Research](https://uclalibrary.github.io/research-tips/workshops/#entering-research-workshops) Workshop series. This series of workshops comes as a result of our ongoing partnership with the Undergraduate Research Centers!
+
+The three new workshops include essential tips on [Beginning Your Research Journey](https://uclalibrary.github.io/research-tips/workshops/beginning-your-research-journey/), getting to know [Research Logistics](https://uclalibrary.github.io/research-tips/workshops/research-logistics/) at UCLA, as well as a very practical workshop on [Finding a Research Mentor](https://uclalibrary.github.io/research-tips/workshops/finding-a-mentor-or-project/).
+
+Please take a look and let us know your feedback! We are currently looking for instructors and programs that would like to integrate these workshops!
 
 
 ## Peer-Reviewed Materials
 
-### MERLOT 5-star editor reviews
+### Six 5-Star Reviews on MERLOT!
 
-....
+WI+RE is very grateful to MERLOT, one of the largest collections of online learning materials, for a series of recent editorial reviews! WI+RE now has six open electronic resources with 5-star editorial reviews in MERLOT!
+
+* [Avoiding Plagiarism and Citing Sources](https://uclalibrary.github.io/research-tips/workshops/avoiding-plagiarism/)
+* [Developing Research Questions and Creating Keywords](https://uclalibrary.github.io/research-tips/workshops/developing-research-questions-and-creating-keywords/)
+* [Expanding Perspectives in Your Search](https://uclalibrary.github.io/research-tips/expanding-perspectives/)
+* [Finding Scholarly Articles](https://uclalibrary.github.io/research-tips/finding-scholarly-articles/)
+* [Primary and Secondary Sources](https://uclalibrary.github.io/research-tips/primary-secondary/)
+* [Using Google Scholar](https://uclalibrary.github.io/research-tips/google-scholar/)
+
 
 ### Newly accepted to PRIMO
 
