@@ -18,58 +18,52 @@ draft: true
   Drafting underway! This sandbox post is a work in progress!
 </div>
 
-## What's on your mind and how can we help?
-
 WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.
 
-Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning.
+Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!
 
 ## How to integrate WI+RE workshops into your courses
 
 Want to integrate WI+RE workhshops directly into your own webpage or CCLE course site? No problem! You can follow this [how-to guide from Humtech](https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/) or [contact us directly](https://uclalibrary.github.io/research-tips/contact/)!
 
-## New website: CREATES for reading and analyzing science articles
+## New website: CREATES for reading and analyzing scientific articles
 
-WI+RE is thrilled to announce that through our collaboration with Jordan Moberg Parker, Director of Undergraduate Laboratory Curriculum and Assessment in Microbiology, Immunology, and Molecular Genetics, we're launching the CREATES website!
-
-<!-- image of CREATES here  -->
+WI+RE is thrilled to announce that through our collaboration with Jordan Moberg Parker, Director of Undergraduate Laboratory Curriculum and Assessment in Microbiology, Immunology, and Molecular Genetics, we're launching the <a href="https://uclalibrary.github.io/creates/" target="_blank">CREATES website</a>!
 
 <figure class="figure">
-  <img src="https://uclalibrary.github.io/creates/img/creates-overview-image.jpeg" class="figure-img img-fluid rounded" alt="the CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles.">
-  <figcaption class="figure-caption">The CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles.</figcaption>
+    <a href="https://uclalibrary.github.io/creates/" target="_blank"><img src="https://uclalibrary.github.io/creates/img/creates-overview-image.jpeg" class="figure-img img-fluid rounded" alt="the CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles."></a>
+    <figcaption class="figure-caption">Introducing the new <a href="https://uclalibrary.github.io/creates/" target="_blank">CREATES website!</a></figcaption>
 </figure>
 
+<p>C.R.E.A.T.E.S. is a set of 6 steps that help learners read and critically analyze scientific papers. The C.R.E.A.T.E.S. method, pioneered by Dr. Sally Hoskins, has a demonstrated positive impact on undergraduate students self-confidence in scientific reading, as well as in their general perceptions of and beleifs about science and scientific thinking (<a href="https://doi.org/10.1187/cbe.11-03-0027" target="_blank">Hoskins, et. al, 2017</a>).</p>
 
+<p>The new <a href="https://uclalibrary.github.io/creates/" target="_blank">C.R.E.A.T.E.S.</a> site uses interactive media, step-by-step directions, and detailed annotation of authentic examples to guide students through the process.</p>
 
-C.R.E.A.T.E.S. is a set of 6 steps that help learners read and critically analyze scientific papers. The C.R.E.A.T.E.S. method, pioneered by Dr. Sally Hoskins, has a demonstrated positive impact on undergraduate students self-confidence in scientific reading, as well as in their general perceptions of and beleifs about science and scientific thinking (<a href="https://doi.org/10.1187/cbe.11-03-0027" target="_blank">Hoskins, et. al, 2017</a>).
+<p>Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, for providing the initial set of instructional materials and examples of student work, and for contributing countless hours providing feedback and advice to make the project possible! BIG, big, big congratulations to Kian and Alex for authoring the website and creating the multimedia! And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!</p>
 
-Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, for providing the initial set of instructional materials and examples of student work, and for contributing countless hours providing feedback and advice to make the project possible! BIG, big, big congratulations to Kian and Alex for authoring the website and creating the multimedia! And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!
-
-## Article Published - The WI+RE Way
+## New publication: The WI+RE Way
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <figure class="figure">
-            <img src="https://uclalibrary.github.io/research-tips/assets/images/awards/wire-way-article-cover.jpg" class="figure-img img-fluid rounded" alt="Journal of New Librarianship cover for the WI+RE Way article.">
+            <a href="https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design" target="_blank"><img src="https://uclalibrary.github.io/research-tips/assets/images/awards/wire-way-article-cover.jpg" class="figure-img img-fluid rounded" alt="Journal of New Librarianship cover for the WI+RE Way article."></a>
             <figcaption class="figure-caption">New publication: The WI+RE Way!</figcaption>
         </figure>
       </div>
-      <div class="col-sm-12 col-md-6">
-          <p>WI+RE is thrilled to announce the publication of <a href="https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design" target="_blank">The WI+RE Way: a manifesto and a process for learner-led design</a> as an essay in the Journal of New Librarianship!</p>
+      <div class="col-sm-12 col-md-8">
+          <p>An article about our design manifesto! This past January, the Journal of New Librarianship published WI+RE's essay <a href="https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design" target="_blank">The WI+RE Way: a manifesto and a process for learner-led design</a>.</p>
+          <p>If you're curious about values-driven design and would like to see specific examples of how the WI+RE team centers values in our design process, this is the article for you!</p>
+          <p>Congratulations to the team that co-authored this paper: Taylor Harper, Nisha Mody, Kian Ravaei, Renee Romero, and Doug Worsham!</p>
       </div>
     </div>
 </div>
 
-If you're curious about values-driven design and would like to see specific examples of how the WI+RE team integrates our values into our design process, this is the article for you! 
+## New Workshop Series: Entering Research
 
-Congratulations to the team of library staff and learner-designers that co-authored this paper: Taylor Harper, Nisha Mody, Kian Ravaei, Renee Romero, and Doug Worsham!
+WI+RE recently launched three new workshops as part of the new [Entering Research](https://uclalibrary.github.io/research-tips/workshops/#entering-research-workshops) Workshop series. This series of workshops comes as a result of our ongoing partnership with the Undergraduate Research Centers. 
 
-## New Workshops Series: Entering Research
-
-WI+RE recently launched three new workshops as part of the new [Entering Research](https://uclalibrary.github.io/research-tips/workshops/#entering-research-workshops) Workshop series. This series of workshops comes as a result of our ongoing partnership with the Undergraduate Research Centers!
-
-The three new workshops include essential tips on [Beginning Your Research Journey](https://uclalibrary.github.io/research-tips/workshops/beginning-your-research-journey/), getting to know [Research Logistics](https://uclalibrary.github.io/research-tips/workshops/research-logistics/) at UCLA, as well as a very practical workshop on [Finding a Research Mentor](https://uclalibrary.github.io/research-tips/workshops/finding-a-mentor-or-project/).
+The three new workshops include essential tips on [Beginning Your Research Journey](https://uclalibrary.github.io/research-tips/workshops/beginning-your-research-journey/), getting to know [Research Logistics](https://uclalibrary.github.io/research-tips/workshops/research-logistics/) at UCLA, as well as a [Finding a Research Mentor](https://uclalibrary.github.io/research-tips/workshops/finding-a-mentor-or-project/), which addresses what can be one of the biggest challenges with undergraduate research!
 
 Please take a look and let us know your feedback! We are currently looking for instructors and programs that would like to integrate these workshops!
 
@@ -77,13 +71,13 @@ Please take a look and let us know your feedback! We are currently looking for i
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <figure class="figure">
-            <img src="https://uclalibrary.github.io/research-tips/assets/images/google-scholar-reflection/tutorial-layout.png" class="figure-img img-fluid rounded" alt="Layout of the Google Scholar Tutorial">
+            <a href="https://uclalibrary.github.io/research-tips/google-scholar/" target="_blank"><img src="https://uclalibrary.github.io/research-tips/assets/images/google-scholar-reflection/tutorial-layout.png" class="figure-img img-fluid rounded" alt="Layout of the Google Scholar Tutorial"></a>
             <figcaption class="figure-caption">The new Google Scholar tutorial!</figcaption>
         </figure>
       </div>
-      <div class="col-sm-12 col-md-6">
+      <div class="col-sm-12 col-md-8">
           <p>WI+RE has a new tutorial on <a href="https://uclalibrary.github.io/research-tips/google-scholar/" target="_blank">Using Google Scholar</a> and includes topics like advanced search, quotes and exact phrases, and accessing articles.</p>
           <p>This tutorial has already received a 5-star editoral review on MERLOT! This project was authored by Royson Lin, Kian Ravaei, and Xinyi(Alex) Yan, and made possible by the contributions of Giselle Burns, Taylor Harper, Renee Romero, and Doug Worsham.</p>
           <p>Would you like to see more Google Scholar tips? Let us know!</p>
@@ -93,7 +87,7 @@ Please take a look and let us know your feedback! We are currently looking for i
 
 ## Peer-Reviewed Materials
 
-### Six 5-Star Reviews on MERLOT!
+### More 5-Star Reviews on MERLOT!
 
 WI+RE is very grateful to MERLOT, one of the largest collections of online learning materials, for a series of recent editorial reviews! WI+RE now has six open electronic resources with 5-star editorial reviews in MERLOT!
 
@@ -107,19 +101,30 @@ WI+RE is very grateful to MERLOT, one of the largest collections of online learn
 
 ### Newly accepted to PRIMO
 
-This January, WI+RE's online research workshop [Writing a Literature Review](https://uclalibrary.github.io/research-tips/workshops/writing-a-literature-review/) was selected for the ALA/ACRL Instruction Section's Peer-Reviewed Instructional Materials Online [PRIMO database](http://www.ala.org/cfapps/primo/public/search.cfm ).
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-4">
+        <figure class="figure">
+            <a href="https://uclalibrary.github.io/research-tips/workshops/writing-a-literature-review/" target="_blank"><img src="https://ccle.ucla.edu/pluginfile.php/2822882/mod_hvp/content/2124/images/file-5cdef5f0274a5.png" class="figure-img img-fluid rounded" alt="Rockstar Reviewer Logo"></a>
+            <figcaption class="figure-caption">WI+RE's Writing a Literature Review Workshop</figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-12 col-md-8">
+          <p>This January, WI+RE's online research workshop <a href="https://uclalibrary.github.io/research-tips/workshops/writing-a-literature-review/" target="_blank">Writing a Literature Review</a> was selected for the ALA/ACRL Instruction Section's <a href="http://www.ala.org/cfapps/primo/public/search.cfm" target="_blank">PRIMO database</a> of Peer-Reviewed Instructional Materials Online.</p>
+          <p>Writing a Literature Review workshop offers tips for students to recognize key compoents of a literature review,  identify research gaps, and synthesize sources. It takes the form of interactive slides that include videos, examples, and various forms of assessments.</p>
+          <p>The project was co-authered by WI+RE's student designers Kian Ravaei and Taylor Harper, and made possible by the collaborations of contributors from across campus, including Whitney Arnold, Janet Goins, Fernando Gomez, Leigh Harris, Christine Holten, Caitlin Meyer, Nisha Mody, Shannon Roux, Doug Worsham, April Zhou, and Renee Romero. Big thanks to everyone and congratulations!</p>
+      </div>
+    </div>
+</div>
 
-(workshop thumbnail + PRIMO logo)
 
-Writing a Literature Review workshop offers tips for students to recognize key compoents of a literature review,  identify research gaps, and synthesize sources. It takes the form of interactive slides that include videos, examples, and various forms of assessments. Along with many other WI+RE tutorials and workshops on research and writing, it can be accessed publicly through the [WI+RE website](https://uclalibrary.github.io/research-tips/), or incorporated directly into any UCLA CCLE course.
 
-The project was co-authered by WI+RE's student designers Kian Ravaei and Taylor Harper, and made possible by the collaborations of contributors from across campus, including Whitney Arnold, Janet Goins, Fernando Gomez, Leigh Harris, Christine Holten, Caitlin Meyer, Nisha Mody, Shannon Roux, Doug Worsham, April Zhou, and Renee Romero. Big thanks to everyone and congratulations!
 
-The PRIMO committee has also invited WI+RE for a "Site of the Month" interview to feature our project. The interview will be posted on their website in the future. Stay tuned! 
 
-## IIP grant updates - 194E
 
-....
+## New ULCA Course: Learner-Led Design for STEM
+
+Renee Romero and Doug Worsham are co-teaching 2 special sessions of Life Science 192E called "Learner-Led Design for STEM." This partnership with the CEILS Learning Assistant (LA)  program was created to foster the learner-led design of instructional materials based on the experiences and insights of LA's. WI+RE is grateful to all of the LA's that have signed up for the course and we're looking forward to creating together!! Big thanks also to Dr. Shanna Shaked, Senior Associate Director of CEILS, for making this experiement a reality!! Thanks also to the UCLA Center for the Advancement of Teaching for funding this initiative through the [Instructional Improvement Grant](https://www.teaching.ucla.edu/grants/iip) program!!
 
 
 
@@ -135,7 +140,7 @@ Library staff from across UCLA have shared a large set of ideas for future proje
 
 ### Your ideas
 
-....
+What should WI+RE be working on? Let us know! You can visit our [contact form](https://uclalibrary.github.io/research-tips/contact/), mention us on [twitter](https://www.twitter.com/WIREbruin), and comment on our [facebook page](https://www.facebook.com/WIREbruin)! Looking forward to hearing from you!
 
 ## Team member spotlight?
 
