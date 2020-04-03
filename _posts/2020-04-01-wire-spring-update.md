@@ -65,6 +65,8 @@ WI+RE recently launched three new workshops as part of the new [Entering Researc
 
 The three new workshops include essential tips on [Beginning Your Research Journey](https://uclalibrary.github.io/research-tips/workshops/beginning-your-research-journey/), getting to know [Research Logistics](https://uclalibrary.github.io/research-tips/workshops/research-logistics/) at UCLA, as well as a [Finding a Research Mentor](https://uclalibrary.github.io/research-tips/workshops/finding-a-mentor-or-project/), which addresses what can be one of the biggest challenges with undergraduate research!
 
+Many thanks to our co-authors on these workshops: Giselle Burns, Kian Ravaei, and Xinyi Yan!!! Thanks also to Janet Goins, Kelly Kistner, Tama Hasson, Renee Romero, Doug Worsham for extensive contributions - from the initial learning outcomes to the published workshops!
+
 Please take a look and let us know your feedback! We are currently looking for instructors and programs that would like to integrate these workshops!
 
 ## New Tutorial: Using Google Scholar
