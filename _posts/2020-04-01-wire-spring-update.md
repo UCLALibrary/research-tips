@@ -24,7 +24,7 @@ Please let us know your thoughts on our upcoming projects and next steps. We wou
 
 ## How to integrate WI+RE workshops into your courses
 
-Want to integrate WI+RE workhshops directly into your own webpage or CCLE course site? No problem! You can follow this [how-to guide from Humtech](https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/) or [contact us directly](https://uclalibrary.github.io/research-tips/contact/)!
+Want to integrate WI+RE workshops directly into your own webpage or CCLE course site? No problem! You can follow this [how-to guide from Humtech](https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/) or [contact us directly](https://uclalibrary.github.io/research-tips/contact/)!
 
 ## New website: CREATES for reading and analyzing scientific articles
 
@@ -35,7 +35,7 @@ WI+RE is thrilled to announce that through our collaboration with Jordan Moberg 
     <figcaption class="figure-caption">Introducing the new <a href="https://uclalibrary.github.io/creates/" target="_blank">CREATES website!</a></figcaption>
 </figure>
 
-<p>C.R.E.A.T.E.S. is a set of 6 steps that help learners read and critically analyze scientific papers. The C.R.E.A.T.E.S. method, pioneered by Dr. Sally Hoskins, has a demonstrated positive impact on undergraduate students self-confidence in scientific reading, as well as in their general perceptions of and beleifs about science and scientific thinking (<a href="https://doi.org/10.1187/cbe.11-03-0027" target="_blank">Hoskins, et. al, 2017</a>).</p>
+<p>C.R.E.A.T.E.S. is a set of 6 steps that help learners read and critically analyze scientific papers. The C.R.E.A.T.E.S. method, pioneered by Dr. Sally Hoskins, has a demonstrated positive impact on undergraduate students' self-confidence in scientific reading, as well as in their general perceptions of and beliefs about science and scientific thinking (<a href="https://doi.org/10.1187/cbe.11-03-0027" target="_blank">Hoskins, et. al, 2017</a>).</p>
 
 <p>The new <a href="https://uclalibrary.github.io/creates/" target="_blank">C.R.E.A.T.E.S.</a> site uses interactive media, step-by-step directions, and detailed annotation of authentic examples to guide students through the process.</p>
 
@@ -113,7 +113,7 @@ WI+RE is very grateful to MERLOT, one of the largest collections of online learn
       </div>
       <div class="col-sm-12 col-md-8">
           <p>This January, WI+RE's online research workshop <a href="https://uclalibrary.github.io/research-tips/workshops/writing-a-literature-review/" target="_blank">Writing a Literature Review</a> was selected for the ALA/ACRL Instruction Section's <a href="http://www.ala.org/cfapps/primo/public/search.cfm" target="_blank">PRIMO database</a> of Peer-Reviewed Instructional Materials Online.</p>
-          <p>Writing a Literature Review workshop offers tips for students to recognize key compoents of a literature review,  identify research gaps, and synthesize sources. It takes the form of interactive slides that include videos, examples, and various forms of assessments.</p>
+          <p>Writing a Literature Review workshop offers tips for students to recognize key components of a literature review,  identify research gaps, and synthesize sources. It takes the form of interactive slides that include videos, examples, and various forms of assessments.</p>
           <p>The project was co-authered by WI+RE's student designers Kian Ravaei and Taylor Harper, and made possible by the collaborations of contributors from across campus, including Whitney Arnold, Janet Goins, Fernando Gomez, Leigh Harris, Christine Holten, Caitlin Meyer, Nisha Mody, Shannon Roux, Doug Worsham, April Zhou, and Renee Romero. Big thanks to everyone and congratulations!</p>
       </div>
     </div>
