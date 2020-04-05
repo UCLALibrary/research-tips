@@ -22,6 +22,26 @@ WI+RE has been working quickly over the past few weeks to pivot into remote coll
 
 Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!
 
+## Stats Snapshot
+
+<div class="card-deck">
+    <div class="card">
+    <div class="card-body">
+       <h4 class="card-title text-center">2090+ <br><small class="text-muted">Workshops completed at UCLA</small></h4>
+    </div>
+  </div> 
+  <div class="card">
+    <div class="card-body">
+       <h4 class="card-title text-center">146.5K+ <br><small class="text-muted">views on YouTube</small></h4>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title text-center">177K+ <br><small class="text-muted">Website page views</small></h4>
+    </div>
+  </div>
+</div>
+
 ## How to integrate WI+RE workshops into your courses
 
 Want to integrate WI+RE workshops directly into your own webpage or CCLE course site? No problem! You can follow this [how-to guide from Humtech](https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/) or [contact us directly](https://uclalibrary.github.io/research-tips/contact/)!
@@ -123,6 +143,16 @@ WI+RE is very grateful to MERLOT, one of the largest collections of online learn
 
 Renee Romero and Doug Worsham are co-teaching 2 special sessions of Life Science 192E called "Learner-Led Design for STEM." This partnership with the CEILS Learning Assistant (LA)  program was created to foster the learner-led design of instructional materials based on the experiences and insights of LA's. WI+RE is grateful to all of the LA's that have signed up for the course and we're looking forward to creating together!! Big thanks also to Dr. Shanna Shaked, Senior Associate Director of CEILS, for making this experiement a reality!! Thanks also to the UCLA Center for the Advancement of Teaching for funding this initiative through the [Instructional Improvement Grant](https://www.teaching.ucla.edu/grants/iip) program!!
 
+## WI+RE Website Release: v2.1
+
+We've incorporated tons of new features in this release, including: 
+
+* Handouts are now included as embedded PDFs for improved accessibility
+* Redesigned search page - now includes giant list of content
+* Publications, presentations, awards and peer-reviews are now listed on portfolio pages
+* Dublin core metadata and Zotero support throughout the site
+
+And more! To check out the code that runs the WI+RE site, visit our [code repository on GitHub](https://github.com/UCLALibrary/research-tips)
 
 
 ## Work in progress!
@@ -139,25 +169,7 @@ Library staff from across UCLA have shared a large set of ideas for future proje
 
 What should WI+RE be working on? Let us know! You can visit our [contact form](https://uclalibrary.github.io/research-tips/contact/), mention us on [twitter](https://www.twitter.com/WIREbruin), and comment on our [facebook page](https://www.facebook.com/WIREbruin)! Looking forward to hearing from you!
 
-## Stats snapshot: Spring 2020
 
-<div class="card-deck">
-    <div class="card">
-    <div class="card-body">
-       <h4 class="card-title text-center">2090+ <br><small class="text-muted">Workshops completed at UCLA</small></h4>
-    </div>
-  </div> 
-  <div class="card">
-    <div class="card-body">
-       <h4 class="card-title text-center">146.5K+ <br><small class="text-muted">views on YouTube</small></h4>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-body">
-      <h4 class="card-title text-center">177K+ <br><small class="text-muted">Website page views</small></h4>
-    </div>
-  </div>
-</div>
 
 
 
