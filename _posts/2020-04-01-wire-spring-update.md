@@ -154,7 +154,7 @@ What should WI+RE be working on? Let us know! You can visit our [contact form](h
   </div>
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title text-center">150K+ <br><small class="text-muted">Website page views</small></h4>
+      <h4 class="card-title text-center">177K+ <br><small class="text-muted">Website page views</small></h4>
     </div>
   </div>
 </div>
