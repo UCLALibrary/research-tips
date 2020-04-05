@@ -119,11 +119,6 @@ WI+RE is very grateful to MERLOT, one of the largest collections of online learn
     </div>
 </div>
 
-
-
-
-
-
 ## New ULCA Course: Learner-Led Design for STEM
 
 Renee Romero and Doug Worsham are co-teaching 2 special sessions of Life Science 192E called "Learner-Led Design for STEM." This partnership with the CEILS Learning Assistant (LA)  program was created to foster the learner-led design of instructional materials based on the experiences and insights of LA's. WI+RE is grateful to all of the LA's that have signed up for the course and we're looking forward to creating together!! Big thanks also to Dr. Shanna Shaked, Senior Associate Director of CEILS, for making this experiement a reality!! Thanks also to the UCLA Center for the Advancement of Teaching for funding this initiative through the [Instructional Improvement Grant](https://www.teaching.ucla.edu/grants/iip) program!!
@@ -144,9 +139,27 @@ Library staff from across UCLA have shared a large set of ideas for future proje
 
 What should WI+RE be working on? Let us know! You can visit our [contact form](https://uclalibrary.github.io/research-tips/contact/), mention us on [twitter](https://www.twitter.com/WIREbruin), and comment on our [facebook page](https://www.facebook.com/WIREbruin)! Looking forward to hearing from you!
 
-## Team member spotlight?
+## Stats snapshot: Spring 2020
 
-<!-- would this be an interesting thing to do? -->
+<div class="card-deck">
+    <div class="card">
+    <div class="card-body">
+       <h4 class="card-title text-center">2090+ <br><small class="text-muted">Workshops completed at UCLA</small></h4>
+    </div>
+  </div> 
+  <div class="card">
+    <div class="card-body">
+       <h4 class="card-title text-center">146.5K+ <br><small class="text-muted">views on YouTube</small></h4>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title text-center">150K+ <br><small class="text-muted">Website page views</small></h4>
+    </div>
+  </div>
+</div>
+
+
 
 ## Thank you!!
 
