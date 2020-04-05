@@ -6,6 +6,8 @@ authors:
     - xinyi-yan
     - kian-ravaei
 contributors:
+    - Christopher Lopez
+    - Hannah Sutherland
 
 description: >-
     What's new with the WI+RE team as we head into the Spring 2020 quarter
