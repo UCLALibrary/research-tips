@@ -62,6 +62,7 @@ WI+RE is thrilled to announce that through our collaboration with Jordan Moberg 
 
 <p>Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, for providing the initial set of instructional materials and examples of student work, and for contributing countless hours providing feedback and advice to make the project possible! BIG, big, big congratulations to Kian and Alex for building the website and creating the multimedia! And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!</p>
 
+<a name="wire-way"></a>
 ## New publication: The WI+RE Way
 
 <div class="container">
@@ -80,6 +81,7 @@ WI+RE is thrilled to announce that through our collaboration with Jordan Moberg 
     </div>
 </div>
 
+<a name="entering-research"></a>
 ## New Workshop Series: Entering Research
 
 WI+RE recently launched three new workshops as part of the new [Entering Research](https://uclalibrary.github.io/research-tips/workshops/#entering-research-workshops) Workshop series. This series of workshops comes as a result of our ongoing partnership with the Undergraduate Research Centers. 
@@ -90,6 +92,7 @@ Many thanks to our co-authors on these workshops: Giselle Burns, Kian Ravaei, an
 
 Please take a look and let us know your feedback! We are currently looking for instructors and programs that would like to integrate these workshops!
 
+<a name="google-scholar"></a>
 ## New Tutorial: Using Google Scholar
 
 <div class="container">
@@ -108,6 +111,7 @@ Please take a look and let us know your feedback! We are currently looking for i
     </div>
 </div>
 
+<a name="peer-review"></a>
 ## Peer-Reviewed Materials
 
 ### More 5-Star Reviews on MERLOT!
@@ -140,10 +144,12 @@ WI+RE is very grateful to MERLOT, one of the largest collections of online learn
     </div>
 </div>
 
+<a name="192e"></a>
 ## New ULCA Course: Learner-Led Design for STEM
 
 Renee Romero and Doug Worsham are co-teaching 2 special sessions of Life Science 192E called "Learner-Led Design for STEM." This partnership with the CEILS Learning Assistant (LA)  program was created to foster the learner-led design of instructional materials based on the experiences and insights of LA's. WI+RE is grateful to all of the LA's that have signed up for the course and we're looking forward to creating together!! Big thanks also to Dr. Shanna Shaked, Senior Associate Director of CEILS, for making this experiement a reality!! Thanks also to the UCLA Center for the Advancement of Teaching for funding this initiative through the [Instructional Improvement Grant](https://www.teaching.ucla.edu/grants/iip) program!!
 
+<a name="website-release"></a>
 ## WI+RE Website Release: v2.1
 
 We've incorporated tons of new features in this release, including: 
@@ -155,7 +161,7 @@ We've incorporated tons of new features in this release, including:
 
 And more! To check out the code that runs the WI+RE site, visit our [code repository on GitHub](https://github.com/UCLALibrary/research-tips)
 
-
+<a name="in-progress"></a>
 ## Work in progress!
 
 ### Writing Tips with the Undergraduate Writing Center PLFs
@@ -166,10 +172,12 @@ We are very excited about our ongoing collaboration with the Writing Center Peer
 
 Library staff from across UCLA have shared a large set of ideas for future projects on everything from using images as evidence, to finding open data sources, to navigating finding aids and searching for primary sources. We're thrilled with this big collection of new ideas and looking forward to next steps! Get ready to empathy map and make learning outcomes!
 
+<a name="your-ideas"></a>
 ### Your ideas
 
 What should WI+RE be working on? Let us know! You can visit our [contact form](https://uclalibrary.github.io/research-tips/contact/), mention us on [twitter](https://www.twitter.com/WIREbruin), and comment on our [facebook page](https://www.facebook.com/WIREbruin)! Looking forward to hearing from you!
 
+<a name="thank-yous"></a>
 ## Thank you!!
 {% assign tutorial-auth = site.tutorials | map: 'authors' | uniq %} {% assign workshop-auth = site.workshops | map: 'authors' | uniq %} {% assign handout-auth = site.handouts | map: 'authors' | uniq %} {% assign post-auth = site.posts | map: 'authors' | uniq %} {% assign all-auth = tutorial-auth | concat: workshop-auth | concat: handout-auth | concat: post-auth | uniq | compact %} {% assign all-auth-sort = all-auth | sort %}
 {% assign tutorial-contrib = site.tutorials | map: 'contributors' | uniq %} {% assign workshop-contrib = site.workshops | map: 'contributors' | uniq %} {% assign handout-contrib = site.handouts | map: 'contributors' | uniq %} {% assign post-contrib = site.posts | map: 'contributors' | uniq %} {% assign all-contrib = tutorial-contrib | concat: workshop-contrib | concat: handout-contrib | uniq | compact %} {% assign all-contrib-sort = all-contrib | sort %}
