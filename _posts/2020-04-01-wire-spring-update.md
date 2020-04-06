@@ -13,7 +13,6 @@ description: >-
     What's new with the WI+RE team as we head into the Spring 2020 quarter
 category: Updates
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
-draft: true
 ---
 
 <div class="alert alert-primary" role="alert">
@@ -26,7 +25,7 @@ Please let us know your thoughts on our upcoming projects and next steps. We wou
 
 ## Stats Snapshot
 
-<div class="card-deck">
+<div class="card-deck mb-5">
     <div class="card">
     <div class="card-body">
        <h4 class="card-title text-center">2090+ <br><small class="text-muted">Workshops completed at UCLA</small></h4>
@@ -61,7 +60,7 @@ WI+RE is thrilled to announce that through our collaboration with Jordan Moberg 
 
 <p>The new <a href="https://uclalibrary.github.io/creates/" target="_blank">C.R.E.A.T.E.S.</a> site uses interactive media, step-by-step directions, and detailed annotation of authentic examples to guide students through the process.</p>
 
-<p>Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, for providing the initial set of instructional materials and examples of student work, and for contributing countless hours providing feedback and advice to make the project possible! BIG, big, big congratulations to Kian and Alex for authoring the website and creating the multimedia! And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!</p>
+<p>Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, for providing the initial set of instructional materials and examples of student work, and for contributing countless hours providing feedback and advice to make the project possible! BIG, big, big congratulations to Kian and Alex for building the website and creating the multimedia! And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!</p>
 
 ## New publication: The WI+RE Way
 
@@ -171,11 +170,11 @@ Library staff from across UCLA have shared a large set of ideas for future proje
 
 What should WI+RE be working on? Let us know! You can visit our [contact form](https://uclalibrary.github.io/research-tips/contact/), mention us on [twitter](https://www.twitter.com/WIREbruin), and comment on our [facebook page](https://www.facebook.com/WIREbruin)! Looking forward to hearing from you!
 
-
-
-
-
 ## Thank you!!
+{% assign tutorial-auth = site.tutorials | map: 'authors' | uniq %} {% assign workshop-auth = site.workshops | map: 'authors' | uniq %} {% assign handout-auth = site.handouts | map: 'authors' | uniq %} {% assign post-auth = site.posts | map: 'authors' | uniq %} {% assign all-auth = tutorial-auth | concat: workshop-auth | concat: handout-auth | concat: post-auth | uniq | compact %} {% assign all-auth-sort = all-auth | sort %}
+{% assign tutorial-contrib = site.tutorials | map: 'contributors' | uniq %} {% assign workshop-contrib = site.workshops | map: 'contributors' | uniq %} {% assign handout-contrib = site.handouts | map: 'contributors' | uniq %} {% assign post-contrib = site.posts | map: 'contributors' | uniq %} {% assign all-contrib = tutorial-contrib | concat: workshop-contrib | concat: handout-contrib | uniq | compact %} {% assign all-contrib-sort = all-contrib | sort %}
+{% assign all-authcontrib = all-auth-sort | concat: all-contrib-sort | uniq | compact %} {% assign all-authcontrib-sort = all-authcontrib | sort_natural %}
+{% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 
-<!-- giant list of thank you's here -->
+And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: {% for name in all-authcontrib-sort %}{% if member-name-list contains name %}{% for team-member in site.team-members %}{% if name == team-member.username %}{{ team-member.displayname }}{% endif %}{% endfor %}{% if forloop.last == false %}, {% endif %}{% else %}{{ name }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}.
 
