@@ -42,7 +42,7 @@ Please let us know your thoughts on our upcoming projects and next steps. We wou
 </div>
 
 <a name="integrate"></a>
-## How to integrate WI+RE workshops into your courses
+## How to integrate WI+RE workshops into your CCLE courses
 
 Want to integrate WI+RE workshops directly into your own webpage or CCLE course site? No problem! You can follow this [how-to guide from Humtech](https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/) or [contact us directly](https://uclalibrary.github.io/research-tips/contact/)!
 
