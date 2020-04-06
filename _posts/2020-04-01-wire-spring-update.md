@@ -15,15 +15,13 @@ category: Updates
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 
-<div class="alert alert-primary" role="alert">
-  Drafting underway! This sandbox post is a work in progress!
-</div>
-
 WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.
 
 Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!
 
 ## Stats Snapshot
+
+<a name="stats"></a>
 
 <div class="card-deck mb-5">
     <div class="card">
@@ -43,10 +41,12 @@ Please let us know your thoughts on our upcoming projects and next steps. We wou
   </div>
 </div>
 
+<a name="integrate"></a>
 ## How to integrate WI+RE workshops into your courses
 
 Want to integrate WI+RE workshops directly into your own webpage or CCLE course site? No problem! You can follow this [how-to guide from Humtech](https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/) or [contact us directly](https://uclalibrary.github.io/research-tips/contact/)!
 
+<a name="creates"></a>
 ## New website: CREATES for reading and analyzing scientific articles
 
 WI+RE is thrilled to announce that through our collaboration with Jordan Moberg Parker, Director of Undergraduate Laboratory Curriculum and Assessment in Microbiology, Immunology, and Molecular Genetics, we're launching the <a href="https://uclalibrary.github.io/creates/" target="_blank">CREATES website</a>!
