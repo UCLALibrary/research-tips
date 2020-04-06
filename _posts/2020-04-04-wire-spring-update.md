@@ -145,7 +145,7 @@ WI+RE is very grateful to MERLOT, one of the largest collections of online learn
 </div>
 
 <a name="192e"></a>
-## New ULCA Course: Learner-Led Design for STEM
+## New UCLA Course: Learner-Led Design for STEM
 
 Renee Romero and Doug Worsham are co-teaching 2 special sessions of Life Science 192E called "Learner-Led Design for STEM." This partnership with the CEILS Learning Assistant (LA)  program was created to foster the learner-led design of instructional materials based on the experiences and insights of LA's. WI+RE is grateful to all of the LA's that have signed up for the course and we're looking forward to creating together!! Big thanks also to Dr. Shanna Shaked, Senior Associate Director of CEILS, for making this experiement a reality!! Thanks also to the UCLA Center for the Advancement of Teaching for funding this initiative through the [Instructional Improvement Grant](https://www.teaching.ucla.edu/grants/iip) program!!
 
