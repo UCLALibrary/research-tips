@@ -116,18 +116,22 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Get Some Exercise</h5>
+
+<!-- commenting out this image for now
 		<div class="text-center pt-3">
 			<figure class="figure border border-primary shadow mt-3">
 				<img src="{{ '/assets/images/study-tips/old-people-walking.png' | relative_url }}" class="figure-img img-fluid rounded">
 				<figcaption class="figure-caption text-right">Older people getting some exercise.</figcaption>
 			</figure>
 		</div>
-            <p class="card-text">Aside from being a valuable study break, exercise has been shown to have innumerable health benefits, one of which is improvements in memory!</p>
-            <div class="text-center pt-3">
+-->
+
+<p class="card-text">Aside from being a valuable study break, exercise has been shown to have innumerable health benefits, one of which is improvements in memory!</p>
+<div class="text-center pt-3">
                  <a href="https://www.pnas.org/content/108/7/3017" class="btn btn-primary" target="_blank">Erickson et al. 2011</a>
-            </div>
-            <p class="card-text">Typical adults after the age of 50 experience a 1% decline in hippocampal volume per year. However, this study showed that older adults who walked for 40 minutes a day three times a week for a year actually showed a <i>2% increase</i> in the volume of their hippocampus, a region of the brain critical for memory formation!</p>
-            <p class="card-text">So, whether you're trying to memorize facts for an exam or people's birthdays for real life, getting some exercise will always help!</p>
+</div>
+<p class="card-text">Typical adults after the age of 50 experience a 1% decline in hippocampal volume per year. However, this study showed that older adults who walked for 40 minutes a day three times a week for a year actually showed a <i>2% increase</i> in the volume of their hippocampus, a region of the brain critical for memory formation!</p>
+<p class="card-text">So, whether you're trying to memorize facts for an exam or people's birthdays for real life, getting some exercise will always help!</p>
         </div>
     </div>
 </div>
