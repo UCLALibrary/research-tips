@@ -9,7 +9,7 @@ authors:
     - doug-worsham
     - Zoe Borovsky
     - Scott Martin
-     - Sylvia Page
+    - Sylvia Page
 contributors:
     - renee-romero
     - Alicia Reiley
