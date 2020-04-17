@@ -3,6 +3,20 @@ title:  "Get configured"
 date:   2010-01-04
 authors: 
     - Scott Martin
+    - Natalie Selzer
+    - Michael Lima-Sabatini
+    - Kate Pham
+    - kian-ravaei
+    - doug-worsham
+    - Hannah Sutherland
+contributors:
+    - Sylvia Page
+    - Zoe Borovsky
+    - renee-romero
+    - Alicia Reiley
+    - Matthew Johnson
+    - Simon Lee
+    - Nisha Mody
 description: Configure your computer to access the library's many resources.
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn.pdf
@@ -14,26 +28,45 @@ tags:
 - proxy
 ---
 
-<p class="intro">Set up your computer to access UCLA Library resources (such as databases, electronic journals, and e-books) from off-campus.</p>
+<p class="intro">When you are off-campus, you can still access millions of resources paid for by UCLA Library! These include e-books, articles, music, videos, and more! All you need to do is set up your computer for off-campus access to UCLA Library resources using a VPN (Virtual Private Network) or Proxy.</p>
 
-<div class="container">
+<p class="intro">How does this work? Here's how four Bruins got their computers set up and ready to go for remote access!</p>
+
 <div class="row">
+    <div class="col-sm-12 col-md-6">
+        <div class="card h-100">
+          <h5 class="card-header">VPN on a Mac with Natalie.</h5>
+          <div class="card-body">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe  src="https://www.youtube.com/embed/UPb71_HbFEQ" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <blockquote>"I chose VPN for my mac because I need to be able to access the full text of articles on different browsers." - Natalie, Environmental Science Major</blockquote>
+            <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-12 col-md-6">
+        <div class="card h-100">
+          <h5 class="card-header">VPN on Windows with Michael</h5>
+          <div class="card-body">
+              <img src="{{ '/assets/images/icons/np_video_1709497_808080.png' | relative_url }}" alt="Placeholder image - video coming soon!" class="img-fluid my-0 py-0" />
+                <p class="card-text mb-0 mt-0"><em>Video coming soon!</em></p>
+              <blockquote>"I chose VPN for my windows machine because I like to be able to turn it off when I don't need it." - Michael</blockquote>
+            <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
+            </div>
+        </div>
+    </div>
+</div>
+
            
-<div class="col-sm">
-<a href="{{ '/assets/handouts/vpn.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout">
-<img class="img-fluid" src="{{ '/assets/images/Getting_Configured.png' | relative_url }}" alt="Off Campus Access to Online Resources" data-caption="Off-Campus Access to Online Resources"> 
-</a>
-</div>
+<h2 class="mt-5">Want an overview of the connection process?</h2>
+<p>Coming soon! A visual handout that guides you through the connection process for VPN, step-by-step!</p>
 
-</div>
-</div>
 
-Want more help? <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">Click here</a> to learn more about getting configured!
+<h2>Looking for more help?</h2>
 
-#### Tips:
-<ul>
-    <li>Be sure to configure your computer for off-campus access before you leave campus!</li>
-    
-</ul>
+<p>You can download this <a href="https://www.library.ucla.edu/sites/default/files/Off%20Campus%20Access%20to%20Online%20Resources%20-%20v3.pdf" target="_blank">Printable Handout on Off Campus Access to Online Resources</a>, or visit the <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">library website for more information on how to get configured</a>!</p>
+
+
 
 <!-- include embed-and-share-buttons.html ? -->
