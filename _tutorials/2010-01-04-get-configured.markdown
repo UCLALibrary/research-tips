@@ -2,21 +2,21 @@
 title:  "Remote Access - Get configured with VPN or Proxy"
 date:   2010-01-04
 authors: 
-    - Natalie Selzer
     - Michael Lima-Sabatini
-    - Kate Pham
+    - Natalie Selzer
     - kian-ravaei
     - Hannah Sutherland
     - doug-worsham
     - Zoe Borovsky
     - Scott Martin
+     - Sylvia Page
 contributors:
-    - Sylvia Page
     - renee-romero
     - Alicia Reiley
     - Matthew Johnson
     - Simon Lee
     - Nisha Mody
+    - Kate Pham
 description: Configure your computer to access the library's many resources.
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn.pdf
