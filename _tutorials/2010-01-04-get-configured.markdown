@@ -38,7 +38,7 @@ tags:
           <h5 class="card-header">VPN on a Mac with Natalie:</h5>
           <div class="card-body">
               <div class="embed-responsive embed-responsive-16by9">
-                <iframe src="https://www.youtube.com/embed/UPb71_HbFEQ" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/BimOWaDxk4Y" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <blockquote>"I chose VPN for my mac because I need to be able to access the full text of articles on different browsers." - Natalie, Environmental Science</blockquote>
             <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
