@@ -38,7 +38,7 @@ tags:
           <h5 class="card-header">VPN on a Mac with Natalie:</h5>
           <div class="card-body">
               <div class="embed-responsive embed-responsive-16by9">
-                <iframe  src="https://www.youtube.com/embed/UPb71_HbFEQ" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/UPb71_HbFEQ" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <blockquote>"I chose VPN for my mac because I need to be able to access the full text of articles on different browsers." - Natalie, Environmental Science Major</blockquote>
             <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
@@ -49,9 +49,10 @@ tags:
         <div class="card h-100">
           <h5 class="card-header">VPN on Windows with Michael:</h5>
           <div class="card-body">
-              <img style="height: 200px;" src="{{ '/assets/images/icons/np_video_1709497_808080.png' | relative_url }}" alt="Placeholder image - video coming soon!" class="img-fluid my-0 py-0" />
-                <p class="card-text mb-0 mt-0"><em>Video coming soon!</em></p>
-              <blockquote>"I chose VPN for my windows machine because I like to be able to turn it off when I don't need it." - Michael</blockquote>
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.youtube.com/embed/ZuZclnEuvlo" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <blockquote>"I chose VPN because I like the security it provides and the control it gives me as a user to manually enable or disable it when I'm browsing online." - Michael</blockquote>
+              </div>
             <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
             </div>
         </div>
