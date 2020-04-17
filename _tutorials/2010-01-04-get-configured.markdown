@@ -2,16 +2,16 @@
 title:  "Remote Access - Get configured with VPN or Proxy"
 date:   2010-01-04
 authors: 
-    - Scott Martin
     - Natalie Selzer
     - Michael Lima-Sabatini
     - Kate Pham
     - kian-ravaei
-    - doug-worsham
     - Hannah Sutherland
+    - doug-worsham
+    - Zoe Borovsky
+    - Scott Martin
 contributors:
     - Sylvia Page
-    - Zoe Borovsky
     - renee-romero
     - Alicia Reiley
     - Matthew Johnson
