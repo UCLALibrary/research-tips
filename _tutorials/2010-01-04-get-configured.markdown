@@ -60,13 +60,17 @@ tags:
 </div>
 
 <h2 class="mt-5">Want a visual overview of the connection process?</h2>
-<p>Check out this handout that guides you through the VPN connection process from start to finish, step-by-step!</p>
-<div class="row">
-    <div class="col-sm-12 col-md-6 mx-auto">
-            <iframe src="https://ucla.app.box.com/embed/s/gqyc4gmi2qi5teozk982jh38wh98up21?sortColumn=date&view=list" width="100%" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-            <blockquote> - Thanks to Zoe Borovsky for making this great handout!</blockquote>
+<ul class="list-unstyled">
+  <li class="media">
+      <a href="https://ucla.box.com/s/gqyc4gmi2qi5teozk982jh38wh98up21" target="_blank">
+          <img src="{{ '/assets/images/vpn-connection-handout-icon.jpg' | relative_url }}" class="mr-3" style="width: 150px;" alt="VPN remote access process overview handout"></a>
+    <div class="media-body">
+      Check out this handout that guides you through the VPN connection process from start to finish, step-by-step!<br>
+         <a href="https://ucla.box.com/s/gqyc4gmi2qi5teozk982jh38wh98up21" target="_blank" class="btn btn-primary">PDF Handout</a>
+        <blockquote> - Thanks to Zoe Borovsky for making this great handout!</blockquote>
     </div>
-</div>
+  </li>
+</ul>
 
 
 <h2>Looking for more help?</h2>
