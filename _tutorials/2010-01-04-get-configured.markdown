@@ -33,7 +33,7 @@ tags:
 <p class="intro">How does this work? Here's how four Bruins got their computers set up and ready to go for remote access!</p>
 
 <div class="row">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
           <h5 class="card-header">VPN on Mac with Natalie</h5>
           <div class="card-body">
@@ -45,7 +45,7 @@ tags:
             </div>
         </div>
     </div>
-        <div class="col-sm-12 col-md-6 mt-3">
+        <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
           <h5 class="card-header">VPN on Windows with Michael</h5>
           <div class="card-body">
@@ -59,7 +59,7 @@ tags:
     </div>
 </div>
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
           <h5 class="card-header">Proxy on Mac with Kate</h5>
