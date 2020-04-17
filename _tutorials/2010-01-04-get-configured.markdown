@@ -1,5 +1,5 @@
 ---
-title:  "Get configured"
+title:  "Remote Access - Get configured with VPN or Proxy"
 date:   2010-01-04
 authors: 
     - Scott Martin
