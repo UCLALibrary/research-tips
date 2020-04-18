@@ -72,7 +72,7 @@ tags:
             </div>
         </div>
     </div>
-        <div class="col-sm-12 col-md-6">
+        <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
           <h5 class="card-header">Proxy on Windows</h5>
           <div class="card-body text-center">
