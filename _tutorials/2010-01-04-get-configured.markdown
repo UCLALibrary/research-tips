@@ -75,8 +75,8 @@ tags:
         <div class="col-sm-12 col-md-6">
         <div class="card h-100">
           <h5 class="card-header">Proxy on Windows</h5>
-          <div class="card-body">
-                <img src="{{ '/assets/images/icons/np_video_1709497_808080.png' | relative_url }}" alt="Placeholder image - video coming soon!" class="img-fluid my-0 py-0" />
+          <div class="card-body text-center">
+                <img src="{{ '/assets/images/icons/np_video_1709497_808080.png' | relative_url }}" alt="Placeholder image - video coming soon!" class="img-fluid my-0 py-0" height="75%" width="75%" />
               <blockquote>Coming soon!</blockquote>
             </div>
         </div>
