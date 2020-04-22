@@ -4,6 +4,7 @@ username: giselle-burns
 displayname: Giselle Burns
 firstname: Giselle
 lastname: Burns
+position: Learner-Designer
 start-date: 2019-06-25
 end-date:
 category: Alumni

@@ -4,6 +4,7 @@ username: royson-lin
 displayname: Royson Lin
 firstname: Royson
 lastname: Lin
+position: Learner-Designer
 start-date: 2019-10-08
 end-date:
 category: Alumni

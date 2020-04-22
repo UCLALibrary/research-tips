@@ -4,6 +4,7 @@ username: caitlin-meyer
 displayname: Caitlin Meyer
 firstname: Caitlin
 lastname:  Meyer
+position: Learner-Designer
 background: 
 start-date:   2016-10 
 end-date:

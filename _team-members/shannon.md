@@ -4,6 +4,7 @@ username: shannon-roux
 displayname: Shannon Roux
 firstname: Shannon
 lastname:  Roux
+position: Learner-Designer
 background: 
 start-date:    
 end-date:

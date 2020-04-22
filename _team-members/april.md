@@ -4,6 +4,7 @@ username: april-zhou
 displayname: April Zhou
 firstname: April
 lastname: Zhou
+position: Learner-Designer
 background: 
 start-date:   
 end-date:

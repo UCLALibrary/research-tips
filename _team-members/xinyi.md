@@ -4,6 +4,7 @@ username: xinyi-yan
 displayname: Xinyi(Alex) Yan
 firstname: Xinyi(Alex)
 lastname: Yan
+position: Learner-Designer
 start-date: 2019-06-25 
 end-date:
 category: Creative Team

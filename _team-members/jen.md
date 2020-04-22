@@ -4,6 +4,7 @@ username: jen-pierre
 displayname: Jen Pierre
 firstname: Jen
 lastname: Pierre
+position: Learner-Designer
 background: 
 start-date:   YYYY-MM-DD 
 end-date:
