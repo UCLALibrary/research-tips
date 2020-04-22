@@ -11,6 +11,8 @@ contributors:
     - Emily Appleton
 thumbnail: 
 description: "In these activities, you will learn strategies for generating research questions and turning those questions into keywords. Coming up with keywords will help you craft more effective searches!"
+awards:
+    - merlot-5-star-editor-review
 thumbnail: /assets/workshops/thumbnails/Savvy-Searcher.png
 category: Cornerstone Research Workshops
 tags:

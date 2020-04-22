@@ -1,8 +1,22 @@
 ---
-title:  "Get configured"
+title:  "Remote Access - Get configured with VPN or Proxy"
 date:   2010-01-04
 authors: 
+    - Michael Lima-Sabatini
+    - Natalie Selzer
+    - kian-ravaei
+    - Hannah Sutherland
+    - doug-worsham
+    - Zoe Borovsky
     - Scott Martin
+    - Sylvia Page
+contributors:
+    - renee-romero
+    - Alicia Reiley
+    - Matthew Johnson
+    - Simon Lee
+    - Nisha Mody
+    - Kate Pham
 description: Configure your computer to access the library's many resources.
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn.pdf
@@ -14,26 +28,79 @@ tags:
 - proxy
 ---
 
-<p class="intro">Set up your computer to access UCLA Library resources (such as databases, electronic journals, and e-books) from off-campus.</p>
+<p class="intro">When you are off-campus, you can still access millions of resources paid for by UCLA Library! These include e-books, articles, music, videos, and more! All you need to do is set up your computer for off-campus access to UCLA Library resources using a VPN (Virtual Private Network) or Proxy.</p>
 
-<div class="container">
+<p class="intro">How does this work? Here's how four Bruins got their computers set up and ready to go for remote access!</p>
+
 <div class="row">
-           
-<div class="col-sm">
-<a href="{{ '/assets/handouts/vpn.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout">
-<img class="img-fluid" src="{{ '/assets/images/Getting_Configured.png' | relative_url }}" alt="Off Campus Access to Online Resources" data-caption="Off-Campus Access to Online Resources"> 
-</a>
+    <div class="col-sm-12 col-md-6 mb-3">
+        <div class="card h-100">
+          <h5 class="card-header">VPN on Mac with Natalie</h5>
+          <div class="card-body">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.youtube.com/embed/BimOWaDxk4Y" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <blockquote>"I chose VPN for my mac because I need to be able to access the full text of articles on different browsers." - Natalie, Environmental Science</blockquote>
+            <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-12 col-md-6 mb-3">
+        <div class="card h-100">
+          <h5 class="card-header">VPN on Windows with Michael</h5>
+          <div class="card-body">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.youtube.com/embed/ZuZclnEuvlo" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+              <blockquote>"I chose VPN because I like the security it provides and the control it gives me as a user to manually enable or disable it when I'm browsing online." - Michael, Public Affairs</blockquote>
+            <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
+            </div>
+        </div>
+    </div>
 </div>
 
-</div>
+<div class="row">
+    <div class="col-sm-12 col-md-6 mb-3">
+        <div class="card h-100">
+          <h5 class="card-header">Proxy on Mac with Kate</h5>
+          <div class="card-body">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.youtube.com/embed/h1vVy_WuxYk" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <blockquote>"I chose Proxy because I prefer logging in through a web browser without having to download any software on my computer." - Kate, Ethnic Studies</blockquote>
+            <a href="https://www.it.ucla.edu/it-support-center/services/proxy-server" class="btn btn-primary">Proxy Server</a>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-12 col-md-6 mb-3">
+        <div class="card h-100">
+          <h5 class="card-header">Proxy on Windows</h5>
+          <div class="card-body text-center">
+                <img src="{{ '/assets/images/icons/np_video_1709497_808080.png' | relative_url }}" alt="Placeholder image - video coming soon!" class="img-fluid my-0 py-0" height="75%" width="75%" />
+              <blockquote>Coming soon!</blockquote>
+            </div>
+        </div>
+    </div>
 </div>
 
-Want more help? <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">Click here</a> to learn more about getting configured!
-
-#### Tips:
-<ul>
-    <li>Be sure to configure your computer for off-campus access before you leave campus!</li>
-    
+<h2 class="mt-5">Want a visual overview of the connection process?</h2>
+<ul class="list-unstyled">
+  <li class="media">
+      <a href="https://ucla.box.com/s/gqyc4gmi2qi5teozk982jh38wh98up21" target="_blank">
+          <img src="{{ '/assets/images/vpn-connection-handout-icon.jpg' | relative_url }}" class="mr-3" style="width: 150px;" alt="VPN remote access process overview handout"></a>
+    <div class="media-body">
+      Check out this handout that guides you through the VPN connection process from start to finish, step-by-step!<br>
+         <a href="https://ucla.box.com/s/gqyc4gmi2qi5teozk982jh38wh98up21" target="_blank" class="btn btn-primary">PDF Handout</a>
+        <blockquote> - Thanks to Zoe Borovsky for making this great handout!</blockquote>
+    </div>
+  </li>
 </ul>
+
+
+<h2>Looking for more help?</h2>
+
+<p>You can download this <a href="https://www.library.ucla.edu/sites/default/files/Off%20Campus%20Access%20to%20Online%20Resources%20-%20v3.pdf" target="_blank">Printable Handout on Off Campus Access to Online Resources</a>, or visit the <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">library website for more information on how to get configured</a>!</p>
+
+
 
 <!-- include embed-and-share-buttons.html ? -->

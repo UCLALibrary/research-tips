@@ -1,4 +1,335 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-03-13T16:37:22-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">The Making of Using Google Scholar</title><link href="http://localhost:4000/research-tips/sandbox/google-scholar-reflection/" rel="alternate" type="text/html" title="The Making of Using Google Scholar" /><published>2020-01-23T00:00:00-08:00</published><updated>2020-01-23T00:00:00-08:00</updated><id>http://localhost:4000/research-tips/sandbox/google-scholar-reflection</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/google-scholar-reflection/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-04-17T17:00:07-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">WI+RE Spring Update</title><link href="http://localhost:4000/research-tips/sandbox/wire-spring-update/" rel="alternate" type="text/html" title="WI+RE Spring Update" /><published>2020-04-04T00:00:00-07:00</published><updated>2020-04-04T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-spring-update</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-spring-update/">&lt;p&gt;WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.&lt;/p&gt;
+
+&lt;p&gt;Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!&lt;/p&gt;
+
+&lt;h2 id=&quot;stats-snapshot&quot;&gt;Stats Snapshot&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;stats&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card-deck mb-5&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+    &lt;div class=&quot;card-body&quot;&gt;
+       &lt;h4 class=&quot;card-title text-center&quot;&gt;2090+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Workshops completed at UCLA&lt;/small&gt;&lt;/h4&gt;
+    &lt;/div&gt;
+  &lt;/div&gt; 
+  &lt;div class=&quot;card&quot;&gt;
+    &lt;div class=&quot;card-body&quot;&gt;
+       &lt;h4 class=&quot;card-title text-center&quot;&gt;146.5K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;views on YouTube&lt;/small&gt;&lt;/h4&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card&quot;&gt;
+    &lt;div class=&quot;card-body&quot;&gt;
+      &lt;h4 class=&quot;card-title text-center&quot;&gt;177K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Website page views&lt;/small&gt;&lt;/h4&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a name=&quot;integrate&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;how-to-integrate-wire-workshops-into-your-ccle-courses&quot;&gt;How to integrate WI+RE workshops into your CCLE courses&lt;/h2&gt;
+
+&lt;p&gt;Want to integrate WI+RE workshops directly into your own webpage or CCLE course site? No problem! You can follow this &lt;a href=&quot;https://humtech.ucla.edu/how-to/embed-wire-workshops-in-your-course-site/&quot;&gt;how-to guide from Humtech&lt;/a&gt; or &lt;a href=&quot;https://uclalibrary.github.io/research-tips/contact/&quot;&gt;contact us directly&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;creates&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;new-website-creates-for-reading-and-analyzing-scientific-articles&quot;&gt;New website: CREATES for reading and analyzing scientific articles&lt;/h2&gt;
+
+&lt;p&gt;WI+RE is thrilled to announce that through our collaboration with Jordan Moberg Parker, Director of Undergraduate Laboratory Curriculum and Assessment in Microbiology, Immunology, and Molecular Genetics, we’re launching the &lt;a href=&quot;https://uclalibrary.github.io/creates/&quot; target=&quot;_blank&quot;&gt;CREATES website&lt;/a&gt;!&lt;/p&gt;
+
+&lt;figure class=&quot;figure&quot;&gt;
+    &lt;a href=&quot;https://uclalibrary.github.io/creates/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://uclalibrary.github.io/creates/img/creates-overview-image.jpeg&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;the CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles.&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Introducing the new &lt;a href=&quot;https://uclalibrary.github.io/creates/&quot; target=&quot;_blank&quot;&gt;CREATES website!&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;C.R.E.A.T.E.S. is a set of 6 steps that help learners read and critically analyze scientific papers. The C.R.E.A.T.E.S. method, pioneered by Dr. Sally Hoskins, has a demonstrated positive impact on undergraduate students' self-confidence in scientific reading, as well as in their general perceptions of and beliefs about science and scientific thinking (&lt;a href=&quot;https://doi.org/10.1187/cbe.11-03-0027&quot; target=&quot;_blank&quot;&gt;Hoskins, et. al, 2017&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;The new &lt;a href=&quot;https://uclalibrary.github.io/creates/&quot; target=&quot;_blank&quot;&gt;C.R.E.A.T.E.S.&lt;/a&gt; site uses interactive media, step-by-step directions, and detailed annotation of authentic examples to guide students through the process.&lt;/p&gt;
+
+&lt;p&gt;Many thanks to Dr. Jordan Moberg Parker for serving as the Pedagogy Lead on this project, for providing the initial set of instructional materials and examples of student work, and for contributing countless hours providing feedback and advice to make the project possible! BIG, big, big congratulations to Kian and Alex for building the website and creating the multimedia! And we are also very grateful to our many project contributors: Salma Abumeeiz, Giselle Burns, Juan Díaz, Taylor Harper, Royson Lin, Christopher Lopez, Renee Romero, Hannah Sutherland, and April Zhou! Thank you for all the help along the way!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;wire-way&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;new-publication-the-wire-way&quot;&gt;New publication: The WI+RE Way&lt;/h2&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12 col-md-4&quot;&gt;
+        &lt;figure class=&quot;figure&quot;&gt;
+            &lt;a href=&quot;https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://uclalibrary.github.io/research-tips/assets/images/awards/wire-way-article-cover.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;Journal of New Librarianship cover for the WI+RE Way article.&quot; /&gt;&lt;/a&gt;
+            &lt;figcaption class=&quot;figure-caption&quot;&gt;New publication: The WI+RE Way!&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-sm-12 col-md-8&quot;&gt;
+          &lt;p&gt;An article about our design manifesto! This past January, the Journal of New Librarianship published WI+RE's essay &lt;a href=&quot;https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design&quot; target=&quot;_blank&quot;&gt;The WI+RE Way: a manifesto and a process for learner-led design&lt;/a&gt;.&lt;/p&gt;
+          &lt;p&gt;If you're curious about values-driven design and would like to see specific examples of how the WI+RE team centers values in our design process, this is the article for you!&lt;/p&gt;
+          &lt;p&gt;Congratulations to the team that co-authored this paper: Taylor Harper, Nisha Mody, Kian Ravaei, Renee Romero, and Doug Worsham!&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a name=&quot;entering-research&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;new-workshop-series-entering-research&quot;&gt;New Workshop Series: Entering Research&lt;/h2&gt;
+
+&lt;p&gt;WI+RE recently launched three new workshops as part of the new &lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/#entering-research-workshops&quot;&gt;Entering Research&lt;/a&gt; Workshop series. This series of workshops comes as a result of our ongoing partnership with the Undergraduate Research Centers.&lt;/p&gt;
+
+&lt;p&gt;The three new workshops include essential tips on &lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/beginning-your-research-journey/&quot;&gt;Beginning Your Research Journey&lt;/a&gt;, getting to know &lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/research-logistics/&quot;&gt;Research Logistics&lt;/a&gt; at UCLA, as well as a &lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/finding-a-mentor-or-project/&quot;&gt;Finding a Research Mentor&lt;/a&gt;, which addresses what can be one of the biggest challenges with undergraduate research!&lt;/p&gt;
+
+&lt;p&gt;Many thanks to our co-authors on these workshops: Giselle Burns, Kian Ravaei, and Xinyi Yan!!! Thanks also to Janet Goins, Kelly Kistner, Tama Hasson, Renee Romero, Doug Worsham for extensive contributions - from the initial learning outcomes to the published workshops!&lt;/p&gt;
+
+&lt;p&gt;Please take a look and let us know your feedback! We are currently looking for instructors and programs that would like to integrate these workshops!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;google-scholar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;new-tutorial-using-google-scholar&quot;&gt;New Tutorial: Using Google Scholar&lt;/h2&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12 col-md-4&quot;&gt;
+        &lt;figure class=&quot;figure&quot;&gt;
+            &lt;a href=&quot;https://uclalibrary.github.io/research-tips/google-scholar/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://uclalibrary.github.io/research-tips/assets/images/google-scholar-reflection/tutorial-layout.png&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;Layout of the Google Scholar Tutorial&quot; /&gt;&lt;/a&gt;
+            &lt;figcaption class=&quot;figure-caption&quot;&gt;The new Google Scholar tutorial!&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-sm-12 col-md-8&quot;&gt;
+          &lt;p&gt;WI+RE has a new tutorial on &lt;a href=&quot;https://uclalibrary.github.io/research-tips/google-scholar/&quot; target=&quot;_blank&quot;&gt;Using Google Scholar&lt;/a&gt; and includes topics like advanced search, quotes and exact phrases, and accessing articles.&lt;/p&gt;
+          &lt;p&gt;This tutorial has already received a 5-star editoral review on MERLOT! This project was authored by Royson Lin, Kian Ravaei, and Xinyi(Alex) Yan, and made possible by the contributions of Giselle Burns, Taylor Harper, Renee Romero, and Doug Worsham.&lt;/p&gt;
+          &lt;p&gt;Would you like to see more Google Scholar tips? Let us know!&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a name=&quot;peer-review&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;peer-reviewed-materials&quot;&gt;Peer-Reviewed Materials&lt;/h2&gt;
+
+&lt;h3 id=&quot;more-5-star-reviews-on-merlot&quot;&gt;More 5-Star Reviews on MERLOT!&lt;/h3&gt;
+
+&lt;p&gt;WI+RE is very grateful to MERLOT, one of the largest collections of online learning materials, for a series of recent editorial reviews! WI+RE now has six open electronic resources with 5-star editorial reviews in MERLOT!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/avoiding-plagiarism/&quot;&gt;Avoiding Plagiarism and Citing Sources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/developing-research-questions-and-creating-keywords/&quot;&gt;Developing Research Questions and Creating Keywords&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uclalibrary.github.io/research-tips/expanding-perspectives/&quot;&gt;Expanding Perspectives in Your Search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uclalibrary.github.io/research-tips/finding-scholarly-articles/&quot;&gt;Finding Scholarly Articles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uclalibrary.github.io/research-tips/primary-secondary/&quot;&gt;Primary and Secondary Sources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uclalibrary.github.io/research-tips/google-scholar/&quot;&gt;Using Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;newly-accepted-to-primo&quot;&gt;Newly accepted to PRIMO&lt;/h3&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12 col-md-4&quot;&gt;
+        &lt;figure class=&quot;figure&quot;&gt;
+            &lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/writing-a-literature-review/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://ccle.ucla.edu/pluginfile.php/2822882/mod_hvp/content/2124/images/file-5cdef5f0274a5.png&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;Rockstar Reviewer Logo&quot; /&gt;&lt;/a&gt;
+            &lt;figcaption class=&quot;figure-caption&quot;&gt;WI+RE's Writing a Literature Review Workshop&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-sm-12 col-md-8&quot;&gt;
+          &lt;p&gt;This January, WI+RE's online research workshop &lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/writing-a-literature-review/&quot; target=&quot;_blank&quot;&gt;Writing a Literature Review&lt;/a&gt; was selected for the ALA/ACRL Instruction Section's &lt;a href=&quot;http://www.ala.org/cfapps/primo/public/search.cfm&quot; target=&quot;_blank&quot;&gt;PRIMO database&lt;/a&gt; of Peer-Reviewed Instructional Materials Online.&lt;/p&gt;
+          &lt;p&gt;Writing a Literature Review workshop offers tips for students to recognize key components of a literature review,  identify research gaps, and synthesize sources. It takes the form of interactive slides that include videos, examples, and various forms of assessments.&lt;/p&gt;
+          &lt;p&gt;The project was co-authered by WI+RE's student designers Kian Ravaei and Taylor Harper, and made possible by the collaborations of contributors from across campus, including Whitney Arnold, Janet Goins, Fernando Gomez, Leigh Harris, Christine Holten, Caitlin Meyer, Nisha Mody, Shannon Roux, Doug Worsham, April Zhou, and Renee Romero. Big thanks to everyone and congratulations!&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a name=&quot;192e&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;new-ucla-course-learner-led-design-for-stem&quot;&gt;New UCLA Course: Learner-Led Design for STEM&lt;/h2&gt;
+
+&lt;p&gt;Renee Romero and Doug Worsham are co-teaching 2 special sessions of Life Science 192E called “Learner-Led Design for STEM.” This partnership with the CEILS Learning Assistant (LA)  program was created to foster the learner-led design of instructional materials based on the experiences and insights of LA’s. WI+RE is grateful to all of the LA’s that have signed up for the course and we’re looking forward to creating together!! Big thanks also to Dr. Shanna Shaked, Senior Associate Director of CEILS, for making this experiement a reality!! Thanks also to the UCLA Center for the Advancement of Teaching for funding this initiative through the &lt;a href=&quot;https://www.teaching.ucla.edu/grants/iip&quot;&gt;Instructional Improvement Grant&lt;/a&gt; program!!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;website-release&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;wire-website-release-v21&quot;&gt;WI+RE Website Release: v2.1&lt;/h2&gt;
+
+&lt;p&gt;We’ve incorporated tons of new features in this release, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Handouts are now included as embedded PDFs for improved accessibility&lt;/li&gt;
+  &lt;li&gt;Redesigned search page - now includes giant list of content&lt;/li&gt;
+  &lt;li&gt;Publications, presentations, awards and peer-reviews are now listed on portfolio pages&lt;/li&gt;
+  &lt;li&gt;Dublin core metadata and Zotero support throughout the site&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And more! To check out the code that runs the WI+RE site, visit our &lt;a href=&quot;https://github.com/UCLALibrary/research-tips&quot;&gt;code repository on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;spotlight&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;team-member-spotlight-royson-lin&quot;&gt;Team member spotlight: Royson Lin&lt;/h2&gt;
+
+&lt;div class=&quot;col col-sm-12 col-md-4&quot;&gt;
+    &lt;img class=&quot;mx-auto img-fluid&quot; src=&quot;https://uclalibrary.github.io/research-tips/assets/images/team/royson.jpg&quot; alt=&quot;Royson Lin in a bookstore&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It seems like only yesterday that &lt;a href=&quot;https://uclalibrary.github.io/research-tips/about/creative-team/royson/&quot;&gt;Royson Lin&lt;/a&gt; joined the WI+RE Creative Team. Graduating this winter quarter with a major in Cognitive Science, Royson helped WI+RE on a number of projects, including a recently published &lt;a href=&quot;https://uclalibrary.github.io/research-tips/google-scholar/&quot;&gt;Google Scholar Tutorial&lt;/a&gt;, which has already earned a 5-star review on MERLOT. Royson finished up his time with WI+RE by creating an awesome &lt;a href=&quot;https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/&quot;&gt;study tips playlist&lt;/a&gt; which outlines top tips on learning and memory from the field of cognitive science. It is well worth a read!&lt;/p&gt;
+
+&lt;p&gt;We wish Royson the best and look forward to hearing where he goes next with his creativity and design skills!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;in-progress&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;work-in-progress&quot;&gt;Work in progress!&lt;/h2&gt;
+
+&lt;h3 id=&quot;writing-tips-with-the-undergraduate-writing-center-plfs&quot;&gt;Writing Tips with the Undergraduate Writing Center PLFs&lt;/h3&gt;
+
+&lt;p&gt;We are very excited about our ongoing collaboration with the Writing Center Peer Learning Facilitators (PLFs). We’re currently working with Christine Holten, UG Writing Center Director, and the PLF team to create a series of writing tips tutorials. Last quarter, the PLFs collaborated with WI+RE to identify top writing challenges from their experience helping writers at UCLA, and now we’re working on storyboards and scripts. It should be a great series!&lt;/p&gt;
+
+&lt;h3 id=&quot;new-project-ideas-from-library-staff&quot;&gt;New project ideas from Library staff&lt;/h3&gt;
+
+&lt;p&gt;Library staff from across UCLA have shared a large set of ideas for future projects on everything from using images as evidence, to finding open data sources, to navigating finding aids and searching for primary sources. We’re thrilled with this big collection of new ideas and looking forward to next steps! Get ready to empathy map and make learning outcomes!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;your-ideas&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;your-ideas&quot;&gt;Your ideas&lt;/h3&gt;
+
+&lt;p&gt;What should WI+RE be working on? Let us know! You can visit our &lt;a href=&quot;https://uclalibrary.github.io/research-tips/contact/&quot;&gt;contact form&lt;/a&gt;, mention us on &lt;a href=&quot;https://www.twitter.com/WIREbruin&quot;&gt;twitter&lt;/a&gt;, and comment on our &lt;a href=&quot;https://www.facebook.com/WIREbruin&quot;&gt;facebook page&lt;/a&gt;! Looking forward to hearing from you!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;thank-yous&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;thank-you&quot;&gt;Thank you!!&lt;/h2&gt;
+
+&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: Alana Enriquez, Alicia Reiley, Allison R. Benedetti, Amber West, Amy Liu, Annelie Rugg, Annie Pho, April Zhou, Beth Goodhue, Bethany Meyers, Caitlin Meyer, Callie Holmes, Chris-Lopez, Christine Holten, Courtney Hoffner, Dana Cairns Watson, Diana L. King, Diane Mizrachi, Doug, Doug Worsham, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Fernando Gomez, Gavin Jackson, Giselle Burns, Hanna Young, Hannah Sutherland, Henri Lim, Jacelyn Omusi, Jacy Black, Janet Goins, Janine Henri, Jeannie Chen, Jen, Jen Pierre, Joanna Chen Cham, Juan Jaime, Juan Díaz, Julia Glassman, Julian Gautier, Kate McAllister, Kate Pham, Kelly Kistner, Kelly Miller, Kian, Kian Ravaei, Leigh Harris, Liz Galvin Lew, Lou Baya Ould Rouis, Marisa Méndez-Brady, Mary Tran, Matthew Johnson, Matthew Vest, Michael Lima-Sabatini, Miki Goral, Miriam Posner, Natalie Selzer, Nina Mamikunian, Nisha Mody, Powell Library, Renee, Renee Romero, Robert Freel, Robert Gore, Royson Lin, Scott Martin, Shanna Shaked, Shannon Roux, Shushanik Stepanyan, Simon Lee, Sophia Wu, Sylvia Page, Tama Hasson, Tara Prescott, Taylor Harper, Thomas Garbelotti, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, University of Minnesota Libraries Research Paper Calculator, Valeria Morales, Whitney Arnold, Xinyi(Alex) Yan, Zoe Borovsky.&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.</summary></entry><entry><title type="html">The Making of Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/making-of-study-tips/" rel="alternate" type="text/html" title="The Making of Study Tips" /><published>2020-03-20T00:00:00-07:00</published><updated>2020-03-20T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/making-of-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/making-of-study-tips/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;These past two quarters, I had the pleasure of working with WI+RE, and this quarter (winter 2020) I used my position with WI+RE to fulfill my Psych 195B internship requirement for cognitive science. To fulfill the requirements of the internship, I had to complete a project determined jointly with my supervisor. I brainstormed ways to combine the cognitive science aspect of this project with the goals of WI+RE (writing instruction and research education), and a compilation of tips to help students do better in their classes seemed like the perfect integration of the two. I had learned a lot of memory strategies from my Cognitive Psychology class (Psych 120A) taught by Alan Castel, and this seemed like a great way to disseminate the information.&lt;/p&gt;
+
+&lt;p&gt;The six tips I discussed were spacing, testing, studying in different contexts, processing more deeply, understanding, and exercising.&lt;/p&gt;
+
+&lt;p&gt;You can find the project website &lt;a href=&quot;https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h1 id=&quot;rationale-behind-my-design&quot;&gt;Rationale behind my design&lt;/h1&gt;
+
+&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
+  &lt;img src=&quot;/research-tips/assets/images/study-tips/making-of-study-tips.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
+  &lt;figcaption class=&quot;figure-caption text-right&quot;&gt;My planning process behind the website.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I used cards to present the information to give the impression of distinct, packageable, and useful content that one could pick and choose from.&lt;/p&gt;
+
+&lt;p&gt;Spacing and testing went at the top and received full-width cards because they were advice that had the most robust evidence backing their use as study aids, and I wanted students to be exposed to the methods and the research behind them as early on as possible.&lt;/p&gt;
+
+&lt;p&gt;Studying in different locations and deeper processing, while also having research to support them, were not as robustly supported, meaning the contexts in which they helped were not always universal or as relevant to students. I still put studying in different contexts first though because it is more practical and applicable.&lt;/p&gt;
+
+&lt;p&gt;I saved the last two tips for last because they were not exactly “study strategies” as most students think of them, but they work nevertheless. Understanding was supposed to be a video describing an experience I had where I tried very hard to understand a concept from math class and as a result still remember it many years later, but unfortunately due to time and other constraints imposed by the COVID-19 situation, I opted to simply have text instead. Maybe one day if I have time and the materials I used to document my ideas for the video, I can return to the office and finish the video…. And last but not least, the most important memory and overall health tip: exercise. I wanted to emphasize an important habit that many people overlook or brush off but that benefits health in innumerable, wide-ranging ways, not to mention boosts memory and learning.&lt;/p&gt;
+
+&lt;h1 id=&quot;thank-you&quot;&gt;Thank you!&lt;/h1&gt;
+
+&lt;p&gt;This final project and sandbox post wraps up my time at WI+RE. I am so grateful to my team (Kian and Alex), my supervisor (Doug), and the rest of the WI+RE space for providing me with such a friendly and welcoming work environment and supporting me in my goals. I hope this project can serve students at UCLA and beyond for many years to come!&lt;/p&gt;</content><author><name>royson-lin</name></author><category term="Assessments and Reports" /><summary type="html">Introduction</summary></entry><entry><title type="html">Resource Playlist - Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/resource-playlist-study-tips/" rel="alternate" type="text/html" title="Resource Playlist - Study Tips" /><published>2020-02-10T17:01:01-08:00</published><updated>2020-02-10T17:01:01-08:00</updated><id>http://localhost:4000/research-tips/sandbox/resource-playlist-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/resource-playlist-study-tips/">&lt;p&gt;Are you excited to be in a fun and interesting class? Trying your best to learn and understand material you need to know later? Or do you just want to do well on your exams? Whatever your learning goals are, here is a playlist of some study tips backed by cognitive science that are endorsed by WI+RE. Use them to your full advantage!&lt;/p&gt;
+
+&lt;div class=&quot;card-deck mt-3&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Space It Out&lt;/h5&gt;
+	    &lt;p class=&quot;card-text&quot;&gt;Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the &lt;i&gt;spacing effect&lt;/i&gt;.&lt;/p&gt;
+		&lt;div class=&quot;text-center pt-3&quot;&gt;
+		&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
+			&lt;img src=&quot;/research-tips/assets/images/study-tips/spacing.png&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
+			&lt;figcaption class=&quot;figure-caption text-right&quot;&gt;The spacing effect (from https://www.scotthyoung.com/blog/2018/12/24/why-cram/).&lt;/figcaption&gt;
+		&lt;/figure&gt;
+		&lt;/div&gt;
+            &lt;p class=&quot;card-text&quot;&gt;Check out this article to see how a study on how using spacing with flashcards was more effective than massing.&lt;/p&gt;
+            &lt;div class=&quot;text-center pt-3&quot;&gt;
+	    	 &lt;a href=&quot;https://search.proquest.com/psycinfo/docview/742972135/5B61771A0A56494BPQ/1?accountid=14512&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Kornell 2009&lt;/a&gt;
+            &lt;/div&gt;
+		&lt;p class=&quot;card-text&quot;&gt;Here's an article explaining the research and delving deeper into other studies.&lt;/p&gt;
+	    &lt;div class=&quot;text-center pt-3&quot;&gt;
+                 &lt;a href=&quot;http://www.psychologytoday.com/blog/everybody-is-stupid-except-you/201009/study-better-space-it-out-and-mix-it&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Study better: Space it out and mix it up&lt;/a&gt;
+            &lt;/div&gt;
+	    &lt;p class=&quot;card-text&quot;&gt;And finally, a video to break it all down and explain how you can incorporate spacing into your studying in the future!&lt;/p&gt;
+		&lt;div class=&quot;text-center pt-3&quot;&gt;
+			&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cVf38y07cfk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+		&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card-deck mt-3&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Test Yourself&lt;/h5&gt;
+	    &lt;p class=&quot;card-text&quot;&gt;Many studies have also shown that testing yourself on content you've just read or watched actually helps you remember it way better than simply rereading or rewatching the material. This is known as the &lt;i&gt;testing effect&lt;/i&gt;. One strong hypothesis about why it works is because testing yourself is a form of retrieval practice, or training yourself to recall something, which is the exact thing you need to do come test time!&lt;/p&gt;
+		&lt;p class=&quot;card-text&quot;&gt;Unfortunately, this is one of those counter-intuitive strategies that, while it works well, feels like it &lt;i&gt;doesn't&lt;/i&gt;. Roediger and Karpicke (2006) found that while participants remembered information a lot better over the long term when they tested themselves compared to simply studying more, they judged the restudying to help them more than testing did.&lt;/p&gt;
+		&lt;div class=&quot;text-center pt-3&quot;&gt;
+		&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
+			&lt;img src=&quot;/research-tips/assets/images/study-tips/testing-vs-restudying.png&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
+			&lt;figcaption class=&quot;figure-caption text-right&quot;&gt;Test performance after testing vs. restudying.&lt;/figcaption&gt;
+		&lt;/figure&gt;
+		&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
+			&lt;img src=&quot;/research-tips/assets/images/study-tips/testing-performance-vs-jol.png&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
+			&lt;figcaption class=&quot;figure-caption text-right&quot;&gt;Test performance vs. judgment of learning for testing vs. restudying.&lt;/figcaption&gt;
+		&lt;/figure&gt;
+		&lt;/div&gt;
+		&lt;p class=&quot;card-text&quot;&gt;Check out this study on how quizzes and multiple choice tests improved performance on tests compared to rereading.&lt;/p&gt;
+            &lt;div class=&quot;text-center pt-3&quot;&gt;
+	    	 &lt;a href=&quot;http://dx.doi.org/10.1080/09541440701326154&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;McDaniel et al. 2007&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;card-text&quot;&gt;Here are two plain English articles breaking down the testing effect.&lt;/p&gt;
+            &lt;div class=&quot;text-center pt-3&quot;&gt;
+	     	 &lt;a href=&quot;https://www.psychologytoday.com/us/blog/ulterior-motives/201108/test-yourself-learn-better&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Test Yourself to Learn Better&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;text-center pt-3&quot;&gt;
+		 &lt;a href=&quot;https://knowledgeplus.nejm.org/blog/what-is-the-testing-effect-and-how-does-it-affect-learning-knowledge-and-retention/&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;What Is the Testing Effect, and How Does It Affect Learning, Knowledge, and Retention?&lt;/a&gt;
+            &lt;/div&gt;
+	    &lt;p class=&quot;card-text&quot;&gt;And here's a video if that's your style!&lt;/p&gt;
+	    &lt;div class=&quot;text-center pt-3&quot;&gt;
+                 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_wqG7g1kZUo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card-deck mt-3&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Change It Up&lt;/h5&gt;
+		&lt;div class=&quot;text-center pt-3&quot;&gt;
+			&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
+				&lt;img src=&quot;/research-tips/assets/images/study-tips/study-in-different-places.gif&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
+				&lt;figcaption class=&quot;figure-caption text-right&quot;&gt;Study in different places!&lt;/figcaption&gt;
+			&lt;/figure&gt;
+		&lt;/div&gt;
+            &lt;p class=&quot;card-text&quot;&gt;You may have heard of the idea of having a single dedicated &quot;study spot&quot; that you do all your studying in. Maybe it's your desk at home or a library on campus. However, did you know that you might actually learn better if you switch it up and study in multiple different places? Smith &amp;amp; Rothkopf found that students who took an 8-hour statistics course over four days in four different classrooms did better on a test in a completely new environment compared to students who took the course in the same room. This might be useful for you if you like to study in places that are not the exam location, like most of us!  Check out their study!&lt;/p&gt;
+	    &lt;div class=&quot;text-center pt-3&quot;&gt;
+	    	 &lt;a href=&quot;http://people.tamu.edu/~stevesmith/SmithMemory/SmithRothkopf1984.pdf&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Smith &amp;amp; Rothkopf 1984&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Think About It&lt;/h5&gt;
+            &lt;p class=&quot;card-text&quot;&gt;Another helpful memory aid is processing the material deeply. This paper by Craik and Lockhart suggests a framework for human memory that stresses the importance of depths or levels of processing and predicts that the deeper information is processed, the longer it will be remembered.&lt;/p&gt;
+			&lt;div class=&quot;text-center pt-3&quot;&gt;
+            	&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S002253717280001X&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Craik &amp;amp; Lockhart 1972&lt;/a&gt;
+            &lt;/div&gt;
+	    &lt;p class=&quot;card-text&quot;&gt;Interestingly enough, this ties very tightly into understanding the material....&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card-deck mt-3&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Understand It&lt;/h5&gt;
+            &lt;p class=&quot;card-text&quot;&gt;One of my favorite ways to remember big concepts from class that has worked for me over the long term is simply trying to understand the material. Studies have shown that actually knowing how the material you're learning ties into what you already know enhances retention and recall of the material.&lt;/p&gt;
+            &lt;div class=&quot;text-center pt-3&quot;&gt;
+                 &lt;a href=&quot;https://msu.edu/~ema/802/Ch6-Memory/2/BransfordJohnson72.pdf&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Bransford &amp;amp; Johnson 1972&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;card-text&quot;&gt;This study showed that when people actually understood passages they were reading in a larger context, they remembered the passages a lot better.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card-deck mt-3&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;Get Some Exercise&lt;/h5&gt;
+
+&lt;!-- commenting out this image for now
+		&lt;div class=&quot;text-center pt-3&quot;&gt;
+			&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
+				&lt;img src=&quot;/research-tips/assets/images/study-tips/old-people-walking.png&quot; class=&quot;figure-img img-fluid rounded&quot;&gt;
+				&lt;figcaption class=&quot;figure-caption text-right&quot;&gt;Older people getting some exercise.&lt;/figcaption&gt;
+			&lt;/figure&gt;
+		&lt;/div&gt;
+--&gt;
+
+&lt;p class=&quot;card-text&quot;&gt;Aside from being a valuable study break, exercise has been shown to have innumerable health benefits, one of which is improvements in memory!&lt;/p&gt;
+&lt;div class=&quot;text-center pt-3&quot;&gt;
+                 &lt;a href=&quot;https://www.pnas.org/content/108/7/3017&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Erickson et al. 2011&lt;/a&gt;
+&lt;/div&gt;
+&lt;p class=&quot;card-text&quot;&gt;Typical adults after the age of 50 experience a 1% decline in hippocampal volume per year. However, this study showed that older adults who walked for 40 minutes a day three times a week for a year actually showed a &lt;i&gt;2% increase&lt;/i&gt; in the volume of their hippocampus, a region of the brain critical for memory formation!&lt;/p&gt;
+&lt;p class=&quot;card-text&quot;&gt;So, whether you're trying to memorize facts for an exam or people's birthdays for real life, getting some exercise will always help!&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>royson-lin</name></author><category term="Resource Playlists" /><summary type="html">Are you excited to be in a fun and interesting class? Trying your best to learn and understand material you need to know later? Or do you just want to do well on your exams? Whatever your learning goals are, here is a playlist of some study tips backed by cognitive science that are endorsed by WI+RE. Use them to your full advantage!</summary></entry><entry><title type="html">The Making of Using Google Scholar</title><link href="http://localhost:4000/research-tips/sandbox/google-scholar-reflection/" rel="alternate" type="text/html" title="The Making of Using Google Scholar" /><published>2020-01-23T00:00:00-08:00</published><updated>2020-01-23T00:00:00-08:00</updated><id>http://localhost:4000/research-tips/sandbox/google-scholar-reflection</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/google-scholar-reflection/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Google Scholar is a great resource for students to find scholarly papers about their research topics. However, as with any search engine, one of the biggest problems students encounter is running into too many irrelevant results. Our goal with our Using Google Scholar project was to provide tips and tricks for students to narrow down their search to get closer to exactly what they needed—and then to be able to use those articles for free through their school. So far we have our five most important and useful tips up and running with more to come.&lt;/p&gt;
 
@@ -219,96 +550,4 @@
 
 &lt;div&gt;
 &lt;p&gt;Banner photo credit: &lt;a style=&quot;background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px&quot; href=&quot;https://unsplash.com/@yer_a_wizard?utm_medium=referral&amp;amp;utm_campaign=photographer-credit&amp;amp;utm_content=creditBadge&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; title=&quot;Download free do whatever you want high-resolution photos from Fleur&quot;&gt;&lt;span style=&quot;display:inline-block;padding:2px 3px&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; style=&quot;height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;title&gt;unsplash-logo&lt;/title&gt;&lt;path d=&quot;M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&quot;display:inline-block;padding:2px 3px&quot;&gt;Fleur&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">Curious to know how WI+RE puts together our online learning modules? While it is true that the most important part of our work is the learner-led design process, technology tools play an important role as well. Here’s a quick list of WI+RE’s current toolbox, with links to some of the tutorials new WI+RE designers use to get to know these tools.</summary></entry><entry><title type="html">Navigating the Undergradate Research Portal - Video Series</title><link href="http://localhost:4000/research-tips/sandbox/undergraduate-research-portal/" rel="alternate" type="text/html" title="Navigating the Undergradate Research Portal - Video Series" /><published>2019-04-11T00:00:00-07:00</published><updated>2019-04-11T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/undergraduate-research-portal</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/undergraduate-research-portal/">&lt;p&gt;One of UCLA’s greatest online assests is the Undergraduate Research Portal. This portal is designed for both faculty and students. Researchers and professors can post opportunities for students to search, and students can create a profile listing their skills, interests, and experiences that will help faculty find them. Students can also find opportunities themselves, filtering by academic credit, volunteer, paid, on campus, off campus, and more options tailored to their availability and passions.&lt;/p&gt;
-
-&lt;p&gt;The following videos are designed to help faculty and students navigate the portals, respectively. Check them out to start posting opportunities, searching for potential research positions, and more!&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;!-- header with navigation tabs --&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;ul class=&quot;nav nav-tabs card-header-tabs&quot;&gt;
-      &lt;li class=&quot;nav-item&quot;&gt;
-        &lt;a class=&quot;nav-link active&quot; id=&quot;one-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#one&quot; role=&quot;tab&quot; aria-controls=&quot;one&quot; aria-selected=&quot;true&quot;&gt;For faculty&lt;/a&gt;
-      &lt;/li&gt;
-      &lt;li class=&quot;nav-item&quot;&gt;
-        &lt;a class=&quot;nav-link&quot; id=&quot;two-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#two&quot; role=&quot;tab&quot; aria-controls=&quot;two&quot; aria-selected=&quot;false&quot;&gt;For students&lt;/a&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-  &lt;!-- card body with tab content --&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;div class=&quot;tab-content&quot; id=&quot;myTabContent&quot;&gt;
-    &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;one&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;one-tab&quot;&gt;
-      &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/t8mgo_v9B1I&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;div class=&quot;tab-pane fade&quot; id=&quot;two&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;two-tab&quot;&gt;
-      &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/0gNNsNpt11g&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- --&gt;
-&lt;/div&gt;</content><author><name>taylor-harper</name></author><category term="Updates" /><summary type="html">One of UCLA’s greatest online assests is the Undergraduate Research Portal. This portal is designed for both faculty and students. Researchers and professors can post opportunities for students to search, and students can create a profile listing their skills, interests, and experiences that will help faculty find them. Students can also find opportunities themselves, filtering by academic credit, volunteer, paid, on campus, off campus, and more options tailored to their availability and passions.</summary></entry><entry><title type="html">Providing Research Help - Video Series</title><link href="http://localhost:4000/research-tips/sandbox/providing-research-help/" rel="alternate" type="text/html" title="Providing Research Help - Video Series" /><published>2019-04-06T00:00:00-07:00</published><updated>2019-04-06T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/providing-research-help</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/providing-research-help/">&lt;p&gt;Over the course of August 2018, the WI+RE team collaborated with librarians and student employees to produce a series of training videos for inquiry specialists in the UCLA Library. Inquiry specialists are student employees who help library patrons with a number of research-related tasks, including turning research questions into keywords, searching for articles in library databases, and finding books in the library.&lt;/p&gt;
-
-&lt;p&gt;The series consists of three videos that provide examples of inquiry specialists assisting library patrons with their research needs. The first video is an example of a negative interaction, the second video portrays a passable interaction, and the third is an example of a superb interaction. Click the tabs below to watch the videos!&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;!-- header with navigation tabs --&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;ul class=&quot;nav nav-tabs card-header-tabs&quot;&gt;
-      &lt;li class=&quot;nav-item&quot;&gt;
-        &lt;a class=&quot;nav-link active&quot; id=&quot;one-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#one&quot; role=&quot;tab&quot; aria-controls=&quot;one&quot; aria-selected=&quot;true&quot;&gt;Example 1&lt;/a&gt;
-      &lt;/li&gt;
-      &lt;li class=&quot;nav-item&quot;&gt;
-        &lt;a class=&quot;nav-link&quot; id=&quot;two-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#two&quot; role=&quot;tab&quot; aria-controls=&quot;two&quot; aria-selected=&quot;false&quot;&gt;Example 2&lt;/a&gt;
-      &lt;/li&gt;
-      &lt;li class=&quot;nav-item&quot;&gt;
-        &lt;a class=&quot;nav-link&quot; id=&quot;three-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#three&quot; role=&quot;tab&quot; aria-controls=&quot;three&quot; aria-selected=&quot;false&quot;&gt;Example 3&lt;/a&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-  &lt;!-- card body with tab content --&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;div class=&quot;tab-content&quot; id=&quot;myTabContent&quot;&gt;
-    &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;one&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;one-tab&quot;&gt;
-      &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/lCbah9EJ4vc&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;div class=&quot;tab-pane fade&quot; id=&quot;two&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;two-tab&quot;&gt;
-      &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/yXNTZYFRKcc&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;div class=&quot;tab-pane fade&quot; id=&quot;three&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;three-tab&quot;&gt;&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/mtaIGROpeuU&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- --&gt;
-
-&lt;p&gt;Members of the WI+RE team were involved in every step of the process. We collaborated on the script and storyboard, filmed the video, and edited the final product. Here are some photos of the team in action on the day of the shoot.&lt;/p&gt;
-
-&lt;div class=&quot;text-center&quot;&gt;
-    &lt;iframe src=&quot;https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWIREbruin%2Fposts%2F2109597252700591&amp;amp;width=500&quot; width=&quot;500&quot; height=&quot;713&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Producing this project was a blast, and we hope that future inquiry specialists will find these videos helpful!&lt;/p&gt;</content><author><name>kian-ravaei</name></author><category term="Updates" /><summary type="html">Over the course of August 2018, the WI+RE team collaborated with librarians and student employees to produce a series of training videos for inquiry specialists in the UCLA Library. Inquiry specialists are student employees who help library patrons with a number of research-related tasks, including turning research questions into keywords, searching for articles in library databases, and finding books in the library.</summary></entry><entry><title type="html">WI+RE goes to the 2019 Powell Society Dinner!</title><link href="http://localhost:4000/research-tips/sandbox/powell-society-dinner/" rel="alternate" type="text/html" title="WI+RE goes to the 2019 Powell Society Dinner!" /><published>2019-04-05T00:00:00-07:00</published><updated>2019-04-05T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/powell-society-dinner</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/powell-society-dinner/">&lt;p&gt;On March 27, 2019, members of the WI+RE creative team spent an evening engaging with members of the Powell Society at the Powell Society Dinner. This is an event where library patrons come together to learn about library resources that have been supported by their contributions. Check out this video recap of the event! (That’s us in the thumbnail!)&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Last week we celebrated members of the Powell Society, whose generous gifts have a transformative effect on Library users. To learn more about the Powell Society and other giving opportunities call (310) 206-8526, or make a gift at &lt;a href=&quot;https://t.co/QPXif1qHeG&quot;&gt;https://t.co/QPXif1qHeG&lt;/a&gt;. &lt;a href=&quot;https://t.co/tcLT6l4Ed7&quot;&gt;pic.twitter.com/tcLT6l4Ed7&lt;/a&gt;&lt;/p&gt;&amp;mdash; UCLA Library (@UCLA_Library) &lt;a href=&quot;https://twitter.com/UCLA_Library/status/1113874604160737280?ref_src=twsrc%5Etfw&quot;&gt;April 4, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;The WI+RE team was stationed at a table called “Students in the Lead: The Impact of UCLA Library Employment,” which featured student employees in the UCLA Library who have benefited from the skills they nurtured throughout the course of their employment. We had a great time talking to patrons about our experience creating instructional materials and the skill-sets we’ve developed as a result. Patrons were able to experience our resources firsthand by playing &lt;a href=&quot;https://uclalibrary.github.io/research-tips/primary-secondary/&quot;&gt;Wheel of Sources&lt;/a&gt;, our interactive video on primary and secondary sources.&lt;/p&gt;
-
-&lt;p&gt;You can take a look at our slideshow featuring student leaders in the UCLA Library below:&lt;/p&gt;
-
-&lt;div class=&quot;text-center&quot;&gt;
-    &lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQ77LuY5UqfRZ2YKtW2XULy-ode2DHOSmP8di8CNc7un4T3GObYzVXceg5EIAnQMXWesAzJmUXLZ4KS/embed?start=false&amp;amp;loop=true&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;480&quot; height=&quot;299&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Overall, the Powell Society Dinner was a wonderful opportunity for us to share our resources with supporters of the library (and to stuff our faces with delicious pie). We look forward to attending next year!&lt;/p&gt;</content><author><name>kian-ravaei</name></author><category term="Updates" /><summary type="html">On March 27, 2019, members of the WI+RE creative team spent an evening engaging with members of the Powell Society at the Powell Society Dinner. This is an event where library patrons come together to learn about library resources that have been supported by their contributions. Check out this video recap of the event! (That’s us in the thumbnail!)</summary></entry></feed>
+&lt;/div&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">Curious to know how WI+RE puts together our online learning modules? While it is true that the most important part of our work is the learner-led design process, technology tools play an important role as well. Here’s a quick list of WI+RE’s current toolbox, with links to some of the tutorials new WI+RE designers use to get to know these tools.</summary></entry></feed>
