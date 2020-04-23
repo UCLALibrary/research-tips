@@ -1,5 +1,5 @@
 ---
-title:  "Xinyi"
+title:  "Xinyi(Alex)"
 username: xinyi-yan
 displayname: Xinyi(Alex) Yan
 firstname: Xinyi(Alex)
