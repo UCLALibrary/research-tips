@@ -6,7 +6,7 @@ authors:
     - Kate Pham
     - Natalie Selzer
     - kian-ravaei
-    - Hannah Sutherland
+    - hannah-sutherland
     - doug-worsham
     - Zoe Borovsky
     - Scott Martin

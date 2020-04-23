@@ -1,8 +1,8 @@
 ---
-title:  "Getting Started with Engineering Research"
+title:  "Getting Started with Research UCLA"
 date:   2019-04-11
 authors: 
-    - Shushanik Stepanyan
+    - kian-ravaei
     - juan-diaz
 contributors: 
     - UCLA Powell Library
@@ -20,6 +20,8 @@ tags:
 - databases
 - primary sources
 ---
+
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2242500" width="1094" height="640" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <p>Walk through the process of researching, from brainstorming to distinguishing appropriate sources, specifically for technical and engineering topics!</p>
 

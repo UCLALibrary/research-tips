@@ -4,6 +4,7 @@ username: taylor-harper
 displayname: Taylor Harper
 firstname: Taylor
 lastname:  Harper
+position: Learner-Designer
 background: 
 start-date:   2016-10 
 end-date:
