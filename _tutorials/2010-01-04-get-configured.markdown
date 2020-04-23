@@ -14,6 +14,7 @@ authors:
 contributors:
     - renee-romero
     - Alicia Reiley
+    - chris-lopez
     - Diana King
     - Matthew Johnson
     - Simon Lee
