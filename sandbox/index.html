@@ -5,6 +5,9 @@ description: A place for the WI+RE creative team to experiment, prototype, and t
 permalink: /sandbox/
 background: '/assets/images/sand.jpg'
 ---
+<p>Go behind the scenes with WI+RE! Read our <b>Updates</b> for info on new projects or see <b>Prototypes</b> of existing projects. Take a look at <b>Assessments and Reports</b> on WI+RE, and check out a <b>Resource Playlist</b> of our favorite instructional materials.</p>
+<hr>
+
 {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 {% assign groups = site.posts | group_by: "category" | sort: "date" %}
 

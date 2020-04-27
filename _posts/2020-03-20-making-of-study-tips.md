@@ -11,7 +11,7 @@ contributors:
     
 description: >-
     A summary of the rationale behind my design for my Study Tips project.
-category: Assessments and Reports
+category: Prototypes
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 
