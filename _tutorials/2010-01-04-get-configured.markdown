@@ -76,10 +76,12 @@ tags:
     </div>
         <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
-          <h5 class="card-header">Proxy on Windows</h5>
+          <h5 class="card-header">VPN on Chromebook</h5>
           <div class="card-body text-center">
-                <img src="{{ '/assets/images/icons/np_video_1709497_808080.png' | relative_url }}" alt="Placeholder image - video coming soon!" class="img-fluid my-0 py-0" height="75%" width="75%" />
-              <blockquote>Coming soon!</blockquote>
+              <div class="embed-responsive embed-responsive-16by9">
+              <iframe src="https://www.youtube.com/embed/I9Kwrf_xyr0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <blockquote>"I chose VPN because it is really simple to use!" - Nadia, Public Affairs</blockquote>
             </div>
         </div>
     </div>
