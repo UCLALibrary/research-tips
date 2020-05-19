@@ -1,13 +1,14 @@
 ---
-title:  "Remote Access - Get configured with VPN or Proxy"
+title:  "Remote Access - Get configured with VPN or Proxy on Mac, Windows, and Chromebook computers"
 date:   2010-01-04
 authors: 
+    - doug-worsham
+    - Nadia Brooks
     - Michael Lima-Sabatini
     - Kate Pham
     - Natalie Selzer
     - kian-ravaei
     - hannah-sutherland
-    - doug-worsham
     - Zoe Borovsky
     - Scott Martin
     - Sylvia Page
