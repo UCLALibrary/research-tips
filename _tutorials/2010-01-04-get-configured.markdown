@@ -71,7 +71,7 @@ tags:
                 <iframe src="https://www.youtube.com/embed/h1vVy_WuxYk" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <blockquote>"I chose Proxy because I prefer logging in through a web browser without having to download any software on my computer." - Kate, Ethnic Studies</blockquote>
-            <a href="https://www.it.ucla.edu/it-support-center/services/proxy-server" class="btn btn-primary">Proxy Server</a>
+            <a href="https://www.it.ucla.edu/it-support-center/services/proxy-server" class="btn btn-primary">Set up a Proxy Server</a>
             </div>
         </div>
     </div>
@@ -83,6 +83,7 @@ tags:
               <iframe src="https://www.youtube.com/embed/I9Kwrf_xyr0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <blockquote>"I chose VPN because it is really simple to use!" - Nadia, Public Affairs</blockquote>
+              <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
             </div>
         </div>
     </div>
