@@ -4,12 +4,13 @@ username: kian-ravaei
 displayname: Kian Ravaei
 firstname: Kian
 lastname: Ravaei
+position: Learner-Designer
 background: 
 start-date:   YYYY-MM-DD 
 end-date:
 category: Creative Team
 bio: >- 
-    Kian is an undergraduate majoring in Music Composition and Philosophy. He strives to help learners achieve their learning goals through empathy, honesty, and purposeful design.
+    Kian is an undergraduate Music Composition major. He strives to help learners achieve their learning goals through empathy, honesty, and purposeful design.
 profile: /assets/images/team/kian_headshot.jpg
 features:
     - feature-title: "Wheel of Sources"

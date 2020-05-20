@@ -25,6 +25,17 @@ twentytwenty:
   place: The Journal of New Librarianship, 5(1)
   url: https://www.newlibs.org/article/11757-the-wi-re-way-a-manifesto-and-a-process-for-learner-led-design
   fa-icon: fas fa-file-alt
+- title: "Writing a Literature Review—May 2020 Site of the Month Interview"
+  authors: 
+    - kian-ravaei
+    - taylor-harper
+    - doug-worsham
+  type: interview
+  date: 2020-05-08
+  year: 2020
+  place: ACRL Instruction Section Website
+  url: https://acrl.ala.org/IS/instruction-tools-resources-2/pedagogy/primo-peer-reviewed-instruction-materials-online/primo-site-of-the-month/may-2020-site-of-the-month/
+  fa-icon: fas fa-comments
 
 twentynineteen:
 - title: "Getting started with student-centered design"

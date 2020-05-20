@@ -17,6 +17,8 @@ contributors:
     - Annelie Rugg
     - doug-worsham
 description: How to search for and access scholarly articles
+awards:
+    - merlot-5-star-editor-review
 thumbnail: /assets/tutorials/thumbnails/FindingArticlesThumbnail.jpg
 category: Finding and Citing Sources
 ---

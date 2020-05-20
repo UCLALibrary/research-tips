@@ -14,7 +14,7 @@ contributors:
     
 description: >-
     A summary of how we made our Using Google Scholar tutorial, complete with prototypes.
-category: Assessments and Reports
+category: Prototypes
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 

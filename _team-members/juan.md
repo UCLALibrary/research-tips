@@ -4,6 +4,7 @@ username: juan-diaz
 displayname: Juan Díaz
 firstname: Juan
 lastname:  Díaz
+position: Learner-Designer
 background: 
 start-date:   2018-04
 end-date:
