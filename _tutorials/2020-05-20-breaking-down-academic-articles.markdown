@@ -4,13 +4,13 @@ date:   2020-05-20
 authors: 
     - chris-lopez
 contributors:
-    -kian-ravaei
-    -xinyi-yan
-    -hannah-sutherland
-    -salma-abumeeiz
-    -renee-romero
-    -doug-worsham
-    -michelle-brasseur
+    - kian-ravaei
+    - xinyi-yan
+    - hannah-sutherland
+    - alma-abumeeiz
+    - renee-romero
+    - doug-worsham
+    - michelle-brasseur
 description: Breaking down Academic Articles is a webcomic tutorial that walks you through the most important aspects of an academic article, to help you prepare for class discussion on the article(s) or take away essential information from the article to support future research. 
 thumbnail:
 handout:
