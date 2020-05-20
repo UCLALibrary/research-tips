@@ -7,7 +7,7 @@ contributors:
     - kian-ravaei
     - xinyi-yan
     - hannah-sutherland
-    - alma-abumeeiz
+    - salma-abumeeiz
     - renee-romero
     - doug-worsham
 description: Breaking down Academic Articles is a webcomic tutorial that walks you through the most important aspects of an academic article, to help you prepare for class discussion on the article(s) or take away essential information from the article to support future research. 
