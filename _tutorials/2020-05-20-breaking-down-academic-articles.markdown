@@ -10,11 +10,10 @@ contributors:
     - alma-abumeeiz
     - renee-romero
     - doug-worsham
-    - michelle-brasseur
 description: Breaking down Academic Articles is a webcomic tutorial that walks you through the most important aspects of an academic article, to help you prepare for class discussion on the article(s) or take away essential information from the article to support future research. 
-thumbnail:
+thumbnail: /assets/tutorials/thumbnails/BreakingDownAcademicArticles.png
 handout:
-handout-thumbail: /assets/tutorials/thumbnails/BreakingDownAcademicArticles.png
+handout-thumbail: 
 category: Getting Started
 tags:
 - academic articles
