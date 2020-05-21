@@ -1,4 +1,9 @@
 ---
+
+
+
+
+---
 title:  "Beginning Your Research Journey"
 date:   2019-12-01
 authors:
@@ -12,8 +17,30 @@ contributors:
     - renee-romero
     - doug-worsham
 thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
+awards:
 description: "Anyone can get started with research—all it takes is some curiosity and persistence! This quick workshop will help you get started."
 category: Entering Research Workshops
+sort-weight: ## - larger numbers appear later within the category, higher numbers appear earlier.
+learning-outcomes:
+    - a list
+    - of learning outcome
+    - statements
+    - starting with verbs
+core-competencies:
+    - Define the goals, scope, and plan.
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
+    - Evaluate and synthesize information and data.
+    - Use information and data ethically. 
+    - Share the work and engage with audiences. 
+    - Reflect on and refine the research process.
+accessibility-info:
+    - a series
+    - of statements
+    - about accessibility (need initial controlled vocab - e.g., WAVE tested, )
+tags:
+    - research
+
 ---
 <!--H5P-->
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2523706" width="100%" height="505" frameborder="0" allowfullscreen="allowfullscreen" class="mb-3"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
