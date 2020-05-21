@@ -17,9 +17,9 @@ description: "Anyone can get started with research—all it takes is some curios
 category: Entering Research Workshops
 sort-weight: ## - larger numbers appear later within the category, higher numbers appear earlier.
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
+    - Describe the nature of research
+    - List reasons to do research
+    - Articulate your goals for doing research
     - starting with verbs
 core-competencies:
     - Define the goals, scope, and plan.
