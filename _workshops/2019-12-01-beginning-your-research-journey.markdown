@@ -1,9 +1,4 @@
 ---
-
-
-
-
----
 title:  "Beginning Your Research Journey"
 date:   2019-12-01
 authors:
