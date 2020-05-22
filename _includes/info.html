@@ -56,6 +56,22 @@
               <h5 class="card-title">Link</h5>
                 <p class="card-text"><a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a></p>
         -->
+      {% if page.accessibility-info %}
+        <h5 class="card-title">Accessibility Information</h5>
+        <ul>
+            {% for info in page.accessibility-info %}
+                <li>
+                    {% if info.link-text and info.url %}
+                        {{ info.text }} (<a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.link-text }}</a>)
+                    {% elsif info.url and info.text %}
+                        <a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.text }}</a>
+                    {% else %}
+                        {{ info.text }}
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+      {% endif %}
     </div>
 </div>
       
