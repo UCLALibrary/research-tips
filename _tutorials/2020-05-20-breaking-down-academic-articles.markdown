@@ -1,5 +1,5 @@
 ---
-title:  "Breakingdown Academic Articles"
+title:  "Breaking down Academic Articles"
 date:   2020-05-20
 authors: 
     - chris-lopez
