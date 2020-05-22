@@ -15,6 +15,10 @@ contributors:
 description: Want to improve your academic writing? Complete this interactive activity to take your writing to the next level.
 thumbnail: /assets/tutorials/thumbnails/WritingForYourDisciplineThumbnail.jpg
 category: Getting Started
+learning-outcomes:
+- Identify key stylistic elements of paper writing in their specific discipline.
+- Read papers in their discpline for style.
+- Apply these stylistic elements in their own writing.
 tags:
 - Reading for Writing
 - Style Guide

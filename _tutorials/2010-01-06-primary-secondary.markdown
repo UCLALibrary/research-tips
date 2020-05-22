@@ -29,6 +29,10 @@ handout-thumbail: /assets/handouts/thumbnails/PSS_handout_thumbnail
 thumbnail: /assets/tutorials/thumbnails/WheelOfSourcesThumbnail.png
 category: Finding and Citing Sources
 featured: yes
+learning-outcomes:
+    - Identify a source as primary or secondary given a specific research topic or discipline.
+    - Identify a source that one research topic would treat as primary, and another research topic would treat as secondary.
+    - Generate ideas for types of primary sources that may be relevant to their research area.
 tags:
 - primary
 - secondary

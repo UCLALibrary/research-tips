@@ -17,7 +17,13 @@ thumbnail: /assets/tutorials/thumbnails/GoogleScholarThumbnail.png
 handout:
 handout-thumbail: 
 category: Finding and Citing Sources
-tags:
+learning-outcomes:
+    - Adopt new strategies for improving a Google Scholar search
+    - Use Google Scholar's Advanced Search
+    - Use quotes in their search
+    - Use AND, OR, NOT, and Parentheses in their search.
+    - Use Cited By and Related Articles to find relevant articles
+    - Access relevant articles
 - searching
 - finding articles
 - finding sources
