@@ -73,7 +73,14 @@ core-competencies:
     - Reflect on and refine the research process.
 #
 # ACCESSIBILITY INFO
-# Description to be included...
+# Example statements for this section: currently brainstorming. questions: can we write html in a list like this?
+# * Page Checked by WAVE (Web Accessibility Evaluation Tool) - Zero errors 9/22/2020
+# * SiteImprove Score: 
+# * Keyboard Navigation Available (see https://webaim.org/techniques/keyboard/ for more information)
+# * Descriptive Transcript Available - linked
+# * Accessible PDF Available - linked
+# * Closed Captions Available
+# *
 #
 accessibility-info:
     - a series
