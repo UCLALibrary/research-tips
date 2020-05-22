@@ -22,7 +22,7 @@ thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
 category: Entering Research Workshops
 sort-weight: 1
 learning-outcomes:
-    - Identify possible areas of interest for a research project
+    - Identify your areas of interest for a research project
     - Find campus resources that match your needs and interests
     - Create a concrete plan with the first steps for getting involved in research
 accessibility-info:

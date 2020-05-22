@@ -56,6 +56,17 @@
               <h5 class="card-title">Link</h5>
                 <p class="card-text"><a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a></p>
         -->
+      {% if page.learning-outcomes %}
+        <h5 class="card-title">Learning Outcomes</h5>
+        <ul>
+            {% for outcome in page.learning-outcomes %}
+                <li>
+                    {{ outcome }}
+                </li>
+            {% endfor %}
+        </ul>
+      {% endif %}
+
       {% if page.accessibility-info %}
         <h5 class="card-title">Accessibility Information</h5>
         <ul>
@@ -72,6 +83,18 @@
             {% endfor %}
         </ul>
       {% endif %}
+    <!-- todo:: build out pages on core comps and acrl-frames
+      {% if page.core-competencies %}
+      <h5 class="card-title">The <a href="https://escholarship.org/uc/item/2t03q5bw" target="_blank">Core Competencies for Research and Information Literacy at UCLA</a></h5>
+        <ul>
+            {% for comp in page.core-competencies %}
+                <li>
+                    {{ comp }}
+                </li>
+            {% endfor %}
+        </ul>
+      {% endif %}
+        -->
     </div>
 </div>
       
