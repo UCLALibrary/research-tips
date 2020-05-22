@@ -65,19 +65,23 @@ learning-outcomes:
     - starting with verbs
 #
 # ACCESSIBILITY INFO
-# Example statements for this section: currently brainstorming. questions: can we write html in a list like this?
-# * Page Checked by WAVE (Web Accessibility Evaluation Tool) - Zero errors 9/22/2020
-# * SiteImprove Score: 
-# * Keyboard Navigation Available (see https://webaim.org/techniques/keyboard/ for more information)
-# * Descriptive Transcript Available - linked
-# * Accessible PDF Available - linked
-# * Closed Captions Available
-# *
+# NOTE special formatting of the info in this section!!
+# Examples:
+# - { text: 'WAVE - 0 errors May, 22, 2020', link-text: 'About WAVE - Web Accessibility Evaluation Tool', url: 'https://wave.webaim.org/' }
+# - { text: 'SiteImprove Score: ' }
+# - { text: 'Keyboard Navigation Supported', link-text: 'About Keyboard Accessibility', url: 'https://webaim.org/techniques/keyboard/' }
+# - { text: 'Descriptive Transcript - In development.'}
+# - { text: 'Descriptive Transcript Available', link-text: 'Descriptive Transcript (.txt)', url: 'https://uclalibrary.github.io/research-tips/full-url-here.txt' }
+# - { text: 'Accessible PDF Available', link-text: 'Handout Title (.pdf)', url: 'https://uclalibrary.github.io/research-tips/full-url-here.pdf' }
+# - { text: 'Closed Captioning Available - Expand media full screen to access captions if they do not show up by default.' }
+# OPTIONS
+# Including text: '' is required
+# Optionally include a url and link-text
 #
 accessibility-info:
-    - a series
-    - of statements
-    - about accessibility (need initial controlled vocab - e.g., WAVE tested, )
+    - { text: 'Some text you want to appear', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+    - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+    - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
