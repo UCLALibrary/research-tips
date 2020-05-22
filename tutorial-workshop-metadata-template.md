@@ -64,19 +64,6 @@ learning-outcomes:
     - statements
     - starting with verbs
 #
-# CORE COMPETENCIES
-# List all core competencies for the resource.
-# See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
-#
-core-competencies:
-    - Define the goals, scope, and plan.
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
-    - Evaluate and synthesize information and data.
-    - Use information and data ethically. 
-    - Share the work and engage with audiences. 
-    - Reflect on and refine the research process.
-#
 # ACCESSIBILITY INFO
 # Example statements for this section: currently brainstorming. questions: can we write html in a list like this?
 # * Page Checked by WAVE (Web Accessibility Evaluation Tool) - Zero errors 9/22/2020
@@ -91,6 +78,29 @@ accessibility-info:
     - a series
     - of statements
     - about accessibility (need initial controlled vocab - e.g., WAVE tested, )
+#
+# CORE COMPETENCIES
+# List all core competencies for the resource.
+# See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
+#
+core-competencies:
+    - Define the goals, scope, and plan.
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
+    - Evaluate and synthesize information and data.
+    - Use information and data ethically. 
+    - Share the work and engage with audiences. 
+    - Reflect on and refine the research process.
+# ACRL Framework for information literacy
+# List related ACRL frames for the resource
+# See http://www.ala.org/acrl/standards/ilframework for more information
+acrl-frames:
+    - Authority Is Constructed and Contextual
+    - Information Creation as a Process
+    - Information Has Value
+    - Research as Inquiry
+    - Scholarship as Conversation
+    - Searching as Strategic Exploration
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
