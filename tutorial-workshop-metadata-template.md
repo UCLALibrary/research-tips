@@ -29,6 +29,10 @@ authors:
 contributors:
     - firstname-lastname
     - Firstname Lastname
+# References and Attribution
+# include a list of referenced work, if necessary
+references:
+    - name, organization, or citation
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
