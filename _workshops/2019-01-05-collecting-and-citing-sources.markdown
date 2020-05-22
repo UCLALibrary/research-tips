@@ -13,6 +13,14 @@ contributors:
 thumbnail: /assets/workshops/thumbnails/Clever-Collector.png
 description: "Keeping track of all your sources can be frustrating and overwhelming—but with a little bit of organization, managing sources can be a breeze! In this activity, you will learn how to auto-generate your bibliography in virtually any citation style, keep track of your sources, and more! This workshop will show you how Zotero can help save and organize your research sources."
 category: Cornerstone Research Workshops
+#
+# LEARNING OUTCOMES
+# List all the learning outcomes for the resource.
+#
+learning-outcomes:
+    - Install Zotero and create a Zotero account
+    - Save and organize your sources
+    - Quickly generate a bibliography in your preferred citation style
 tags:
     - Zotero
     - citation management

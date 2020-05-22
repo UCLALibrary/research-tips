@@ -15,6 +15,14 @@ awards:
     - merlot-5-star-editor-review
 thumbnail: /assets/workshops/thumbnails/Savvy-Searcher.png
 category: Cornerstone Research Workshops
+#
+# LEARNING OUTCOMES
+# List all the learning outcomes for the resource.
+#
+learning-outcomes:
+    - Develop specific research questions from a topic
+    - Turn questions into keywords
+    - Construct a preliminary search for your specific research question
 tags:
 - research questions
 - keywords

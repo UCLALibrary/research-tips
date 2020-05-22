@@ -9,6 +9,14 @@ contributors:
     - "UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences"
     - "UCLA Undergraduate Research Center - Sciences"
 description: "Looking to get involved with research at UCLA? In this workshop, you'll meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and this workshop connects you with resources and opportunities to help you get started today!"
+#
+# LEARNING OUTCOMES
+# List all the learning outcomes for the resource.
+#
+learning-outcomes:
+    - Identify possible areas of interest for a research project
+    - Find campus resources that match your needs and interests
+    - Create a concrete plan with the first steps for getting involved in research
 thumbnail: /assets/workshops/thumbnails/Ready_Researcher.png
 category: Cornerstone Research Workshops
 tags:

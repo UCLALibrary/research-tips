@@ -24,6 +24,14 @@ merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=773310623
 thumbnail: /assets/workshops/thumbnails/Certified-Citer.png
 description: "Avoiding plagiarism can be more tricky than it seems at first glance. Complete this activity to learn strategies for avoiding plagiarism."
 category: Cornerstone Research Workshops
+#
+# LEARNING OUTCOMES
+# List all the learning outcomes for the resource.
+#
+learning-outcomes:
+    - Identify strategies for avoiding plagiarism
+    - Accurately cite sources in a consistent style
+    - Summarize, paraphrase, and directly quote a text
 tags:
     - Plagiarism
     - Academic Honesty

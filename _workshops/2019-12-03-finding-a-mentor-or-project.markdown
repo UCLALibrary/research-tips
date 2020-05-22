@@ -13,6 +13,14 @@ contributors:
     - doug-worsham
 thumbnail: /assets/workshops/thumbnails/ResearchMentorThumbnail.png
 description: "Once you've decided to do research, the next step is to make a list of research opportunities that interest you!"
+#
+# LEARNING OUTCOMES
+# List all the learning outcomes for the resource.
+#
+learning-outcomes:
+    - Identify your research interests
+    - Identify potential mentors and research projects
+    - Make a list of potential mentors and research projects
 category: Entering Research Workshops
 ---
 <!--H5P-->
