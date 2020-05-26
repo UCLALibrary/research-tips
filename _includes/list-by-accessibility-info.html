@@ -1,0 +1,40 @@
+{% for collection in site.collections %}
+{% if collection.label == "tutorials" or collection.label == "workshops" or collection.label == "handouts" %}
+  <h2>{{ collection.label | capitalize }}</h2>
+    <table class="table table-responsive-sm">
+        <thead>
+            <th scope="col">Title</th>
+            <th scope="col">Accessibility Information</th>
+        </thead>
+        <tbody>
+            {% assign sorted_items = site[collection.label] | sort: "title" %}
+            {% for item in sorted_items %}
+                    <tr>
+                        <td>
+                            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                        </td>
+                        <td>
+                            {% if item.accessibility-info %}
+                                <ul>
+                                    {% for info in item.accessibility-info %}
+                                        <li>
+                                            {% if info.link-text and info.url %}
+                                                {{ info.text }} (<a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.link-text }}</a>)
+                                            {% elsif info.url and info.text %}
+                                                <a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.text }}</a>
+                                            {% else %}
+                                                {{ info.text }}
+                                            {% endif %}
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            {% else %}
+                                <small><em>Coming soon!</em></small>
+                            {% endif %}
+                        </td>
+                    </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endif %}
+{% endfor %}

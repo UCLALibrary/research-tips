@@ -24,8 +24,8 @@ In other words, while we discuss in [our manifesto](https://uclalibrary.github.i
 it isn't always clear, when looking at a particular resource, what this means. Ideally, every project would make transparent:
 
 * what we have done already,
-* what we aspire to do next,
-* and what we need to learn and improve next!
+* what we aspire to do,
+* and what we need to learn to continue improving!
 
 So, to that end, we're adding an *Accessibility Information* metadata structure to the WI+RE site this week, and launching a project to document where we are now and where we hope to be with accessibility for each resource on the site.
 

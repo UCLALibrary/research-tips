@@ -1,0 +1,38 @@
+{% for collection in site.collections %}
+{% if collection.label == "tutorials" or collection.label == "workshops" %}
+  <h2>{{ collection.label | capitalize }}</h2>
+    <table class="table table-responsive-sm">
+        <thead>
+            <th scope="col">Title</th>
+            <th scope="col">Learning Outcomes</th>
+        </thead>
+        <tbody>
+            {% assign sorted_items = site[collection.label] | sort: "title" %}
+            {% for item in sorted_items %}
+                    <tr>
+                        <td>
+                            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                            {% for handout in site.handouts %}
+                                {% if handout.title == item.title %}
+                                    <br>
+                                    <small><em>See also: <a href="{{ handout.url | relative_url }}">{{ handout.title }} (PDF Handout)</a></em></small>
+                                {% endif %}
+                            {% endfor %}
+                        </td>
+                        <td>
+                            {% if item.learning-outcomes %}
+                                <ul>
+                                    {% for outcome in item.learning-outcomes %}
+                                        <li>{{ outcome }}</li>
+                                    {% endfor %}
+                                </ul>
+                            {% else %}
+                                <small><em>Coming soon!</em></small>
+                            {% endif %}
+                        </td>
+                    </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endif %}
+{% endfor %}
