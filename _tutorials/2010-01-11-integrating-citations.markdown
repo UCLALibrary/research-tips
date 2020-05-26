@@ -17,6 +17,10 @@ thumbnail: /assets/tutorials/thumbnails/IntegratingCitations.jpg
 handout: /assets/handouts/citation-integration-final.pdf
 handout-thumbail: /assets/handouts/thumbnails/citation-integration-tn.png
 category: Writing with Sources
+learning-outcomes:
+    - Summarize citation structures for sources in research
+    - Recognize the purpose of each listed citation strategy
+    - Locate appropriate spaces for citation structures and strategies in research
 materialize: yes
 ---
 <p class="intro" font-size="1">Looking to vary the ways in which you cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!</p>
