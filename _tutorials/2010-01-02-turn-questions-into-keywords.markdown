@@ -15,6 +15,11 @@ thumbnail: /assets/tutorials/thumbnails/QuestionsKeywordsThumbnail.jpg
 handout: /assets/handouts/turn-questions-into-keywords-d2-form.pdf
 handout-thumbail: /assets/handouts/thumbnails/turn-questions-into-keywords-tn.png
 category: Finding and Citing Sources
+learning-outcomes:
+    - Identify core concepts in research questions
+    - List core concepts as keywords
+    - Construct alternative ways to express keywords
+    - Organize keywords into advance search fields
 tags:
 - keywords
 - search strategies
