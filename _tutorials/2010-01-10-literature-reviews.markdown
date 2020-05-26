@@ -18,6 +18,11 @@ contributors:
 description: Demystify the ever mysterious literature review! 
 thumbnail: /assets/tutorials/thumbnails/CreatingLiteratureReviewsThumbnail.png
 category: Literature Reviews
+learning-outcomes:
+    - Summarize literature reviews and their function in research
+    - Organize essential resources and data for literature review
+    - Choose literature review type according to research needs
+    - Locate information gaps for literature review to address
 tags:
 - writing a literature review
 - writing
