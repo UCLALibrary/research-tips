@@ -13,6 +13,11 @@ thumbnail: /assets/tutorials/thumbnails/ReviewArticlesThumbnail.jpg
 handout: /assets/handouts/introduction-to-articlesplus-fixed.pdf
 handout-thumbail: /assets/handouts/thumbnails/introduction-to-articlesplus-tn.png
 category: Literature Reviews
+learning-outcomes:
+    - Summarize a review article and its purpose
+    - Locate review articles in various databases
+    - Identify signifcant filter terms for searching review articles
+    - Distinguish a review article from a primary research article
 tags:
 - review articles
 - search
