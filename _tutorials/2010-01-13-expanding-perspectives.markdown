@@ -24,6 +24,10 @@ merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=1379137
 description: Move past your initial search to expand your perspectives on your topic. 
 thumbnail: /assets/tutorials/thumbnails/ExpandingPerspectivesThumbnail.png
 category: Finding and Citing Sources
+learning-outcomes:
+    - Identify sources outside of starting perspective
+    - Develop refined research questions
+    - Prioritize what resources to include in assignment
 tags:
 - expanding perspectives
 - search bias
