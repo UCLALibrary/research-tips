@@ -68,12 +68,9 @@ learning-outcomes:
 # NOTE special formatting of the info in this section!!
 # Examples:
 # - { text: 'WAVE - 0 errors May, 22, 2020', link-text: 'About WAVE - Web Accessibility Evaluation Tool', url: 'https://wave.webaim.org/' }
-# - { text: 'SiteImprove Score: ' }
-# - { text: 'Keyboard Navigation Supported', link-text: 'About Keyboard Accessibility', url: 'https://webaim.org/techniques/keyboard/' }
-# - { text: 'Descriptive Transcript - In development.'}
-# - { text: 'Descriptive Transcript Available', link-text: 'Descriptive Transcript (.txt)', url: 'https://uclalibrary.github.io/research-tips/full-url-here.txt' }
-# - { text: 'Accessible PDF Available', link-text: 'Handout Title (.pdf)', url: 'https://uclalibrary.github.io/research-tips/full-url-here.pdf' }
-# - { text: 'Closed Captioning Available - Expand media full screen to access captions if they do not show up by default.' }
+# - { text: 'Closed Captioning Available' }
+# - { text: 'H5P Content Type: ____. Accessibility status: OK on May 22, 2020' url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+#
 # OPTIONS
 # Including text: '' is required
 # Optionally include a url and link-text
@@ -81,7 +78,7 @@ learning-outcomes:
 accessibility-info:
     - { text: 'Some text you want to appear', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
     - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+    - { text: 'Some text you want to appear' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
