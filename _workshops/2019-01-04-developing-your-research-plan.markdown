@@ -16,6 +16,8 @@ learning-outcomes:
     - Articulate your research topic or question
     - Define your long-term research project goals
     - Break down your long-term goals into manageable tasks
+acrl-frames:
+    - Information Creation as a Process
 tags:
 - planning a research project
 - UCLA Undergraduate Research Centers
