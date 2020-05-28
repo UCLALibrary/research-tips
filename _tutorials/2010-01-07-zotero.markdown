@@ -36,6 +36,10 @@ description: Learn how to use Zotero, a free and easy citation tool.
 thumbnail: /assets/tutorials/thumbnails/ZoteroThumbnail.png
 handout: 
 category: Finding and Citing Sources
+learning-outcomes:
+   - Create Zotero Account
+   - Organize your Library
+   - Generate a bibliography in a chosen format
 tags:
 - zotero
 - citation management software 
