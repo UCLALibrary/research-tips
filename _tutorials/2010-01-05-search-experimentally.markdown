@@ -5,6 +5,10 @@ description: Rather than trying to construct one perfect search, plan on trying 
 thumbnail: /assets/tutorials/thumbnails/SearchExperimentallyThumbnail.jpg
 handout: 
 category: Finding and Citing Sources
+learning-outcomes:
+   - Use a variety of keywords to search for sources
+   - Broaden and narrow search results (using tools such as Boolean Operators, etc.) 
+   - Refine your search using database filtering tools 
 tags:
 - search
 # image: featuredimagehere
