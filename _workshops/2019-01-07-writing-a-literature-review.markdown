@@ -31,6 +31,9 @@ learning-outcomes:
     - Recognize key components of a literature review
     - Identify a knowledge gap in previous research and express how you can address the gap
     - Organize sources effectively and logically
+acrl-frames:
+    - Research as Inquiry
+    - Scholarship as Conversation
 tags:
     - Literature review
     - Writing
