@@ -67,9 +67,10 @@ learning-outcomes:
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
 # Examples:
-# - { text: 'WAVE - 0 errors May, 22, 2020', link-text: 'About WAVE - Web Accessibility Evaluation Tool', url: 'https://wave.webaim.org/' }
+# - { text: 'WAVE - 0 errors', date: 'YYYY-MM-DD', link-text: 'About WAVE - Web Accessibility Evaluation Tool', url: 'https://wave.webaim.org/' }
 # - { text: 'Closed Captioning Available' }
-# - { text: 'H5P Content Type: ____. Accessibility status: OK on May 22, 2020' url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+# - { text: 'H5P Content Type: ____. Accessibility status: OK', date: 'YYYY-MM-DD', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+# - { text: 'Accessible PDF Available', link-text: 'Handout Title', url: 'full-url' }
 #
 # OPTIONS
 # Including text: '' is required
