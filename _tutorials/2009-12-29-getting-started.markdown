@@ -27,6 +27,10 @@ awards:
 description: Getting Started with research at UCLA! 
 thumbnail: /assets/tutorials/thumbnails/GettingStartedWithResearchThumbnail.jpg
 category: Getting Started
+learning-outcomes:
+    - Brainstorm research projects
+    - Articulate the benefits of research 
+    - Identify undergraduate research opportunities and resources at UCLA 
 tags:
 - Getting started with research
 - getting started
