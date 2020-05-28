@@ -23,9 +23,12 @@ learning-outcomes:
     - Develop specific research questions from a topic
     - Turn questions into keywords
     - Construct a preliminary search for your specific research question
+acrl-frames:
+    - Research as Inquiry
+    - Searching as Strategic Exploration
 tags:
-- research questions
-- keywords
-- search strategies
+    - research questions
+    - keywords
+    - search strategies
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2242526" width="926" height="546" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
