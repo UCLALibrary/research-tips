@@ -1,38 +1,23 @@
-{% for collection in site.collections %}
-{% if collection.label == "tutorials" or collection.label == "workshops" %}
-  <h2>{{ collection.label | capitalize }}</h2>
-    <table class="table table-responsive-sm">
-        <thead>
-            <th scope="col">Title</th>
-            <th scope="col">Learning Outcomes</th>
-        </thead>
-        <tbody>
-            {% assign sorted_items = site[collection.label] | sort: "title" %}
-            {% for item in sorted_items %}
-                    <tr>
-                        <td>
-                            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                            {% for handout in site.handouts %}
-                                {% if handout.title == item.title %}
-                                    <br>
-                                    <small><em>See also: <a href="{{ handout.url | relative_url }}">{{ handout.title }} (PDF Handout)</a></em></small>
-                                {% endif %}
+<!--
+Authority is Constructed and Contextual, Information Creation as a Process, Information Has Value, Research as Inquiry, Scholarship as Conversation, Searching as Strategic Exploration
+-->
+{% assign the-frames = "Authority is Constructed and Contextual, Information Creation as a Process, Information Has Value, Research as Inquiry, Scholarship as Conversation, Searching as Strategic Exploration" | split: ", " %}
+
+{% assign sorted-documents = site.documents | sort: "title" %}
+
+{% for frame in the-frames %}
+    <h2>{{frame}}</h2>
+    <ul>
+    {% for item in sorted-documents %}
+        {% if item.acrl-frames contains frame %}
+            <li><a href="{{ item.url | relative_url }}" >{{ item.title }}</a>
+                        {% if item.awards %}
+                            {% for award in item.awards %}
+                                {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
                             {% endfor %}
-                        </td>
-                        <td>
-                            {% if item.learning-outcomes %}
-                                <ul>
-                                    {% for outcome in item.learning-outcomes %}
-                                        <li>{{ outcome }}</li>
-                                    {% endfor %}
-                                </ul>
-                            {% else %}
-                                <small><em>Coming soon!</em></small>
-                            {% endif %}
-                        </td>
-                    </tr>
-            {% endfor %}
-        </tbody>
-    </table>
-{% endif %}
+                        {% endif %}
+            </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
 {% endfor %}
