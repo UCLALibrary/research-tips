@@ -10,6 +10,9 @@ description: Find the guide that's right for you! UCLA Library staff have put to
 thumbnail: /assets/tutorials/thumbnails/FindTheRightResearchGuide.png
 handout: 
 category: Finding and Citing Sources
+learning-outcomes: 
+   - Find library research guides 
+   - Choose the best databases for your topic
 tags:
 - research guides
 # image: featuredimagehere
