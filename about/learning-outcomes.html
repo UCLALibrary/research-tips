@@ -5,7 +5,8 @@ description: A list of learning outcomes for all of WI+RE's tutorials, workshops
 permalink: /about/learning-outcomes/
 ---
 <h2>WI+RE's Open Educational Resources</h2>
-<p>Browse WI+RE's Open Educational Resources by their learning outcomes, connections to the ACRL Framework for Information Literacy, relationship to UCLA's Core Competencies for Research and Information Literacy, or by accessibility information.</p>
+<p>Browse WI+RE's Open Educational Resources by their learning outcomes, connections to the ACRL Framework for Information Literacy, or by relationship to UCLA's Core Competencies for Research and Information Literacy.</p>
+<p>For an accessibility overview of WI+RE's resources, see the <a href="{{ '/about/accessibility/' | absolute_url }}">WI+RE Accessibility Report</a>.</p>
 
 <div class="card">
   <!-- header with navigation tabs -->
@@ -15,10 +16,10 @@ permalink: /about/learning-outcomes/
         <a class="nav-link active" id="lo-tab" data-toggle="tab" href="#learning-outcomes" role="tab" aria-controls="learning-outcomes" aria-selected="true">Learning Outcomes</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" id="framework-tab" data-toggle="tab" href="#acrl-framework" role="tab" aria-controls="acrl-framework" aria-selected="false">ACRL Framework</a>
-      </li>
-    <li class="nav-item">
         <a class="nav-link" id="comps-tab" data-toggle="tab" href="#core-comps" role="tab" aria-controls="ucla-core-competencies" aria-selected="false">UCLA Core Competencies</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="framework-tab" data-toggle="tab" href="#acrl-framework" role="tab" aria-controls="acrl-framework" aria-selected="false">ACRL Framework</a>
       </li>
     </ul>
   </div>
@@ -26,19 +27,20 @@ permalink: /about/learning-outcomes/
   <div class="card-body">
     <div class="tab-content" id="myTabContent">
     <div class="tab-pane fade show active" id="learning-outcomes" role="tabpanel" aria-labelledby="learning-outcomes">
-      <p class="card-text">Learning Outcomes.</p>
+      <p class="card-text">Learning outcomes define what we hope learners will be able to do after actively engaging with our learning materials.</p>
+        <p>The following is a complete list of the learning outcomes for WI+RE's tutorials and workshops. Note that if there is a handout addressing the same learning outcomes, a link to the handout will be shared as well.</p>
+        <br>
         {% include list-by-learning-outcome.html %}
     </div>
   <div class="tab-pane fade" id="acrl-framework" role="tabpanel" aria-labelledby="acrl-framework">
-      <p class="card-text">ACRL Framework</p>
+      <p class="card-text">The ACRL (Association of College and Research Libraries) <a href="http://www.ala.org/acrl/standards/ilframework#introduction" target="_blank">Framework for Information Literacy for Higher Education</a> is a set of concepts, knowledge practices, and dispositions for research and information literacy.</p>
+      <p>The following is a list of WI+RE resources organized by their relationship to the concepts in the ACRL Framework. Note that resources are often related to more than one conceptual area of the framework.</p>
+      <br>
       {% include list-by-frame.html %}
     </div>
   <div class="tab-pane fade" id="core-comps" role="tabpanel" aria-labelledby="ucla-core-competencies">
-      <p class="card-text">UCLA Core Competencies.</p>
+      <p class="card-text">UCLA Core Competencies - coming soon!</p>
       </div>
       </div>  
   </div>
 </div>
-<hr>
-<p>is it working?</p>
-{% include list-by-accessibility-info.html %}
