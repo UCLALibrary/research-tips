@@ -32,7 +32,7 @@ category: Getting Started
 learning-outcomes:
     - Articulate the importance of VPN/Proxy for off-campus access to library resources
     - Recognize the scale and diversity (not just books) of library resources available from off-campus
-    - Choose a personal solution for off-campus access based on personally available technology (e.g., operating system, browser, etc.)
+    - Choose a personal solution for off-campus access to resources based on personally available technology (e.g., operating system, browser, etc.)
     - Work through the steps in the set-up process (with troubleshooting tips and additional resources)
 tags:
 - eBook
