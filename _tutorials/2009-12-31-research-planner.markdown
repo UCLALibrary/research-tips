@@ -23,6 +23,11 @@ thumbnail: /assets/tutorials/thumbnails/ResearchPaperPlannerThumbnail.jpg
 handout: /assets/handouts/research-paper-planner-d2.pdf
 handout-thumbail: /assets/handouts/thumbnails/research-paper-planner-2-tn.png
 category: Getting Started
+learning-outcomes:
+   - Break down assignments into manageable deadlines
+   - Track progress on assignments
+   - Connect with campus 
+
 tags:
 - planning
 - time management
