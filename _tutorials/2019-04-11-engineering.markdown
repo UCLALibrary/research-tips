@@ -12,6 +12,12 @@ thumbnail: /assets/tutorials/thumbnails/EngineeringResearchThumbnail.jpg
 handout:
 handout-thumbail:
 category: Getting Started
+learning-outcomes:
+   - Create a concrete plan with the first steps for getting involved in research
+   - Narrow (and broaden) research questions using a variety of strategies (e.g., social issues, economic issues,political issues, scientific/technological issues)
+   - Brainstorm effective keywords and search terms
+   - Strategize effective searches in databases and the Melvyl Catalog
+   - Find Primary Sources through Newspaper Archives
 tags:
 - topic mapping
 - research questions
