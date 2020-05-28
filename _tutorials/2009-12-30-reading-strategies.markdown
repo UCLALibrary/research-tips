@@ -18,6 +18,8 @@ thumbnail: /assets/tutorials/thumbnails/ReadingStrategiesThumbnail.jpg
 handout:
 handout-thumbnail:
 category: Getting Started
+learning-outcomes:
+   - Identify Various Reading Strategies (e.g. paraphrase as you read, make an annotation legend, prioritize new vocabulary, etc.)
 ---
 <p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. </p>
 
