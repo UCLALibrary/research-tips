@@ -29,6 +29,11 @@ thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: https://ucla.box.com/s/fjczvyhqg6f2cyiatrr8th1ftvztcfu2
 handout-thumbail: 
 category: Getting Started
+learning-outcomes:
+    - Articulate the importance of VPN/Proxy for off-campus access to library resources
+    - Recognize the scale and diversity (not just books) of library resources available from off-campus
+    - Choose a personal solution for off-campus access based on personally available technology (e.g., operating system, browser, etc.)
+    - Work through the steps in the set-up process (with troubleshooting tips and additional resources)
 tags:
 - eBook
 - off-campus access
