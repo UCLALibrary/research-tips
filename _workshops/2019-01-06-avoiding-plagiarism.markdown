@@ -32,6 +32,9 @@ learning-outcomes:
     - Identify strategies for avoiding plagiarism
     - Accurately cite sources in a consistent style
     - Summarize, paraphrase, and directly quote a text
+acrl-frames:
+    - Information Has Value
+    - Scholarship as Conversation
 tags:
     - Plagiarism
     - Academic Honesty
