@@ -21,6 +21,8 @@ learning-outcomes:
     - Install Zotero and create a Zotero account
     - Save and organize your sources
     - Quickly generate a bibliography in your preferred citation style
+acrl-frames:
+    - Information Has Value
 tags:
     - Zotero
     - citation management
