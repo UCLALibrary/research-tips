@@ -39,7 +39,7 @@ category: Finding and Citing Sources
 learning-outcomes:
    - Create Zotero Account
    - Organize your Library
-   - Generate a bibliography in a chosen format
+   - Generate a bibliography in a chosen citation style (e.g. MLA, APA, Chicago, etc.)
 tags:
 - zotero
 - citation management software 
