@@ -25,6 +25,10 @@ thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn.pdf
 handout-thumbail: /assets/handouts/thumbnails/vpn-tn.png
 category: Getting Started
+learning-outcomes:
+   - Identify the benefits of setting up the VPN or Proxy Server
+   - Download VPN at UCLA 
+   - Set-up Proxy Server at UCLA
 tags:
 - vpn
 - off-campus access
