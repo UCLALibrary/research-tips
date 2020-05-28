@@ -17,6 +17,9 @@ learning-outcomes:
     - Identify possible areas of interest for a research project
     - Find campus resources that match your needs and interests
     - Create a concrete plan with the first steps for getting involved in research
+acrl-frames:
+    - Research as Inquiry
+    - Scholarship as Conversation
 thumbnail: /assets/workshops/thumbnails/Ready_Researcher.png
 category: Cornerstone Research Workshops
 tags:
