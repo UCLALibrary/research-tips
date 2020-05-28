@@ -19,6 +19,8 @@ learning-outcomes:
     - Find research guides related to your project
     - Find sources using the UCLA Library catalog
     - Find scholarly articles using online databases
+acrl-frames:
+    - Searching as Strategic Exploration
 tags:
 - searching for books
 - searching for articles
