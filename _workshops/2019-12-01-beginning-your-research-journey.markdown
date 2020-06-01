@@ -26,10 +26,9 @@ learning-outcomes:
     - Find campus resources that match your needs and interests
     - Create a concrete plan with the first steps for getting involved in research
 accessibility-info:
-    - { text: 'WAVE - 0 errors May, 22, 2020', link-text: 'About WAVE - Web Accessibility Evaluation Tool', url: 'https://wave.webaim.org/' }
-    - { text: 'Keyboard Navigation Supported', link-text: 'About Keyboard Accessibility', url: 'https://webaim.org/techniques/keyboard/' }
-    - { text: 'Closed Captioning Available - Expand media full screen to access captions if they do not show up by default.' }
-    - { text: 'Descriptive Transcript - In development.'}
+    - { text: 'WAVE tested - 0 errors', date: '2020-05-22', url: 'https://wave.webaim.org/' }
+    - { text: 'Closed Captioning Available' }
+    - { text: 'H5P Content Type - Course Presentation.', date: '2020-05-01', link-text: 'Accessibility status - Tested with no known problems', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 core-competencies:
     - Define the goals, scope, and plan.
     - Reflect on and refine the research process.

@@ -73,11 +73,11 @@
             {% for info in page.accessibility-info %}
                 <li>
                     {% if info.link-text and info.url %}
-                        {{ info.text }} (<a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.link-text }}</a>)
+                        {{ info.text }} (<a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.link-text }}{% if info.date %} - {{ info.date | | date: "%b %d, %Y" }}{% endif %}</a>)
                     {% elsif info.url and info.text %}
-                        <a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.text }}</a>
+                        <a href="{{ info.url }}" style="text-decoration: underline;" target="_blank" >{{ info.text }}{% if info.date %} - {{ info.date | | date: "%b %d, %Y" }}{% endif %}</a>
                     {% else %}
-                        {{ info.text }}
+                        {{ info.text }}{% if info.date %} - {{ info.date | | date: "%b %d, %Y" }}{% endif %}
                     {% endif %}
                 </li>
             {% endfor %}
