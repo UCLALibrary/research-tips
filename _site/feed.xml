@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-05-19T14:12:53-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">WI+RE Spring Update</title><link href="http://localhost:4000/research-tips/sandbox/wire-spring-update/" rel="alternate" type="text/html" title="WI+RE Spring Update" /><published>2020-04-04T00:00:00-07:00</published><updated>2020-04-04T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-spring-update</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-spring-update/">&lt;p&gt;WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-06-05T15:23:00-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">Site Updates: Making our accessibility efforts more transparent</title><link href="http://localhost:4000/research-tips/sandbox/accessibility-transparency/" rel="alternate" type="text/html" title="Site Updates: Making our accessibility efforts more transparent" /><published>2020-04-04T00:00:00-07:00</published><updated>2020-04-04T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/accessibility-transparency</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/accessibility-transparency/">&lt;p&gt;I’ve been fortunate in the past few weeks to play a small part in a couple of web accessibility review projects for UCLA Library. I’ve been reflecting on how important the work is on the one hand, and on how invisible this labor can sometimes be on the other. I have also been reminded of how there is always so much more to learn!&lt;/p&gt;
+
+&lt;p&gt;These experiences, alongside our ongoing efforts to continually improve the accessibility of WI+RE’s resources, have made me think about how the work WI+RE does on accessibility often stays behind the scenes. We may run WAVE checks on our pages, do projects to improve the accessibility of our PDFs, conduct keyboard navigation testing, and more …. but looking at our website doesn’t necessarily communicate the role that accessibility and universal design play in how we approach our work.&lt;/p&gt;
+
+&lt;p&gt;In other words, while we discuss in &lt;a href=&quot;https://uclalibrary.github.io/research-tips/wire-way/&quot;&gt;our manifesto&lt;/a&gt; how we strive to&lt;/p&gt;
+
+&lt;blockquote&gt;
+    Pursue universal design at every stage of the process - Accessibility and usability are not checkboxes at the end of a project, but areas of continual importance that can always be improved.
+&lt;/blockquote&gt;
+
+&lt;p&gt;it isn’t always clear, when looking at a particular resource, what this means. Ideally, every project would make transparent:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;what we have done already,&lt;/li&gt;
+  &lt;li&gt;what we aspire to do,&lt;/li&gt;
+  &lt;li&gt;and what we need to learn to continue improving!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, to that end, we’re adding an &lt;em&gt;Accessibility Information&lt;/em&gt; metadata structure to the WI+RE site this week, and launching a project to document where we are now and where we hope to be with accessibility for each resource on the site.&lt;/p&gt;
+
+&lt;p&gt;It will be a work in progress, but it is exciting to get started!&lt;/p&gt;
+
+&lt;p&gt;Here’s an early draft of what we think this might look like in the metadata:&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-10 col-sm-12 mx-auto&quot;&gt;
+    &lt;script src=&quot;https://gist.github.com/dmcwo/fbcd739f39d78a98b2774bb9ad9e2492.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And when displayed on an educational resource page, the resulting code might look something like this:&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-10 col-sm-12 mx-auto&quot;&gt;
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    About this Resource - Example
+  &lt;/div&gt;
+    &lt;div class=&quot;card-body&quot;&gt;
+        &lt;h5 class=&quot;card-title&quot;&gt;Accessibility Information&lt;/h5&gt;
+            &lt;ul&gt;
+                &lt;li&gt;WAVE - 0 errors May, 22, 2020 (&lt;a href=&quot;https://wave.webaim.org/&quot; style=&quot;text-decoration: underline;&quot; target=&quot;_blank&quot;&gt;About WAVE - Web Accessibility Evaluation Tool&lt;/a&gt;)&lt;/li&gt;
+                &lt;li&gt;Closed Captioning Available&lt;/li&gt;
+                &lt;li&gt;Descriptive Transcript - In development.&lt;/li&gt;
+            &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This is a very rough first draft, and it will be exciting to see how this develops. If you have ideas, suggestions, or questions, &lt;a href=&quot;https://uclalibrary.github.io/research-tips/contact/&quot;&gt;please let us know&lt;/a&gt;!&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">I’ve been fortunate in the past few weeks to play a small part in a couple of web accessibility review projects for UCLA Library. I’ve been reflecting on how important the work is on the one hand, and on how invisible this labor can sometimes be on the other. I have also been reminded of how there is always so much more to learn!</summary></entry><entry><title type="html">WI+RE Spring Update</title><link href="http://localhost:4000/research-tips/sandbox/wire-spring-update/" rel="alternate" type="text/html" title="WI+RE Spring Update" /><published>2020-04-04T00:00:00-07:00</published><updated>2020-04-04T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-spring-update</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-spring-update/">&lt;p&gt;WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.&lt;/p&gt;
 
 &lt;p&gt;Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!&lt;/p&gt;
 
@@ -177,7 +227,7 @@
 &lt;p&gt;&lt;a name=&quot;thank-yous&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;thank-you&quot;&gt;Thank you!!&lt;/h2&gt;
 
-&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: Alana Enriquez, Alicia Reiley, Alison Scott, Allison R. Benedetti, Amber West, Amy Liu, Anahita Sehgal, Annelie Rugg, Annie Pho, Antigone Kutay, April Zhou, Beth Goodhue, Bethany Meyers, Caitlin Meyer, Callie Holmes, Chris-Lopez, Chris Lopez, Christine Holten, Courtney Hoffner, Dana Cairns Watson, Diana King, Diana L. King, Diane Mizrachi, Doug, Doug Worsham, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Fernando Gomez, Gavin Jackson, Giselle Burns, Hanna Young, Hannah Sutherland, Henri Lim, Jacelyn Omusi, Jacy Black, Janet Goins, Janine Henri, Jeannie Chen, Jen, Jen Pierre, Joanna Chen Cham, Juan Jaime, Juan Díaz, Julia Glassman, Julian Gautier, Kate McAllister, Kate Pham, Kate T. Pham, Katherine Ramirez, Kelly Kistner, Kelly Miller, Kian, Kian Ravaei, Leigh Harris, Lisa Kahn, Liz Galvin Lew, Lou Baya Ould Rouis, Luz Badillo, Marisa Méndez-Brady, Mary Tran, Matthew Johnson, Matthew Vest, Michael Lima-Sabatini, Miki Goral, Miriam Posner, Nadia Brooks, Natalie Selzer, Nina Mamikunian, Nisha Mody, Powell Library, Renee, Renee Romero, Robert Freel, Robert Gore, Royson Lin, Ruby A. Bell-Gam, Scott Martin, Shanna Shaked, Shannon Roux, Shushanik Stepanyan, Simon Lee, Sophia Wu, Srikar Poruri, Sylvia Page, Tama Hasson, Tara Prescott, Taylor Harper, Thomas Garbelotti, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, University of Minnesota Libraries Research Paper Calculator, Valeria Morales, Whitney Arnold, Xinyi(Alex) Yan, Zoe Borovsky.&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.</summary></entry><entry><title type="html">The Making of Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/making-of-study-tips/" rel="alternate" type="text/html" title="The Making of Study Tips" /><published>2020-03-20T00:00:00-07:00</published><updated>2020-03-20T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/making-of-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/making-of-study-tips/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: Alana Enriquez, Alicia Reiley, Alison Scott, Allison R. Benedetti, Amber West, Amy Liu, Anahita Sehgal, Annelie Rugg, Annie Pho, Antigone Kutay, April Zhou, Beth Goodhue, Bethany Meyers, Caitlin Meyer, Callie Holmes, Chris-Lopez, Chris Lopez, Christine Holten, Courtney Hoffner, Dana Cairns Watson, Diana King, Diana L. King, Diane Mizrachi, Doug, Doug Worsham, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Fernando Gomez, Gavin Jackson, Giselle Burns, Hanna Young, Hannah Sutherland, Henri Lim, Jacelyn Omusi, Jacy Black, Janet Goins, Janine Henri, Jeannie Chen, Jen, Jen Pierre, Joanna Chen Cham, Juan Jaime, Juan Díaz, Julia Glassman, Julian Gautier, Kate McAllister, Kate Pham, Kate T. Pham, Katherine Ramirez, Kelly Kistner, Kelly Miller, Kian, Kian Ravaei, Leigh Harris, Lisa Kahn, Liz Galvin Lew, Lou Baya Ould Rouis, Luz Badillo, Marisa Méndez-Brady, Mary Tran, Matthew Johnson, Matthew Vest, Michael Lima-Sabatini, Miki Goral, Miriam Posner, Nadia Brooks, Natalie Selzer, Nina Mamikunian, Nisha Mody, Powell Library, Renee, Renee Romero, Robert Freel, Robert Gore, Royson Lin, Ruby A. Bell-Gam, Salma Abumeeiz, Scott Martin, Shanna Shaked, Shannon Roux, Shushanik Stepanyan, Simon Lee, Sophia Wu, Srikar Poruri, Sylvia Page, Tama Hasson, Tara Prescott, Taylor Harper, Thomas Garbelotti, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, University of Minnesota Libraries Research Paper Calculator, Valeria Morales, Whitney Arnold, Xinyi(Alex) Yan, Zoe Borovsky.&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.</summary></entry><entry><title type="html">The Making of Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/making-of-study-tips/" rel="alternate" type="text/html" title="The Making of Study Tips" /><published>2020-03-20T00:00:00-07:00</published><updated>2020-03-20T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/making-of-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/making-of-study-tips/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;These past two quarters, I had the pleasure of working with WI+RE, and this quarter (winter 2020) I used my position with WI+RE to fulfill my Psych 195B internship requirement for cognitive science. To fulfill the requirements of the internship, I had to complete a project determined jointly with my supervisor. I brainstormed ways to combine the cognitive science aspect of this project with the goals of WI+RE (writing instruction and research education), and a compilation of tips to help students do better in their classes seemed like the perfect integration of the two. I had learned a lot of memory strategies from my Cognitive Psychology class (Psych 120A) taught by Alan Castel, and this seemed like a great way to disseminate the information.&lt;/p&gt;
 
@@ -508,46 +558,4 @@
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/hfkG4bWjRmI&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;</content><author><name>kian-ravaei</name></author><category term="Prototypes" /><summary type="html">For every project, WI+RE goes through an extensive process of prototyping and receiving feedback. Wheel of Sources was no exception: from notecard sketches to drag-and-drop games, our prototypes encompassed a wide range of media and design concepts. Watch this video for an inside look at the many stages of the WI+RE process.</summary></entry><entry><title type="html">WI+RE’s tech toolbox (a snapshot)</title><link href="http://localhost:4000/research-tips/sandbox/wire-tech-toolbox/" rel="alternate" type="text/html" title="WI+RE's tech toolbox (a snapshot)" /><published>2019-06-23T00:00:00-07:00</published><updated>2019-06-23T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-tech-toolbox</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-tech-toolbox/">&lt;p&gt;Curious to know how WI+RE puts together our online learning modules? While it is true that the most important part of our work is the &lt;a href=&quot;https://uclalibrary.github.io/research-tips/about/design-toolkit/&quot;&gt;learner-led design process&lt;/a&gt;, technology tools play an important role as well. Here’s a quick list of WI+RE’s current toolbox, with links to some of the tutorials new WI+RE designers use to get to know these tools.&lt;/p&gt;
-
-&lt;h3 id=&quot;asana&quot;&gt;&lt;a href=&quot;https://asana.com/&quot;&gt;Asana&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;WI+RE makes &lt;em&gt;extensive&lt;/em&gt; use of a free &lt;a href=&quot;https://asana.com/&quot;&gt;Asana&lt;/a&gt; account. It is our most important online communication tool and has become absolutely essential for both onboarding and project management. We really like how it helps foster asynchronous collaboration and communication for a team of student designers with variable and flexible work schedules!&lt;/p&gt;
-
-&lt;h3 id=&quot;html-and-css-bootstrap&quot;&gt;HTML and CSS (bootstrap)&lt;/h3&gt;
-
-&lt;p&gt;The foundation for our web work, we use free tutorials on &lt;a href=&quot;https://www.codecademy.com/learn/learn-html&quot;&gt;codecademy&lt;/a&gt; to get to know the basics of html and css. We also find ourselves constantly refering to &lt;a href=&quot;https://getbootstrap.com/docs/&quot;&gt;https://getbootstrap.com/docs/&lt;/a&gt; to tinker with the bootstrap CSS framework.&lt;/p&gt;
-
-&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
-
-&lt;p&gt;We also use quite a bit of markdown for web work. WI+RE students have liked this &lt;a href=&quot;https://www.markdowntutorial.com/&quot;&gt;quick markdown tutorial&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;github-and-github-pages&quot;&gt;Github and github pages&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://github.com/&quot;&gt;Github&lt;/a&gt; and &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt; are essential tools for WI+RE as we use them to host our website and tutorials! We use github pages because: it is free, it let’s us build a pretty robust website but doesn’t use a database to serve up pages (which means there are very few security concerns), and it allows us to share our code freely on one of the world’s largest open code-sharing sites! WI+RE students start learning GitHub using this &lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;getting started guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;h5p&quot;&gt;H5P&lt;/h3&gt;
-
-&lt;p&gt;Many of our recent projects - including the &lt;a href=&quot;https://uclalibrary.github.io/research-tips/workshops/&quot;&gt;Cornerstone Research Workshop Series&lt;/a&gt; and &lt;a href=&quot;https://uclalibrary.github.io/research-tips/primary-secondary/&quot;&gt;Wheel of Sources&lt;/a&gt; - use &lt;a href=&quot;https://h5p.org/&quot;&gt;H5P&lt;/a&gt; to add interactive elements to videos and slideshows.&lt;/p&gt;
-
-&lt;h3 id=&quot;creative-commons&quot;&gt;Creative Commons&lt;/h3&gt;
-
-&lt;p&gt;Perhaps not really a “technology” in the traditional sense, but we use and talk about creative commons quite a bit, so new WI+RE students watch and discuss a &lt;a href=&quot;https://vimeo.com/13590841&quot;&gt;short video on creative commons and how it works&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;audacity&quot;&gt;&lt;a href=&quot;https://www.audacityteam.org/&quot;&gt;Audacity&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;We use &lt;a href=&quot;https://www.audacityteam.org/&quot;&gt;the audacity site itself&lt;/a&gt; to introduce this free and super handy audio recording program.&lt;/p&gt;
-
-&lt;h3 id=&quot;hype&quot;&gt;&lt;a href=&quot;https://tumult.com/hype/&quot;&gt;Hype&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;One of only a few paid applications in the WI+RE toolbox, Hype has been a key tool for many of our projects. We use it to create HTML5 animations. WI+RE students get to know Hype primarily through experimentation as they create their &lt;a href=&quot;https://www.youtube.com/channel/UCRPedAkolOOC6z-iP2S-clQ&quot;&gt;learning narrative videos&lt;/a&gt;, but we use &lt;a href=&quot;https://www.youtube.com/watch?v=s8xqJHJIyfw&quot;&gt;introductory YouTube videos&lt;/a&gt; to get them started.&lt;/p&gt;
-
-&lt;h3 id=&quot;noun-project&quot;&gt;&lt;a href=&quot;https://thenounproject.com/&quot;&gt;Noun Project&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;We also have a paid account for &lt;a href=&quot;https://thenounproject.com/&quot;&gt;Noun Project&lt;/a&gt; b/c it is awesome! You’ll see visuals from the noun project throughout WI+RE’s work and so having a paid account is super important for us. Having quick access to a massive collection of well designed visuals has become essential to WI+RE’s process. Oh, and we also sometimes use &lt;a href=&quot;https://fontawesome.com/&quot;&gt;https://fontawesome.com/&lt;/a&gt; for icons as well!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div&gt;
-&lt;p&gt;Banner photo credit: &lt;a style=&quot;background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px&quot; href=&quot;https://unsplash.com/@yer_a_wizard?utm_medium=referral&amp;amp;utm_campaign=photographer-credit&amp;amp;utm_content=creditBadge&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; title=&quot;Download free do whatever you want high-resolution photos from Fleur&quot;&gt;&lt;span style=&quot;display:inline-block;padding:2px 3px&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; style=&quot;height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;title&gt;unsplash-logo&lt;/title&gt;&lt;path d=&quot;M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&quot;display:inline-block;padding:2px 3px&quot;&gt;Fleur&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">Curious to know how WI+RE puts together our online learning modules? While it is true that the most important part of our work is the learner-led design process, technology tools play an important role as well. Here’s a quick list of WI+RE’s current toolbox, with links to some of the tutorials new WI+RE designers use to get to know these tools.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>kian-ravaei</name></author><category term="Prototypes" /><summary type="html">For every project, WI+RE goes through an extensive process of prototyping and receiving feedback. Wheel of Sources was no exception: from notecard sketches to drag-and-drop games, our prototypes encompassed a wide range of media and design concepts. Watch this video for an inside look at the many stages of the WI+RE process.</summary></entry></feed>

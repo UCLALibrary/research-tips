@@ -61,6 +61,10 @@ Other `_`underscore folders
 
 These are for the structural pages of our site - e.g., the homepage, the about page, the wire way, etc. You can edit them just like the files in _tutorials and _workshops -- editing these pages will cause the _site folder to regenerate with your changes.
 
+## Creating a new workshop or tutorial
+
+See https://github.com/UCLALibrary/research-tips/blob/gh-pages/tutorial-workshop-metadata-template.md for a template to follow when creating a new workshop or tutorial.
+
 # FYI
 
 the theme for this site was adapted from: https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll
