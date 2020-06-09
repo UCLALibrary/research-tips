@@ -36,6 +36,7 @@ learning-outcomes:
    - Identify multiple websites and adopt a sequenced workflow to search for e-books and electronic resources
    - Request help from the library if needed resources are not found
 accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-06-09', url: 'https://wave.webaim.org/' }
    - { text: 'Closed Captioning Available' }
    - { text: 'Descriptive Transcript Available', link-text: 'Your Remote eBook Roadmap Descriptive Transcript (.txt)', url: 'https://ucla.app.box.com/s/p3vum64dpifmm9r5e99eg0ts5jgcc6ks' }
    - { text: 'Accessible PDF Available', link-text: 'REMOTE E-BOOK ACCESS', url: 'https://ucla.box.com/s/fjczvyhqg6f2cyiatrr8th1ftvztcfu2' }
