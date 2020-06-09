@@ -1,6 +1,8 @@
 ---
 title:  "Your Remote eBook Roadmap"
+description: "Need a book? We've got you covered! Follow this roadmap to find e-Books on reserve and through UCLA Library, HathiTrust, and the National Emergency Library."
 date:   2020-05-13
+last-updated: 2020-06-09
 authors: 
     - doug-worsham
     - chris-lopez
@@ -9,6 +11,7 @@ authors:
     - kian-ravaei
     - Katherine Ramirez
     - Michael Lima-Sabatini
+    - Ariane Bicho
 contributors:
     - renee-romero
     - Zoe Borovsky
@@ -24,20 +27,24 @@ contributors:
     - Anahita Sehgal
     - Miki Goral
     - Alison Scott
-description: Need a book? We've got you covered! Follow this roadmap to find e-Books on reserve and through UCLA Library.
-thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
+thumbnail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
 handout: https://ucla.box.com/s/fjczvyhqg6f2cyiatrr8th1ftvztcfu2
-handout-thumbail: 
+# todo:: replace handout thumbnail
+handout-thumbail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
 category: Getting Started
 learning-outcomes:
-    - Articulate the importance of VPN/Proxy for off-campus access to library resources
-    - Recognize the scale and diversity (not just books) of library resources available from off-campus
-    - Choose a personal solution for off-campus access to resources based on personally available technology (e.g., operating system, browser, etc.)
-    - Work through the steps in the set-up process (with troubleshooting tips and additional resources)
+   - Identify multiple websites and adopt a sequenced workflow to search for e-books and electronic resources
+   - Request help from the library if needed resources are not found
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'Descriptive Transcript Available', link-text: 'Your Remote eBook Roadmap Descriptive Transcript (.txt)', url: 'https://ucla.app.box.com/s/p3vum64dpifmm9r5e99eg0ts5jgcc6ks' }
+   - { text: 'Accessible PDF Available', link-text: 'REMOTE E-BOOK ACCESS', url: 'https://ucla.box.com/s/fjczvyhqg6f2cyiatrr8th1ftvztcfu2' }
 tags:
 - eBook
 - off-campus access
+- remote access
 - HathiTrust
+- National Emergency Library
 ---
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/tFACIAKD9O0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
