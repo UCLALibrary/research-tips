@@ -1,15 +1,16 @@
 ---
 title:  "Deconstructing the Elevator Speech"
-date:   2010-01-08
+date:   2017-04-12
 authors: 
     - Mary Tran
 contributors: 
     - taylor-harper
     - caitlin-meyer
-    - doug-worsham
+    - Undergraduate Research Centers
 description: An elevator speech is a great way to introduce yourself and your research to a wide range of audiences.
 thumbnail: /assets/tutorials/thumbnails/ElevatorSpeechThumbnail.jpg
 category: Sharing Your Research
+sort-weight: 53
 learning-outcomes:
     - Describe the elements of an effective elevator speech
     - Sketch an elevator speech

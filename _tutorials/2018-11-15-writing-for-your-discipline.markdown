@@ -1,6 +1,6 @@
 ---
 title:  "Writing for Your Discipline"
-date:   2010-01-15
+date:   2018-11-15
 authors: 
     - kian-ravaei
     - taylor-harper
@@ -14,7 +14,8 @@ contributors:
     - UCLA Undergraduate Writing Center
 description: Want to improve your academic writing? Complete this interactive activity to take your writing to the next level.
 thumbnail: /assets/tutorials/thumbnails/WritingForYourDisciplineThumbnail.jpg
-category: Getting Started
+category: Writing Strategies
+sort-weight: 27
 learning-outcomes:
 - Identify key stylistic elements of paper writing in their specific discipline.
 - Read papers in their discpline for style.

@@ -3,12 +3,12 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Writing Strategies"
+title:  "Writing Conclusion Paragraphs"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Students from the UCLA Undergraduate Writing Center give their top writing tips!"
+description: "Need to finish off that essay? Learn top tips on conclusion paragraphs from the UCLA Undergraduate Writing Center!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
@@ -47,19 +47,17 @@ thumbnail: /assets/tutorials/thumbnails/WritingStrategiesThumbnail.png
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 #
-category: Getting Started
+category: Writing Strategies
 #
 # SORT WEIGHT
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight:
+sort-weight: 26
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Articulate two ways to come up with topic sentences (before or after writing a body paragraph)
-    - Articulate qualities of a successful topic sentences
     - Describe the general structure of a conclusion paragraph.
     - Describe the amount of detail that should go into the restatement of the thesis.
 #
@@ -99,11 +97,6 @@ tags:
     - conclusion paragraph
 ---
 <p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips, from revising topic sentences to crafting conclusion paragraphs! Each video includes interactive questions to test your knowledge. <i>More Writing Strategies Videos coming soon!</i></p>
-
-
-
-<h2>Topic Sentences <span style="font-weight:normal">with Jessica</span></h2>
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3076893" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <h2 class="mt-4">Conclusion Paragraphs <span style="font-weight:normal">with Grace</span></h2>
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3065812" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

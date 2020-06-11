@@ -1,10 +1,11 @@
 ---
 title:  "Search Experimentally"
-date:   2010-01-05
-description: Rather than trying to construct one perfect search, plan on trying several experimental searches.
+description: "Rather than trying to construct one perfect search, plan on trying several experimental searches."
+date:   2017-05-04
 thumbnail: /assets/tutorials/thumbnails/SearchExperimentallyThumbnail.jpg
 handout: 
 category: Finding and Citing Sources
+sort-weight: 34
 learning-outcomes:
    - Use a variety of keywords to search for sources
    - Broaden and narrow search results (using tools such as Boolean Operators, etc.) 

@@ -35,6 +35,7 @@ collections:
     tutorials:
         output: true
         permalink: /:title/
+        sort_by: sort-weight
     handouts:
         output: true
         permalink: /handouts/:title/

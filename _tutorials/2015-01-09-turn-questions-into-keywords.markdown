@@ -6,15 +6,16 @@ authors:
     - taylor-harper
     - shannon-roux
     - doug-worsham
+    - renee-romero
 contributors: 
     - caitlin-meyer
-    - renee-romero
     - UCLA Powell Library
 description: Improve the effectiveness of your searches by generating a variety of keywords.
 thumbnail: /assets/tutorials/thumbnails/QuestionsKeywordsThumbnail.jpg
 handout: /assets/handouts/turn-questions-into-keywords-d2-form.pdf
 handout-thumbail: /assets/handouts/thumbnails/turn-questions-into-keywords-tn.png
 category: Finding and Citing Sources
+sort-weight: 32
 learning-outcomes:
     - Identify core concepts in research questions
     - List core concepts as keywords

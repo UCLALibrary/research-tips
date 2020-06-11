@@ -1,6 +1,6 @@
 ---
 title:  "Get Started with Zotero"
-date:   2010-01-07
+date:   2017-01-15
 authors: 
     - caitlin-meyer
     - shannon-roux
@@ -36,6 +36,7 @@ description: Learn how to use Zotero, a free and easy citation tool.
 thumbnail: /assets/tutorials/thumbnails/ZoteroThumbnail.png
 handout: 
 category: Finding and Citing Sources
+sort-weight: 37
 learning-outcomes:
    - Create Zotero Account
    - Organize your Library

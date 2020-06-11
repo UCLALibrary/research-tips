@@ -1,6 +1,8 @@
 ---
 title:  "Expanding Perspectives in Your Search"
-date:   2010-01-10
+description: "Move past your initial search to expand your perspectives on your topic." 
+date:   2018-05-14
+featured: yes
 authors: 
     - shannon-roux
     - taylor-harper
@@ -21,9 +23,9 @@ contributors:
 awards:
     - merlot-5-star-editor-review
 merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=1379137
-description: Move past your initial search to expand your perspectives on your topic. 
 thumbnail: /assets/tutorials/thumbnails/ExpandingPerspectivesThumbnail.png
 category: Finding and Citing Sources
+sort-weight: 35
 learning-outcomes:
     - Identify sources outside of starting perspective
     - Develop refined research questions
@@ -31,7 +33,6 @@ learning-outcomes:
 tags:
 - expanding perspectives
 - search bias
-featured: yes
 ---
 
 <p >This tutorial challenges researchers and students to actively seek sources that push outside of their starting perspective. With a more balanced survey of the literature, you will be able to refine and hone your research question within the context of the broader research.</p>

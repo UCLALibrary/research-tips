@@ -1,6 +1,7 @@
 ---
 title:  "Research Paper Planner"
-date:   2009-12-31
+date:   2017-02-27
+description: "Break down your assigment and stay on top of deadlines with this useful planner!! Writing for the Undergraduate Science Journal? We have a planner for that, too!"
 authors:
     - shannon-roux
 contributors:
@@ -18,19 +19,18 @@ contributors:
     - doug-worsham
     - royson-lin
     - University of Minnesota Libraries Research Paper Calculator
-description: Break down your assigment and stay on top of deadlines with this useful planner!! Writing for the Undergraduate Science Journal? We have a planner for that, too!
 thumbnail: /assets/tutorials/thumbnails/ResearchPaperPlannerThumbnail.jpg
 handout: /assets/handouts/research-paper-planner-d2.pdf
 handout-thumbail: /assets/handouts/thumbnails/research-paper-planner-2-tn.png
-category: Getting Started
+category: Getting Started with Research
+sort-weight: 5
 learning-outcomes:
    - Break down assignments into manageable deadlines
    - Track progress on assignments
    - Identify campus resources
-
 tags:
-- planning
-- time management
+    - planning
+    - time management
 ---
 
 <p>Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources.</p>

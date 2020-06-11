@@ -14,15 +14,16 @@ description: Breaking down Academic Articles is a webcomic tutorial that walks y
 thumbnail: /assets/tutorials/thumbnails/BreakingDownAcademicArticles.png
 handout:
 handout-thumbail: 
-category: Getting Started
+category: Reading Strategies
+sort-weight: 15
 learning-outcomes:
     - Identify key aspects of an academic article
     - Support future research endeavors
     - Prepare to discuss articles in class
 tags:
-- academic articles
-- abstracts
-- reading strategies
+    - academic articles
+    - abstracts
+    - reading strategies
 ---
 Few of us can recall every detail and argument from academic articles - they're packed with so much information! It's best to create reading strategies that help you focus on comprehending the most essential elements of an academic article. _Breaking down Academic Articles_ is a webcomic tutorial that walks you through the most important aspects of an academic article, to help you prepare for class discussion on the article(s) or take away essential information from the article to support future research. 
 

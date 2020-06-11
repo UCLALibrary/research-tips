@@ -1,6 +1,6 @@
 ---
 title:  "Primary and Secondary Sources"
-date:   2010-01-06
+date:   2018-10-25
 authors: 
     - kian-ravaei
     - jen-pierre
@@ -28,6 +28,7 @@ handout: /assets/handouts/PSS_handout_primary-secondary.pdf
 handout-thumbail: /assets/handouts/thumbnails/PSS_handout_thumbnail
 thumbnail: /assets/tutorials/thumbnails/WheelOfSourcesThumbnail.png
 category: Finding and Citing Sources
+sort-weight: 36
 featured: yes
 learning-outcomes:
     - Identify a source as primary or secondary given a specific research topic or discipline.

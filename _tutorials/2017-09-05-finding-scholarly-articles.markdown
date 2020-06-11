@@ -1,6 +1,6 @@
 ---
 title:  "Finding Scholarly Articles"
-date:   2010-01-11
+date:   2017-09-05
 authors: 
     - taylor-harper
     - shannon-roux
@@ -21,6 +21,7 @@ awards:
     - merlot-5-star-editor-review
 thumbnail: /assets/tutorials/thumbnails/FindingArticlesThumbnail.jpg
 category: Finding and Citing Sources
+sort-weight: 33.2
 learning-outcomes:
     - Navigate search filters
     - Construct effective searches

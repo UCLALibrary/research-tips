@@ -1,15 +1,17 @@
 ---
 title:  "Find the Right Research Guides"
-date:   2010-01-03
+description: "Find the guide that's right for you! UCLA Library staff have put together hundreds of guides for hundreds of subjects, courses, and special topics."
+date:   2015-05-18
+last-updated: 2017-01-01
 authors: 
     - Simon Lee
     - renee-romero
 contributors: 
     - UCLA Powell Library
-description: Find the guide that's right for you! UCLA Library staff have put together hundreds of guides for hundreds of subjects, courses, and special topics.
 thumbnail: /assets/tutorials/thumbnails/FindTheRightResearchGuide.png
 handout: 
 category: Finding and Citing Sources
+sort-weight: 31
 learning-outcomes: 
    - Find library research guides 
    - Choose the best databases for your topic

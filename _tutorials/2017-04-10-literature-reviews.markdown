@@ -1,6 +1,7 @@
 ---
 title:  "Creating Literature Reviews"
-date:   2010-01-10
+description: "Demystify the ever mysterious literature review!"
+date:   2017-04-10
 authors: 
     - caitlin-meyer
     - taylor-harper
@@ -15,9 +16,9 @@ contributors:
     - Annelie Rugg
     - Mary Tran
     - doug-worsham
-description: Demystify the ever mysterious literature review! 
 thumbnail: /assets/tutorials/thumbnails/CreatingLiteratureReviewsThumbnail.png
 category: Literature Reviews
+sort-weight: 47
 learning-outcomes:
     - Summarize literature reviews and their function in research
     - Organize essential resources and data for literature review

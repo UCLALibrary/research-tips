@@ -3,72 +3,63 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "The Title of the Resource"
+title:  "Writing Topic Sentences"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "A short and snappy description referencing the learning outcome and/or breakthrough!"
+description: "Students from the UCLA Undergraduate Writing Center give their top writing tips! This one is all about writing effective topic sentences."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   YYYY-MM-DD
+date:   2020-06-05
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: YYYY-MM-DD
-#
-# Featured: yes
-# make it possible to feature this, e.g., on the homepage
-#
-featured: 
+last-updated: 2020-06-05
 #
 # AUTHORS AND CONTRIBUTORS
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - firstname-lastname
-    - Firstname Lastname
+    - Jessica Rauch
+    - kian-ravaei
+    - Grace Sosa
+    - xinyi-yan
 contributors:
-    - firstname-lastname
-    - Firstname Lastname
+    - chris-lopez
+    - Christine Holten
+    - renee-romero
+    - doug-worsham
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
-    - name, organization, or citation
+    - UCLA Writing Programs
+attributions:
+    - UCLA Writing Programs
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/....png
-#
-# AWARDS
-# If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
-#
-awards: 
-   - award-1
-   - award-2
+thumbnail: /assets/tutorials/thumbnails/WritingStrategiesThumbnail.png
 #
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 #
-category: 
+category: Writing Strategies
 #
 # SORT WEIGHT
-# not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight: ##
+sort-weight: 25
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
-    - starting with verbs
+    - Articulate two ways to come up with topic sentences (before or after writing a body paragraph)
+    - Articulate qualities of a successful topic sentences
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -86,38 +77,27 @@ learning-outcomes:
 # Including text: '' is required
 # Optionally include a url and link-text
 #
-accessibility-info:
-    - { text: 'Some text you want to appear', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear' }
+# accessibility-info:
+#     - { text: 'Some text you want to appear', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+#     - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+#     - { text: 'Some text you want to appear' }
 #
-# CORE COMPETENCIES
-# List all core competencies for the resource.
-# See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
-#
-core-competencies:
-    - Define the goals, scope, and plan.
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
-    - Evaluate and synthesize information and data.
-    - Use information and data ethically. 
-    - Share the work and engage with audiences. 
-    - Reflect on and refine the research process.
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
-    - Authority Is Constructed and Contextual
     - Information Creation as a Process
-    - Information Has Value
-    - Research as Inquiry
-    - Scholarship as Conversation
-    - Searching as Strategic Exploration
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - tag 1
-    - tag 2
+    - write
+    - academic writing
+    - topic sentences
 ---
+<p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about topic sentences with Jessica! <i>More Writing Strategies Videos coming soon!</i></p>
+
+
+<h2>Topic Sentences <span style="font-weight:normal">with Jessica</span></h2>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3076893" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

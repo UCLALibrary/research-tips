@@ -1,7 +1,8 @@
 ---
-title:  "Getting Started with Research UCLA"
+title:  "Getting Started with Engineering Research UCLA"
 date:   2019-04-11
 authors: 
+    - Shushanik Stepanyan
     - kian-ravaei
     - juan-diaz
 contributors: 
@@ -11,7 +12,8 @@ description: Learn how to do research for your engineering class.
 thumbnail: /assets/tutorials/thumbnails/EngineeringResearchThumbnail.jpg
 handout:
 handout-thumbail:
-category: Getting Started
+category: Engineering Research
+sort-weight: 65
 learning-outcomes:
    - Create a concrete plan with the first steps for getting involved in research
    - Narrow (and broaden) research questions using a variety of strategies (e.g., social issues, economic issues,political issues, scientific/technological issues)

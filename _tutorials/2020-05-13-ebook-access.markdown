@@ -29,9 +29,10 @@ contributors:
     - Alison Scott
 thumbnail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
 handout: https://ucla.box.com/s/fjczvyhqg6f2cyiatrr8th1ftvztcfu2
-# todo:: replace handout thumbnail
+# todo:: replace handout thumbnail, main thumbnail color is off
 handout-thumbail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
-category: Getting Started
+category: Finding and Citing Sources
+sort-weight: 33.1
 learning-outcomes:
    - Identify multiple websites and adopt a sequenced workflow to search for e-books and electronic resources
    - Request help from the library if needed resources are not found

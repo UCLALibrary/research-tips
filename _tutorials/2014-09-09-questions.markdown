@@ -16,7 +16,8 @@ description: Before you search, start by brainstorming a list of questions.
 thumbnail: /assets/tutorials/thumbnails/StartWithYourQuestionsThumbnail.jpg
 handout: /assets/handouts/questions.pdf
 handout-thumbail: /assets/handouts/thumbnails/questions-tn.png
-category: Getting Started
+category: Getting Started with Research
+sort-weight: 7
 learning-outcomes:
    -  Develop a general topic or idea into a set of exploratory research questions
    - Narrow (and broaden) research questions using a variety of strategies (e.g., geographic area, cultural aspects, groups of people, time spans, or other strategies)

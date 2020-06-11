@@ -1,6 +1,6 @@
 ---
 title:  "Find and Use Review Articles"
-date:   2010-01-06
+date:   2017-01-31
 authors: 
     - caitlin-meyer 
     - shannon-roux
@@ -8,11 +8,13 @@ contributors:
     - UCLA Undergraduate Research Center - Sciences
     - UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences
     - UCLA Undergraduate Writing Center
+    - doug-worsham
 description: Review articles give you an efficient way to get an overview of a body of research on your topic.
 thumbnail: /assets/tutorials/thumbnails/ReviewArticlesThumbnail.jpg
 handout: /assets/handouts/introduction-to-articlesplus-fixed.pdf
 handout-thumbail: /assets/handouts/thumbnails/introduction-to-articlesplus-tn.png
 category: Literature Reviews
+sort-weight: 43
 learning-outcomes:
     - Summarize a review article and its purpose
     - Locate review articles in various databases

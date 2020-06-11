@@ -1,5 +1,5 @@
 ---
-title:  "Reading Strategies"
+title:  "Reading Strategies Playlist"
 date:   2018-04-07 21:15:05 +0000
 authors: 
     - kian-ravaei
@@ -17,7 +17,8 @@ description:
 thumbnail: /assets/tutorials/thumbnails/ReadingStrategiesThumbnail.jpg
 handout:
 handout-thumbnail:
-category: Getting Started
+category: Reading Strategies
+sort-weight: 13
 learning-outcomes:
    - Identify Various Reading Strategies (e.g. paraphrase as you read, make an annotation legend, prioritize new vocabulary, etc.)
 ---

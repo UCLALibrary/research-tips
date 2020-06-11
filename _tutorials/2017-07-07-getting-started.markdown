@@ -1,6 +1,8 @@
 ---
 title:  "Getting Started with Research at UCLA"
-date:   2010-01-10
+description: "Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!"
+date:   2017-07-07
+last-updated: 2020-06-11
 authors: 
     - taylor-harper
     - shannon-roux
@@ -24,9 +26,9 @@ contributors:
     - Mary Tran 
 awards: 
     - arlies2018-diversity
-description: Getting Started with research at UCLA! 
 thumbnail: /assets/tutorials/thumbnails/GettingStartedWithResearchThumbnail.jpg
-category: Getting Started
+category: Getting Started with Research
+sort-weight: 3
 learning-outcomes:
     - Brainstorm research projects
     - Articulate the benefits of research 

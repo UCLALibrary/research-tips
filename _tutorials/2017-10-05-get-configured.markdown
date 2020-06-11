@@ -1,6 +1,8 @@
 ---
-title:  "Remote Access - Get configured with VPN or Proxy on Mac, Windows, and Chromebook computers"
-date:   2010-01-04
+title:  "Remote Access - Get configured with VPN or Proxy"
+description: "Configure your Mac, Windows, or Chromebook computer with VPN or Proxy to access the library's many resources."
+date:   2017-10-15
+last-updated: 2020-05-14
 authors: 
     - doug-worsham
     - Nadia Brooks
@@ -20,11 +22,11 @@ contributors:
     - Matthew Johnson
     - Simon Lee
     - Nisha Mody
-description: Configure your computer to access the library's many resources.
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn.pdf
 handout-thumbail: /assets/handouts/thumbnails/vpn-tn.png
-category: Getting Started
+category: Finding and Citing Sources
+sort-weight: 30
 learning-outcomes:
    - Identify the benefits of setting up the VPN or Proxy Server
    - Download VPN at UCLA 

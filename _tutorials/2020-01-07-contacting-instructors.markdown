@@ -28,7 +28,8 @@ description: >-
     Tips for contacting instructors over email and in-person.
 thumbnail: /assets/tutorials/thumbnails/ContactingInstructorsThumbnail.png
 handout: /assets/handouts/contacting-faculty-combined.pdf
-category: Getting Started
+category: Writing Strategies
+sort-weight: 28
 tags:
 - Contacting Instructors
 - Email

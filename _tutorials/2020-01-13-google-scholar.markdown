@@ -1,6 +1,6 @@
 ---
 title:  "Using Google Scholar"
-date:   2019-05-21
+date:   2020-01-13
 authors: 
     - royson-lin
     - kian-ravaei
@@ -17,6 +17,7 @@ thumbnail: /assets/tutorials/thumbnails/GoogleScholarThumbnail.png
 handout:
 handout-thumbail: 
 category: Finding and Citing Sources
+sort-weight: 33.3
 learning-outcomes:
     - Adopt new strategies for improving a Google Scholar search
     - Use Google Scholar's Advanced Search
@@ -28,6 +29,7 @@ tags:
     - searching
     - finding articles
     - finding sources
+    - google scholar search
 ---
 
 Using Google Scholar to find sources for your research can yield you a lot of articles, journals, books, and more. But how do you find the right sources? Here are some tips and tricks for maximizing Google Scholar's potential. Stay tuned for more coming soon!

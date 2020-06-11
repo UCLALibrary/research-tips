@@ -7,7 +7,7 @@ background:
 ---
 <!--Ideas: table of contents, ...?-->
 
-{% assign groups = site.tutorials | group_by: "category" | sort: "date" %}
+{% assign groups = site.tutorials | group_by: "category" | sort: "sort-weight" %}
 
 {% for group in groups %}
     <div class="card mt-5 shadow">
@@ -16,7 +16,8 @@ background:
         </div>
         <div class="card-body">
             <ul class="list-unstyled">
-            {% for tutorial in group.items %}
+            {% assign sorted-items = group.items | sort: "sort-weight" %}
+            {% for tutorial in sorted-items %}
                 <li class="media mt-2">
                         <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
                             {% if tutorial.thumbnail %}
