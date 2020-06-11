@@ -1,6 +1,6 @@
 ---
 title:  "Reading Strategies Playlist"
-date:   2018-04-07 21:15:05 +0000
+date:   2018-06-01 21:15:05 +0000
 authors: 
     - kian-ravaei
     - jen-pierre
