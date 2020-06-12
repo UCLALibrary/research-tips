@@ -30,10 +30,10 @@ thumbnail: /assets/images/icons/500px-US-NLM-PubMed-Logo.svg.png
 category: Finding and Citing Sources
 sort-weight: 33.4
 learning-outcomes:
-    - Find articles on a topic or by subject
-    - Access full text versions of articles
+    - Find articles on a topic or by subject in PubMed
+    - Access full text versions of articles through PubMed
     - View your PubMed search history, including key words
-    - Use search filters to get the best results!
+    - Use PubMed search filters to get the best results
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
