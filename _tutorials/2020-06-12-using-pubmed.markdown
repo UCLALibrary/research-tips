@@ -76,5 +76,5 @@ tags:
     - New PubMed user interface
     - Search Strategies
 ---
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/T2_2v77PDuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/T2_2v77PDuE" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
