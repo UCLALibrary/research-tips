@@ -13,9 +13,9 @@ contributors:
     - Bethany Myers
     - Rikke Ogawa
     - Antonia Osuna-Garcia
-    - Kian Ravaei
+    - kian-ravaei
     - Wynn Tranfield
-    - Doug Worsham
+    - doug-worsham
 references:
     - UCLA Library, Sciences User Engagement Team
 thumbnail: /assets/images/icons/500px-US-NLM-PubMed-Logo.svg.png
