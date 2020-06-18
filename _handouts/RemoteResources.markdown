@@ -1,4 +1,3 @@
-
 ---
 title:  "Remote Control: Tips for being a successful remote student"
 date:   2019-02-25
