@@ -20,6 +20,7 @@ description: >-
 handout-url: /assets/handouts/UCLA-Library-Resources-for-Remote-Control.pdf
 thumbnail: /assets/handouts/thumbnails/remote-resources.png
 embed-url: https://ucla.app.box.com/embed/s/8zjy0e4zqoba24ef5msw04wiaojhvrek?sortColumn=date&view=list
+embed-url: https://ucla.app.box.com/embed/s/0kwqd8rjlte3vcn2jscmu0s8kgzxbbvc?sortColumn=date&view=list
 category: Remote Control
 tags:
 - Remote Resources
