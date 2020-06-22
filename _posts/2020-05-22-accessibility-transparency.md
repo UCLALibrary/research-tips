@@ -1,6 +1,6 @@
 ---
 title:  "Site Updates: Making our accessibility efforts more transparent"
-date:   2020-04-04
+date:   2020-05-22
 authors:
     - doug-worsham
 contributors:
