@@ -8,6 +8,7 @@ contributors:
     - renee-romero
     - Alicia Reiley 
     - Tierra Sowell
+    - chris-lopez
     - Matt Johnson
     - kian-ravaei
     - xinyi-yan
