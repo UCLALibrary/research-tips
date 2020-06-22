@@ -11,11 +11,11 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 
 ## Introduction
 
-In the [Writing Strategies](https://uclalibrary.github.io/research-tips/writing-strategies-conclusion-paragraphs/) series, Peer Learning Facilitators (PLFs) from the [UCLA Undergraduate Writing Center](https://wp.ucla.edu/wc/) share their favorite writing tips in short, entertaining, and interactive videos.
+In the [Writing Strategies](https://uclalibrary.github.io/research-tips/writing-strategies-conclusion-paragraphs/) series, Peer Learning Facilitators from the [UCLA Undergraduate Writing Center](https://wp.ucla.edu/wc/) share their favorite writing tips in short, entertaining, and interactive videos.
 
 ## Genesis
 
-This project was conceived in late 2019, when [Doug](https://uclalibrary.github.io/research-tips/about/creative-team/doug/), WI+RE Co-Founder, shared a bus ride with [Christine Holten](https://wp.ucla.edu/person/christine-holten-2/), director of the UCLA Undergraduate Writing Center (UWC). They got to talking about possible ways for WI+RE to collaborate with Peer Learning Facilitators from the UWC. We’ve worked with the UWC before in tutorials such as [Writing for Your Discpline](https://uclalibrary.github.io/research-tips/writing-for-your-discipline/), but have not had the chance to collaborate with the students who provide writing advice at the UWC.
+This project was conceived in late 2019, when [Doug](https://uclalibrary.github.io/research-tips/about/creative-team/doug/), WI+RE Co-Founder, shared a bus ride with [Christine Holten](https://wp.ucla.edu/person/christine-holten-2/), director of the UCLA Undergraduate Writing Center (UWC). They got to talking about possible ways for WI+RE to collaborate with Peer Learning Facilitators (PLFs) from the UWC. We’ve worked with the UWC before in tutorials such as [Writing for Your Discpline](https://uclalibrary.github.io/research-tips/writing-for-your-discipline/), but have not had the chance to collaborate with the students who provide writing advice at the UWC.
 
 We decided to make a series of videos similar to our [Reading Strategies](https://uclalibrary.github.io/research-tips/reading-strategies/) series. PLFs would share a favorite writing tip in their authentic voice. And we would add interactive questions to the videos using H5P in order to create a more engaging learning experience.
 
