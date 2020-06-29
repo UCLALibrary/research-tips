@@ -18,8 +18,10 @@ background:
             {% assign sorted-items = group.items | sort: "sort-weight" %}
             {% for tutorial in sorted-items %}
             {% assign mod = forloop.index | modulo: 2 %}
+<!--            if in left column-->
             {% if mod == 1 %}
             <div class="row">
+            {% endif %}
                 <div class="col-sm">
                     <div class="row">
                         <div class="col-md-4">
@@ -49,49 +51,21 @@ background:
                             {% endif %}
                         </div>
                 </div>
-            {% if forloop.last == true %}
+<!--            if in right column-->
+            {% if mod == 0 %}
+                </div>
+                <hr>
+            {% endif %}
+<!--            if in left column and last post in category-->
+            {% if mod == 1 and forloop.last == true %}
                 <div class="col-sm">
                 </div>
             </div>
-            {% endif %}
-            {% else %}
-            <div class="col-sm">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 100%;">
-                            {% if tutorial.thumbnail %}
-                                <img src="{{ tutorial.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
-                            {% else %}
-                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Tutorial icon">
-                            {% endif %}
-                        </a>
-                        </div>
-                        <div class="col-md-8">
-                            <h3 class="mt-0 mb-1"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
-                        </div>
-                    </div>
-                    <p class="post-subtitle text-justify">
-                                {% if tutorial.description %}
-                                    {{ tutorial.description }}
-                                {% else %}
-                                    {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
-                                {% endif %}
-                            </p>
-                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
-                            <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
-                            {% if tutorial.handout %}
-                                <a href="{{ tutorial.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
-                            {% endif %}
-                        </div>
-                </div>
-        </div>
             <hr>
             {% endif %}
         {%endfor%}
         </div>
 </div>
 {%endfor%}
-
-<hr>
 
 {% include pager.html %}
