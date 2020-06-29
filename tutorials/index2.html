@@ -10,15 +10,15 @@ background:
 {% assign groups = site.tutorials | group_by: "category" | sort: "sort-weight" %}
 
 {% for group in groups %}
-    <div class="card mt-5 shadow">
+    <div class="card shadow mt-5">
         <div class="card-header pt-4">
             <h2 id="{{ group.name | slugify }}">{{ group.name }}</h2>
         </div>
         <div class="card-body">
             {% assign sorted-items = group.items | sort: "sort-weight" %}
             {% for tutorial in sorted-items %}
-            {% capture LRcycle %}{% cycle 'left', 'right' %}{% endcapture %}
-            {% if LRcycle == 'left' %}
+            {% assign mod = forloop.index | modulo: 2 %}
+            {% if mod == 1 %}
             <div class="row">
                 <div class="col-sm media">
                     <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
@@ -46,9 +46,11 @@ background:
                     </div>
                 </div>
             {% if forloop.last == true %}
+                <div class="col-sm">
+                </div>
             </div>
             {% endif %}
-            {% elsif LRcycle == 'right' %}
+            {% else %}
             <div class="col-sm media">
                     <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
                             {% if tutorial.thumbnail %}
@@ -78,40 +80,8 @@ background:
             <hr>
             {% endif %}
         {%endfor%}
-<!--
-            <ul class="list-unstyled">
-            {% assign sorted-items = group.items | sort: "sort-weight" %}
-            {% for tutorial in sorted-items %}
-                <li class="media mt-2">
-                        <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
-                            {% if tutorial.thumbnail %}
-                                <img src="{{ tutorial.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
-                            {% else %}
-                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Tutorial icon">
-                            {% endif %}
-                        </a>
-                    <div class="media-body">
-                            <h3 class="mt-0 mb-1"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
-                            <p class="post-subtitle text-justify">
-                                {% if tutorial.description %}
-                                    {{ tutorial.description }}
-                                {% else %}
-                                    {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
-                                {% endif %}
-                            </p>
-                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
-                            <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
-                            {% if tutorial.handout %}
-                                <a href="{{ tutorial.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
-                            {% endif %}
-                        </div>
-                    </div>
-                </li>
-                <hr>
-            {%endfor%}
-            </ul>
--->
         </div>
+</div>
 {%endfor%}
 
 <hr>
