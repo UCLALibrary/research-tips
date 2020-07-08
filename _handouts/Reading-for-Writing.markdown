@@ -16,7 +16,7 @@ notes: ""
 description: "Want to improve your academic writing? Complete this interactive activity to take your writing to the next level."
 handout-url: /assets/handouts/reading-for-style-d2.pdf
 thumbnail: /assets/handouts/thumbnails/reading-for-style-tn.png
-embed-url: https://app.box.com/embed/s/2u5rz8plkbj9p0q1yvkvaok5iale7kdb?sortColumn=date&view=list
+embed-url: https://drive.google.com/file/d/19wBPf0RxmEWhqfP-rZzwnvNsEVx1YIkK/preview
 category: Getting Started
 tags:
 - Reading for Writing

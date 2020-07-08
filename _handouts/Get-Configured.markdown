@@ -9,7 +9,7 @@ notes: ""
 description: "Configure your computer to access the library's many resources."
 handout-url: /assets/handouts/vpn.pdf
 thumbnail: /assets/handouts/thumbnails/vpn-tn.png
-embed-url: https://app.box.com/embed/s/dvq4i0twggmg4haicylpwn6gxuobwfh8?sortColumn=date&view=list
+embed-url: https://drive.google.com/file/d/13hVXL5IM9qv1rUGB0P5iNziXveVl6jLL/preview
 category: Getting Started
 tags:
 - vpn

@@ -12,7 +12,7 @@ notes: ""
 description: "Review articles give you an efficient way to get an overview of a body of research on your topic."
 handout-url: /assets/handouts/introduction-to-articlesplus-fixed.pdf
 thumbnail: /assets/handouts/thumbnails/introduction-to-articlesplus-tn.png      
-embed-url: https://app.box.com/embed/s/ppze9u0ehodnlvkuxxc2axrx6imywqhw?sortColumn=date&view=list
+embed-url: https://drive.google.com/file/d/15Cf8IzQFcF_1vt3LD5kbI7L_D4kk2qqO/preview
 category: Literature Reviews
 tags:
 - review articles

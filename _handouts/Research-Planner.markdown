@@ -21,7 +21,7 @@ notes: ""
 description: "Break down your assigment and stay on top of deadlines with this useful planner!"
 handout-url: /assets/handouts/research-paper-planner-d2.pdf
 thumbnail: /assets/handouts/thumbnails/research-paper-planner-2-tn.png
-embed-url: https://app.box.com/embed/s/9jpdu24cdaumvctrbe0a8x1buwpyzag4?sortColumn=date&view=list
+embed-url: https://drive.google.com/file/d/1W_AyLRDgwi-FurgM3VXlYx9pWsgIBle8/preview
 category: Getting Started
 tags:
 - planning
