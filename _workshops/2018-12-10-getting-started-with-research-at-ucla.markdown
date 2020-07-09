@@ -1,6 +1,6 @@
 ---
 title:  "Getting Started with Research at UCLA"
-date:   2018-12-19
+date:   2018-12-10
 authors:
     - shannon-roux
     - taylor-harper

@@ -1,6 +1,6 @@
 ---
 title:  "Finding Sources with the UCLA Library"
-date:   2019-01-02
+date:   2018-12-12
 authors:
     - renee-romero
     - shannon-roux

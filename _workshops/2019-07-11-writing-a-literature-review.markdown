@@ -1,6 +1,6 @@
 ---
 title:  "Writing a Literature Review"
-date:   2019-01-07
+date:   2019-07-11
 authors:
     - kian-ravaei
     - taylor-harper

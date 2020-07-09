@@ -1,6 +1,6 @@
 ---
 title:  "Collecting and Citing Sources"
-date:   2019-01-02
+date:   2018-12-14
 authors:
     - caitlin-meyer
     - shannon-roux

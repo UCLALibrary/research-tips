@@ -1,6 +1,6 @@
 ---
 title:  "Developing your Long Term Research Plan"
-date:   2019-01-04
+date:   2018-12-13
 authors:
     - "UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences"
     - kian-ravaei
