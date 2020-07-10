@@ -1,5 +1,5 @@
 ---
-title:  "Find and Use Review Articles"
+title:  "Find Articles and More with ArticlesPlus"
 date:   2019-02-25
 authors: 
     - caitlin-meyer 
@@ -9,7 +9,7 @@ contributors:
     - UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences
     - UCLA Undergraduate Writing Center
 notes: ""
-description: "Review articles give you an efficient way to get an overview of a body of research on your topic."
+description: "Now you can quickly find many millions of peer-reviewed articles, newspaper articles, government documents, and more right from the library homepage!"
 handout-url: /assets/handouts/introduction-to-articlesplus-fixed.pdf
 thumbnail: /assets/handouts/thumbnails/introduction-to-articlesplus-tn.png      
 embed-url: https://drive.google.com/file/d/15Cf8IzQFcF_1vt3LD5kbI7L_D4kk2qqO/preview
