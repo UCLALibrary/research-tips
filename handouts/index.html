@@ -15,7 +15,7 @@ background:
             <ul class="list-unstyled">
             {% for handout in group.items %}
                 <li class="media mt-2">
-                    <a href="{{ handout.handout-url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                    <a href="{{ handout.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
                         {% if handout.thumbnail %}
                             <img src="{{ handout.thumbnail | relative_url }}" class="mr-3 img-fluid img-thumbnail d-none d-md-block" style="max-width: 100%;" alt="Handout icon">
                         {% else %}
@@ -33,7 +33,7 @@ background:
                             </p>
                         <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
                             <a href="{{ handout.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">More information</a>
-                            <a href="{{ handout.handout-url | relative_url | replace: '//', '/' }}" class="btn btn-primary">PDF</a>
+                            <a href="{{ handout.embed-url | replace: "preview", "view" }}" class="btn btn-primary">PDF</a>
                         </div>
                     </div>
                 </li>

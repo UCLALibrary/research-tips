@@ -9,7 +9,7 @@ layout: post
               <div class="card-body">
                   <h5 class="card-title">{{ page.title }}</h5>
                 <p class="card-text">{{ page.description }}</p>
-                <a href="{{ page.handout-url  | relative_url }}" class="btn btn-primary">PDF</a>
+                <a href="{{ page.embed-url | replace: "preview", "view" }}" class="btn btn-primary">PDF</a>
               </div>
             </div>
 </div>
