@@ -87,8 +87,8 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-    - { text: 'Some text you want to appear', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
     - { text: 'Some text you want to appear' }
 #
 # CORE COMPETENCIES
