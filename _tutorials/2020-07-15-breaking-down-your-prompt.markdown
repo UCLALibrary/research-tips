@@ -31,10 +31,10 @@ featured:
 authors:
     - chris-lopez
     - kian-ravaei
+    - doug-worsham
 contributors:
     - salma-abumeeiz
     - hannah-sutherland
-    - doug-worsham
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
