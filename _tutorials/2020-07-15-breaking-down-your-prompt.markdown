@@ -35,6 +35,8 @@ authors:
 contributors:
     - salma-abumeeiz
     - hannah-sutherland
+    - Alicia Reiley
+    - Powell Library Embedded Inquiry Specialists
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
