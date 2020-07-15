@@ -36,6 +36,9 @@ sort-weight: 33.1
 learning-outcomes:
    - Identify multiple websites and adopt a sequenced workflow to search for e-books and electronic resources
    - Request help from the library if needed resources are not found
+# ######
+# Accessibility info
+# ######
 accessibility-info:
    - { text: 'WAVE tested - 0 errors', date: '2020-06-09', url: 'https://wave.webaim.org/' }
    - { text: 'Closed Captioning Available' }
