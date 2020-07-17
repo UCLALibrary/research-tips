@@ -16,6 +16,13 @@ handout: /assets/handouts/turn-questions-into-keywords-d2-form.pdf
 handout-thumbail: /assets/handouts/thumbnails/turn-questions-into-keywords-tn.png
 category: Finding and Citing Sources
 sort-weight: 32
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
+  'https://ucla.app.box.com/s/p3vum64dpifmm9r5e99eg0ts5jgcc6ks' }
 learning-outcomes:
     - Identify core concepts in research questions
     - List core concepts as keywords
