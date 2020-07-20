@@ -22,6 +22,13 @@ awards:
 thumbnail: /assets/tutorials/thumbnails/FindingArticlesThumbnail.jpg
 category: Finding and Citing Sources
 sort-weight: 33.2
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+    - { text: 'Closed Captioning Available' }
+    - { text: 'WAVE tested - 0 errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
+    - { text: 'Issues filed for one accessibility improvements - headers', date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Navigate search filters
     - Construct effective searches
