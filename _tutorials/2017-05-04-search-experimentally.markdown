@@ -11,6 +11,7 @@ sort-weight: 34
 # ######
 accessibility-info:
    - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
+   - { text: 'Issues filed for two accessibility improvements - headers', date: '2020-07-15', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
    - Use a variety of keywords to search for sources
    - Broaden and narrow search results (using tools such as Boolean Operators, etc.) 
