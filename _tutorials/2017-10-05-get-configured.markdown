@@ -27,6 +27,13 @@ handout: /assets/handouts/vpn.pdf
 handout-thumbail: /assets/handouts/thumbnails/vpn-tn.png
 category: Finding and Citing Sources
 sort-weight: 30
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+    - { text: 'Closed Captioning Available' }
+    - { text: 'WAVE tested - 5 contrast errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
+    - { text: 'Issues filed for two accessibility improvements - headers and fix contrast errors', date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
    - Identify the benefits of setting up the VPN or Proxy Server
    - Download VPN at UCLA 
