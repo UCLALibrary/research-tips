@@ -35,7 +35,7 @@ sort-weight: 3
 accessibility-info:
     - { text: 'Closed Captioning Available' }
     - { text: 'WAVE tested - 0 errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
-    - { text: 'Issue filed for one accessibility improvement - headers, date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+    - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Brainstorm research projects
     - Articulate the benefits of research 
@@ -54,5 +54,5 @@ tags:
 
 <h3 class="mt-3">Resources</h3>
 
-<p>Check out the<a href="http://www.ugeducation.ucla.edu/urhass/" target="blank">Undergraduate Research Center for the Humanities, Arts and Social sciences</a>.<p>
+<p>Check out the <a href="http://www.ugeducation.ucla.edu/urhass/" target="blank">Undergraduate Research Center for the Humanities, Arts and Social sciences</a>.<p>
 <p>Check out the <a href="http://www.ugresearchsci.ucla.edu/" target="blank">Undergraduate Research Center for the Sciences</a>.</p>
