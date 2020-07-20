@@ -35,7 +35,7 @@ sort-weight: 3
 accessibility-info:
     - { text: 'Closed Captioning Available' }
     - { text: 'WAVE tested - 0 errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
-    - { text: 'Issues filed for two accessibility improvements - headers, date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+    - { text: 'Issue filed for one accessibility improvement - headers, date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Brainstorm research projects
     - Articulate the benefits of research 
