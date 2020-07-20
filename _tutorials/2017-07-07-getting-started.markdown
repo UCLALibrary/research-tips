@@ -1,7 +1,7 @@
 ---
-title:  "Getting Started with Research at UCLA"
+title: "Getting Started with Research at UCLA"
 description: "Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!"
-date:   2017-07-07
+date: 2017-07-07
 last-updated: 2020-06-11
 authors: 
     - taylor-harper
@@ -46,7 +46,7 @@ tags:
 - research at UCLA
 ---
 
-<p >Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!</p>
+<p>Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!</p>
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2fIpRwxH30U" frameborder="0" allowfullscreen></iframe></div>
