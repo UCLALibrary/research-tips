@@ -23,7 +23,6 @@ sort-weight: 23
 # Accessibility info
 # ######
 accessibility-info:
-    - { text: 'Closed Captioning Available' }
     - { text: 'WAVE tested - 13 contrast errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
     - { text: 'Issues filed for three accessibility improvements - headers, fix contrast errors, ARIA hidden', date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
