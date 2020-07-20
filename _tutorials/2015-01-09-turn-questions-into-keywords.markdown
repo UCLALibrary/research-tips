@@ -1,6 +1,6 @@
 ---
-title:  "Turn Questions into Keywords"
-date:   2015-01-09
+title: "Turn Questions into Keywords"
+date: 2015-01-09
 last-updated: 2019-07-12
 authors: 
     - taylor-harper
@@ -34,7 +34,7 @@ tags:
 # image: featuredimagehere
 ---
 
-<p >Develop your research questions into keywords before you search. Think about your topic from a variety of perspectives to generate a big list of keywords.</p>
+<p>Develop your research questions into keywords before you search. Think about your topic from a variety of perspectives to generate a big list of keywords.</p>
 
 <!--
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?" data-caption="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> -->
@@ -44,7 +44,7 @@ tags:
 
 <h3 class="mt-3">Give it a try</h3>
 
-<p >First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.</p>
+<p>First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.</p>
 
 
 
