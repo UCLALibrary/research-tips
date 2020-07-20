@@ -19,6 +19,13 @@ handout: /assets/handouts/citation-integration-final.pdf
 handout-thumbail: /assets/handouts/thumbnails/citation-integration-tn.png
 category: Writing Strategies
 sort-weight: 23
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+    - { text: 'Closed Captioning Available' }
+    - { text: 'WAVE tested - 13 contrast errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
+    - { text: 'Issues filed for three accessibility improvements - headers, fix contrast errors, ARIA hidden', date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Summarize citation structures for sources in research
     - Recognize the purpose of each listed citation strategy
