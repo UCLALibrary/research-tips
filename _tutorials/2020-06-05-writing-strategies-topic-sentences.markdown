@@ -53,7 +53,13 @@ category: Writing Strategies
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
 sort-weight: 25
-#
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
+   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
