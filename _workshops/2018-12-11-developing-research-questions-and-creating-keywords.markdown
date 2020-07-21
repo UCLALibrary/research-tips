@@ -15,10 +15,13 @@ awards:
     - merlot-5-star-editor-review
 thumbnail: /assets/workshops/thumbnails/Savvy-Searcher.png
 category: Cornerstone Research Workshops
-#
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
-#
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
+   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Develop specific research questions from a topic
     - Turn questions into keywords
