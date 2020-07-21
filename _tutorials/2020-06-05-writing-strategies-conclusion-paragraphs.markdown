@@ -53,10 +53,13 @@ category: Writing Strategies
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
 sort-weight: 26
-#
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
-#
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
+   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Describe the general structure of a conclusion paragraph.
     - Describe the amount of detail that should go into the restatement of the thesis.
