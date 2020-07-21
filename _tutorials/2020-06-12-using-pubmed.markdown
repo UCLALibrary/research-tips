@@ -34,8 +34,8 @@ sort-weight: 33.4
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-21,' url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+   - { text: 'WAVE tested - 0 errors,' date: '2020-07-21,' url: 'https://wave.webaim.org/' }
+   - { text: 'Issue filed for one accessibility improvement - headers,' date: '2020-07-21,' url: 'https://github.com/UCLALibrary/research-tips/issues' }
    # FOR HANDOUT CONTENT TYPE
 # { text: 'PDF Accessibility checked with Adobe Acrobat', date: 'YYYY-MM-DD' }
 # { text: 'PDF Accessibility needs review', date: 'YYYY-MM-DD', link-text: 'Issue reported', url: 'link to issue' } 
