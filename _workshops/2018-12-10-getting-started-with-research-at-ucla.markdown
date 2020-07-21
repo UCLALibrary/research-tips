@@ -9,10 +9,13 @@ contributors:
     - "UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences"
     - "UCLA Undergraduate Research Center - Sciences"
 description: "Looking to get involved with research at UCLA? In this workshop, you'll meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and this workshop connects you with resources and opportunities to help you get started today!"
-#
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
-#
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-21, url: 'https://wave.webaim.org/' }
+   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21’, url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Identify possible areas of interest for a research project
     - Find campus resources that match your needs and interests
