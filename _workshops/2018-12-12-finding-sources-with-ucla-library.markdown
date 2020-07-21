@@ -19,6 +19,13 @@ learning-outcomes:
     - Find research guides related to your project
     - Find sources using the UCLA Library catalog
     - Find scholarly articles using online databases
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
+   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 acrl-frames:
     - Searching as Strategic Exploration
 tags:
