@@ -10,9 +10,19 @@ background:
 {% assign groups = site.tutorials | group_by: "category" | sort: "sort-weight" %}
 
 {% for group in groups %}
-    <div class="card mt-5 shadow">
+    {% assign anchorname = group.name | slugify %}
+    <a href="#{{ anchorname }}">
+        <button type="button" class="btn btn-primary mb-1">
+            {{ group.name }}
+        </button>
+    </a> 
+{% endfor %}
+
+{% for group in groups %}
+    <div class="card mt-5">
         <div class="card-header pt-4">
-            <h2 id="{{ group.name | slugify }}">{{ group.name }}</h2>
+            {% assign anchorname = group.name | slugify %}
+            <h2 id="{{ anchorname }}">{{ group.name }}</h2>
         </div>
         <div class="card-body">
             <ul class="list-unstyled">
