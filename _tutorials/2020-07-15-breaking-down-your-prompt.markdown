@@ -39,6 +39,7 @@ contributors:
     - Powell Library Embedded Inquiry Specialists
 # References and Attribution
 # include a list of referenced work, if necessary
+handout: https://drive.google.com/file/d/1Um0m55-AmEmBfV3Uu4MUGOZYc3Prqu4Q/preview
 references:
     - UCLA Writing Programs
 # THUMBNAIL
