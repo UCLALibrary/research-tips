@@ -110,7 +110,7 @@ tags:
 
 <div class="row">
     <div class="col-sm-12 col-md-5">
-    <a href="https://drive.google.com/file/d/1bFYc0CmG-Xx2rKfKMP9jQvVU5u6uFqDN" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/contextual-keywords.png' | relative_url }}"   alt="Screenshot of Finding and Using Keywords in Context Google Doc." data-caption="Finding and Using Keywords in Historical Context Google Doc."></a>
+    <a href="https://drive.google.com/file/d/1bFYc0CmG-Xx2rKfKMP9jQvVU5u6uFqDN" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/contextual-keywords_Page_1.png' | relative_url }}"   alt="Screenshot of Finding and Using Keywords in Context Google Doc." data-caption="Finding and Using Keywords in Historical Context Google Doc."></a>
     </div>
     <div class="col-sm-12 col-md-7">
         <p class="card-text">Language changes over time and groups of people may refer to the same thing using different words. Learn how to use a variety of keywords when searching for resources!</p>
