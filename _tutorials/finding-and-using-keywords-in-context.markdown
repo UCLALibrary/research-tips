@@ -13,7 +13,7 @@ description: "Language changes over time and groups of people may refer to the s
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2020-07-23
+date:  2020-07-23
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
@@ -29,7 +29,7 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - matthew-johnson
+    - Matthew Johnson
     - salma-abumeeiz
     - hannah-sutherland
 contributors:
@@ -52,7 +52,7 @@ awards:
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 #
-category: category: Finding and Citing Sources
+category: Finding and Citing Sources
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
@@ -105,4 +105,5 @@ acrl-frames:
 #
 tags:
     - keywords
+    - history
 ---
