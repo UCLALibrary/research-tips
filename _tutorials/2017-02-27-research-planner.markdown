@@ -20,7 +20,7 @@ contributors:
     - royson-lin
     - University of Minnesota Libraries Research Paper Calculator
 thumbnail: /assets/tutorials/thumbnails/ResearchPaperPlannerThumbnail.jpg
-handout: /assets/handouts/research-paper-planner-d2.pdf
+handout: https://drive.google.com/file/d/1W_AyLRDgwi-FurgM3VXlYx9pWsgIBle8/preview
 handout-thumbail: /assets/handouts/thumbnails/research-paper-planner-2-tn.png
 category: Getting Started with Research
 sort-weight: 5

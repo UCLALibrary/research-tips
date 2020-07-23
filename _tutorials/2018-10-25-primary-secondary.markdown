@@ -24,7 +24,7 @@ awards:
     - primo-site-of-the-month-march-2019
     - merlot-5-star-editor-review
 description: How to tell the difference between primary and secondary sources.
-handout: /assets/handouts/PSS_handout_primary-secondary.pdf
+handout: https://drive.google.com/file/d/1jLa6Y4WDeCXu6_NSn-QdosvdSGW2RH2U/preview
 handout-thumbail: /assets/handouts/thumbnails/PSS_handout_thumbnail
 thumbnail: /assets/tutorials/thumbnails/WheelOfSourcesThumbnail.png
 category: Finding and Citing Sources

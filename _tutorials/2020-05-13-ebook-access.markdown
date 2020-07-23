@@ -28,7 +28,7 @@ contributors:
     - Miki Goral
     - Alison Scott
 thumbnail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
-handout: https://ucla.box.com/s/fjczvyhqg6f2cyiatrr8th1ftvztcfu2
+handout: https://drive.google.com/file/d/1_aUOBLeGgWBUimh05A__KD1OgHj_KuPu/preview
 # todo:: replace handout thumbnail, main thumbnail color is off
 handout-thumbail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
 category: Finding and Citing Sources

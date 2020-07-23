@@ -48,7 +48,7 @@ background:
                         <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
                             <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
                             {% if tutorial.handout %}
-                                <a href="{{ tutorial.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
+                                <a href="{{ tutorial.handout | replace: "preview", "view" }}" class="btn btn-primary">Handout</a>
                             {% endif %}
                         </div>
                     </div>

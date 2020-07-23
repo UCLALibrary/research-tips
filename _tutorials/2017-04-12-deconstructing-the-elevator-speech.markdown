@@ -15,7 +15,7 @@ learning-outcomes:
     - Describe the elements of an effective elevator speech
     - Sketch an elevator speech
     - Distinguish elevator speech from research abstract
-handout: /assets/handouts/elevator-speech.pdf
+handout: https://drive.google.com/file/d/1w_bFrQf3yXm5nrS3N1HkcGa-fYBLpXuE/preview
 handout-thumbail: /assets/handouts/thumbnails/elevator-speech-tn.png
 tags:
 - elevator speech
