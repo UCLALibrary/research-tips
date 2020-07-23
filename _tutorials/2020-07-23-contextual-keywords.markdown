@@ -18,7 +18,6 @@ date:   2020-07-23
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: YYYY-MM-DD
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
@@ -38,8 +37,6 @@ contributors:
     - chris-lopez
 # References and Attribution
 # include a list of referenced work, if necessary
-references:
-    - name, organization, or citation
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
@@ -50,20 +47,11 @@ handout-thumbail: /assets/handouts/thumbnails/KeywordsInContext.png
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
 #
-awards: 
-   - award-1
-   - award-2
 #
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 #
 category: Finding and Citing Sources
-#
-# SORT WEIGHT
-# not built yet - but hoping this will work soon - 2020-06-09
-# This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
-#
-sort-weight: ##
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
@@ -90,11 +78,6 @@ learning-outcomes:
 # Including text: '' is required
 # Optionally include a url and link-text
 #
-accessibility-info:
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear' }
-#
 # CORE COMPETENCIES
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
@@ -117,4 +100,5 @@ acrl-frames:
 tags:
     - keywords
     - history
+    
 ---
