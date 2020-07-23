@@ -13,7 +13,7 @@ description: "A short and snappy description referencing the learning outcome an
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   YYYY-MM-DD
+date:   2020-07-23
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
@@ -53,7 +53,7 @@ awards:
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 #
-category: 
+category: Finding and Citing Sources
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
