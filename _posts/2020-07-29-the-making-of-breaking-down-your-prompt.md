@@ -11,11 +11,11 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 
 ## Introduction
 
-<a href="{{ site.url}}{{ site.baseurl }}/breaking-down-your-prompt" target="_blank">Breaking Down Your Prompt</a> is a fillable Google Doc that helps you break down any prompt into its main tasks and requirements, list helpful resources and readings, and brainstorm ideas for answering the prompt.
+<a href="{{ site.url}}/breaking-down-your-prompt" target="_blank">Breaking Down Your Prompt</a> is a fillable Google Doc that helps you break down any prompt into its main tasks and requirements, list helpful resources and readings, and brainstorm ideas for answering the prompt.
 
 ## Genesis
 
-The aim of this project was to adapt a previously created WI+RE resource on breaking down your writing assignment, created by <a href="{{ site.url}}{{ site.baseurl }}/about/creative-team/doug/" target="_blank">Doug</a> with the help of Powell Library Cluster Embedded Inquiry Specialists.
+The aim of this project was to adapt a previously created WI+RE resource on breaking down your writing assignment, created by <a href="{{ site.url}}/about/creative-team/doug/" target="_blank">Doug</a> with the help of Powell Library Cluster Embedded Inquiry Specialists.
 
 <figure class="figure border border-primary shadow mt-3">
   <img src="{{ '/assets/images/the-making-of-breaking-down-your-prompt/Breaking-down-your-writing-assignment-original-handout.jpeg' | relative_url }}" class="figure-img img-fluid rounded" alt="The previous version of the Breaking Down Your Prompt tutorial.">
@@ -49,7 +49,7 @@ Next, we made several paper prototypes.
 
 # Digital Prototyping
 
-The final step was to create a digital prototype with Google Docs, and make an <a href="{{ site.url}}{{ site.baseurl }}/handouts/Breaking-Down-Your-Prompt/" target="_blank">accessible PDF version</a> that also works as a printable handout.
+The final step was to create a digital prototype with Google Docs, and make an <a href="{{ site.url}}/handouts/Breaking-Down-Your-Prompt/" target="_blank">accessible PDF version</a> that also works as a printable handout.
 
 <figure class="figure border border-primary shadow mt-3">
   <img src="{{ '/assets/images/the-making-of-breaking-down-your-prompt/BreakingDownYourPromptHandoutThumbnail.jpeg' | relative_url }}" class="figure-img img-fluid rounded" alt="Screenshot of the accessible PDF version of Breaking Down Your Prompt.">
