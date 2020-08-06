@@ -2,11 +2,11 @@
 {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 <div class="card">
   <div class="card-header">
-    About this {{ page.layout }}
+      <h2>About this {{ page.layout }}</h2>
   </div>
   <div class="card-body">
         {% if page.awards %}
-            <h5 class="card-title">Awards and Recognition</h5>
+            <h3 class="card-title">Awards and Recognition</h3>
             <div class="container">
                 <div class="row">
                     {% for award in page.awards %}
@@ -17,7 +17,7 @@
                 </div>
             </div>
         {% endif%}
-        <h5 class="card-title">Authors</h5>  
+        <h3 class="card-title">Authors</h3>  
         <p class="card-text">
                 {% if page.authors %}
                     {% for authorname in page.authors %}
@@ -36,7 +36,7 @@
                 {% endif %}
         </p>
       {% if page.contributors %}
-                  <h5 class="card-title">Contributors</h5>
+                  <h3 class="card-title">Contributors</h3>
                   <p class="card-text">
                     {% for contributorname in page.contributors %}
                         {% if member-name-list contains contributorname %}
@@ -53,11 +53,11 @@
       {% endif %}
       <!-- todo:: fix double research-tips -->
       <!--
-              <h5 class="card-title">Link</h5>
+              <h3 class="card-title">Link</h3>
                 <p class="card-text"><a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a></p>
         -->
       {% if page.learning-outcomes %}
-        <h5 class="card-title">Learning Outcomes</h5>
+        <h3 class="card-title">Learning Outcomes</h3>
         <ul>
             {% for outcome in page.learning-outcomes %}
                 <li>
@@ -68,7 +68,7 @@
       {% endif %}
 
       {% if page.accessibility-info %}
-        <h5 class="card-title">Accessibility Information</h5>
+        <h3 class="card-title">Accessibility Information</h3>
         <ul>
             {% for info in page.accessibility-info %}
                 <li>
@@ -85,7 +85,7 @@
       {% endif %}
     <!-- todo:: build out pages on core comps and acrl-frames
       {% if page.core-competencies %}
-      <h5 class="card-title">The <a href="https://escholarship.org/uc/item/2t03q5bw" target="_blank">Core Competencies for Research and Information Literacy at UCLA</a></h5>
+      <h3 class="card-title">The <a href="https://escholarship.org/uc/item/2t03q5bw" target="_blank">Core Competencies for Research and Information Literacy at UCLA</a></h3>
         <ul>
             {% for comp in page.core-competencies %}
                 <li>
