@@ -12,10 +12,10 @@ contributors:
 description: >-
     Here's our toolkit of slides and activities to help you offer your own workshop series on learner-centered design and rapid prototyping.
 category: Toolkits
-background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 accessibility-info:
     - { text: 'WAVE tested - 0 errors', date: '2020-08-06', url: 'https://wave.webaim.org/' }
     - { text: 'Images in workshop slides need alt text', date: '2020-08-06', link-text: 'Issue reported', url: 'https://github.com/UCLALibrary/research-tips/issues/181' }
+background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 <p>Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our <a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" target="_blank">complete toolkit</a> for a set of slides and activities you can use to host your own 3-day mini-course and quickly launch learner-centered design projects.</p>
 
