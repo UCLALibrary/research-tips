@@ -19,7 +19,7 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 <p>Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our <a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" target="_blank">complete toolkit</a> of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.</p>
 
-<p>This workshop series was first offered as a series of 3 synchronous zoom workshops open to all UCLA Library staff in March, 2020.</p>
+<p><em>Note: This workshop series was first offered as a series of 3 synchronous zoom workshops open to all UCLA Library staff in March, 2020. It includes time in the first workshop to established shared best practices for remote learning, and makes extensive use of breakout rooms for group collaboration.</em></p>
 
 <div class="card">
   <h2 class="card-header">Learner-Centered Design &amp; Rapid Prototyping Workshop Series</h2>
