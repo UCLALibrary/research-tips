@@ -17,7 +17,7 @@ accessibility-info:
     - { text: 'Images in workshop slides need alt text', date: '2020-08-06', link-text: 'Issue reported', url: 'https://github.com/UCLALibrary/research-tips/issues/181' }
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
-<p>Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our <a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" target="_blank">complete toolkit</a> for a set of slides and activities you can use to host your own 3-day mini-course and quickly launch learner-centered design projects.</p>
+<p>Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our <a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" target="_blank">complete toolkit</a> of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.</p>
 
 <p>This workshop series was first offered as a series of 3 synchronous zoom workshops open to all UCLA Library staff in March, 2020.</p>
 
