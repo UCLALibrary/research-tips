@@ -48,7 +48,7 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 <ul>
     <li>Provide a rapid introduction to learner-centered design, rapid prototyping, and creating instructional resources.</li>
     <li>Quickly generate a large set of instructional resource prototypes following best practices in learner-centered design.</li>
-    <li>Foster a community / cohort of library employees that can collaborate on the development of instructional resources.</li>
+    <li>Foster communities and cohorts who collaborate on the development of instructional resources together.</li>
 </ul>
 
 <h2><i class="fas fa-comments" aria-hidden="true"></i> Who can take this course?</h2>
