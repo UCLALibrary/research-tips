@@ -55,9 +55,9 @@ background:
                     {% assign mod = forloop.index | modulo: 2 %}
         <!--            if in left column-->
                     {% if mod == 1 %}
-                    <div class="row border-lg-bottom">
+                    <div class="row {% if forloop.rindex > 2 %} border-lg-bottom {% endif %}"> 
                     {% endif %}
-                        <div class="col-lg border-sm-bottom">
+                        <div class="col-lg border-sm-bottom {% if mod == 1 %} border-lg-right {% endif %}">
                             <div class="row">
                                 <div class="col-md-3 align-self-center mt-3">
                                     <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="d-none d-md-block" style="max-width: 100%;">
