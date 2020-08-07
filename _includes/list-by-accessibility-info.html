@@ -1,5 +1,6 @@
 {% for collection in site.collections %}
-{% if collection.label == "tutorials" or collection.label == "workshops" or collection.label == "handouts" %}
+<!-- todo:: add handouts below -->
+{% if collection.label == "tutorials" or collection.label == "workshops" <!-- or collection.label == "handouts" --> %}
   <h2>{{ collection.label | capitalize }}</h2>
     <table class="table table-responsive-sm">
         <thead>
