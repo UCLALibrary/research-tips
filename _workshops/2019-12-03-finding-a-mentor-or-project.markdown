@@ -12,7 +12,7 @@ contributors:
     - renee-romero
     - doug-worsham
 awards:
-    - primo
+    - primo2020
 thumbnail: /assets/workshops/thumbnails/ResearchMentorThumbnail.png
 description: "Once you've decided to do research, the next step is to make a list of research opportunities that interest you!"
 #

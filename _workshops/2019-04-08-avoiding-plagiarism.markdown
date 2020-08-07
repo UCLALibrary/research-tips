@@ -20,6 +20,7 @@ contributors:
     - renee-romero
 awards:
     - merlot-5-star-editor-review
+    - primo2020
 merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=773310623
 thumbnail: /assets/workshops/thumbnails/Certified-Citer.png
 description: "Avoiding plagiarism can be more tricky than it seems at first glance. Complete this activity to learn strategies for avoiding plagiarism."
