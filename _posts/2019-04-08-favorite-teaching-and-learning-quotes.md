@@ -17,9 +17,8 @@ authors:
     - xinyi-yan
     - renee-romero
     - royson-lin
-    - Chris-Lopez
+    - chris-lopez
     - kaitlin-alcontin
-
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
