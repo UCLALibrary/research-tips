@@ -18,6 +18,8 @@ authors:
     - renee-romero
     - royson-lin
     - Chris-Lopez
+    - kaitlin-alcontin
+
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -85,6 +87,10 @@ in the family of things.
 >Love takes off masks that we fear we cannot live without and know we cannot live within.
 >
 >_James Baldwin_, "The Fire Next Time"
+
+>Go and make interesting mistakes. Make amazing mistakes. Make glorious and fantastic mistakes. Break rules. Leave the world more interesting for your being here
+>
+>_Neil Gaiman_
 
 ### Want to add your favorite quote to this page?
 
