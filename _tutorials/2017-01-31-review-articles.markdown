@@ -137,7 +137,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
           <ul class="browser-default">
                 <li>the abstracts often talk about performing a study, or conducting an investigation;</li>
                 <li>the articles often contain a methods section or describe how the original research was performed;</li>
-                <li>the focus is often narrower, investingating specific research questions;</li>
+                <li>the focus is often narrower, investigating specific research questions;</li>
                 <li>while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.</li>
             </ul>
           <h6>Example abstract:</h6>
