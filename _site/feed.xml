@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-08-07T16:54:59-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">The Making of Breaking Down Your Prompt</title><link href="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/" rel="alternate" type="text/html" title="The Making of Breaking Down Your Prompt" /><published>2020-07-29T00:00:00-07:00</published><updated>2020-07-29T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-08-14T16:12:08-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping</title><link href="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/" rel="alternate" type="text/html" title="Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping" /><published>2020-08-03T00:00:00-07:00</published><updated>2020-08-03T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/">&lt;p&gt;Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our &lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; target=&quot;_blank&quot;&gt;complete toolkit&lt;/a&gt; of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: This workshop series was first offered as a series of 3 synchronous zoom workshops open to all UCLA Library staff in March, 2020. It includes time in the first workshop to establish shared best practices for remote learning and makes extensive use of breakout rooms for group collaboration.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;h2 class=&quot;card-header&quot;&gt;Learner-Centered Design &amp;amp; Rapid Prototyping Workshop Series&lt;/h2&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col col-sm-12 col-md-6 col-lg-4&quot;&gt;
+                &lt;h3 class=&quot;card-title&quot;&gt;Workshop Materials&lt;/h3&gt;
+                  &lt;!--&lt;p class=&quot;card-text&quot;&gt;The &lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; target=&quot;_blank&quot;&gt;Google Drive folder&lt;/a&gt; contains a workshop overview/syllabus, slides and activities for each session, as well as time estimates and options for independent work between sessions.&lt;/p&gt;--&gt;
+                    &lt;p&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fab fa-google-drive&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Download all!&lt;/a&gt;&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col col-sm-12 col-md-6 col-lg-8&quot;&gt;
+                    &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1XQmnP1TUEJRmAqHuwgXWgOzpjhofqf3V/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fas fa-file-word&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Course Overview&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1Uj8HrCWFB0RxB91AHMPgvkHcVnljXp9a-q803ySfGfs/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-images&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Session #1 Slides&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/12XhjrKoIGuCfXgSMH3MdLpUlNaKGd9rBeEc5-3LAwLc/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-images&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Session #2 Slides&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fJCk8WQoh6C_jI5rxqVR8AEAeBf3UruI7pbsuiTceFY/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-images&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Session #3 Slides&lt;/a&gt;&lt;/li&gt;
+                  &lt;/ul&gt;
+              &lt;/div&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;mt-5&quot;&gt;&lt;i class=&quot;fas fa-certificate&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Course Goals&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt;Provide a rapid introduction to learner-centered design, rapid prototyping, and creating instructional resources.&lt;/li&gt;
+    &lt;li&gt;Quickly generate a large set of instructional resource prototypes following best practices in learner-centered design.&lt;/li&gt;
+    &lt;li&gt;Foster communities and cohorts who collaborate on the development of instructional resources together.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;i class=&quot;fas fa-comments&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Who can take this course?&lt;/h2&gt;
+
+&lt;p&gt;This course is open for all and was designed as an introduction. No pre-requite skills or knowledge required!&lt;/p&gt;
+
+&lt;h2&gt;&lt;i class=&quot;fas fa-clock&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Time Commitment&lt;/h2&gt;
+&lt;p&gt;Participants in this mini-course should plan for 7-9 hours of active engagement to include 4.5 hours of interactive, synchronous workshops and 2-3 hours of individual, asynchronous project work.&lt;/p&gt;
+
+&lt;h2&gt;&lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Customizing this course&lt;/h2&gt;
+
+&lt;p&gt;Feel free to adapt and customize these materials to work for your own context! For example, you may want to offer this as a one-day in service, or as a longer series of shorter meetings. Go for it!&lt;/p&gt;
+
+&lt;p&gt;All materials are &lt;i class=&quot;fab fa-creative-commons&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Creative Commons licensed as Attribution-NonCommercial-ShareAlike to encourage sharing and adaption! When using or adapting these materials, please cite this course as:&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt;Worsham, D., Lopez, C., Sutherland,H., Ravaei, K., Romero, R., Abumeeiz, S. Learner-Centered Design &amp;amp; Rapid Prototyping Mini-Course. (2020).&lt;/cite&gt;&lt;/p&gt;
+
+&lt;h2&gt;Workshop Slides&lt;/h2&gt;
+
+&lt;h3&gt;Session 1&lt;/h3&gt;
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vRVTWGPHp0qGbEIesPAD-Yg7jUbgyhj76dPHg7UgMShoYCXLHD9dfzvsa8ZT4L0FtNujK-XaN1X9jrK/embed?start=false&amp;amp;loop=false&amp;amp;delayms=60000&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Session 2&lt;/h3&gt;
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vR6furrcAc821jcYyUE8tTmhNmHEE3Xv6ACJ_IGY8sH7wd96Luh_luG_LSrpINRXCsuHZe4fKIbzY1w/embed?start=false&amp;amp;loop=false&amp;amp;delayms=60000&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Session 3&lt;/h3&gt;
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vS9w3c3_oF-Gh_XE-qFmkhiGMrZ5t1mduA3BnXqTZD7SPJYSNPizO688QHomxAziNkN7iP3wxvCOg8s/embed?start=false&amp;amp;loop=false&amp;amp;delayms=60000&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 class=&quot;mt-5&quot;&gt;Interested in more than an intro?&lt;/h2&gt;
+
+&lt;p&gt;Check out &lt;a href=&quot;https://uclalibrary.github.io/foundations/&quot;&gt;Foundations in Learner-Centered Design&lt;/a&gt;, a free and fully open online mini-course, as well as WI+RE's &lt;a href=&quot;https://uclalibrary.github.io/research-tips/about/design-toolkit/&quot;&gt;growing toolkit&lt;/a&gt; of open materials on design for learning.
+&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Toolkits" /><summary type="html">Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our complete toolkit of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.</summary></entry><entry><title type="html">The Making of Breaking Down Your Prompt</title><link href="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/" rel="alternate" type="text/html" title="The Making of Breaking Down Your Prompt" /><published>2020-07-29T00:00:00-07:00</published><updated>2020-07-29T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/breaking-down-your-prompt&quot; target=&quot;_blank&quot;&gt;Breaking Down Your Prompt&lt;/a&gt; is a fillable Google Doc that helps you break down any prompt into its main tasks and requirements, list helpful resources and readings, and brainstorm ideas for answering the prompt.&lt;/p&gt;
 
@@ -577,41 +640,4 @@
             &lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name>giselle-burns</name></author><category term="Updates" /><summary type="html">Here are a few articles and videos about Smart Teaching that can be used in the Foundations tutorial in the future.</summary></entry><entry><title type="html">Foundations in Learner-Centered Design - Growth Mindset</title><link href="http://localhost:4000/research-tips/sandbox/foundations-growth-mindset/" rel="alternate" type="text/html" title="Foundations in Learner-Centered Design - Growth Mindset" /><published>2019-07-07T18:01:01-07:00</published><updated>2019-07-07T18:01:01-07:00</updated><id>http://localhost:4000/research-tips/sandbox/foundations-growth-mindset</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/foundations-growth-mindset/">&lt;p&gt;Here are some articles &amp;amp; other media resources on Growth Mindset, to be incorportated into the Foundations tutorial in the future.&lt;/p&gt;
-
-&lt;div class=&quot;card-deck&quot;&gt;
-    &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Carol Dweck's talk on Teaching a Growth Mindset&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Stanford University&lt;/h6&gt;
-            &lt;div class=&quot;text-center pt-3&quot;&gt;
-                 &lt;a href=&quot;https://www.youtube.com/watch?v=isHM1rEd3GE&quot; class=&quot;btn btn-primary&quot;&gt;Link&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;p class=&quot;card-text&quot;&gt;Dr. Carol Dweck, the founder of Mindset Theory, explains the definitions of Fixed vs Growth Mindset and presents her study on how to develop Growth Mindset.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Histroty and summary of Mindset study&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Mindset Works&lt;/h6&gt;
-            &lt;div class=&quot;text-center pt-3&quot;&gt;
-                 &lt;a href=&quot;https://www.mindsetworks.com/science/&quot; class=&quot;btn btn-primary&quot;&gt;Link&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;p class=&quot;card-text&quot;&gt;This website summarizes Dr. Dweck and collegues' research and the development of Mindset Theory.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card-deck mt-3&quot;&gt;
-    &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Qoutes on Growth Mindset&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt; from Dweck's talk and articles&lt;/h6&gt;
-            &lt;p class=&quot;card-text&quot;&gt; 
-                &lt;blockquote cite=&quot;https://www.youtube.com/watch?v=isHM1rEd3GE&quot;&gt;
-                &lt;p&gt; Students can have different perspectives on their intelligence, talents, and abilities. When they are in more of a fixed mindset, they believe their talents and abilities are just these fixed traits. They have a certain amount and that's it. This makes them afraid of learning. They are so worried about looking smart and not looking dumb that they back off from challenging learning, but when they are more of a growth mindset, they can forget about smart and dumb; they can focus on developing their abilities. As a result, they take on challenges, they are more resilient in the face of setbacks, and they learn more. &lt;/p&gt;
-                &lt;footer&gt;—Carol Dweck, &lt;cite&gt;Teaching a Growth Mindset&lt;/cite&gt;&lt;/footer&gt;
-                &lt;/blockquote&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name>xinyi-yan</name></author><category term="Updates" /><summary type="html">Here are some articles &amp;amp; other media resources on Growth Mindset, to be incorportated into the Foundations tutorial in the future.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>giselle-burns</name></author><category term="Updates" /><summary type="html">Here are a few articles and videos about Smart Teaching that can be used in the Foundations tutorial in the future.</summary></entry></feed>

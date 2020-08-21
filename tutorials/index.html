@@ -79,6 +79,18 @@ background:
                                             {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
                                         {% endif %}
                                     </p>
+                                <!--learning outcome tool tip-->
+<!--
+                                {% if tutorial.learning-outcomes %}
+                                {% assign outcomeoutput = "" %}
+                                {% for outcome in tutorial.learning-outcomes %}
+                                    {% assign outcomeoutput = outcomeoutput | append: "&#8226;" | append: outcome | append: "&#13;" %}
+                                {% endfor %}
+                                <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Learning Outcomes">
+                                    <a href="" data-html="true" class="btn btn-secondary" data-toggle="tooltip" text-align="left" data-placement="top" title="{{ outcomeoutput }}">Learning Outcomes</a>
+                                </div>
+                                {% endif %}
+-->
                                 <div class="btn-group btn-group-sm float-right mb-3" role="group" aria-label="Actions">
                                     <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
                                     {% if tutorial.handout %}

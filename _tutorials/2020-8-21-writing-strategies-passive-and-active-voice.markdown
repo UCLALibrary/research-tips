@@ -3,35 +3,35 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Writing Conclusion Paragraphs"
+title:  "Passive and Active Voice"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Need to finish off that essay? Learn top tips on conclusion paragraphs from the UCLA Undergraduate Writing Center!"
+description: "Learn about passive and active voice from Jemma, a Peer Learning Facilitator at the UCLA Undergraduate Writing Center."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2020-06-05
+date:   2020-08-21
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: 2020-06-05
+last-updated:
 #
 # AUTHORS AND CONTRIBUTORS
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - Jessica Rauch
     - kian-ravaei
-    - Grace Sosa
+    - Jemma Tan
     - xinyi-yan
 contributors:
     - chris-lopez
     - Christine Holten
     - renee-romero
+    - hannah-sutherland
     - doug-worsham
 # References and Attribution
 # include a list of referenced work, if necessary
@@ -42,7 +42,7 @@ attributions:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/ConclusionParagraphsThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/PassiveActiveVoiceThumbnail.png
 #
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
@@ -52,17 +52,19 @@ category: Writing Strategies
 # SORT WEIGHT
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight: 26
+sort-weight: 27
 # ######
 # Accessibility info
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+# LEARNING OUTCOMES
+# List all the learning outcomes for the resource.
+#
 learning-outcomes:
-    - Describe the general structure of a conclusion paragraph.
-    - Describe the amount of detail that should go into the restatement of the thesis.
+    - Identify differences between passive and active sentences
+    - List reasons to use passive voice
+    - Use passive and active voice to emphasize the doer or receiver
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -96,10 +98,15 @@ acrl-frames:
 #
 tags:
     - write
-    - topic sentence
-    - conclusion paragraph
+    - academic writing
+    - passive voice
+    - active voice
+    - doer
+    - receiver
 ---
-<p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips, from revising topic sentences to crafting conclusion paragraphs! Each video includes interactive questions to test your knowledge. <i>More Writing Strategies Videos coming soon!</i></p>
+<p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about passive and active voice with Jessica!</p>
 
-<h2 class="mt-4">Conclusion Paragraphs <span style="font-weight:normal">with Grace</span></h2>
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3065812" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h2>Passive and Active Voice <span style="font-weight:normal">with Jemma</span></h2>
+
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3186884" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
