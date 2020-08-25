@@ -117,48 +117,4 @@ Finding a review article is relatively simple, though it varies slightly dependi
 
 <h3>How do I know if an article is a <em>Review Article</em> or a <em>Primary Research Article?</em></h3>
 
-<!-- this needs a little more alignment with https://getbootstrap.com/docs/4.3/components/card/ -->
-<div class="card shadow">
-    <div class="card-header">
-        <ul class="nav nav-tabs card-header-tabs">
-          <li class="nav-item">
-            <a class="nav-item nav-link active" id="nav-primary-tab" data-toggle="tab" href="#nav-primary" role="tab" aria-controls="nav-primary" aria-selected="true">Primary Research Articles</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-item nav-link" id="nav-review-tab" data-toggle="tab" href="#nav-review" role="tab" aria-controls="nav-review" aria-selected="false">Review Articles</a>
-          </li>
-        </ul>
-    </div>
-    <div class="card-body">
-    <div class="tab-content" id="nav-tabContent">
-      <div class="tab-pane fade show active" id="nav-primary" role="tabpanel" aria-labelledby="nav-primary-tab">
-          <br>
-        <h4>In primary research articles...</h4>
-          <ul class="browser-default">
-                <li>the abstracts often talk about performing a study, or conducting an investigation;</li>
-                <li>the articles often contain a methods section or describe how the original research was performed;</li>
-                <li>the focus is often narrower, investigating specific research questions;</li>
-                <li>while most research articles contain a brief literature review in their introduction, it is not the primary purpose of the paper.</li>
-            </ul>
-          <h6>Example abstract:</h6>
-          <img src="{{ '/assets/images/rop-primary-annotated.jpg' | prepend: site.baseurl }}" class="img-fluid border" alt="In the abstract, the authors of this primary research article describe conducting an original study and discuss their findings." data-caption="The abstract for a primary research article discusses a study or investigation.">
-           <p style="font-size: small;">Chaudhury, D., Loh, D. H., Dragich, J. M., Hagopian, A., & Colwell, C. S. (2008). Select cognitive deficits in vasoactive intestinal peptide deficient mice. BMC neuroscience, 9(1), 63.</p>
-        </div>
-      <div class="tab-pane fade" id="nav-review" role="tabpanel" aria-labelledby="nav-review-tab">
-          <br>
-        <h4>In review articles...</h4>
-          <ul class="browser-default">
-                <li>the abstracts often talk about summarizing existing evidence;</li>
-                <li>the articles often do not include a methods section;</li>
-                <li>the focus is often on summarizing and analyzing a broad set of questions related to a research area.</li>
-                </ul>
-          <h6>Example abstract:</h6>
-           <img src="{{ '/assets/images/rop-review-annotated.jpg' | prepend: site.baseurl }}" class="img-fluid border" alt="In the abstract, the authors of this review article describe their analysis of *multiple* primary research articles and discuss the implications of the current body of research on this topic." data-caption="The abstract for a primary research article discusses a study or investigation.">
-          <p style="font-size: small;">Tottenham, N., & Sheridan, M. A. (2009). A review of adversity, the amygdala and the hippocampus: a consideration of developmental timing. The developing human brain, 204.</p>
-        </div>
-        </div>
-    </div>
-</div>
-
-
-<!-- include embed-and-share-buttons.html ? -->
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3198231" width="100%" height="600" frameborder="1" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
