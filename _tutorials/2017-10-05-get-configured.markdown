@@ -51,25 +51,25 @@ tags:
 <div class="row">
     <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
-          <h5 class="card-header">VPN on Mac with Natalie</h5>
+          <h2 class="card-header">VPN on Mac with Natalie</h2>
           <div class="card-body">
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe src="https://www.youtube.com/embed/BimOWaDxk4Y" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <blockquote>"I chose VPN for my mac because I need to be able to access the full text of articles on different browsers." - Natalie, Environmental Science</blockquote>
-            <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
+            <a href="https://ucla.service-now.com/support?id=kb_article&sys_id=2dbb86fef1f3c90060a225727a92e271" class="btn btn-primary">Download a UCLA VPN for Mac</a>
             </div>
         </div>
     </div>
         <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
-          <h5 class="card-header">VPN on Windows with Michael</h5>
+          <h2 class="card-header">VPN on Windows with Michael</h2>
           <div class="card-body">
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe src="https://www.youtube.com/embed/ZuZclnEuvlo" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
               <blockquote>"I chose VPN because I like the security it provides and the control it gives me as a user to manually enable or disable it when I'm browsing online." - Michael, Public Affairs</blockquote>
-            <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
+            <a href="https://ucla.service-now.com/support?id=kb_article&sys_id=kb0010923" class="btn btn-primary">Download a UCLA VPN for Windows</a>
             </div>
         </div>
     </div>
@@ -78,7 +78,7 @@ tags:
 <div class="row">
     <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
-          <h5 class="card-header">Proxy on Mac with Kate</h5>
+          <h2 class="card-header">Proxy on Mac with Kate</h2>
           <div class="card-body">
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe src="https://www.youtube.com/embed/h1vVy_WuxYk" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -90,13 +90,13 @@ tags:
     </div>
         <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
-          <h5 class="card-header">VPN on Chromebook</h5>
-          <div class="card-body text-center">
+          <h2 class="card-header">VPN on Chromebook with Nadia</h2>
+          <div class="card-body">
               <div class="embed-responsive embed-responsive-16by9">
               <iframe src="https://www.youtube.com/embed/I9Kwrf_xyr0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <blockquote>"I chose VPN because it is really simple to use!" - Nadia, Public Affairs</blockquote>
-              <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
+              <a href="https://ucla.service-now.com/support?id=kb_article&sys_id=b4bd7aeb4f63bec09798a3928110c7c4" class="btn btn-primary">Set up a UCLA VPN for Chromebook</a>
             </div>
         </div>
     </div>
@@ -118,7 +118,7 @@ tags:
 
 <h2>Looking for more help?</h2>
 
-<p>You can download this <a href="https://www.library.ucla.edu/sites/default/files/Off%20Campus%20Access%20to%20Online%20Resources%20-%20v3.pdf" target="_blank">Printable Handout on Off Campus Access to Online Resources</a>, or visit the <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">library website for more information on how to get configured</a>!</p>
+<p>You can download this <a href="https://www.library.ucla.edu/sites/default/files/Off%20Campus%20Access%20to%20Online%20Resources%20-%20v3.pdf" target="_blank">Printable Handout on Off Campus Access to Online Resources (PDF)</a>, or visit the <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">library website for more information on how to get configured</a>!</p>
 
 
 
