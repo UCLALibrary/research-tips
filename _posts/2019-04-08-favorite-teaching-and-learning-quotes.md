@@ -18,7 +18,8 @@ authors:
     - renee-romero
     - royson-lin
     - chris-lopez
-    - kaitlin-alcontin
+    - Kaitlin Alcontin
+    - hannah-sutherland 
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
