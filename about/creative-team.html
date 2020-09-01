@@ -20,15 +20,15 @@ permalink: /about/creative-team/
         <ul class="list-unstyled">
             {% for team-member in group.items %}
             <li class="media mt-2">
-                <a href="{{ team-member.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                    <div class="mr-4 d-none d-md-block" style="max-width: 30%;">
                     {% if team-member.profile %}
                     <img src="{{ team-member.profile | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="{{ team-member.title }}'s profile">
                     {% else %}
                     <img src="{{ '/assets/images/team/np_cat_114598_B8B8B8.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Generic Cat Profile Picture">
                     {% endif %}
-                </a>
+                    </div>
                 <div class="media-body">
-                    <h3 class="mt-0 mb-1"><a href="{{ team-member.url | relative_url | replace: '//', '/' }}">{{ team-member.title }}</a></h3>
+                    <h3 class="mt-0 mb-1"><!--<a href="{{ team-member.url | relative_url | replace: '//', '/' }}">-->{{ team-member.title }}<!--</a>--></h3>
                     <span class="text-muted">{{ team-member.position }}</span>
                     <p class="post-subtitle ">
                         {% if team-member.bio %}
@@ -58,15 +58,15 @@ permalink: /about/creative-team/
         <ul class="list-unstyled">
             {% for team-member in group.items %}
             <li class="media mt-2">
-                <a href="{{ team-member.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                <div class="mr-4 d-none d-md-block" style="max-width: 30%;">
                     {% if team-member.profile %}
                     <img src="{{ team-member.profile | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="{{ team-member.title }}'s profile">
                     {% else %}
                     <img src="{{ '/assets/images/team/np_cat_114598_B8B8B8.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Generic Cat Profile Picture">
                     {% endif %}
-                </a>
+                </div>
                 <div class="media-body">
-                    <h3 class="mt-0 mb-1"><a href="{{ team-member.url | relative_url | replace: '//', '/' }}">{{ team-member.title }}</a></h3>
+                    <h3 class="mt-0 mb-1"><!--<a href="{{ team-member.url | relative_url | replace: '//', '/' }}">-->{{ team-member.title }}<!--</a>--></h3>
                     <span class="text-muted">{{ team-member.position }}</span>
                     <p class="post-subtitle ">
                         {% if team-member.bio %}
