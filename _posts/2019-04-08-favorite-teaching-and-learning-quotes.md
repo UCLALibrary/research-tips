@@ -91,7 +91,7 @@ in the family of things.
 >
 >_Neil Gaiman_
 
->There's no such thing as neutral education. Education either functions as an instrument to bring about conformity or freedom.”
+>There's no such thing as neutral education. Education either functions as an instrument to bring about conformity or freedom.
 >
 >_Paulo Freire_
 
