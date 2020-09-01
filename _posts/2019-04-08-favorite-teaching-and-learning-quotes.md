@@ -91,6 +91,10 @@ in the family of things.
 >
 >_Neil Gaiman_
 
+>There's no such thing as neutral education. Education either functions as an instrument to bring about conformity or freedom.”
+>
+>_Paulo Freire_
+
 ### Want to add your favorite quote to this page?
 
 You'll find the code for this post in the `_posts` directory of the WI+RE's websites code repository. First, find the code repository at [https://github.com/UCLALibrary/research-tips](https://github.com/UCLALibrary/research-tips) - look for the `_posts` directory and see if you can find the code for this post. It should be in a file called `2019-04-08-favorite-teaching-and-learning-quotes.md`
