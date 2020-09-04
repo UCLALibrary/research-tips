@@ -12,7 +12,7 @@ contributors:
 thumbnail: /assets/tutorials/thumbnails/CatalogSearchThumbnail.jpg
 category: Finding and Citing Sources
 sort-weight: 33
-learing-outcomes:
+learning-outcomes:
     - Evalute differences between UCLA and Melvyl catalogs based on research needs
     - Sketch navigation workflows appropriate to each catalog
     - Locate resources for research in each catalog

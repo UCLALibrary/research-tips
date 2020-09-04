@@ -30,6 +30,11 @@ thumbnail: /assets/tutorials/thumbnails/ContactingInstructorsThumbnail.png
 handout: https://drive.google.com/file/d/1N9EZMfOOk9Z6hrIOXw7mjjxzjh_eEW58/preview
 category: Writing Strategies
 sort-weight: 28
+# LEARNING OUTCOMES
+learning-outcomes:
+    - Send effective emails to instructors and faculty.
+    - Include a clear subject, appropriate greeting, concise information, and a professional signature in instructor and faculty emails.
+    - Prepare for and make the most of office hours and meetings with instructors and faculty.
 tags:
 - Contacting Instructors
 - Email
