@@ -26,6 +26,12 @@ learning-outcomes:
     - Identify key aspects of an academic article
     - Support future research endeavors
     - Prepare to discuss articles in class
+# ACRL FRAMES
+acrl-frames:
+    - Research as Inquiry
+# UCLA Library Core Competencies
+core-competencies:
+    - Evaluate and synthesize information and data.
 tags:
     - academic articles
     - abstracts

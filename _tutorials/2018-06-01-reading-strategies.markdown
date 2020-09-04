@@ -20,7 +20,14 @@ handout-thumbnail:
 category: Reading Strategies
 sort-weight: 13
 learning-outcomes:
-   - Identify Various Reading Strategies (e.g. paraphrase as you read, make an annotation legend, prioritize new vocabulary, etc.)
+   - Identify various reading strategies (e.g. paraphrase as you read, make an annotation legend, prioritize new vocabulary, etc.)
+   - Select personal reading strategies based on your experiences, preferences, and needs.
+# ACRL FRAMES
+acrl-frames:
+# UCLA Library Core Competencies
+core-competencies:
+    - Evaluate and synthesize information and data.
+    - Reflect on and refine the research process.
 ---
 <p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. </p>
 

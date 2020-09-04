@@ -30,6 +30,12 @@ learning-outcomes:
     - Identify sources outside of starting perspective
     - Develop refined research questions
     - Prioritize what resources to include in assignment
+# ACRL FRAMES
+acrl-frames:
+    - Authority Is Constructed and Contextual
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
 tags:
 - expanding perspectives
 - search bias

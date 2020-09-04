@@ -20,6 +20,12 @@ learning-outcomes:
 - Identify key stylistic elements of paper writing in their specific discipline.
 - Read papers in their discpline for style.
 - Apply these stylistic elements in their own writing.
+# ACRL FRAMES
+acrl-frames:
+    - Information Creation as a Process
+# UCLA Library Core Competencies
+core-competencies:
+    - Evaluate and synthesize information and data.
 tags:
 - Reading for Writing
 - Style Guide

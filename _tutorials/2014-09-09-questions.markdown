@@ -28,6 +28,13 @@ accessibility-info:
 learning-outcomes:
    - Develop a general topic or idea into a set of exploratory research questions
    - Narrow (and broaden) research questions using a variety of strategies (e.g., geographic area, cultural aspects, groups of people, time spans, or other strategies)
+# ACRL FRAMES
+acrl-frames:
+    - Research as Inquiry
+# UCLA Library Core Competencies
+core-competencies:
+    - Define the goals, scope, and plan.
+    - Investigate diverse sources and perspectives. 
 tags:
 - topic mapping
 - research questions

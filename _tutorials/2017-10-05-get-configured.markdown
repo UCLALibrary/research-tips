@@ -37,6 +37,8 @@ learning-outcomes:
    - Identify the benefits of setting up the VPN or Proxy Server
    - Download VPN at UCLA 
    - Set-up Proxy Server at UCLA
+# ACRL FRAMES
+# UCLA Library Core Competencies
 tags:
 - vpn
 - off-campus access

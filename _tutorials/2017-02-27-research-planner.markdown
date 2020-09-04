@@ -28,6 +28,12 @@ learning-outcomes:
    - Break down assignments into manageable deadlines
    - Track progress on assignments
    - Identify campus resources
+# ACRL FRAMES
+acrl-frames:
+    - Information Creation as a Process
+# UCLA Library Core Competencies
+core-competencies:
+    - Define the goals, scope, and plan.
 tags:
     - planning
     - time management

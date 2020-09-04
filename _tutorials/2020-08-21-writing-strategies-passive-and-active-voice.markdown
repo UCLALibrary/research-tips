@@ -3,71 +3,68 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Finding and Using Keywords in Context"
+title:  "Passive and Active Voice"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Language changes over time and groups of people may refer to the same thing using different words. Learn how to use a variety of keywords when searching for resources!"
+description: "Learn about passive and active voice from Jemma, a Peer Learning Facilitator at the UCLA Undergraduate Writing Center."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:  2020-07-23
+date:   2020-08-21
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
 last-updated:
 #
-# Featured: yes
-# make it possible to feature this, e.g., on the homepage
-#
-featured: 
-#
 # AUTHORS AND CONTRIBUTORS
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - Matthew Johnson
-    - salma-abumeeiz
-    - hannah-sutherland
-contributors:
     - kian-ravaei
+    - Jemma Tan
+    - xinyi-yan
+contributors:
+    - chris-lopez
+    - Christine Holten
     - renee-romero
-    - chris-lopez 
+    - hannah-sutherland
+    - doug-worsham
 # References and Attribution
 # include a list of referenced work, if necessary
-handout: 
+references:
+    - UCLA Writing Programs
+attributions:
+    - UCLA Writing Programs
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/KeywordsInContext.png
-#
-# AWARDS
-# If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
-#
-awards:
+thumbnail: /assets/tutorials/thumbnails/PassiveActiveVoiceThumbnail.png
 #
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 #
-category: Finding and Citing Sources
+category: Writing Strategies
 #
 # SORT WEIGHT
-# not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight:
-#
+sort-weight: 27
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Understand that terminology and scholarly language is contextual, temporal, and fluid
-    - Identify alternate terms for a term in dated literature
-    - Identify when a term is introduced in the literature
-    - Understand that language is formed by the era in which its produced and can serve as a form of oppression - naming is power
+    - Identify differences between passive and active sentences
+    - List reasons to use passive voice
+    - Use passive and active voice to emphasize the doer or receiver
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -85,35 +82,33 @@ learning-outcomes:
 # Including text: '' is required
 # Optionally include a url and link-text
 #
-accessibility-info:
+# accessibility-info:
+#     - { text: 'Some text you want to appear', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+#     - { text: 'Some text you want to appear', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+#     - { text: 'Some text you want to appear' }
 #
-# CORE COMPETENCIES
-# List all core competencies for the resource.
-# See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
-#
-core-competencies:
-    - Gather and organize information and data.
-    - Reflect on and refine the research process.
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
-# Leaving this blank because I don't think any of them apply! - Kian, 2020-07-15
 acrl-frames:
+    - Information Creation as a Process
+core-competencies:
+    - Share the work and engage with audiences. 
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - keywords
-    - history
+    - write
+    - academic writing
+    - passive voice
+    - active voice
+    - doer
+    - receiver
 ---
+<p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about passive and active voice with Jessica!</p>
 
-<div class="row">
-    <div class="col-sm-12 col-md-5">
-    <a href="https://drive.google.com/file/d/1bFYc0CmG-Xx2rKfKMP9jQvVU5u6uFqDN" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/contextual-keywords_Page_1.png' | relative_url }}"   alt="Screenshot of Finding and Using Keywords in Context Google Doc." data-caption="Finding and Using Keywords in Historical Context Google Doc."></a>
-    </div>
-    <div class="col-sm-12 col-md-7">
-        <p class="card-text">Language changes over time and groups of people may refer to the same thing using different words. Learn how to use a variety of keywords when searching for resources!</p>
-            <a href="https://drive.google.com/file/d/1bFYc0CmG-Xx2rKfKMP9jQvVU5u6uFqDN" target="_blank" class="btn btn-outline-primary btn-block" aria-label="Open the guide in new window">Finding and Using Keywords in Context <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-    </div>
-</div>
+
+<h2>Passive and Active Voice <span style="font-weight:normal">with Jemma</span></h2>
+
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3186884" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

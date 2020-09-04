@@ -16,6 +16,13 @@ learning-outcomes:
    - Use a variety of keywords to search for sources
    - Broaden and narrow search results (using tools such as Boolean Operators, etc.) 
    - Refine your search using database filtering tools 
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
 tags:
 - search
 # image: featuredimagehere

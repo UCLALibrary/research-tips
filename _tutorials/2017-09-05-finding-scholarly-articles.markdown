@@ -33,6 +33,13 @@ learning-outcomes:
     - Navigate search filters
     - Construct effective searches
     - Locate full texts of articles
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
 ---
 
 <p class="intro">Ready to get the most out of your article search? This tutorial will help you successfully navigate search filters, construct effective searches, and download the full texts of your articles!</p>

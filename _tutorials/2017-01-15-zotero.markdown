@@ -41,6 +41,13 @@ learning-outcomes:
    - Create Zotero Account
    - Organize your Library
    - Generate a bibliography in a chosen citation style (e.g. MLA, APA, Chicago, etc.)
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Gather and organize information and data.
+    - Use information and data ethically. 
 tags:
 - zotero
 - citation management software 

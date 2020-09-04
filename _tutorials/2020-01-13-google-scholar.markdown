@@ -25,6 +25,13 @@ learning-outcomes:
     - Use AND, OR, NOT, and Parentheses in their search.
     - Use Cited By and Related Articles to find relevant articles
     - Access relevant articles
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
 tags:
     - searching
     - finding articles

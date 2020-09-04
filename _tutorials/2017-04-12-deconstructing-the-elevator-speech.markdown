@@ -17,6 +17,12 @@ learning-outcomes:
     - Distinguish elevator speech from research abstract
 handout: https://drive.google.com/file/d/1w_bFrQf3yXm5nrS3N1HkcGa-fYBLpXuE/preview
 handout-thumbail: /assets/handouts/thumbnails/elevator-speech-tn.png
+# ACRL FRAMES
+acrl-frames:
+    - Scholarship as Conversation
+# UCLA Library Core Competencies
+core-competencies:
+    - Share the work and engage with audiences. 
 tags:
 - elevator speech
 - elevator pitch 

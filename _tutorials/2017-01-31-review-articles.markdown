@@ -20,6 +20,15 @@ learning-outcomes:
     - Locate review articles in various databases
     - Identify signifcant filter terms for searching review articles
     - Distinguish a review article from a primary research article
+# ACRL FRAMES
+acrl-frames:
+    - Scholarship as Conversation
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
+    - Evaluate and synthesize information and data.
 tags:
 - review articles
 - search

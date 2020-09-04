@@ -34,6 +34,14 @@ learning-outcomes:
     - Identify a source as primary or secondary given a specific research topic or discipline.
     - Identify a source that one research topic would treat as primary, and another research topic would treat as secondary.
     - Generate ideas for types of primary sources that may be relevant to their research area.
+# ACRL FRAMES
+acrl-frames:
+    - Information Creation as a Process
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
+    - Evaluate and synthesize information and data.
 tags:
 - primary
 - secondary

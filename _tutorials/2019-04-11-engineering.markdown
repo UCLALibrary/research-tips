@@ -20,6 +20,14 @@ learning-outcomes:
    - Brainstorm effective keywords and search terms
    - Strategize effective searches in databases and the Melvyl Catalog
    - Find Primary Sources through Newspaper Archives
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Define the goals, scope, and plan.
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
 tags:
 - topic mapping
 - research questions

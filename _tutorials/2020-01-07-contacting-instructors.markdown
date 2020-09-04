@@ -35,6 +35,8 @@ learning-outcomes:
     - Send effective emails to instructors and faculty.
     - Include a clear subject, appropriate greeting, concise information, and a professional signature in instructor and faculty emails.
     - Prepare for and make the most of office hours and meetings with instructors and faculty.
+# ACRL FRAMES
+# UCLA Library Core Competencies
 tags:
 - Contacting Instructors
 - Email

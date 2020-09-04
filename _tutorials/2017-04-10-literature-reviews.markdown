@@ -24,10 +24,18 @@ learning-outcomes:
     - Organize essential resources and data for literature review
     - Choose literature review type according to research needs
     - Locate information gaps for literature review to address
+# ACRL FRAMES
+acrl-frames:
+    - Scholarship as Conversation
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
+    - Evaluate and synthesize information and data.
 tags:
-- writing a literature review
-- writing
-- reading
+    - writing a literature review
+    - writing
+    - reading
 featured: yes
 ---
 <h3>Overview</h3>

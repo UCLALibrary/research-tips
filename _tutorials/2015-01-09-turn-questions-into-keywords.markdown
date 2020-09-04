@@ -28,6 +28,11 @@ learning-outcomes:
     - List core concepts as keywords
     - Construct alternative ways to express keywords
     - Organize keywords into advance search fields
+acrl-frames:
+    - Research as Inquiry
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
 tags:
 - keywords
 - search strategies

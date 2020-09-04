@@ -44,6 +44,13 @@ accessibility-info:
    - { text: 'Closed Captioning Available' }
    - { text: 'Descriptive Transcript Available', link-text: 'Your Remote eBook Roadmap Descriptive Transcript (.txt)', url: 'https://ucla.app.box.com/s/p3vum64dpifmm9r5e99eg0ts5jgcc6ks' }
    - { text: 'Accessible PDF Available', link-text: 'REMOTE E-BOOK ACCESS', url: 'https://ucla.box.com/s/fjczvyhqg6f2cyiatrr8th1ftvztcfu2' }
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives. 
+    - Gather and organize information and data.
 tags:
 - eBook
 - off-campus access

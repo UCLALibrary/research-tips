@@ -3,17 +3,17 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Breaking Down Your Prompt"
+title:  "Finding and Using Keywords in Context"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "This fillable Google Doc will help you break down a prompt into its main tasks and requirements, list helpful resources, and start brainstorming ideas!"
+description: "Language changes over time and groups of people may refer to the same thing using different words. Learn how to use a variety of keywords when searching for resources!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2020-07-15
+date:  2020-07-23
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
@@ -29,23 +29,20 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - chris-lopez
-    - kian-ravaei
-    - doug-worsham
-contributors:
+    - Matthew Johnson
     - salma-abumeeiz
     - hannah-sutherland
-    - Alicia Reiley
-    - Powell Library Embedded Inquiry Specialists
+contributors:
+    - kian-ravaei
+    - renee-romero
+    - chris-lopez 
 # References and Attribution
 # include a list of referenced work, if necessary
-handout: https://drive.google.com/file/d/1Um0m55-AmEmBfV3Uu4MUGOZYc3Prqu4Q/preview
-references:
-    - UCLA Writing Programs
+handout: 
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/BreakingDownYourPromptThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/KeywordsInContext.png
 #
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
@@ -55,21 +52,22 @@ awards:
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 #
-category: Writing Strategies
+category: Finding and Citing Sources
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight:
+sort-weight: 33.25
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Break down a prompt into the main tasks and requirements
-    - List resources and readings that will be helpful for answering the prompt
-    - Brainstorm ideas for the answering the prompt
+    - Understand that terminology and scholarly language is contextual, temporal, and fluid
+    - Identify alternate terms for a term in dated literature
+    - Identify when a term is introduced in the literature
+    - Understand that language is formed by the era in which its produced and can serve as a form of oppression - naming is power
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -94,34 +92,30 @@ accessibility-info:
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-    - Define the goals, scope, and plan.
+    - Gather and organize information and data.
+    - Reflect on and refine the research process.
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 # Leaving this blank because I don't think any of them apply! - Kian, 2020-07-15
 acrl-frames:
-    - Information Creation as a Process
+    - Authority is Constructed and Contextual
+    - Searching as Strategic Exploration.
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - prompt
-    - requirements
-    - brainstorm
-    - decipher
-    - deciphering
+    - keywords
+    - history
 ---
-
 
 <div class="row">
     <div class="col-sm-12 col-md-5">
-    <a href="https://docs.google.com/document/d/1ncqaLXnoCXr9epE6mz_uNLcpFRtBHHAmjiyPeF2VEwE/copy?copyComments=true" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/BreakingDownYourPrompt.png' | relative_url }}"   alt="Screenshot of Breaking Down Your Prompt Google Doc." data-caption="Screenshot of Breaking Down Your Prompt Google Doc."></a>
+    <a href="https://drive.google.com/file/d/1bFYc0CmG-Xx2rKfKMP9jQvVU5u6uFqDN" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/contextual-keywords_Page_1.png' | relative_url }}"   alt="Screenshot of Finding and Using Keywords in Context Google Doc." data-caption="Finding and Using Keywords in Historical Context Google Doc."></a>
     </div>
     <div class="col-sm-12 col-md-7">
-        <p class="card-text">This fillable Google Doc helps you break down any prompt into its main tasks and requirements, list helpful resources and readings, and brainstorm ideas for answering the prompt. Make a copy and use it as many times as you need!</p>
-            <a href="https://docs.google.com/document/d/1ncqaLXnoCXr9epE6mz_uNLcpFRtBHHAmjiyPeF2VEwE/copy?copyComments=true" target="_blank" class="btn btn-outline-primary btn-block" aria-label="Open the guide in new window">Breaking Down Your Prompt <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+        <p class="card-text">Language changes over time and groups of people may refer to the same thing using different words. Learn how to use a variety of keywords when searching for resources!</p>
+            <a href="https://drive.google.com/file/d/1bFYc0CmG-Xx2rKfKMP9jQvVU5u6uFqDN" target="_blank" class="btn btn-outline-primary btn-block" aria-label="Open the guide in new window">Finding and Using Keywords in Context <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
     </div>
 </div>
-
-An <a href="https://uclalibrary.github.io/research-tips/handouts/Breaking-Down-Your-Prompt/" target="_blank">accessible PDF version</a> of this tutorial is also available.

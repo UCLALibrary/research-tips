@@ -7,6 +7,7 @@ authors:
     - taylor-harper
     - shannon-roux
 contributors:
+    - doug-worsham
     - Tony Aponte
     - Whitney Arnold
     - Joanna Chen Cham
@@ -40,6 +41,15 @@ learning-outcomes:
     - Brainstorm research projects
     - Articulate the benefits of research 
     - Identify undergraduate research opportunities and resources at UCLA 
+# ACRL FRAMES
+acrl-frames:
+    - Information Creation as a Process
+    - Research as Inquiry
+    - Scholarship as Conversation
+# UCLA Library Core Competencies
+core-competencies:
+    - Define the goals, scope, and plan.
+    - Reflect on and refine the research process.
 tags:
 - Getting started with research
 - getting started
