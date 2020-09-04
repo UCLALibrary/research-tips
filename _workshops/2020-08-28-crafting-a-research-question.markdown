@@ -30,6 +30,10 @@ learning-outcomes:
     - Generate potential research questions
     - Refine and improve your research questions
     - Explain the broader significance of your research question
+# ACRL Frames
+acrl-frames:
+    - Research as Inquiry
+    - Scholarship as Conversation
 category: Entering Research Workshops
 ---
 <!--H5P-->

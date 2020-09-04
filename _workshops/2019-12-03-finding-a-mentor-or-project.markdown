@@ -23,6 +23,10 @@ learning-outcomes:
     - Identify your research interests
     - Identify potential mentors and research projects
     - Make a list of potential mentors and research projects
+# ACRL FRAMES
+acrl-frames:
+    - Research as Inquiry
+    - Scholarship as Conversation
 category: Entering Research Workshops
 ---
 <!--H5P-->

@@ -19,6 +19,9 @@ thumbnail: /assets/workshops/thumbnails/ResearchLogisticsThumbnail.png
 learning-outcomes:
     - Identify benefits of faculty- and student-led research projects
     - Identify differences between SRP 99 and Departmental 195-199
+# ACRL FRAMES
+acrl-frames:
+    - Information Creation as a Process
 description: "Before getting started with research, it's important to know the difference between faculty- and student-led projects, as well as how to earn course credit for your research."
 category: Entering Research Workshops
 ---
