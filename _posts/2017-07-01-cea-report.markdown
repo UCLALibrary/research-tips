@@ -9,6 +9,8 @@ contributors:
 description: >-
     The UCLA Center for Educational Assessment recently published a report on student and faculty feedback on WI+RE's online workshops and tutorials
 category: Assessments and Reports
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-29', url: 'https://wave.webaim.org/' }
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 In June of 2017 UCLA's Center for Educational Assessment completed a [detailed report](https://ucla.box.com/v/wire-oid-report) on a variety of approaches to research and writing instruction, including WI+RE's online [Cornerstone Research workshops](http://ccle.ucla.edu/course/view/wire).
@@ -19,16 +21,16 @@ In June of 2017 UCLA's Center for Educational Assessment completed a [detailed r
 
 It was wonderful to work with the expert team at the CEA, and we greatly appreciated their mixed methods approach which included both analysis of student learning and faculty interviews.
 
-### Summary of Findings
+## Summary of Findings
 
-#### [Mapping Your Research Ideas Online Module](https://youtu.be/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ)
+### [Mapping Your Research Ideas Online Module](https://youtu.be/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ)
 * **Video modules were helpful and provided direction for developing research topics**: Respondents praised the mapping your research video for being concise, straightforward, and easy to follow, as well as providing guidance for focusing topics, creating outlines, and starting research papers. The video also aided students with systematic development and focus of questions. 
 
-#### Psychology 188B CCLE Modules (online) 
+### Psychology 188B CCLE Modules (online) 
 * **Students found the module to be well designed**: Respondents acknowledged that the components of the module were simple, straightforward, comprehensive, and well made.
 * **Students found the activities and strategies to be very helpful**: Respondents appreciated the step-by-step process of developing a research question and seeking out resources, as well as new tips for utilizing familiar research databases. 
 
-#### Faculty Engagement Interviews 
+### Faculty Engagement Interviews 
 * **Faculty across the board had positive experiences**: Faculty found the workshops, modules, and tutorials to be well designed and very helpful for their courses and students. Everyone plans to continue to use the research and writing tools in their courses. 
 * **Faculty desired efficiency in teaching**: Faculty expressed a preference for teaching students the basics and fundamentals about research writing outside of class time so that class time can be used more productively and for greater depth. 
 * **Course integration was wide-ranging**: The various research and writing tools were incorporated into the courses in a mix of in-person, online, and hybrid modes via class time, library time, and CCLE (a course management system). 
