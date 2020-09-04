@@ -35,7 +35,7 @@ acrl-frames:
     - Authority Is Constructed and Contextual
 # UCLA Library Core Competencies
 core-competencies:
-    - Investigate diverse sources and perspectives. 
+    - Investigate diverse sources and perspectives
 tags:
 - expanding perspectives
 - search bias

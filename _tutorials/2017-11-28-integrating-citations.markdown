@@ -34,7 +34,7 @@ acrl-frames:
     - Scholarship as Conversation
 # UCLA Library Core Competencies
 core-competencies:
-    - Use information and data ethically. 
+    - Use information and data ethically 
 materialize: yes
 ---
 <p class="intro" font-size="1">Looking to vary the ways in which you cite your sources? Here are several ideas for integrating citations with sophistication and efficiency!</p>

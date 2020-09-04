@@ -27,6 +27,9 @@ learning-outcomes:
 acrl-frames:
     - Research as Inquiry
     - Scholarship as Conversation
+# CORE COMPETENCIES
+core-competencies:
+    - Define the goals, scope, and plan
 category: Entering Research Workshops
 ---
 <!--H5P-->

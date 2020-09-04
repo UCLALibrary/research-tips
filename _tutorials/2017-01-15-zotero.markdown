@@ -46,8 +46,8 @@ acrl-frames:
     - Searching as Strategic Exploration
 # UCLA Library Core Competencies
 core-competencies:
-    - Gather and organize information and data.
-    - Use information and data ethically. 
+    - Gather and organize information and data
+    - Use information and data ethically 
 tags:
 - zotero
 - citation management software 

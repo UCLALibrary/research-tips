@@ -95,7 +95,7 @@ acrl-frames:
     - Information Creation as a Process
 # CORE COMPETENCIES
 core-competencies:
-    - Share the work and engage with audiences. 
+    - Share the work and engage with audiences
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.

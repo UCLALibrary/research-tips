@@ -33,7 +33,7 @@ acrl-frames:
     - Information Creation as a Process
 # UCLA Library Core Competencies
 core-competencies:
-    - Define the goals, scope, and plan.
+    - Define the goals, scope, and plan
 tags:
     - planning
     - time management

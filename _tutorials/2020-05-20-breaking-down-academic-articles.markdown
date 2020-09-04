@@ -31,7 +31,7 @@ acrl-frames:
     - Research as Inquiry
 # UCLA Library Core Competencies
 core-competencies:
-    - Evaluate and synthesize information and data.
+    - Evaluate and synthesize information and data
 tags:
     - academic articles
     - abstracts

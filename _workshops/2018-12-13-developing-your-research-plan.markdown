@@ -18,6 +18,9 @@ learning-outcomes:
     - Break down your long-term goals into manageable tasks
 acrl-frames:
     - Information Creation as a Process
+# CORE COMPETENCIES
+core-competencies:
+    - Define the goals, scope, and plan
 tags:
 - planning a research project
 - UCLA Undergraduate Research Centers

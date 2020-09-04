@@ -22,6 +22,9 @@ learning-outcomes:
 # ACRL FRAMES
 acrl-frames:
     - Information Creation as a Process
+# CORE COMPETENCIES
+core-competencies:
+    - Define the goals, scope, and plan
 description: "Before getting started with research, it's important to know the difference between faculty- and student-led projects, as well as how to earn course credit for your research."
 category: Entering Research Workshops
 ---

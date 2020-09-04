@@ -31,8 +31,11 @@ accessibility-info:
     - { text: 'Closed Captioning Available' }
     - { text: 'H5P Content Type - Course Presentation.', date: '2020-05-01', link-text: 'Accessibility status - Tested with no known problems', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 core-competencies:
-    - Define the goals, scope, and plan.
-    - Reflect on and refine the research process.
+    - Define the goals, scope, and plan
+    - Reflect on and refine the research process
+# CORE COMPETENCIES
+core-competencies:
+    - Define the goals, scope, and plan
 acrl-frames:
     - Research as Inquiry
     - Scholarship as Conversation

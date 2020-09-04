@@ -23,6 +23,9 @@ learning-outcomes:
 acrl-frames:
     - Research as Inquiry
     - Scholarship as Conversation
+# CORE COMPETENCIES
+core-competencies:
+    - Define the goals, scope, and plan
 thumbnail: /assets/workshops/thumbnails/Ready_Researcher.png
 category: Cornerstone Research Workshops
 tags:

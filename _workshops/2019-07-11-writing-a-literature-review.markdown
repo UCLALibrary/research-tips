@@ -34,6 +34,11 @@ learning-outcomes:
 acrl-frames:
     - Research as Inquiry
     - Scholarship as Conversation
+# CORE COMPETENCIES
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data.
+    - Evaluate and synthesize information and data
 tags:
     - Literature review
     - Writing

@@ -32,7 +32,7 @@ acrl-frames:
     - Research as Inquiry
 # UCLA Library Core Competencies
 core-competencies:
-    - Investigate diverse sources and perspectives. 
+    - Investigate diverse sources and perspectives
 tags:
 - keywords
 - search strategies

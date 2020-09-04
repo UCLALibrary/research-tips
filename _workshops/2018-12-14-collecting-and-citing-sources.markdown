@@ -23,6 +23,10 @@ learning-outcomes:
     - Quickly generate a bibliography in your preferred citation style
 acrl-frames:
     - Information Has Value
+# CORE COMPETENCIES
+core-competencies:
+    - Gather and organize information and data.
+    - Use information and data ethically 
 tags:
     - Zotero
     - citation management

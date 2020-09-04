@@ -25,9 +25,9 @@ acrl-frames:
     - Searching as Strategic Exploration
 # UCLA Library Core Competencies
 core-competencies:
-    - Define the goals, scope, and plan.
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
+    - Define the goals, scope, and plan
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
 tags:
 - topic mapping
 - research questions

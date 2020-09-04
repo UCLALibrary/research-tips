@@ -28,6 +28,10 @@ accessibility-info:
    - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 acrl-frames:
     - Searching as Strategic Exploration
+# CORE COMPETENCIES
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data.
 tags:
 - searching for books
 - searching for articles

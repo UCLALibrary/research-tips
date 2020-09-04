@@ -22,7 +22,7 @@ acrl-frames:
     - Scholarship as Conversation
 # UCLA Library Core Competencies
 core-competencies:
-    - Share the work and engage with audiences. 
+    - Share the work and engage with audiences
 tags:
 - elevator speech
 - elevator pitch 

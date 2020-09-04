@@ -92,8 +92,8 @@ accessibility-info:
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-    - Gather and organize information and data.
-    - Reflect on and refine the research process.
+    - Gather and organize information and data
+    - Reflect on and refine the research process
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information

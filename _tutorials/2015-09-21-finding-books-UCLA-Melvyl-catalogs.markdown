@@ -21,8 +21,8 @@ acrl-frames:
     - Searching as Strategic Exploration
 # UCLA Library Core Competencies
 core-competencies:
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
 ---
 
 <p class="intro">Want to find books, media, and more from the UCLA library or from libraries around the world? This tutorial will give you time-saving tips on navigating the UCLA Libary catalog and the Melvyl catalog!</p>

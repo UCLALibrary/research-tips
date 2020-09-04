@@ -29,6 +29,10 @@ learning-outcomes:
 acrl-frames:
     - Research as Inquiry
     - Searching as Strategic Exploration
+# CORE COMPETENCIES
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data.
 tags:
     - research questions
     - keywords

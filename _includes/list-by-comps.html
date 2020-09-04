@@ -1,0 +1,30 @@
+<!--
+core-competencies:
+    - Define the goals, scope, and plan
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
+    - Evaluate and synthesize information and data
+    - Use information and data ethically 
+    - Share the work and engage with audiences
+    - Reflect on and refine the research process
+-->
+{% assign the-comps = "Define the goals, scope, and plan| Investigate diverse sources and perspectives| Gather and organize information and data| Evaluate and synthesize information and data| Use information and data ethically| Share the work and engage with audiences| Reflect on and refine the research process" | split: "| " %}
+
+{% assign sorted-documents = site.documents | sort: "title" %}
+
+{% for comp in the-comps %}
+    <h2>{{comp}}</h2>
+    <ul>
+    {% for item in sorted-documents %}
+        {% if item.core-competencies contains comp %}
+            <li><a href="{{ item.url | relative_url }}" >{{ item.title }}</a>
+                        {% if item.awards %}
+                            {% for award in item.awards %}
+                                {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
+                            {% endfor %}
+                        {% endif %}
+            </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endfor %}

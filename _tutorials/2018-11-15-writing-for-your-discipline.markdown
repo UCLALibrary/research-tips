@@ -25,7 +25,7 @@ acrl-frames:
     - Information Creation as a Process
 # UCLA Library Core Competencies
 core-competencies:
-    - Evaluate and synthesize information and data.
+    - Evaluate and synthesize information and data
 tags:
 - Reading for Writing
 - Style Guide

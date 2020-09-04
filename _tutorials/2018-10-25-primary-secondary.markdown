@@ -40,8 +40,8 @@ acrl-frames:
     - Searching as Strategic Exploration
 # UCLA Library Core Competencies
 core-competencies:
-    - Investigate diverse sources and perspectives. 
-    - Evaluate and synthesize information and data.
+    - Investigate diverse sources and perspectives
+    - Evaluate and synthesize information and data
 tags:
 - primary
 - secondary

@@ -36,6 +36,10 @@ learning-outcomes:
 acrl-frames:
     - Information Has Value
     - Scholarship as Conversation
+# CORE COMPETENCIES
+core-competencies:
+    - Gather and organize information and data.
+    - Use information and data ethically 
 tags:
     - Plagiarism
     - Academic Honesty

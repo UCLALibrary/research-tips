@@ -17,7 +17,7 @@ references:
     - UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences
     - UCLA Undergraduate Research Center - Sciences
 core-competencies:
-    - Define the goals, scope, and plan.
+    - Define the goals, scope, and plan
 acrl-frames:
     - Research as Inquiry
 thumbnail: /assets/workshops/thumbnails/CraftingAResearchQuestionThumbnail.png
@@ -34,6 +34,10 @@ learning-outcomes:
 acrl-frames:
     - Research as Inquiry
     - Scholarship as Conversation
+# CORE COMPETENCIES
+core-competencies:
+    - Define the goals, scope, and plan
+    - Investigate diverse sources and perspectives
 category: Entering Research Workshops
 ---
 <!--H5P-->
