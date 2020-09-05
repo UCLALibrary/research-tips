@@ -105,6 +105,7 @@ tags:
     - active voice
     - doer
     - receiver
+    - writing strategies
 ---
 <p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about passive and active voice with Jessica!</p>
 

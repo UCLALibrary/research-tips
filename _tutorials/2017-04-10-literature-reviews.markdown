@@ -36,6 +36,8 @@ tags:
     - writing a literature review
     - writing
     - reading
+    - write a literature review
+    - lit review
 featured: yes
 ---
 <h3>Overview</h3>

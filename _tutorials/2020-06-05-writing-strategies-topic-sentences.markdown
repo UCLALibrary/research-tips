@@ -102,6 +102,7 @@ core-competencies:
 #
 tags:
     - write
+    - writing strategies
     - academic writing
     - topic sentences
 ---

@@ -64,6 +64,9 @@ tags:
     - Advanced Search Builder
     - New PubMed user interface
     - Search Strategies
+    - finding articles
+    - find articles
+    - article search
 #
 ---
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/T2_2v77PDuE" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

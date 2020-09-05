@@ -99,8 +99,9 @@ core-competencies:
 #
 tags:
     - write
-    - topic sentence
+    - writing strategies
     - conclusion paragraph
+    - concluding paragraph
 ---
 <p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips, from revising topic sentences to crafting conclusion paragraphs! Each video includes interactive questions to test your knowledge. <i>More Writing Strategies Videos coming soon!</i></p>
 

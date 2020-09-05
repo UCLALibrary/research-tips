@@ -54,6 +54,7 @@ tags:
 - Getting started with research
 - getting started
 - research at UCLA
+- get started
 ---
 
 <p>Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!</p>

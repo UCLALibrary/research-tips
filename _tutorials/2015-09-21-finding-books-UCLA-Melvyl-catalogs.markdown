@@ -23,6 +23,11 @@ acrl-frames:
 core-competencies:
     - Investigate diverse sources and perspectives
     - Gather and organize information and data
+tags:
+    - find books
+    - finding books
+    - search for books
+    - library catalog
 ---
 
 <p class="intro">Want to find books, media, and more from the UCLA library or from libraries around the world? This tutorial will give you time-saving tips on navigating the UCLA Libary catalog and the Melvyl catalog!</p>

@@ -39,6 +39,7 @@ core-competencies:
 tags:
 - expanding perspectives
 - search bias
+- diverse perspectives
 ---
 
 <p >This tutorial challenges researchers and students to actively seek sources that push outside of their starting perspective. With a more balanced survey of the literature, you will be able to refine and hone your research question within the context of the broader research.</p>

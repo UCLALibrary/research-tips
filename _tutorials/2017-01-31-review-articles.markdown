@@ -17,7 +17,7 @@ category: Literature Reviews
 sort-weight: 43
 learning-outcomes:
     - Summarize a review article and its purpose
-    - Locate review articles in various databases
+    - Find review articles in various databases
     - Identify signifcant filter terms for searching review articles
     - Distinguish a review article from a primary research article
 # ACRL FRAMES
@@ -30,8 +30,10 @@ core-competencies:
     - Gather and organize information and data
     - Evaluate and synthesize information and data
 tags:
-- review articles
-- search
+    - review articles
+    - search
+    - find articles
+    - finding articles
 ---
 
 <p>Looking for an efficient way to get an overview of a body of research on your topic? A review article is a great place to start.</p>

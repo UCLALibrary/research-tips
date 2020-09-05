@@ -108,6 +108,8 @@ acrl-frames:
 tags:
     - keywords
     - history
+    - searching
+    - finding
 ---
 
 <div class="row">
