@@ -21,6 +21,11 @@ contributors:
 awards:
     - merlot-5-star-editor-review
     - primo2020
+# ACCESSIBILITY INFO
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-07-23', url: 'https://wave.webaim.org/' }
+    - { text: 'Closed Captioning Available' }
+    - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: '2020-07-23', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=773310623
 thumbnail: /assets/workshops/thumbnails/Certified-Citer.png
 description: "Avoiding plagiarism can be more tricky than it seems at first glance. Complete this activity to learn strategies for avoiding plagiarism."
