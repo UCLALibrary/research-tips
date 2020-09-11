@@ -9,7 +9,7 @@ contributors:
     - doug-worsham
     - salma-abumeeiz
     - renee-romero
-description: _Annotated Bibliographies_ is a webcomic tutorial that walks learners through what annotated bibliographies are, why they're important, and the kind of annotated bibliographies they might be asked by their instructor to make.
+description: Annotated Bibliographies is a webcomic tutorial that walks learners through what annotated bibliographies are, why they're important, and the kind of annotated bibliographies they might be asked by their instructor to make.
 thumbnail: /assets/tutorials/thumbnails/Annotatedbibs.png
 handout:
 handout-thumbail: 
@@ -37,6 +37,6 @@ tags:
 ---
 As annotated bibliographies (AB) become more commonly assigned, it is important to not only know what they are, but why they are important. _Annotated Bibliographies_ is an interactive webcomic that walks students through the reasons why their instructor would assign an AB and explains several types of ABs that a student might be asked to create.
 
-*Note:* a transcript for each slide can be located at the bottom left of each slide. Click the button to preview transcript of slide for description of art in each panel and the script of tutorial guide.
+**Note:** a transcript for each slide can be located at the bottom left of each slide. Click the button to preview transcript of slide for description of art in each panel and the script of tutorial guide.
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3213459" width="1559" height="902" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
