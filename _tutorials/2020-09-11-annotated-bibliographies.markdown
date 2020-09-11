@@ -23,7 +23,7 @@ accessibility-info:
 learning-outcomes:
     - Identify components of an annotated bibliography
     - List reasons for making an annotated bibliography
-    - Define four types of annotations.
+    - Define four types of annotations
 # ACRL FRAMES
 acrl-frames:
     - Research as Inquiry
