@@ -1,8 +1,8 @@
 ---
 title:  "Your Remote eBook Roadmap"
 description: "Need a book? We've got you covered! Follow this roadmap to find e-Books on reserve and through UCLA Library, HathiTrust, and the National Emergency Library."
-date:   2020-09-16
-last-updated: 2020-06-09
+date:   2020-06-09
+last-updated: 2020-09-16
 authors: 
     - doug-worsham
     - chris-lopez
