@@ -27,6 +27,7 @@ contributors:
     - Anahita Sehgal
     - Miki Goral
     - Alison Scott
+    - hannah-sutherland 
 thumbnail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
 handout: https://drive.google.com/file/d/1_aUOBLeGgWBUimh05A__KD1OgHj_KuPu/preview
 # todo:: replace handout thumbnail, main thumbnail color is off
@@ -61,7 +62,7 @@ tags:
 - finding books
 ---
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/tFACIAKD9O0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lVPK6mdD-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p><em><a href="https://ucla.app.box.com/s/p3vum64dpifmm9r5e99eg0ts5jgcc6ks" target="_blank">Descriptive Transcript</a></em></p>
 
