@@ -12,6 +12,7 @@ authors:
     - Katherine Ramirez
     - Michael Lima-Sabatini
     - Ariane Bicho
+    - hannah-sutherland 
 contributors:
     - renee-romero
     - Zoe Borovsky
@@ -27,7 +28,6 @@ contributors:
     - Anahita Sehgal
     - Miki Goral
     - Alison Scott
-    - hannah-sutherland 
 thumbnail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
 handout: https://drive.google.com/file/d/1_aUOBLeGgWBUimh05A__KD1OgHj_KuPu/preview
 # todo:: replace handout thumbnail, main thumbnail color is off
@@ -74,7 +74,7 @@ tags:
 
 <p>This means that if any UC library has a book in print and in the HathiTrust, you can get temporary access to it electronically through the HathiTrust Emergency Temporary Access Service. That’s more than 7 million books!</p>
 
-<p>And, we haven't reached the end of the road quite yet! There's also the National Emergency Library, Interlibrary Loan, and getting in touch with your subject librarian.</p>
+<p>If you just need a portion of the book, try requesting a section or chapter of the book through an interlibrary loan (ILL). Or if you need the whole book, get in touch with a librarian.</p>
 
 <p>Now you have a road map to follow when searching for e-books in the future!</p>
 
