@@ -1,7 +1,7 @@
 ---
 title:  "Your Remote eBook Roadmap"
 description: "Need a book? We've got you covered! Follow this roadmap to find e-Books on reserve and through UCLA Library, HathiTrust, and the National Emergency Library."
-date:   2020-05-13
+date:   2020-09-16
 last-updated: 2020-06-09
 authors: 
     - doug-worsham
@@ -29,7 +29,7 @@ contributors:
     - Miki Goral
     - Alison Scott
 thumbnail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
-handout: https://drive.google.com/file/d/1_aUOBLeGgWBUimh05A__KD1OgHj_KuPu/preview
+handout: https://ucla.box.com/s/8meozqpd9rbccwoqupvablp6ws91wje7
 # todo:: replace handout thumbnail, main thumbnail color is off
 handout-thumbail: /assets/tutorials/thumbnails/np_e-book_982009_4775A1.png
 category: Finding and Citing Sources
