@@ -105,6 +105,7 @@ tags:
     - writing strategies
     - academic writing
     - topic sentences
+    - writing tips
 ---
 <p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about topic sentences with Jessica! <i>More Writing Strategies Videos coming soon!</i></p>
 

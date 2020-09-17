@@ -34,6 +34,7 @@ tags:
     - bibliographies
     - research
     - writing strategies
+    - bibliography
 ---
 As annotated bibliographies (AB) become more commonly assigned, it is important to not only know what they are, but why they are important. _Annotated Bibliographies_ is an interactive webcomic that walks students through the reasons why their instructor would assign an AB and explains several types of ABs that a student might be asked to create.
 

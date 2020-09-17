@@ -23,6 +23,10 @@ core-competencies:
     - Gather and organize information and data
 tags:
 - research guides
+- articles
+- books
+- finding articles
+- finding books
 # image: featuredimagehere
 ---
 

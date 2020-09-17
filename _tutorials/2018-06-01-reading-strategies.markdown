@@ -28,6 +28,8 @@ acrl-frames:
 core-competencies:
     - Evaluate and synthesize information and data
     - Reflect on and refine the research process
+keywords:
+    - learning strategies
 ---
 <p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. </p>
 

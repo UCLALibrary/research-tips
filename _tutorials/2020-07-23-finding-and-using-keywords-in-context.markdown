@@ -109,7 +109,8 @@ tags:
     - keywords
     - history
     - searching
-    - finding
+    - search strategies
+    - articles
 ---
 
 <div class="row">

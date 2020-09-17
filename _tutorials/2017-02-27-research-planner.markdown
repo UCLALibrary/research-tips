@@ -37,6 +37,8 @@ core-competencies:
 tags:
     - planning
     - time management
+    - strategy
+    - strategies
 ---
 
 <p>Tired of writing your paper the night before it's due? This Research Paper Planner will help you break down your assignment into manageable deadlines, track your progress, and connect with campus resources.</p>

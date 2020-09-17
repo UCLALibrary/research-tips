@@ -43,6 +43,8 @@ tags:
 - Office Hours
 - Communication
 - academic etiquette 
+- academic writing
+- writing
 ---
 
 As students, you will often need to get in touch with your instructors. Whether it is a TA, professor, or faculty advisor, a little bit of etiquette can go a long way to making sure your communication is efficient and effective for everyone involved.

@@ -36,6 +36,8 @@ core-competencies:
 tags:
 - keywords
 - search strategies
+- research strategy
+- brainstorming
 # image: featuredimagehere
 ---
 

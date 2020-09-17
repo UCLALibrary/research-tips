@@ -39,6 +39,9 @@ tags:
 - topic mapping
 - research questions
 - brainstorming
+- mindmapping
+- mind mapping
+- mind-mapping
 ---
 
 <p>Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
