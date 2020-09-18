@@ -18,14 +18,12 @@ permalink: /404.html
 </style>
 
 <div class="container">
-  <h1>404</h1>
-<p><strong>Uh, oh - that page was not found. Sorry about that!</strong></p>
-<p>¯\_(ツ)_/¯</p>
-<div class="text-left">
-<h2 class="text-left"><i class="fas fa-search" aria-hidden="true"></i> Would you like to search the WI+RE website?</h2>
-    <script async src="https://cse.google.com/cse.js?cx=015811538852292369723:vhcz9pwp40c"></script>
-    <div class="gcse-searchbox"></div>
-    <div class="gcse-searchresults"></div>
+  <h1 role="img" aria-label="Sorry about that.">¯\_(ツ)_/¯</h1>
+<p class="mt-5"><strong>Uh, oh - that page was not found. Sorry about that!</strong></p>
+<p class="mb-5">Error code: 404</p>
+<div class="text-left mt-5">
+<h2 class="text-left">Maybe a search would help?</h2>
+{% include search-all.html %}
 </div>
 
 <p class="text-left">Not finding what you are looking for? <a href="{{ '/contact' | relative_url }}" target="_blank">Contact the WI+RE team</a> and let us know how we can help!</p>

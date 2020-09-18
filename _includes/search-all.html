@@ -1,0 +1,152 @@
+{% assign sorted_documents = site.documents | sort: "title" %}
+<!-- search input form -->
+  <div class="row">
+                    <div class="col-lg-12 col-md-12 mx-auto mb-5">
+                        <div class="input-group md-form form-sm form-1 pl-0 mb-0">
+                          <div class="input-group-prepend">
+                            <span class="input-group-text" style="background-color: #005587;" id="basic-text1"><i class="fas fa-search text-white" aria-hidden="true"></i></span>
+                            <label for="myInput" class="sr-only">Search for tutorials, workshops, handouts, and more:</label>
+                          </div>
+                          <input class="form-control form-control-lg input-lg" id="myInput" type="text" aria-label="Search for tutorials and workshops" placeholder="try keywords like reading strategies, literature review, writing, etc...">
+                        </div>
+                        <small id="emailHelp" class="form-text text-muted input-text">Search tip: Use words from your syllabus or assignment prompt!</small>
+                    </div>
+</div>
+
+<!-- list of content in a search table -->
+<!-- -->
+<!-- -->
+<h2>WI+RE Tutorials, Workshops, and Handouts</h2>
+ <table class="table table-sm table-responsive-sm">
+        <thead>
+            <th scope="col" style="display: none;">Thumbnail</th>
+            <th scope="col" style="display: none;">Title</th>
+            <th scope="col" style="display: none;">Learning Outcomes</th>
+            <th scope="col" style="display: none;">Tags</th> <!-- use tags for common search terms, e.g., "lit review" - column is hidden but matching results will still display -->
+        </thead>
+        <tbody id="myTable">
+{% for item in sorted_documents %}
+    {% if item.layout != "embed" and item.layout != "embed-simple" and item.layout != "post" and item.layout != "team-member" %}
+            {% if item.title %}
+                <tr>
+                        <td>
+                            {% if item.thumbnail %}
+                                        <img src="{{ item.thumbnail | relative_url }}" class="img-fluid  d-none d-md-block" style="width: 100px;" alt=""> <!-- decorative img alt intentionally left blank -->
+                                    {% else %}
+                                        <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="img-fluid" style="width: 100px;" alt=""><!-- decorative img alt intentionally left blank -->
+                                    {% endif %}
+                        </td>
+                        <td>
+                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> {% if item.awards %}{% for award in item.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}<small><em> ({{ item.layout | capitalize }})</em></small></strong></p>
+                        </td>
+                        <td style="display: none;">
+                                {% if item.learning-outcomes %}
+                                    <ul>
+                                        {% for outcome in item.learning-outcomes %}
+                                            <li>{{ outcome }}</li>
+                                        {% endfor %}
+                                    </ul>
+                                    {% else %}
+                                        <small><em>Coming soon!</em></small>
+                                {% endif %}
+                        </td>
+                        <td style="display: none;">
+                            {% if item.tags %}
+                                <p>{{ item.tags | split: ", " }}</p>
+                            {% endif %}
+                        </td>
+                </tr>
+            {% endif %}
+    {% endif %}
+{% endfor %}
+</tbody>
+</table>
+<!-- list of team members -->
+<!-- -->
+<!-- -->
+
+<h2>WI+RE Team</h2>
+<table class="table table-sm table-responsive-sm">
+        <thead>
+            <th scope="col" style="display: none;">Profile Picture</th>
+            <th scope="col" style="display: none;">Title</th>
+            <th scope="col" style="display: none;">Description</th>
+            <th scope="col" style="display: none;">Tags</th> <!-- use tags for common search terms, e.g., "lit review" - column is hidden but matching results will still display -->
+            <th scope="col" style="display: none;">Authored Materials</th>
+        </thead>
+        <tbody id="myTable">
+{% for item in sorted_documents %}
+    {% if item.layout == "team-member" %}
+            {% if item.title %}
+                <tr>
+                        <td>
+                                {% if item.profile %}<img src="{{ item.profile | relative_url }}" class="img-fluid  d-none d-md-block" style="width: 100px;" alt=""> <!-- decorative img alt intentionally left blank -->
+                                    {% else %}
+                                        <img src="{{ '/assets/images/team/np_cat_114598_B8B8B8.png' | relative_url }}" class="img-fluid" style="width: 100px;" alt=""><!-- decorative img alt intentionally left blank -->
+                                    {% endif %}
+                        </td>
+                        <td>
+                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong></p>
+                        </td>
+                        <td style="display: none;">
+                                {% if item.description %}
+                                    {{ item.description }}
+                                    {% else %}
+                                        <small><em>Coming soon!</em></small>
+                                {% endif %}
+                        </td>
+                        <td style="display: none;">
+                            {% if item.tags %}
+                                <p>{{ item.tags | split: ", " }}</p>
+                            {% endif %}
+                        </td>
+                        <td style="display: none;">
+                            {% for resource in sorted_documents %} 
+                                {% if resource.authors contains item.username or resource.contributors contains item.username %}
+                                    {{ resource.title }} - 
+                                {% endif %}
+                            {% endfor %}
+                        </td>
+                </tr>
+            {% endif %}
+    {% endif %}
+{% endfor %}
+</tbody>
+</table>
+<!-- list of sandbox posts -->
+<!-- -->
+<!-- -->
+<h2>WI+RE Sandbox Posts</h2>
+<p><em>For a behind the scenes look at WI+RE's learner-led design process</em></p>
+<table class="table table-sm table-responsive-sm">
+        <thead>
+            <th scope="col" style="display: none;">Title</th>
+            <th scope="col" style="display: none;">Description</th>
+            <th scope="col" style="display: none;">Tags</th> <!-- use tags for common search terms, e.g., "lit review" - column is hidden but matching results will still display -->
+        </thead>
+        <tbody id="myTable">
+{% for item in sorted_documents %}
+    {% if item.layout == "post" %}
+            {% if item.title %}
+                <tr>
+                        <td>
+                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> </strong></p>
+                        </td>
+                        <td style="display: none;">
+                                {% if item.description %}
+                                    {{ item.description }}
+                                    {% else %}
+                                        <small><em>Coming soon!</em></small>
+                                {% endif %}
+                        </td>
+                        <td style="display: none;">
+                            {% if item.tags %}
+                                <p>{{ item.tags | split: ", " }}</p>
+                            {% endif %}
+                        </td>
+                </tr>
+            {% endif %}
+    {% endif %}
+{% endfor %}
+</tbody>
+</table>
