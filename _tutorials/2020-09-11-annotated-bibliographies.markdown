@@ -16,7 +16,9 @@ handout-thumbail:
 category: Writing Strategies
 sort-weight: 15
 # ######
-# Accessibility info
+# ACCESSIBILITY INFO
+# - { text: 'WAVE tested - 0 errors', date: '2020-09-18', url: 'https://wave.webaim.org/' }
+# - { text: 'Transcript Available in Tutorial' }
 # ######
 accessibility-info:
  Forthcoming
