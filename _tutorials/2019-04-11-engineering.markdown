@@ -23,6 +23,9 @@ learning-outcomes:
 # ACRL FRAMES
 acrl-frames:
     - Searching as Strategic Exploration
+# Accessibility
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-09-22', url: 'https://wave.webaim.org/' }
 # UCLA Library Core Competencies
 core-competencies:
     - Define the goals, scope, and plan
