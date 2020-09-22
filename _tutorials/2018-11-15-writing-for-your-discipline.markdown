@@ -16,6 +16,8 @@ description: Want to improve your academic writing? Complete this interactive ac
 thumbnail: /assets/tutorials/thumbnails/WritingForYourDisciplineThumbnail.jpg
 category: Writing Strategies
 sort-weight: 27
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-09-22', url: 'https://wave.webaim.org/' }
 learning-outcomes:
 - Identify key stylistic elements of paper writing in their specific discipline.
 - Read papers in their discpline for style.
