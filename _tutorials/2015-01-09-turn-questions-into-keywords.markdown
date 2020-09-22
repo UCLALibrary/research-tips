@@ -22,7 +22,6 @@ sort-weight: 32
 accessibility-info:
    - { text: 'Closed Captioning Available' }
    - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
-   - { text: 'Issues filed for two accessibility improvements - headers', date: '2020-07-17', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Identify core concepts in research questions
     - List core concepts as keywords
