@@ -5,6 +5,7 @@ last-updated: 2017-11-28
 authors: 
     - shannon-roux
 contributors: 
+    - doug-worsham
     - Whitney Arnold
     - taylor-harper
     - Leigh Harris
@@ -12,7 +13,6 @@ contributors:
     - Marisa Méndez-Brady
     - caitlin-meyer
     - renee-romero
-    - doug-worsham
 description: There are many ways to use citations to support an argument.
 thumbnail: /assets/tutorials/thumbnails/IntegratingCitations.jpg
 handout: https://drive.google.com/file/d/12BgjR4yhgJ5ESeoa1jtDAJTmoNYob2Z7/preview
