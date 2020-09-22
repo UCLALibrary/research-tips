@@ -44,7 +44,7 @@ tags:
 <!-- Start Plan Your Reading Session -->
 <div class="card">
     <div class="card-body">
-                <h3 class="card-title">Getting Started: Organized Brainstorming</h3>
+                <h2 class="card-title">Getting Started: Organized Brainstorming</h2>
     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424342" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
     </div>
@@ -56,7 +56,7 @@ tags:
 <!-- Turn Headings Into Questions -->
 <div class="card">
     <div class="card-body">
-                <h3 class="card-title">Getting Started: Constructing Effective Searches</h3>
+                <h2 class="card-title">Getting Started: Constructing Effective Searches</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424343" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
         </div>
@@ -68,7 +68,7 @@ tags:
 <!-- Start Paraphrase as you read -->
 <div class="card">
     <div class="card-body">
-                <h3 class="card-title">Researching: Understanding Databases</h3>
+                <h2 class="card-title">Researching: Understanding Databases</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424344" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
            </div>
@@ -80,7 +80,7 @@ tags:
  <!-- Start Take Relevant Notes -->
 <div class="card">
     <div class="card-body">
-                <h3 class="card-title">Researching: Navigating the Melvyl Catalog</h3>
+                <h2 class="card-title">Researching: Navigating the Melvyl Catalog</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424345" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
             </div>
@@ -92,7 +92,7 @@ tags:
 <!-- Make an Annotation Legend -->
 <div class="card">
     <div class="card-body">
-                <h3 class="card-title">Researching: Finding Primary Sources through Newspaper Archives</h3>
+                <h2 class="card-title">Researching: Finding Primary Sources through Newspaper Archives</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424346" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
             </div>
