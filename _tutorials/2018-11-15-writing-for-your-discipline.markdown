@@ -54,7 +54,7 @@ tags:
   <div class="card-body">
     <div class="row">
         <div class="col col-sm-12 col-md-5">
-        <a href="https://docs.google.com/document/d/1Mg1rUtDZHHTbVoZsMxM-jjf6HAcm92Omkz4A5Rnulv0/copy?copyComments=true" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/WritingForYourDiscipline.png' | relative_url }}"   alt="Screenshot of Writing for Your Discipline style guide." data-caption="Screenshot of Writing for Your Discipline style guide."></a>  
+        <img class="img-fluid img-thumbnail" src="{{ '/assets/images/WritingForYourDiscipline.png' | relative_url }}"   alt="Screenshot of Writing for Your Discipline style guide." data-caption="Screenshot of Writing for Your Discipline style guide.">
         </div>
         <div class="col col-sm-12 col-md-7">
             <p class="card-text">The <i>Writing for Your Discipline</i> Style Guide is a fillable Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide.</p>
@@ -64,6 +64,6 @@ tags:
   </div>
 </div>
 
-<h3 class="mt-5">Getting Started</h3>
+<h2 class="mt-5">Getting Started</h2>
 
 In this activity, you will look at a well-written academic paper from your discipline, paying careful attention to the paper’s style and conventions. As you go along, fill out the style guide based on your findings, using the example answers to guide you. The activity might take about forty-five minutes to an hour to complete, but once you're finished with your guide, you can always come back to it for future class assignments and research papers. Click on the link above to get started!
