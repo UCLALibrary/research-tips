@@ -49,7 +49,7 @@ tags:
 <iframe src="{{ '/assets/embeds/' | prepend: site.baseurl }}" frameborder="0" width="100%" height="379px"></iframe>
 <!-- include embed-and-share-buttons.html ? -->
 
-<h3 class="mt-3">Give it a try</h3>
+<h2 class="mt-3">Give it a try</h2>
 
 <p>First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.</p>
 
@@ -58,7 +58,7 @@ tags:
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Need some more help?</h5>
+    <h2 class="card-title">Need some more help?</h2>
     <p class="card-text">Watch this quick video on crafting a savvy search strategy for more ideas on generating keywords for search:</p>
   </div>
     <div class="embed-responsive embed-responsive-16by9 card-img-top">
