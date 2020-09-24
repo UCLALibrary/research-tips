@@ -1,0 +1,10 @@
+---
+layout: page
+title: WI+RE's Embedded instructional resources archive
+---
+<p>"Embeds" were an early experiment from the WI+RE team to create embeddable instructional resources. Many of our original embeds have been migrated to the H5P format and incorporated into our site as tutorials and workshops. We try to keep this section of the website up to date in case other institutions are using the embeds on their sites.</p>
+<ul>
+    {% for embed in site.embeds %}
+        <li><a href="{{ embed.url | relative_url }}">{{ embed.title }}</a></li>
+    {% endfor %}
+</ul>
