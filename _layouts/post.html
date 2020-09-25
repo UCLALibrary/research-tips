@@ -50,7 +50,9 @@ layout: default
   <div class="row">
     <div class="col-lg-10 col-md-11 col-xl-10 mx-auto">
         {{ content }}
-        {% include related-resources.html %}
+        {% if page.tags %}
+            {% include related-resources.html %}
+        {% endif %}
         {% include info.html %}
         {% include prev-next.html %}
     </div>
