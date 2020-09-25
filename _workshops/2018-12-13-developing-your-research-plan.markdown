@@ -24,5 +24,8 @@ core-competencies:
 tags:
 - planning a research project
 - UCLA Undergraduate Research Centers
+- Cornerstone Research Workshops
+- time management
+- planning
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2180649" width="906" height="535" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

@@ -36,6 +36,9 @@ tags:
 - searching for books
 - searching for articles
 - research at UCLA
+- Cornerstone Research Workshops
+- finding books
+- finding articles
 featured: yes
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2190859" width="926" height="546" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

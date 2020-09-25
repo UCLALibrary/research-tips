@@ -41,6 +41,9 @@ acrl-frames:
     - Scholarship as Conversation
 tags:
     - Undergraduate Research at UCLA
+    - undergraduate research
+    - getting started
+    - Entering Research
 category: Entering Research Workshops
 ---
 <!--H5P-->

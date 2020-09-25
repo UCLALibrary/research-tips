@@ -39,6 +39,12 @@ core-competencies:
     - Define the goals, scope, and plan
     - Investigate diverse sources and perspectives
 category: Entering Research Workshops
+tags:
+    - Undergraduate Research at UCLA
+    - undergraduate research
+    - getting started
+    - Entering Research
+    - research question
 ---
 <!--H5P-->
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2551549" width="100%" height="505" frameborder="0" allowfullscreen="allowfullscreen" class="mb-3"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
