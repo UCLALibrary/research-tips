@@ -1,0 +1,40 @@
+{% if page.tags %}
+<div class="card">
+  <div class="card-header">
+    <h2>Related Resources</h2>
+  </div>
+{% assign sorted_documents = site.documents | sort: "title" %}
+<div class="relatedPosts">
+  <div class="card-body">
+{% assign maxRelated = 6 %}
+{% assign minCommonTags =  1 %}
+{% assign maxRelatedCounter = 0 %}
+<ul>
+{% for item in sorted_documents %}
+
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
+    {% for tag in item.tags %}
+      {% if item.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="badge badge-primary">{{ tag }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if sameTagCount >= minCommonTags %}
+      <li><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> {% if item.awards %}{% for award in item.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}<small><em> ({{ item.layout | capitalize }})</em></small></strong></li>
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+</ul>
+    </div>
+</div>
+{% endif %}
