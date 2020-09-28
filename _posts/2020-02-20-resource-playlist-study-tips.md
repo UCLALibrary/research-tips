@@ -12,7 +12,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 <div class="card-deck mt-3">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Space It Out</h5>
+            <h2 class="card-title">Space It Out</h2>
 	    <p class="card-text">Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the <i>spacing effect</i>.</p>
 		<div class="text-center pt-3">
 		<figure class="figure border border-primary shadow mt-3">
@@ -39,7 +39,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 <div class="card-deck mt-3">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Test Yourself</h5>
+            <h2 class="card-title">Test Yourself</h2>
 	    <p class="card-text">Many studies have also shown that testing yourself on content you've just read or watched actually helps you remember it way better than simply rereading or rewatching the material. This is known as the <i>testing effect</i>. One strong hypothesis about why it works is because testing yourself is a form of retrieval practice, or training yourself to recall something, which is the exact thing you need to do come test time!</p>
 		<p class="card-text">Unfortunately, this is one of those counter-intuitive strategies that, while it works well, feels like it <i>doesn't</i>. Roediger and Karpicke (2006) found that while participants remembered information a lot better over the long term when they tested themselves compared to simply studying more, they judged the restudying to help them more than testing did.</p>
 		<div class="text-center pt-3">
@@ -74,7 +74,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 <div class="card-deck mt-3">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Change It Up</h5>
+            <h2 class="card-title">Change It Up</h2>
 		<div class="text-center pt-3">
 			<figure class="figure border border-primary shadow mt-3">
 				<img src="{{ '/assets/images/study-tips/study-in-different-places.gif' | relative_url }}" class="figure-img img-fluid rounded">
@@ -89,7 +89,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
     </div>
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Think About It</h5>
+            <h2 class="card-title">Think About It</h2>
             <p class="card-text">Another helpful memory aid is processing the material deeply. This paper by Craik and Lockhart suggests a framework for human memory that stresses the importance of depths or levels of processing and predicts that the deeper information is processed, the longer it will be remembered.</p>
 			<div class="text-center pt-3">
             	<a href="https://www.sciencedirect.com/science/article/pii/S002253717280001X" class="btn btn-primary" target="_blank">Craik & Lockhart 1972</a>
@@ -102,7 +102,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 <div class="card-deck mt-3">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Understand It</h5>
+            <h2 class="card-title">Understand It</h2>
             <p class="card-text">One of my favorite ways to remember big concepts from class that has worked for me over the long term is simply trying to understand the material. Studies have shown that actually knowing how the material you're learning ties into what you already know enhances retention and recall of the material.</p>
             <div class="text-center pt-3">
                  <a href="https://msu.edu/~ema/802/Ch6-Memory/2/BransfordJohnson72.pdf" class="btn btn-primary" target="_blank">Bransford & Johnson 1972</a>
@@ -115,7 +115,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 <div class="card-deck mt-3">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Get Some Exercise</h5>
+            <h2 class="card-title">Get Some Exercise</h2>
 
 <!-- commenting out this image for now
 		<div class="text-center pt-3">

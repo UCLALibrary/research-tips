@@ -33,16 +33,16 @@ tags:
 <p class="intro">Want to find books, media, and more from the UCLA library or from libraries around the world? This tutorial will give you time-saving tips on navigating the UCLA Libary catalog and the Melvyl catalog!</p>
 
 
-<h3 class="mt-3">Searching the UCLA Library Catalog:</h3>
+<h2 class="mt-3">Searching the UCLA Library Catalog:</h2>
 <p> You can find resources located at UCLA using the UCLA Library catalog. Check out this video on how to use it: </p>
 <iframe width="90%" height="400" src="https://youtube.com/embed/R9baCG8zygo" frameborder="0" allowfullscreen></iframe>
 
-<h3 class="mt-3">Searching the Melvyl Catalog:</h3>
+<h2 class="mt-3">Searching the Melvyl Catalog:</h2>
 <p> The Melvyl catalog allows search for materials from all UC libraries and libraries worldwide. Check out this video on how to use it: </p>
 
 <iframe width="90%" height="400" src="https://youtube.com/embed/b9auAPSlHi4" frameborder="0" allowfullscreen></iframe>
 
-<h3 class="mt-3">Give it a try:</h3>
+<h2 class="mt-3">Give it a try:</h2>
 
 <p >Visit the UCLA Library website, <a href="https://www.library.ucla.edu/" target="_blank">www.library.ucla.edu/</a>, and choose either catalog to find books, media, and more! </p>
 

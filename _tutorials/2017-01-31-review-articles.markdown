@@ -56,7 +56,7 @@ tags:
 
 <p>Reading a review article can save you time and give you a more well-rounded and coherent understanding of your topic.</p>
 
-### Heads Up!
+## Heads Up!
 
 <p>Unlike typical research articles, review articles do not present any original primary research. For this reason, some assignments may not allow you to directly cite a review article in your paper. However, you can still use the article to get a general understanding of the field and to find important primary research articles.</p>
 
@@ -64,14 +64,14 @@ tags:
 
 <p>Be sure to review the writing prompt and check with your instructor to be sure!</p>
 
-### How do I Find Review Articles? 
+## How do I Find Review Articles? 
 
 Finding a review article is relatively simple, though it varies slightly depending on what database you are using. 
 
 <!-- Start Web of Science -->
 <div class="card shadow">
     <div class="card-header">
-    <h4>Web of Science</h4>
+    <h3>Web of Science</h3>
     </div>
     <div class="card-body">
                 <p>Start with a search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong>.</p>
@@ -85,7 +85,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
 <!-- Start PubMed -->
 <div class="card shadow mt-4">
     <div class="card-header">
-    <h4>PubMed</h4>
+    <h3>PubMed</h3>
     </div>
     <div class="card-body">
                  <p>After your initial search in <strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/?otool=cdlib&tool=cdl" target="_blank">PubMed</a></strong>, look for the "Articles Types" filter on the left side of the page.</p>
@@ -100,7 +100,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
 <!-- Start UCLA Library Journal Search -->
 <div class="card shadow mt-4">
     <div class="card-header">
-    <h4>UCLA Library Journal Search</h4>
+    <h3>UCLA Library Journal Search</h3>
     </div>
     <div class="card-body">
                  <p>From the <a href="http://library.ucla.edu" target="_blank">UCLA Library homepage</a>, click the "<a href="http://www.library.ucla.edu/#journals" target="_blank">Journals</a>" tab to search for academic journals that focus on publishing review articles.</p>
@@ -115,7 +115,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
 <!-- Start Google Scholar -->
 <div class="card shadow mt-4">
 <div class="card-header">
-    <h4>Google Scholar and ArticlesPlus</h4>
+    <h3>Google Scholar and ArticlesPlus</h3>
     </div>
     <div class="card-body">
                 <p>In both <a href="http://scholar.google.com" target="_blank">Google Scholar</a> and <a href="http://ucla.summon.serialssolutions.com/#!/" target="_blank">ArticlesPlus</a> you can add <em>review</em>, <em>"literature review"</em>, <em>"annual review"</em> or <em>"review article"</em> to your search terms.</p>
@@ -127,6 +127,6 @@ Finding a review article is relatively simple, though it varies slightly dependi
 
 <br>
 
-<h3>How do I know if an article is a <em>Review Article</em> or a <em>Primary Research Article?</em></h3>
+<h2>How do I know if an article is a <em>Review Article</em> or a <em>Primary Research Article?</em></h2>
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3198231" width="100%" height="600" frameborder="1" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

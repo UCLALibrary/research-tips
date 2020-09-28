@@ -50,7 +50,7 @@ tags:
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<h3 class="mt-3">Give it a try:</h3>
+<h2 class="mt-3">Give it a try:</h2>
 
 <ul>
     <li>Start by brainstorming a list of questions</li>
@@ -59,10 +59,10 @@ tags:
 </ul>
 <p>This work will pay off when you use these questions to generate great searches later!</p>
 
-<h3>Tips and Examples</h3>
+<h2>Tips and Examples</h2>
 
 <div class="card mt-4">
-  <h5 class="card-header">Example research question maps</h5>
+  <h3 class="card-header">Example research question maps</h3>
   <img src="{{ '/assets/images/question-map-examples.jpg' | prepend: site.baseurl }}" class="card-img-top" alt="Example question maps">
   <div class="card-body">
     <!--<h6 class="card-title">Special title if needed</h6>-->
@@ -72,7 +72,7 @@ tags:
 </div>
 
 <div class="card mt-4">
-  <h5 class="card-header">Undergraduate Research Projects</h5>
+  <h3 class="card-header">Undergraduate Research Projects</h3>
     <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe>
     </div>
