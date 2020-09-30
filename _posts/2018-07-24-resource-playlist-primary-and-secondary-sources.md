@@ -13,7 +13,7 @@ Here is a playlist of WI+RE's favorite online resources on primary and secondary
     <div class="card">
         <div class="card-body">
             <h2 class="card-title">What's the Difference Between Primary and Secondary Sources?</h2>
-            <h3 class="card-subtitle mb-2 text-muted">by Imagine Easy Solutions</h3>
+            <cite class="card-subtitle mb-2 text-muted">by Imagine Easy Solutions</cite>
             <div class="text-center pt-3">
                  <a href="https://www.youtube.com/watch?v=1m5l_FnHZ0o" class="btn btn-primary">Link</a>
             </div>
@@ -23,7 +23,7 @@ Here is a playlist of WI+RE's favorite online resources on primary and secondary
     <div class="card">
         <div class="card-body">
             <h2 class="card-title">Primary and Secondary Sources</h2>
-            <h3 class="card-subtitle mb-2 text-muted">by SCSU Hilton C. Buley Library</h3>
+            <cite class="card-subtitle mb-2 text-muted">by SCSU Hilton C. Buley Library</cite>
             <div class="text-center pt-3">
                  <a href="https://libguides.southernct.edu/c.php?g=7346&p=35333" class="btn btn-primary">Link</a>
             </div>
@@ -35,7 +35,7 @@ Here is a playlist of WI+RE's favorite online resources on primary and secondary
     <div class="card">
         <div class="card-body">
             <h2 class="card-title">Primary, Secondary, and Tertiary Sources in the Health Sciences</h2>
-            <h3 class="card-subtitle mb-2 text-muted"> by University of Minnisota Bio-Medical Library</h3>
+            <cite class="card-subtitle mb-2 text-muted"> by University of Minnisota Bio-Medical Library</cite>
             <div class="text-center pt-3">
                  <a href="https://hsl.lib.umn.edu/biomed/help/primary-secondary-and-tertiary-sources-health-sciences" class="btn btn-primary">Link</a>
             </div>
