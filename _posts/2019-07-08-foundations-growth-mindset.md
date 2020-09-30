@@ -13,8 +13,8 @@ Here are some articles & other media resources on Growth Mindset, to be incorpor
 <div class="card-deck">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Carol Dweck's talk on Teaching a Growth Mindset</h5>
-            <h6 class="card-subtitle mb-2 text-muted">by Stanford University</h6>
+            <h2 class="card-title">Carol Dweck's talk on Teaching a Growth Mindset</h2>
+            <h3 class="card-subtitle mb-2 text-muted">by Stanford University</h3>
             <div class="text-center pt-3">
                  <a href="https://www.youtube.com/watch?v=isHM1rEd3GE" class="btn btn-primary">Link</a>
             </div>
