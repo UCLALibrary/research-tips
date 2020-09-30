@@ -23,8 +23,8 @@ Here are some articles & other media resources on Growth Mindset, to be incorpor
     </div>
     <div class="card">
         <div class="card-body">
-            <h2 class="card-title">History and summary of Mindset study</h2>
-            <h3 class="card-subtitle mb-2 text-muted">by Mindset Works</h3>
+            <h4 class="card-title">History and summary of Mindset study</h4>
+            <h5 class="card-subtitle mb-2 text-muted">by Mindset Works</h5>
             <div class="text-center pt-3">
                  <a href="https://www.mindsetworks.com/science/" class="btn btn-primary">Link</a>
             </div>
@@ -35,8 +35,8 @@ Here are some articles & other media resources on Growth Mindset, to be incorpor
 <div class="card-deck mt-3">
     <div class="card">
         <div class="card-body">
-            <h2 class="card-title">Qoutes on Growth Mindset</h2>
-            <h3 class="card-subtitle mb-2 text-muted"> from Dweck's talk and articles</h3>
+            <h6 class="card-title">Qoutes on Growth Mindset</h6>
+            <h7 class="card-subtitle mb-2 text-muted"> from Dweck's talk and articles</h7>
             <p class="card-text"> 
                 <blockquote cite="https://www.youtube.com/watch?v=isHM1rEd3GE">
                 <p> Students can have different perspectives on their intelligence, talents, and abilities. When they are in more of a fixed mindset, they believe their talents and abilities are just these fixed traits. They have a certain amount and that's it. This makes them afraid of learning. They are so worried about looking smart and not looking dumb that they back off from challenging learning, but when they are more of a growth mindset, they can forget about smart and dumb; they can focus on developing their abilities. As a result, they take on challenges, they are more resilient in the face of setbacks, and they learn more. </p>
