@@ -88,6 +88,7 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.

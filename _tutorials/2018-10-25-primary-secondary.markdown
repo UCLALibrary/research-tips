@@ -34,6 +34,8 @@ learning-outcomes:
     - Identify a source as primary or secondary given a specific research topic or discipline.
     - Identify a source that one research topic would treat as primary, and another research topic would treat as secondary.
     - Generate ideas for types of primary sources that may be relevant to their research area.
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 # ACRL FRAMES
 acrl-frames:
     - Information Creation as a Process
@@ -65,7 +67,7 @@ tags:
 
 <!-- include embed-and-share-buttons.html ? -->
 
-#### Key Terms from the Video
+## Key Terms from the Video
 
 <ul class="browser-default activator">
   <li><b>Empirical Study:</b> An empirical study is a type of research that uses empirical evidence, meaing that the research is conducted using direct or indirect observation for its findings. This is in contrast to non-empirical studies, which do not involve direct or indirect observation and analyze pre-existing phenomena or materials for their findings.</li>

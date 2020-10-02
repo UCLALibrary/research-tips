@@ -16,6 +16,8 @@ learning-outcomes:
     - Explain what a research abstract is
     - Recognize differences between effective and ineffective research abstracts 
     - Design an effective abstract
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 # ACRL FRAMES
 acrl-frames:
     - Scholarship as Conversation
@@ -42,7 +44,7 @@ tags:
   <iframe class="embedbox" src="https://uclalibrary.github.io/research-tips/assets/animation/abstract-animation" width="800px" height="600px"></iframe>
 </center>
 
-<h3 class="mt-3">Give it a Try</h3>
+<h2 class="mt-3">Give it a Try</h2>
 
 <p > Draft an abstract for your research project using the tips discussed in the interactive module above. Keep in mind that an effective abstract is clear and concise; it should clearly state your research project's question, methodology/approach, findings, and significance. </p>
 

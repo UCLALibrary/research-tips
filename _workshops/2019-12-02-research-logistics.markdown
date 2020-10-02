@@ -27,6 +27,8 @@ core-competencies:
     - Define the goals, scope, and plan
 description: "Before getting started with research, it's important to know the difference between faculty- and student-led projects, as well as how to earn course credit for your research."
 category: Entering Research Workshops
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 tags:
     - Undergraduate Research at UCLA
     - undergraduate research

@@ -48,7 +48,7 @@ And when displayed on an educational resource page, the resulting code might loo
     About this Resource - Example
   </div>
     <div class="card-body">
-        <h2 class="card-title">Accessibility Information</h5>
+        <h2 class="card-title">Accessibility Information</h2>
             <ul>
                 <li>WAVE - 0 errors May, 22, 2020 (<a href="https://wave.webaim.org/" style="text-decoration: underline;" target="_blank" >About WAVE - Web Accessibility Evaluation Tool</a>)</li>
                 <li>Closed Captioning Available</li>

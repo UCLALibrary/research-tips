@@ -15,6 +15,8 @@ handout: https://drive.google.com/file/d/15Cf8IzQFcF_1vt3LD5kbI7L_D4kk2qqO/previ
 handout-thumbail: /assets/handouts/thumbnails/introduction-to-articlesplus-tn.png
 category: Literature Reviews
 sort-weight: 43
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
     - Summarize a review article and its purpose
     - Find review articles in various databases
@@ -49,7 +51,7 @@ tags:
     <li>suggest directions for future research.</li>
 </ul>
 
-<img src="{{ '/assets/images/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" class="img-fluid" alt="Review Article" data-caption="Review Article"> 
+<img src="{{ '/assets/images/lit-review-article-diagram-1080.png' | prepend: site.baseurl }}" class="img-fluid" alt="Review articles contain must-read articles, unanswered questions, and controversies and debates." data-caption="Review articles contain must-read articles, unanswered questions, and controversies and debates."> 
 
 <p>You can use a review article to get a better understanding of the existing research on a topic, to identify research questions you would like to explore, and to find relevant sources. A review article’s bibliography often contains references to research articles that have made an impact on the field and advanced understanding of a research topic. 
 </p>
@@ -77,7 +79,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
                 <p>Start with a search in <strong><a href="http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?last_prod=WOS&product=WOS&highlighted_tab=WOS&search_mode=GeneralSearch" target="_blank">Web of Science</a></strong>.</p>
         <p>Then, on the results page, look for the “Document Types” filter on the left side of the page.</p>
         <p>Click the checkbox next to "Review" and then click "Refine" to see only the results classified as review articles.</p>
-  <img src="{{ '/assets/images/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" class="img-fluid" alt="Filter your results for review articles." data-caption="Under Document Types click the checkbox next to Review and then click Refine.">
+  <img src="{{ '/assets/images/web-of-science-wastewater-review.png' | prepend: site.baseurl }}" class="img-fluid" alt="Screenshot of filtering results for review articles in Web of Science.">
             </div>
         </div>
 <!-- End Web of Science -->
@@ -92,7 +94,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
         <p>Click "Customize..." and then click the checkbox next to review article related filters.</p>
         <p>Be sure to uncheck other article types if you would like to limit your search to review articles.</p>
         <p>Click "Show" to filter your search results.</p>
-  <img src="https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png" class="img-fluid" alt="Filter your results for review articles in PubMed." data-caption="more directions.">
+  <img src="https://www.evernote.com/l/AN8111WmiehF_JR_WpG4Zx2RzEXPMSda0y4B/image.png" class="img-fluid" alt="Screenshot of filtering results for review articles in PubMed.">
             </div>
         </div>
 <!-- End PubMed -->
@@ -107,7 +109,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
        <p>Search for your discipline or subject area, and <em>Review</em> (e.g., <em>Sociology Review</em> or <em>Psychology Review</em>).</p>
        <p>Be sure to change the drop-down menu to "Contains"</p>
        <p>On the results page, browse the list of journals, and then click on a title to visit the journal's website.</p>
-  <img src="{{ '/assets/images/journal-search-review.png' | prepend: site.baseurl }}" class="img-fluid" alt="You can search for review journals from the library homepage." data-caption="Search for journals that specialize in publishing review articles from the UCLA Library homepage.">
+  <img src="{{ '/assets/images/journal-search-review.png' | prepend: site.baseurl }}" class="img-fluid" alt="Screenshot of searching for review articles on UCLA Library homepage." data-caption="Search for journals that specialize in publishing review articles from the UCLA Library homepage.">
             </div>
         </div>
 <!-- End UCLA Library Journal Search -->
@@ -120,7 +122,7 @@ Finding a review article is relatively simple, though it varies slightly dependi
     <div class="card-body">
                 <p>In both <a href="http://scholar.google.com" target="_blank">Google Scholar</a> and <a href="http://ucla.summon.serialssolutions.com/#!/" target="_blank">ArticlesPlus</a> you can add <em>review</em>, <em>"literature review"</em>, <em>"annual review"</em> or <em>"review article"</em> to your search terms.</p>
         <p>Be sure to check that your results really are review articles! See our tips below to make sure.</p>
-  <img src="{{ '/assets/images/articles-plus-review-article-search.png' | prepend: site.baseurl }}" class="img-fluid" alt="Searching for review articles in ArticlesPlus or Google Scholar by adding review, literature review, and annual review to your search terms." data-caption="In Google Scholar and ArticlesPlus add review article related terms to your search.">
+  <img src="{{ '/assets/images/articles-plus-review-article-search.png' | prepend: site.baseurl }}" class="img-fluid" alt="Searching for review articles in ArticlesPlus or Google Scholar." data-caption="Searching for review articles in ArticlesPlus or Google Scholar by adding review, literature review, and annual review to search terms.">
             </div>
         </div>
 <!-- End Google Scholar -->

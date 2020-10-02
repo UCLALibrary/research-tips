@@ -19,6 +19,9 @@ handout:
 handout-thumbnail:
 category: Reading Strategies
 sort-weight: 13
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
    - Identify various reading strategies (e.g. paraphrase as you read, make an annotation legend, prioritize new vocabulary, etc.)
    - Select personal reading strategies based on your experiences, preferences, and needs.
@@ -44,7 +47,7 @@ keywords:
 <!-- Start Plan Your Reading Session -->
 <div class="card">
     <div class="card-body">
-                <h3 class="card-title">Plan Your Reading Session</h3>
+                <h2 class="card-title">Plan Your Reading Session</h2>
     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/9mvrn_YbGJw" frameborder="0" allowfullscreen></iframe>
     </div>
@@ -62,7 +65,7 @@ keywords:
 <!-- Turn Headings Into Questions -->
 <div class="card mt-3">
     <div class="card-body">
-                <h3 class="card-title">Turn Headings Into Questions</h3>
+                <h2 class="card-title">Turn Headings Into Questions</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/X-g8blCCqn0" frameborder="0" allowfullscreen></iframe>
         </div>
@@ -80,7 +83,7 @@ keywords:
 <!-- Start Paraphrase as you read -->
 <div class="card mt-3">
     <div class="card-body">
-                <h3 class="card-title">Paraphrase as You Read</h3>
+                <h2 class="card-title">Paraphrase as You Read</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/6hbtedrMpzw" frameborder="0" allowfullscreen></iframe>
            </div>
@@ -97,7 +100,7 @@ keywords:
  <!-- Start Take Relevant Notes -->
 <div class="card mt-3">
     <div class="card-body">
-                <h3 class="card-title">Take Relevant Notes</h3>
+                <h2 class="card-title">Take Relevant Notes</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/75KNersZRr0" frameborder="0" allowfullscreen></iframe>
             </div>
@@ -115,7 +118,7 @@ keywords:
 <!-- Make an Annotation Legend -->
 <div class="card mt-3">
     <div class="card-body">
-                <h3 class="card-title">Make an Annotation Legend</h3>
+                <h2 class="card-title">Make an Annotation Legend</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/Yw-24wNozE8" frameborder="0" allowfullscreen></iframe>
             </div>
@@ -131,7 +134,7 @@ keywords:
 <!-- Read for What You Need-->
 <div class="card mt-3">
     <div class="card-body">
-                <h3 class="card-title">Vary Your Speed for What You Need</h3>
+                <h2 class="card-title">Vary Your Speed for What You Need</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/RV67lo5hPi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
@@ -147,7 +150,7 @@ keywords:
 <!-- Prioritize New Vocabulary -->
 <div class="card mt-3">
     <div class="card-body">
-                <h3 class="card-title">Prioritize New Vocabulary</h3>
+                <h2 class="card-title">Prioritize New Vocabulary</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/LNFOxqgGwMI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
@@ -165,7 +168,7 @@ keywords:
 <!-- Identify Uncertainties -->
 <div class="card mt-3">
     <div class="card-body">
-                <h3 class="card-title">Identifying Uncertainties</h3>
+                <h2 class="card-title">Identifying Uncertainties</h2>
                 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item card-img-top" src="https://www.youtube.com/embed/NPgfgo_XY8s" frameborder="0" allowfullscreen></iframe>
             </div>

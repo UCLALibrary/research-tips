@@ -13,7 +13,7 @@ description: "Looking to get involved with research at UCLA? In this workshop, y
 # Accessibility info
 # ######
 accessibility-info:
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
     - Identify possible areas of interest for a research project
     - Find campus resources that match your needs and interests
