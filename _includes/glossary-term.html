@@ -1,0 +1,7 @@
+{% capture terminput %}{{ include.term | downcase }}{% endcapture %}
+{% for entry in site.data.glossary %}
+{% capture termglossary %}{{ entry.term | downcase }}{% endcapture %}
+{% if termglossary == terminput %}
+<a href="#" data-toggle="popover" title="{{ entry.term }}" data-content="{{ entry.definition }}">{{ include.term }}</a>
+{% endif %}
+{% endfor %}

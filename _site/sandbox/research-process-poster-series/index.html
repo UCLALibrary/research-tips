@@ -261,6 +261,7 @@
     </div>
   </div>
 </header>
+    
 
 <div class="container">
   <div class="row">
@@ -390,6 +391,7 @@
 " class="btn btn-primary">Interactive Poster Toolkit <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
 </div>
 
+        
         <hr>
 
 <div class="card">
@@ -606,6 +608,19 @@
 
 
 
+
+
+
+
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
 
   </body>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-08-28T15:22:32-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping</title><link href="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/" rel="alternate" type="text/html" title="Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping" /><published>2020-08-03T00:00:00-07:00</published><updated>2020-08-03T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/">&lt;p&gt;Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our &lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; target=&quot;_blank&quot;&gt;complete toolkit&lt;/a&gt; of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-10-02T13:42:50-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping</title><link href="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/" rel="alternate" type="text/html" title="Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping" /><published>2020-08-03T00:00:00-07:00</published><updated>2020-08-03T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/">&lt;p&gt;Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our &lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; target=&quot;_blank&quot;&gt;complete toolkit&lt;/a&gt; of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Note: This workshop series was first offered as a series of 3 synchronous zoom workshops open to all UCLA Library staff in March, 2020. It includes time in the first workshop to establish shared best practices for remote learning and makes extensive use of breakout rooms for group collaboration.&lt;/em&gt;&lt;/p&gt;
 
@@ -183,39 +183,41 @@
     About this Resource - Example
   &lt;/div&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-        &lt;h5 class=&quot;card-title&quot;&gt;Accessibility Information&lt;/h5&gt;
+        &lt;h2 class=&quot;card-title&quot;&gt;Accessibility Information&amp;lt;/h5&amp;gt;
             &lt;ul&gt;
                 &lt;li&gt;WAVE - 0 errors May, 22, 2020 (&lt;a href=&quot;https://wave.webaim.org/&quot; style=&quot;text-decoration: underline;&quot; target=&quot;_blank&quot;&gt;About WAVE - Web Accessibility Evaluation Tool&lt;/a&gt;)&lt;/li&gt;
                 &lt;li&gt;Closed Captioning Available&lt;/li&gt;
                 &lt;li&gt;Descriptive Transcript - In development.&lt;/li&gt;
             &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+    &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
 
-&lt;p&gt;This is a very rough first draft, and it will be exciting to see how this develops. If you have ideas, suggestions, or questions, &lt;a href=&quot;https://uclalibrary.github.io/research-tips/contact/&quot;&gt;please let us know&lt;/a&gt;!&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">I’ve been fortunate in the past few weeks to play a small part in a couple of web accessibility review projects for UCLA Library. I’ve been reflecting on how important the work is on the one hand, and on how invisible this labor can sometimes be on the other. I have also been reminded of how there is always so much more to learn!</summary></entry><entry><title type="html">WI+RE Spring Update</title><link href="http://localhost:4000/research-tips/sandbox/wire-spring-update/" rel="alternate" type="text/html" title="WI+RE Spring Update" /><published>2020-04-04T00:00:00-07:00</published><updated>2020-04-04T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-spring-update</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-spring-update/">&lt;p&gt;WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.&lt;/p&gt;
+This is a very rough first draft, and it will be exciting to see how this develops. If you have ideas, suggestions, or questions, [please let us know](https://uclalibrary.github.io/research-tips/contact/)!
+
+&lt;/h2&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">I’ve been fortunate in the past few weeks to play a small part in a couple of web accessibility review projects for UCLA Library. I’ve been reflecting on how important the work is on the one hand, and on how invisible this labor can sometimes be on the other. I have also been reminded of how there is always so much more to learn!</summary></entry><entry><title type="html">WI+RE Spring Update</title><link href="http://localhost:4000/research-tips/sandbox/wire-spring-update/" rel="alternate" type="text/html" title="WI+RE Spring Update" /><published>2020-04-04T00:00:00-07:00</published><updated>2020-04-04T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/wire-spring-update</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/wire-spring-update/">&lt;p&gt;WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.&lt;/p&gt;
 
 &lt;p&gt;Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!&lt;/p&gt;
 
-&lt;h2 id=&quot;stats-snapshot&quot;&gt;Stats Snapshot&lt;/h2&gt;
+&lt;h2 id=&quot;stats-snapshot-&quot;&gt;Stats Snapshot &lt;!--same as &lt;h2&gt; tag--&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a name=&quot;stats&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;card-deck mb-5&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-       &lt;h4 class=&quot;card-title text-center&quot;&gt;2090+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Workshops completed at UCLA&lt;/small&gt;&lt;/h4&gt;
+       &lt;h3 class=&quot;card-title text-center&quot;&gt;2090+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Workshops completed at UCLA&lt;/small&gt;&lt;/h3&gt;
     &lt;/div&gt;
   &lt;/div&gt; 
   &lt;div class=&quot;card&quot;&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-       &lt;h4 class=&quot;card-title text-center&quot;&gt;146.5K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;views on YouTube&lt;/small&gt;&lt;/h4&gt;
+       &lt;h3 class=&quot;card-title text-center&quot;&gt;146.5K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;views on YouTube&lt;/small&gt;&lt;/h3&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;card&quot;&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-      &lt;h4 class=&quot;card-title text-center&quot;&gt;177K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Website page views&lt;/small&gt;&lt;/h4&gt;
+      &lt;h3 class=&quot;card-title text-center&quot;&gt;177K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Website page views&lt;/small&gt;&lt;/h3&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -373,7 +375,7 @@
 &lt;p&gt;&lt;a name=&quot;thank-yous&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;thank-you&quot;&gt;Thank you!!&lt;/h2&gt;
 
-&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: Alana Enriquez, Alicia Reiley, Alison Scott, Allison R. Benedetti, Amber West, Amy Liu, Anahita Sehgal, Annelie Rugg, Annie Pho, Antigone Kutay, Antonia Osuna-Garcia, April Zhou, Ariane Bicho, Beth Goodhue, Bethany Meyers, Bethany Myers, Caitlin Meyer, Callie Holmes, Chris Lopez, Christine Holten, Courtney Hoffner, Dana Cairns Watson, Diana King, Diana L. King, Diane Mizrachi, Doug Worsham, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Fernando Gomez, Gavin Jackson, Giselle Burns, Grace Sosa, Hanna Young, Hannah Sutherland, Henri Lim, Ibraheem Ali, Jacelyn Omusi, Jacy Black, Janet Goins, Janine Henri, Jeannie Chen, Jemma Tan, Jen Pierre, Jessica Rauch, Joanna Chen Cham, Juan Jaime, Juan Díaz, Julia Glassman, Julian Gautier, kaitlin-alcontin, Kate McAllister, Kate Pham, Kate T. Pham, Katherine Ramirez, Kelly Kistner, Kelly Miller, Kian Ravaei, Leigh Harris, Lisa Kahn, Liz Galvin Lew, Lou Baya Ould Rouis, Luz Badillo, Marisa Méndez-Brady, Mary Tran, Matt Johnson, Matthew Johnson, Matthew Vest, Michael Lima-Sabatini, Miki Goral, Miriam Posner, Nadia Brooks, Natalie Selzer, Nina Mamikunian, Nisha Mody, Powell Library, Powell Library Embedded Inquiry Specialists, Renee Romero, Rikke Ogawa, Robert Freel, Robert Gore, Royson Lin, Ruby A. Bell-Gam, Salma Abumeeiz, Scott Martin, Shanna Shaked, Shannon Roux, Shushanik Stepanyan, Simon Lee, Sophia Wu, Srikar Poruri, Sylvia Page, Tama Hasson, Tara Prescott, Taylor Harper, Thomas Garbelotti, Tierra Sowell, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, Undergraduate Research Centers, University of Minnesota Libraries Research Paper Calculator, Valeria Morales, Whitney Arnold, Wynn Tranfield, Xinyi(Alex) Yan, Zoe Borovsky.&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.</summary></entry><entry><title type="html">The Making of Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/making-of-study-tips/" rel="alternate" type="text/html" title="The Making of Study Tips" /><published>2020-03-20T00:00:00-07:00</published><updated>2020-03-20T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/making-of-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/making-of-study-tips/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: Alana Enriquez, Alicia Reiley, Alison Scott, Allison R. Benedetti, Amber West, Amy Liu, Anahita Sehgal, Annelie Rugg, Annie Pho, Antigone Kutay, Antonia Osuna-Garcia, April Zhou, Ariane Bicho, Beth Goodhue, Bethany Meyers, Bethany Myers, Caitlin Meyer, Callie Holmes, Chris Lopez, Christine Holten, Courtney Hoffner, Dana Cairns Watson, Diana King, Diana L. King, Diane Mizrachi, Doug Worsham, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Fernando Gomez, Gavin Jackson, Giselle Burns, Grace Sosa, Hanna Young, Hannah Sutherland, Henri Lim, Ibraheem Ali, Jacelyn Omusi, Jacy Black, Janet Goins, Janine Henri, Jeannie Chen, Jemma Tan, Jen Pierre, Jessica Rauch, Joanna Chen Cham, Juan Jaime, Juan Díaz, Julia Glassman, Julian Gautier, Kaitlin Alcontin, Kate McAllister, Kate Pham, Kate T. Pham, Katherine Ramirez, Kelly Kistner, Kelly Miller, Kian Ravaei, Leigh Harris, Lisa Kahn, Liz Galvin Lew, Lou Baya Ould Rouis, Luz Badillo, Marisa Méndez-Brady, Mary Tran, Matt Johnson, Matthew Johnson, Matthew Vest, Michael Lima-Sabatini, Miki Goral, Miriam Posner, Nadia Brooks, Natalie Selzer, Nina Mamikunian, Nisha Mody, Powell Library, Powell Library Embedded Inquiry Specialists, Renee Romero, Rikke Ogawa, Robert Freel, Robert Gore, Royson Lin, Ruby A. Bell-Gam, Salma Abumeeiz, Scott Martin, Shanna Shaked, Shannon Roux, Shushanik Stepanyan, Simon Lee, Sophia Wu, Srikar Poruri, Sylvia Page, Tama Hasson, Tara Prescott, Taylor Harper, Thomas Garbelotti, Tierra Sowell, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Research Center: Arts, Humanities, and Social Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, Undergraduate Research Centers, University of Minnesota Libraries Research Paper Calculator, Valeria Morales, Whitney Arnold, Wynn Tranfield, Xinyi(Alex) Yan, Zoe Borovsky.&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.</summary></entry><entry><title type="html">The Making of Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/making-of-study-tips/" rel="alternate" type="text/html" title="The Making of Study Tips" /><published>2020-03-20T00:00:00-07:00</published><updated>2020-03-20T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/making-of-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/making-of-study-tips/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;These past two quarters, I had the pleasure of working with WI+RE, and this quarter (winter 2020) I used my position with WI+RE to fulfill my Psych 195B internship requirement for cognitive science. To fulfill the requirements of the internship, I had to complete a project determined jointly with my supervisor. I brainstormed ways to combine the cognitive science aspect of this project with the goals of WI+RE (writing instruction and research education), and a compilation of tips to help students do better in their classes seemed like the perfect integration of the two. I had learned a lot of memory strategies from my Cognitive Psychology class (Psych 120A) taught by Alan Castel, and this seemed like a great way to disseminate the information.&lt;/p&gt;
 
@@ -403,7 +405,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Space It Out&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Space It Out&lt;/h2&gt;
 	    &lt;p class=&quot;card-text&quot;&gt;Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the &lt;i&gt;spacing effect&lt;/i&gt;.&lt;/p&gt;
 		&lt;div class=&quot;text-center pt-3&quot;&gt;
 		&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
@@ -430,7 +432,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Test Yourself&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Test Yourself&lt;/h2&gt;
 	    &lt;p class=&quot;card-text&quot;&gt;Many studies have also shown that testing yourself on content you've just read or watched actually helps you remember it way better than simply rereading or rewatching the material. This is known as the &lt;i&gt;testing effect&lt;/i&gt;. One strong hypothesis about why it works is because testing yourself is a form of retrieval practice, or training yourself to recall something, which is the exact thing you need to do come test time!&lt;/p&gt;
 		&lt;p class=&quot;card-text&quot;&gt;Unfortunately, this is one of those counter-intuitive strategies that, while it works well, feels like it &lt;i&gt;doesn't&lt;/i&gt;. Roediger and Karpicke (2006) found that while participants remembered information a lot better over the long term when they tested themselves compared to simply studying more, they judged the restudying to help them more than testing did.&lt;/p&gt;
 		&lt;div class=&quot;text-center pt-3&quot;&gt;
@@ -465,7 +467,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Change It Up&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Change It Up&lt;/h2&gt;
 		&lt;div class=&quot;text-center pt-3&quot;&gt;
 			&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
 				&lt;img src=&quot;/research-tips/assets/images/study-tips/study-in-different-places.gif&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
@@ -480,7 +482,7 @@
     &lt;/div&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Think About It&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Think About It&lt;/h2&gt;
             &lt;p class=&quot;card-text&quot;&gt;Another helpful memory aid is processing the material deeply. This paper by Craik and Lockhart suggests a framework for human memory that stresses the importance of depths or levels of processing and predicts that the deeper information is processed, the longer it will be remembered.&lt;/p&gt;
 			&lt;div class=&quot;text-center pt-3&quot;&gt;
             	&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S002253717280001X&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Craik &amp;amp; Lockhart 1972&lt;/a&gt;
@@ -493,7 +495,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Understand It&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Understand It&lt;/h2&gt;
             &lt;p class=&quot;card-text&quot;&gt;One of my favorite ways to remember big concepts from class that has worked for me over the long term is simply trying to understand the material. Studies have shown that actually knowing how the material you're learning ties into what you already know enhances retention and recall of the material.&lt;/p&gt;
             &lt;div class=&quot;text-center pt-3&quot;&gt;
                  &lt;a href=&quot;https://msu.edu/~ema/802/Ch6-Memory/2/BransfordJohnson72.pdf&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Bransford &amp;amp; Johnson 1972&lt;/a&gt;
@@ -506,7 +508,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Get Some Exercise&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Get Some Exercise&lt;/h2&gt;
 
 &lt;!-- commenting out this image for now
 		&lt;div class=&quot;text-center pt-3&quot;&gt;

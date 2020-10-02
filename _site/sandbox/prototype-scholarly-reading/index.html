@@ -167,6 +167,7 @@
     </div>
   </div>
 </header>
+    
 
 <div class="container">
   <div class="row">
@@ -183,6 +184,7 @@
 
 <p>Open up a scholarly article and give it a try. You may prefer to print the article and work with a pencil and highlighter, or you may prefer to work inside a PDF reader.</p>
 
+        
         <hr>
 
 <div class="card">
@@ -310,6 +312,19 @@
 
 
 
+
+
+
+
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
 
   </body>
 
