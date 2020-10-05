@@ -34,15 +34,21 @@ authors:
           <p class="card-text">{{ entry.definition }}</p>
           <div class="containter" id="{{ hrefname }}">
           <div class="btn-group btn-group-sm mb-3 float-right" role="group" aria-label="Actions">
-            <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Example" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Example">Example</a>
+            {% if entry.example %}
+                <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Example" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Example">Example</a>
+              {% endif %}
             <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Resources" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Resources">Related Resources</a>
-            <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Reference" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Reference">Reference</a>
+            {% if entry.reference %}
+                <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Reference" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Reference">Reference</a>
+               {% endif %}
           </div>
+          {% if entry.example %}
           <div class="collapse float-right" id="{{ hrefname }}Example" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3">
-              <i>Coming soon!</i>
+              <i>{{ entry.example }}</i>
             </div>
           </div>
+            {% endif %}
           <div class="collapse float-right" id="{{ hrefname }}Resources" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3" style="width: 100%;">
 <!--              Resources-->
@@ -84,11 +90,13 @@ authors:
     </div>
             </div>
           </div>
+{% if entry.reference %}
           <div class="collapse float-right" id="{{ hrefname }}Reference" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3">
                   <cite><a href="{{ entry.reference }}" target="_blank">{{ entry.reference | remove: "http://" | remove: "https://" | remove: "www."}}</a></cite>
             </div>
           </div>
+          {% endif %}
           </div>
         </td>
       </tr>
