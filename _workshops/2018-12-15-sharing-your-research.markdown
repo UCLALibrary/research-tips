@@ -28,5 +28,11 @@ tags:
     - elevator speech
     - elevator pitch
     - research abstract
+    - conference
+    - academic conference
+    - oral presentation
+    - poster presentation
+    - research poster
+    - symposium
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2206869" width="906" height="535" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

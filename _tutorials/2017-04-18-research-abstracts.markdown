@@ -28,6 +28,7 @@ tags:
 - research abstract
 - presentation abstract
 - writing an abstract
+- academic conference
 ---
 <p>Are you applying to present your research project at a conference or submitting it for publication? If yes, you will most likely have to submit a research abstract. Here's a quick introduction that will teach you all about abstracts.</p>
 

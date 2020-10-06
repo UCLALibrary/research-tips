@@ -45,6 +45,7 @@ tags:
     - article search
     - searching the literature
     - articles
+    - article database
 ---
 
 <p class="intro">Ready to get the most out of your article search? This tutorial will help you successfully navigate search filters, construct effective searches, and download the full texts of your articles!</p>

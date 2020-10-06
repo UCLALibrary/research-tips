@@ -43,6 +43,7 @@ tags:
 - vpn
 - off-campus access
 - proxy
+- article database
 ---
 
 <p class="intro">When you are off-campus, you can still access millions of resources paid for by UCLA Library! These include e-books, articles, music, videos, and more! All you need to do is set up your computer for off-campus access to UCLA Library resources using a VPN (Virtual Private Network) or Proxy.</p>

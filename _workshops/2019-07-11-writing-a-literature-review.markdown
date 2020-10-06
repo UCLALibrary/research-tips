@@ -43,7 +43,7 @@ tags:
     - literature review
     - writing
     - research
-    - Synthesis Matrix
+    - synthesis matrix
     - review articles
 ---
 <!--H5P-->
