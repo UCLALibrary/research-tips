@@ -1,0 +1,94 @@
+---
+layout: page
+title: WI+RE for STEM
+description: "Design for STEM, led by learners."
+permalink: /stem/
+background: 
+---
+<p>WI+RE is very excited to partner with the CEILS Learning assistant program to create and build a series of STEM tutorials! Watch this space for new resources, and <a href="{{ '/contact/' | relative_url }}">contact us</a> if you'd like to suggest topics or ideas. Many thanks to the Center for Advancement of Teaching and the Instructional Improvement Program for supporting these efforts!</p>
+{% assign sorted_documents = site.documents | sort: "category" %}
+{% assign stem_resources = "" | split: ',' %}
+{% for item in sorted_documents %}
+    {% if item.layout != "embed" and item.layout != "embed-simple" and item.layout != "post" and item.layout != "team-member" and item.themes contains "stem" %}
+        {% assign stem_resources = stem_resources | push: item %}
+    {% endif %}
+{% endfor %}
+ {% assign groups = stem_resources | group_by: "category" | sort: "sort-weight" %}
+        
+        {% for group in groups %}
+        {% assign anchorname = group.name | slugify %}
+            <a href="#{{ anchorname }}">
+                <button type="button" class="btn btn-primary mb-1">
+                    {{ group.name }}
+                </button>
+            </a> 
+        {% endfor %}
+
+        {% for group in groups %}
+            <div class="card mt-5">
+                <div class="card-header pt-4">
+                    <h2 id="{{ group.name | slugify }}">{{ group.name }}</h2>
+                </div>
+                <div class="card-body">
+                    {% assign sorted-items = group.items | sort: "sort-weight" %}
+                    {% for tutorial in sorted-items %}
+                    {% assign mod = forloop.index | modulo: 2 %}
+        <!--            if in left column-->
+                    {% if mod == 1 %}
+                    <div class="row {% if forloop.rindex > 2 %} border-lg-bottom {% endif %}"> 
+                    {% endif %}
+                        <div class="col-lg border-sm-bottom {% if mod == 1 %} border-lg-right {% endif %}">
+                            <div class="row">
+                                <div class="col-md-3 align-self-center mt-3">
+                                    <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="d-none d-md-block" style="max-width: 100%;">
+                                    {% if tutorial.thumbnail %}
+                                        <img src="{{ tutorial.thumbnail | relative_url }}" class=" img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
+                                    {% else %}
+                                        <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="img-fluid" style="max-width: 100%;" alt="Tutorial icon">
+                                    {% endif %}
+                                </a>
+                                </div>
+                                <div class="col-md-9 align-self-center mt-3">
+                                    <h3 class="mt-0"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
+                                </div>
+                            </div>
+                            <p class="post-subtitle text-justify">
+                                        {% if tutorial.description %}
+                                            {{ tutorial.description }}
+                                        {% else %}
+                                            {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
+                                        {% endif %}
+                                    </p>
+                                <!--learning outcome tool tip-->
+<!--
+                                {% if tutorial.learning-outcomes %}
+                                {% assign outcomeoutput = "" %}
+                                {% for outcome in tutorial.learning-outcomes %}
+                                    {% assign outcomeoutput = outcomeoutput | append: "&#8226;" | append: outcome | append: "&#13;" %}
+                                {% endfor %}
+                                <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Learning Outcomes">
+                                    <a href="" data-html="true" class="btn btn-secondary" data-toggle="tooltip" text-align="left" data-placement="top" title="{{ outcomeoutput }}">Learning Outcomes</a>
+                                </div>
+                                {% endif %}
+-->
+                                <div class="btn-group btn-group-sm float-right mb-3" role="group" aria-label="Actions">
+                                    <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
+                                    {% if tutorial.handout %}
+                                        <a href="{{ tutorial.handout | replace: 'preview', 'view' }}" class="btn btn-primary">Handout</a>
+                                    {% endif %}
+                                </div>
+                        </div>
+        <!--            if in right column-->
+                    {% if mod == 0 %}
+                        </div>
+                    {% endif %}
+        <!--            if in left column and last post in category-->
+                    {% if mod == 1 and forloop.last == true %}
+                        <div class="col-lg">
+                        </div>
+                    </div>
+                    {% endif %}
+                {%endfor%}
+                </div>
+        </div>
+        {%endfor%}

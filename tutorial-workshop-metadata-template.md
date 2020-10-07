@@ -46,14 +46,16 @@ thumbnail: /assets/....png
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
 #
-awards: 
-   - award-1
-   - award-2
+# awards: 
+#   - award-1
+#   - award-2
 #
-# CATEGORY
+# CATEGORY & THEMES
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
+# Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
 category: 
+themes: 
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
