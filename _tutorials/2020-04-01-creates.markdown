@@ -112,7 +112,7 @@ tags:
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto">
+        <div class="col-sm-12 col-md-10 col-lg-8 mx-auto">
             <div class="card" style="width: 100%;">
                 <a href="https://uclalibrary.github.io/creates/index.html" target="_blank"><img class="card-img-top" src="{{ '/assets/images/CREATES-site-sm.jpg' | relative_url }}" alt="The homepage of the CREATES website"></a>
             <div class="card-body">
