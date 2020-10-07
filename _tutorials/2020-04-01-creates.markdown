@@ -107,6 +107,12 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
+    - C.R.E.A.T.E.S.
+    - reading strategies
+    - scientific articles
+    - scientific literature
+    - critical analysis
+    - critical synthesis
 ---
 <p>CREATES is a set of 6 steps to help you read, analyze, and fully understand the narrative of scientific papers!</p>
 
