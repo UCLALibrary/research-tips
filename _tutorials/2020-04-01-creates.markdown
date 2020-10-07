@@ -87,7 +87,7 @@ learning-outcomes:
 # - { text: 'Closed Captioning Available' }
 # - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: 'YYYY-MM-DD', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 accessibility-info:
-    - { text: 'WAVE tested - 0 errors', date: '2020-05-22', url: 'https://wave.webaim.org/' }
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-07', url: 'https://wave.webaim.org/' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
@@ -114,7 +114,7 @@ tags:
     <div class="row">
         <div class="col-sm-12 col-md-10 col-lg-8 mx-auto">
             <div class="card" style="width: 100%;">
-                <a href="https://uclalibrary.github.io/creates/index.html" target="_blank"><img class="card-img-top" src="{{ '/assets/images/CREATES-site-sm.jpg' | relative_url }}" alt="The homepage of the CREATES website"></a>
+                <a href="https://uclalibrary.github.io/creates/" target="_blank"><img class="card-img-top" src="{{ '/assets/images/CREATES-site-sm.jpg' | relative_url }}" alt="The homepage of the CREATES website"></a>
             <div class="card-body">
             <p class="card-text">The <a href="https://uclalibrary.github.io/creates/index.html" target="_blank">CREATES website</a> guides you through all six steps of the CREATES process, providing helpful examples and tips from both teachers and students along the way. You'll find detailed annotations of authentic student work to help you get the most out of the CREATES process!</p>
                 <div class="btn-group-vertical" role="group" aria-label="creates sections">
