@@ -47,7 +47,7 @@ tags:
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3310099" width="1085" height="672" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<p>For an in-depth digital guide on the Digital Library Collections, please head to the EXPLORATION & INQUIRY site created by former Digital Library Research Assistant, Savannah Lake: (https://savannahlake.github.io/explorationandinquiry/index.html)</p>
+<p>For an in-depth digital guide on the Digital Library Collections, please head to the EXPLORATION & INQUIRY site created by former Digital Library Research Assistant,<a href="https://savannahlake.github.io/explorationandinquiry/index.html">Savanna Lake!</a></p>
 
 
 
