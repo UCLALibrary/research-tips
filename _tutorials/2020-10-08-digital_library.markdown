@@ -35,6 +35,7 @@ tags:
 - research strategy
 - digital library
 # image: featuredimagehere
+---
 
 <p>This tutorial identifies the Digital Library as a resource for supporting primary source research, and outlines how to find and access the Digital Library as well as its scope.</p>
 
@@ -46,5 +47,5 @@ tags:
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3310099" width="1085" height="672" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
----
+
 
