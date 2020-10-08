@@ -15,7 +15,7 @@ contributors:
     - Savanna Lake
     - Geno Sanchez
 description: Learn how to access the UCLA Digital Library (DL), the different kinds of materials available through the DL, and how to familiarize yourself with and search through the collections using the DL homepage.
-thumbnail: /assets/tutorials/thumbnails/QuestionsKeywordsThumbnail.jpg
+thumbnail: /assets/tutorials/thumbnails/DLPThumbnail.png
 category: Finding and Citing Sources
 sort-weight: 32
 # ######
