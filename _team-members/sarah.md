@@ -1,5 +1,5 @@
-title: Sarah
-username: sarah-phan
+title: "Sarah"
+username: Sarah Phan
 displayname: Sarah Phan
 firstname: Sarah
 lastname: Phan
