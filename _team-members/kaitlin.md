@@ -1,14 +1,16 @@
 ---
-title:  "Kaitlin Alcontin"
-username: kalcontin
+title:  "Kaitlin"
+username: kaitlin-alcontin
 displayname: Kaitlin Alcontin
 firstname: Kaitlin
-lastname: Alconitn
-start-date: 2020-07-12 
+lastname: Alcontin
+start-date: 2020-07-06 
 end-date:
 category: Creative Team
 bio: >- 
-    Kaitlin is a Public Affairs major in the Luskin Undergraduate Program with minors in Environmental Systems & Society and Asian American Studies. She is passionate about research as a tool for promoting social equity.   
+   Kaitlin is an undergraduate Public Affairs major with minors in Environmental Systems and Society as well as Asian American studies. 
+profile: /assets/images/team/kaitlinpic.jpg
+
 features:
     - feature-title: 
       feature-img: 
