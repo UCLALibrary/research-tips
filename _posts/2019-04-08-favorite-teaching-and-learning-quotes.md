@@ -34,7 +34,7 @@ Here's a collection of quotes gathered by the WI+RE team:
 > _Benjamin Franklin_
 
 > When everyone in the classroom, teacher and students recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful.
-> - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
+> _bell hooks, Teaching Critical Thinking: Practical Wisdom_
 
 
 > Dream a little before you think. 
@@ -100,7 +100,8 @@ in the family of things.
 >Every room that you walk into is better off that you're there.
 >
 >_Jimmy Iovine_
-### Want to add your favorite quote to this page?
+
+## Want to add your favorite quote to this page?
 
 You'll find the code for this post in the `_posts` directory of the WI+RE's websites code repository. First, find the code repository at [https://github.com/UCLALibrary/research-tips](https://github.com/UCLALibrary/research-tips) - look for the `_posts` directory and see if you can find the code for this post. It should be in a file called `2019-04-08-favorite-teaching-and-learning-quotes.md`
 
@@ -108,7 +109,7 @@ The code for this post is written in something called markdown, which is kind of
 
 Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to get you started.
 
-#### Give it a try!
+### Give it a try!
 
 1. First, find the code repository at https://github.com/UCLALibrary/research-tips - look for the _posts directory and see if you can find the code for this post. It should be in a file called 2019-04-08-favorite-teaching-and-learning-quotes.md
 2. Make a fork of the WI+RE site.

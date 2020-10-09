@@ -32,7 +32,7 @@ sort-weight: 30
 # ######
 accessibility-info:
     - { text: 'Closed Captioning Available' }
-    - { text: 'WAVE tested - 0 contrast errors', date: '2020-08-28', url: 'https://wave.webaim.org/' }
+    - { text: 'WAVE tested - 0 errors', date: '2020-08-28', url: 'https://wave.webaim.org/' }
 learning-outcomes:
    - Identify the benefits of setting up the VPN or Proxy Server
    - Download VPN at UCLA 
