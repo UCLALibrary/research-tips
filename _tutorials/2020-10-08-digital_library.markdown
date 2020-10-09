@@ -14,6 +14,12 @@ contributors:
     - Lisa McAulay
     - Savanna Lake
     - Geno Sanchez
+    - Joaquin Peres
+    - Jake Tompkins
+    - Syann Lunsford
+    - Julia Tanenbaum
+    - Katherine Ramirez
+    - Rachel Abrahams
 description: Learn how to access the UCLA Digital Library (DL), the different kinds of materials available through the DL, and how to familiarize yourself with and search through the collections using the DL homepage.
 thumbnail: /assets/tutorials/thumbnails/DLPThumbnail.png
 category: Finding and Citing Sources
