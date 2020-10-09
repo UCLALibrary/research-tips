@@ -8,7 +8,8 @@ authors:
 contributors:
     - Christopher Lopez
     - Hannah Sutherland
-
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-09', url: 'https://wave.webaim.org/' }
 description: >-
     What's new with the WI+RE team as we head into the Spring 2020 quarter
 category: Updates
@@ -52,7 +53,7 @@ Want to integrate WI+RE workshops directly into your own webpage or CCLE course 
 WI+RE is thrilled to announce that through our collaboration with Jordan Moberg Parker, Director of Undergraduate Laboratory Curriculum and Assessment in Microbiology, Immunology, and Molecular Genetics, we're launching the <a href="https://uclalibrary.github.io/creates/" target="_blank">CREATES website</a>!
 
 <figure class="figure">
-    <a href="https://uclalibrary.github.io/creates/" target="_blank"><img src="https://uclalibrary.github.io/creates/img/creates-overview-image.jpeg" class="figure-img img-fluid rounded" alt="the CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles."></a>
+    <a href="https://uclalibrary.github.io/creates/" target="_blank"><img src="https://uclalibrary.github.io/creates/img/creates-overview-image.jpeg" class="figure-img img-fluid rounded" alt="Screenshots of the CREATES site." data-caption="the CREATES site uses interactive media, step-by-step directions, and annotation of authentic examples to guide students through the process of reading and analyzing scientific articles."></a>
     <figcaption class="figure-caption">Introducing the new <a href="https://uclalibrary.github.io/creates/" target="_blank">CREATES website!</a></figcaption>
 </figure>
 

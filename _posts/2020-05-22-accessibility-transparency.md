@@ -8,6 +8,8 @@ contributors:
     - chris-lopez
 description: >-
     How do we make it easier for all to find out what we've done already, what we aspire to do, and what we need to learn and improve next?
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-09', url: 'https://wave.webaim.org/' }
 category: Updates
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---

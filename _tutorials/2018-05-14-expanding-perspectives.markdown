@@ -36,6 +36,8 @@ acrl-frames:
 # UCLA Library Core Competencies
 core-competencies:
     - Investigate diverse sources and perspectives
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-09', url: 'https://wave.webaim.org/' }
 tags:
 - expanding perspectives
 - search bias
@@ -48,7 +50,7 @@ tags:
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rx7RYxP6QM0" frameborder="0" allowfullscreen></iframe></div>
 <!-- include embed-and-share-buttons.html ? -->
 
-<h3 class="mt-3">Next steps</h3> 
+<h2 class="mt-3">Next steps</h2> 
 
 <p> Once you have chosen a few areas to actively expand your perspective, you will need to make important decions about what to include and exclude from your search.<p>
 <p> Be sure to refer to your assignment guidelines as to what types of sources are appropriate and how much evidence you are expected to provide. If you are not working inside an assignment for a class, try looking at a few articles in your discipline to see what types of sources they include and what the conventions of the field are!</p> 

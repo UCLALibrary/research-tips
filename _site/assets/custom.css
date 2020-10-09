@@ -565,3 +565,9 @@ header.masthead .post-heading .meta { font-size: 16px; font-weight: 300; font-st
     border-right: 0 !important;
   }
 }
+
+/* fix code low contrast error */
+
+code.highlighter-rouge {
+    color: red;
+}
