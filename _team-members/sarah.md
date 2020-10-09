@@ -1,9 +1,10 @@
-title: "Sarah"
-username: Sarah Phan
+---
+title:  "Sarah"
+username: Sarah-Phan
 displayname: Sarah Phan
 firstname: Sarah
 lastname: Phan
-start-date: 2020-10-05 
+start-date: 2020-10-05
 end-date:
 category: Creative Team
 bio: >- 
@@ -14,3 +15,4 @@ features:
       feature-img: 
       feature-url: 
       feature-note: 
+---
