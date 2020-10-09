@@ -22,6 +22,7 @@ authors:
     - hannah-sutherland
     - jake arakawa 
     - cymdp
+    - sarah-phan
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -105,6 +106,10 @@ in the family of things.
 >You live longer once you realize that any time spent being unhappy is wasted.
 >
 > _Ruth E. Renkl_
+
+>Success is the sum of small efforts, repeated day in and day out.
+>
+>_Robert Collier_
 
 ## Want to add your favorite quote to this page?
 
