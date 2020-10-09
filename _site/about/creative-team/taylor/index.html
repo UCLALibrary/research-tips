@@ -43,7 +43,7 @@
         
     <!-- date -->
     
-        <meta name="DCterms.issued" content="August 07, 2020" />
+        <meta name="DCterms.issued" content="October 02, 2020" />
     
     
     <!-- abstract -->
@@ -95,8 +95,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/research-tips/">Home</a>
+        <!-- removing home icon to fix redundant link warning in WAVE -->
+          <!--<li class="nav-item">
+          <a class="nav-link" href="/research-tips/">Home</a>-->
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/research-tips/about/">About</a>
@@ -326,7 +327,9 @@
                                     
                                 
                                     
-                                    <li><a href="/research-tips/workshops/avoiding-plagiarism/">Avoiding Plagiarism and Citing Sources</a> <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="5-star editor review on merlot.org"></i><span class="sr-only">5-star editor review on merlot.org</span></li>
+                                
+                                    
+                                    <li><a href="/research-tips/workshops/avoiding-plagiarism/">Avoiding Plagiarism and Citing Sources</a> <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="5-star editor review on merlot.org"></i><span class="sr-only">5-star editor review on merlot.org</span> <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="Accepted to the PRIMO database of Peer reviewed materials online"></i><span class="sr-only">Accepted to the PRIMO database of Peer reviewed materials online</span></li>
                                     
                                 
                                     
@@ -341,6 +344,8 @@
                                 
                                     
                                     <li><a href="/research-tips/workshops/developing-research-questions-and-creating-keywords/">Developing Research Questions and Creating Keywords</a> <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="5-star editor review on merlot.org"></i><span class="sr-only">5-star editor review on merlot.org</span></li>
+                                    
+                                
                                     
                                 
                             </ul>
@@ -426,6 +431,12 @@
                             
                                 
                             
+                                
+                            
+                                
+                            
+                                
+                            
                         </ul>
                     </div>
                 
@@ -477,6 +488,8 @@
                     <div class="col-sm-6">
                         <h4 class="mt-5">Sandbox Posts</h4>
                         <ul>
+                            
+                                
                             
                                 
                             
@@ -659,6 +672,19 @@
 
 
 
+
+
+
+
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
 
   </body>
 

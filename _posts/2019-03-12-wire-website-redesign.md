@@ -10,6 +10,8 @@ contributors:
 description: >-
     We're thrilled to launch a major upgrade to our website!
 category: Updates
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 
@@ -22,7 +24,7 @@ For the past few months now, the WI+RE Creative team has been working away on so
   <figcaption class="figure-caption text-right">New sections of the website feature workshops and handouts.</figcaption>
 </figure>
 
-<h3 class="mt-3">Celebrating Creativity and Community</h3>
+<h2 class="mt-3">Celebrating Creativity and Community</h2>
 
 As we got started prototyping the website redesign, the WI+RE team was also working on a book chapter exploring the relationship between WI+RE employment and AAC&U's <a href="https://www.aacu.org/resources/high-impact-practices" target="_blank">High Impact Practices (HIPs)</a> in higher education. Looking through the HIPs, we noticed a discussion of e-Portlios as a High Impact Practice that made us wonder - could the new WI+RE site have e-Portfolios?
 
@@ -44,7 +46,7 @@ At the same time, we were inspired by discussions with academic librarian and WI
 
 All of our projects involve extensive collaboration across the campus, and we wanted to make sure the new website clearly shared and celebrated these essential contributions. The result is a new "About" box that appears on each tutorial, workshop, and handout page. The about box lists the leads for projects, celebrates community contributors, and showcases awards and special recognition.
 
-<h3 class="mt-3">Behind the scenes updates</h3>
+<h2 class="mt-3">Behind the scenes updates</h2>
 
 On the technical side of things, we moved from the mix of Materialize and Bootstrap that made up our previous site, to Bootstrap-only for CSS. While we miss quite a few of Materialize's fancier features, we're also excited about the simplicity of working with one CSS framework at a time! For this site, we're using a modified version of the <a href="https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll" target="_blank">Start Bootstrap</a> theme.
 
@@ -52,10 +54,10 @@ Big thanks to Tinuola Awopetu from UCLA Library's DIIT for help customizing and 
 
 As always, our code is open source and publicly available on [github](https://github.com/uclalibrary/research-tips).
 
-<h3 class="mt-3">What's next?</h3>
+<h2 class="mt-3">What's next?</h2>
 More making! We're currently working on workshops about literature reviews and avoiding plagiarism, and continuing a big project on reading scientific literature. Also be on the lookout for a video or tutorial on eScholarship, and write-ups on our recent and upcoming conference presentations!
 
-<h3 class="mt-3">Thank you's!</h3>
+<h2 class="mt-3">Thank you's!</h2>
 
 There are so many people to thank! First up, a big shout-out to the WI+RE team for their work on this site redesign! This update has been months in the making and has involved both  fun design work and some serious coding as well! Just about all current and former members of WI+RE were involved in some way and our current team members (Kian, Taylor, Juan, and April) did extensive reworking of our html, markdown, and media files to get the site up and running. Thank you!
 

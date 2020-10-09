@@ -25,13 +25,19 @@ learning-outcomes:
 accessibility-info:
    - { text: 'Closed Captioning Available' }
    - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 acrl-frames:
     - Searching as Strategic Exploration
+# CORE COMPETENCIES
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data.
 tags:
 - searching for books
 - searching for articles
 - research at UCLA
+- Cornerstone Research Workshops
+- finding books
+- finding articles
 featured: yes
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2190859" width="926" height="546" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

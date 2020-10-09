@@ -95,8 +95,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/research-tips/">Home</a>
+        <!-- removing home icon to fix redundant link warning in WAVE -->
+          <!--<li class="nav-item">
+          <a class="nav-link" href="/research-tips/">Home</a>-->
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/research-tips/about/">About</a>
@@ -171,10 +172,11 @@
     
     <div class="col-md-5">
             <a class="btn btn-outline-primary btn-block" href="/research-tips/about/creative-team/" role="button">Creative Team &amp; Community &raquo;</a>
+            <a class="btn btn-outline-primary btn-block" href="/research-tips/about/learning-outcomes/" role="button">Learning Outcomes &amp; ACRL Frames  &raquo;</a>
+            <a class="btn btn-outline-primary btn-block" href="/research-tips/about/accessibility/" role="button">Accessibility Report  &raquo;</a>
             <a class="btn btn-outline-primary btn-block" href="/research-tips/sandbox/" role="button">⛱ Sandbox &raquo;</a>
-            <a class="btn btn-outline-primary btn-block" href="/research-tips/about/design-toolkit/" role="button">Design Tools &raquo;</a>
-            <a class="btn btn-outline-primary btn-block" href="/research-tips/wire-way/" role="button">Manifesto &raquo;</a>
-            <a class="btn btn-outline-primary btn-block" href="/research-tips/contact/" role="button">Contact us &raquo;</a>
+            <a class="btn btn-outline-primary btn-block" href="/research-tips/about/design-toolkit/" role="button">Design Tools &amp; Manifesto &raquo;</a>
+            <a class="btn btn-outline-primary btn-block" href="/research-tips/contact/" role="button">Contact WI+RE &raquo;</a>
     </div>
 </div>
 
@@ -183,17 +185,17 @@
 <div class="card-deck">
     <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">5767+ <br><small class="text-muted">Workshops completed at UCLA</small></h4>
+       <h4 class="card-title text-center">5842+ <br><small class="text-muted">Workshops completed at UCLA</small></h4>
     </div>
   </div> 
   <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">163.2K+ <br><small class="text-muted">views on YouTube</small></h4>
+       <h4 class="card-title text-center">184.3K+ <br><small class="text-muted">views on YouTube</small></h4>
     </div>
   </div>
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title text-center">193K+ <br><small class="text-muted">Website page views</small></h4>
+      <h4 class="card-title text-center">230K+ <br><small class="text-muted">Website page views</small></h4>
     </div>
   </div>
 </div>
@@ -204,11 +206,18 @@
     
 
     
+
+    
+
+    
         <h5 class="mt-3"><a href="/research-tips/workshops/avoiding-plagiarism/">Avoiding Plagiarism and Citing Sources</a></h5>
         <ul class="fa-ul">
             
                 
                 <li><span class="fa-li"><i aria-hidden="true" class="fas fa-award"></i><span class="sr-only">Award icon</span></span>5-star editor review on merlot.org</li>
+            
+                
+                <li><span class="fa-li"><i aria-hidden="true" class="fas fa-award"></i><span class="sr-only">Award icon</span></span>Accepted to the PRIMO database of Peer reviewed materials online</li>
             
         </ul>
     
@@ -221,6 +230,8 @@
                 <li><span class="fa-li"><i aria-hidden="true" class="fas fa-award"></i><span class="sr-only">Award icon</span></span>Accepted to the PRIMO database of Peer reviewed materials online</li>
             
         </ul>
+    
+
     
 
     
@@ -268,8 +279,6 @@
     
 
     
-
-    
         <h5 class="mt-3"><a href="/research-tips/expanding-perspectives/">Expanding Perspectives in Your Search</a></h5>
         <ul class="fa-ul">
             
@@ -299,6 +308,8 @@
                 <li><span class="fa-li"><i aria-hidden="true" class="fas fa-award"></i><span class="sr-only">Award icon</span></span>5-star editor review on merlot.org</li>
             
         </ul>
+    
+
     
 
     
@@ -366,6 +377,12 @@
     
 
     
+
+    
+
+    
+
+    
         <h5 class="mt-3"><a href="/research-tips/primary-secondary/">Primary and Secondary Sources</a></h5>
         <ul class="fa-ul">
             
@@ -379,6 +396,10 @@
                 <li><span class="fa-li"><i aria-hidden="true" class="fas fa-award"></i><span class="sr-only">Award icon</span></span>5-star editor review on merlot.org</li>
             
         </ul>
+    
+
+    
+
     
 
     
@@ -812,7 +833,7 @@
     </div>
 </div>
 
-<img src="/research-tips/assets/images/team/WI+RE-Banner.png" alt="The WI+RE team on a video shooting creating a video on reading strategies. Text overlay: WI+RE Writing Instruction and Research Education.  Writing strategies, research tips, time-saving resources." class="img-fluid mx-auto align-middle img-thumbnail" />
+<img src="/research-tips/assets/images/team/WI+RE-Banner.png" alt="Five student designers on the WI+RE team collaborate on a video shoot. Text overlay: WI+RE." class="img-fluid mx-auto align-middle img-thumbnail" />
 
 
 
@@ -885,6 +906,19 @@
 
 
 
+
+
+
+
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
 
   </body>
 

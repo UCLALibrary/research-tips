@@ -16,10 +16,18 @@ description: Want to improve your academic writing? Complete this interactive ac
 thumbnail: /assets/tutorials/thumbnails/WritingForYourDisciplineThumbnail.jpg
 category: Writing Strategies
 sort-weight: 27
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-09-22', url: 'https://wave.webaim.org/' }
 learning-outcomes:
 - Identify key stylistic elements of paper writing in their specific discipline.
 - Read papers in their discpline for style.
 - Apply these stylistic elements in their own writing.
+# ACRL FRAMES
+acrl-frames:
+    - Information Creation as a Process
+# UCLA Library Core Competencies
+core-competencies:
+    - Evaluate and synthesize information and data
 tags:
 - Reading for Writing
 - Style Guide
@@ -48,7 +56,7 @@ tags:
   <div class="card-body">
     <div class="row">
         <div class="col col-sm-12 col-md-5">
-        <a href="https://docs.google.com/document/d/1Mg1rUtDZHHTbVoZsMxM-jjf6HAcm92Omkz4A5Rnulv0/copy?copyComments=true" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/WritingForYourDiscipline.png' | relative_url }}"   alt="Screenshot of Writing for Your Discipline style guide." data-caption="Screenshot of Writing for Your Discipline style guide."></a>  
+        <img class="img-fluid img-thumbnail" src="{{ '/assets/images/WritingForYourDiscipline.png' | relative_url }}"   alt="Screenshot of Writing for Your Discipline style guide." data-caption="Screenshot of Writing for Your Discipline style guide.">
         </div>
         <div class="col col-sm-12 col-md-7">
             <p class="card-text">The <i>Writing for Your Discipline</i> Style Guide is a fillable Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide.</p>
@@ -58,6 +66,6 @@ tags:
   </div>
 </div>
 
-<h3 class="mt-5">Getting Started</h3>
+<h2 class="mt-5">Getting Started</h2>
 
 In this activity, you will look at a well-written academic paper from your discipline, paying careful attention to the paper’s style and conventions. As you go along, fill out the style guide based on your findings, using the example answers to guide you. The activity might take about forty-five minutes to an hour to complete, but once you're finished with your guide, you can always come back to it for future class assignments and research papers. Click on the link above to get started!

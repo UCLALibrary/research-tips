@@ -2,6 +2,7 @@
 layout: page
 title: WI+RE Learning Outcomes
 description: A list of learning outcomes for all of WI+RE's tutorials, workshops, handouts, and more
+search-tables: yes
 permalink: /about/learning-outcomes/
 ---
 <h2>WI+RE's Open Educational Resources</h2>
@@ -16,7 +17,7 @@ permalink: /about/learning-outcomes/
         <a class="nav-link active" id="lo-tab" data-toggle="tab" href="#learning-outcomes" role="tab" aria-controls="learning-outcomes" aria-selected="true">Learning Outcomes</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" id="comps-tab" data-toggle="tab" href="#core-comps" role="tab" aria-controls="ucla-core-competencies" aria-selected="false">UCLA Core Competencies</a>
+        <a class="nav-link" id="comps-tab" data-toggle="tab" href="#ucla-core-competencies" role="tab" aria-controls="ucla-core-competencies" aria-selected="false">UCLA Core Competencies</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" id="framework-tab" data-toggle="tab" href="#acrl-framework" role="tab" aria-controls="acrl-framework" aria-selected="false">ACRL Framework</a>
@@ -28,8 +29,6 @@ permalink: /about/learning-outcomes/
     <div class="tab-content" id="myTabContent">
     <div class="tab-pane fade show active" id="learning-outcomes" role="tabpanel" aria-labelledby="learning-outcomes">
       <p class="card-text">Learning outcomes define what we hope learners will be able to do after actively engaging with our learning materials.</p>
-        <p>The following is a complete list of the learning outcomes for WI+RE's tutorials and workshops. Note that if there is a handout addressing the same learning outcomes, a link to the handout will be shared as well.</p>
-        <br>
         {% include list-by-learning-outcome.html %}
     </div>
   <div class="tab-pane fade" id="acrl-framework" role="tabpanel" aria-labelledby="acrl-framework">
@@ -38,8 +37,9 @@ permalink: /about/learning-outcomes/
       <br>
       {% include list-by-frame.html %}
     </div>
-  <div class="tab-pane fade" id="core-comps" role="tabpanel" aria-labelledby="ucla-core-competencies">
-      <p class="card-text">UCLA Core Competencies - coming soon!</p>
+  <div class="tab-pane fade" id="ucla-core-competencies" role="tabpanel" aria-labelledby="ucla-core-competencies">
+      <p class="card-text">The <a href="https://escholarship.org/uc/item/2t03q5bw" target="_blank">Core Competencies for Research and Information Literacy at UCLA</a> outline a set of key stages in the research and writing process. The following activities were designed to help learners and researchers succeed with each of these key stages.</p>
+      {% include list-by-comps.html %}
       </div>
       </div>  
   </div>

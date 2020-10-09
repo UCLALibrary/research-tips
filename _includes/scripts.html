@@ -11,3 +11,39 @@
     <script type="text/javascript" src="{{ "/assets/js/materialize-readies.js" | relative_url }}"></script>
     <script type="text/javascript" src="{{ "/assets/js/materialize.js" | relative_url }}"></script>
 {% endif %}
+
+{% if page.search-tables %}
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myTable tr").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+{% endif %}
+
+{% if page.search-div %}
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#searchDiv div").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+{% endif %}
+
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>

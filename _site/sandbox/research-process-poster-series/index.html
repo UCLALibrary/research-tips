@@ -183,8 +183,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/research-tips/">Home</a>
+        <!-- removing home icon to fix redundant link warning in WAVE -->
+          <!--<li class="nav-item">
+          <a class="nav-link" href="/research-tips/">Home</a>-->
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/research-tips/about/">About</a>
@@ -260,6 +261,7 @@
     </div>
   </div>
 </header>
+    
 
 <div class="container">
   <div class="row">
@@ -389,15 +391,16 @@
 " class="btn btn-primary">Interactive Poster Toolkit <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
 </div>
 
+        
         <hr>
 
 <div class="card">
   <div class="card-header">
-    About this post
+      <h2>About this post</h2>
   </div>
   <div class="card-body">
         
-        <h5 class="card-title">Authors</h5>  
+        <h3 class="card-title">Authors</h3>  
         <p class="card-text">
                 
                     
@@ -412,7 +415,7 @@
                 
         </p>
       
-                  <h5 class="card-title">Contributors</h5>
+                  <h3 class="card-title">Contributors</h3>
                   <p class="card-text">
                     
                         
@@ -495,7 +498,7 @@
       
       <!-- todo:: fix double research-tips -->
       <!--
-              <h5 class="card-title">Link</h5>
+              <h3 class="card-title">Link</h3>
                 <p class="card-text"><a href="http://localhost:4000/research-tips/sandbox/research-process-poster-series/">http://localhost:4000/research-tips/sandbox/research-process-poster-series/</a></p>
         -->
       
@@ -605,6 +608,19 @@
 
 
 
+
+
+
+
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
 
   </body>
 

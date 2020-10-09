@@ -3,17 +3,20 @@
 <!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
 <!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-
-{% include head.html %}
-
-<body id="embedded">
-    
-<div class="embeddtainer">
-<div class="post">
-   
-  {{ content }}
-
-</div>
+<html lang="en">
+{% include head.html %}    
+<body class="d-flex flex-column" style="height: 100%;">
+  <div id="page-content" style="flex: 1 0 auto;">
+    <div class="container text-center">
+      <div class="row justify-content-center">
+        <div class="col-sm-12 col-md-12">
+            {% include navbar.html %}
+            <h1 class="sr-only">{{ page.title }}</h1>
+          {{ content }}
+        </div>
+      </div>
     </div>
-    {% include scripts.html %}    
+  </div>
+    {% include scripts.html %} 
 </body>
+</html>

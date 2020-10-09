@@ -20,8 +20,7 @@ category: Cornerstone Research Workshops
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
     - Develop specific research questions from a topic
     - Turn questions into keywords
@@ -29,9 +28,14 @@ learning-outcomes:
 acrl-frames:
     - Research as Inquiry
     - Searching as Strategic Exploration
+# CORE COMPETENCIES
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data.
 tags:
     - research questions
     - keywords
     - search strategies
+    - Cornerstone Research Workshops
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2242526" width="926" height="546" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

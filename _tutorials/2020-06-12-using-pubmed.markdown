@@ -34,8 +34,7 @@ sort-weight: 33.4
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
    # FOR HANDOUT CONTENT TYPE
 # { text: 'PDF Accessibility checked with Adobe Acrobat', date: 'YYYY-MM-DD' }
 # { text: 'PDF Accessibility needs review', date: 'YYYY-MM-DD', link-text: 'Issue reported', url: 'link to issue' } 
@@ -48,8 +47,8 @@ learning-outcomes:
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 core-competencies:
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
@@ -64,6 +63,10 @@ tags:
     - Advanced Search Builder
     - New PubMed user interface
     - Search Strategies
+    - finding articles
+    - find articles
+    - article search
+    - article database
 #
 ---
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/T2_2v77PDuE" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

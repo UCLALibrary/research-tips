@@ -58,7 +58,7 @@ category: Finding and Citing Sources
 # not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight:
+sort-weight: 33.25
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
@@ -92,13 +92,15 @@ accessibility-info:
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-    - Gather and organize information and data.
-    - Reflect on and refine the research process.
+    - Gather and organize information and data
+    - Reflect on and refine the research process
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 # Leaving this blank because I don't think any of them apply! - Kian, 2020-07-15
 acrl-frames:
+    - Authority is Constructed and Contextual
+    - Searching as Strategic Exploration.
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
@@ -106,6 +108,9 @@ acrl-frames:
 tags:
     - keywords
     - history
+    - searching
+    - search strategies
+    - articles
 ---
 
 <div class="row">

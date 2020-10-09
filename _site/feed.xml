@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-08-07T16:54:59-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">The Making of Breaking Down Your Prompt</title><link href="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/" rel="alternate" type="text/html" title="The Making of Breaking Down Your Prompt" /><published>2020-07-29T00:00:00-07:00</published><updated>2020-07-29T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research-tips/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research-tips/" rel="alternate" type="text/html" /><updated>2020-10-02T15:56:24-07:00</updated><id>http://localhost:4000/research-tips/feed.xml</id><title type="html">WI+RE</title><subtitle>Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.</subtitle><author><name>The WI+RE Team</name></author><entry><title type="html">Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping</title><link href="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/" rel="alternate" type="text/html" title="Offer your own Workshop Series on Learner-Centered Design and Rapid Prototyping" /><published>2020-08-03T00:00:00-07:00</published><updated>2020-08-03T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/learner-centered-design-and-rapid-prototyping-workshop/">&lt;p&gt;Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our &lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; target=&quot;_blank&quot;&gt;complete toolkit&lt;/a&gt; of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: This workshop series was first offered as a series of 3 synchronous zoom workshops open to all UCLA Library staff in March, 2020. It includes time in the first workshop to establish shared best practices for remote learning and makes extensive use of breakout rooms for group collaboration.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;h2 class=&quot;card-header&quot;&gt;Learner-Centered Design &amp;amp; Rapid Prototyping Workshop Series&lt;/h2&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col col-sm-12 col-md-6 col-lg-4&quot;&gt;
+                &lt;h3 class=&quot;card-title&quot;&gt;Workshop Materials&lt;/h3&gt;
+                  &lt;!--&lt;p class=&quot;card-text&quot;&gt;The &lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; target=&quot;_blank&quot;&gt;Google Drive folder&lt;/a&gt; contains a workshop overview/syllabus, slides and activities for each session, as well as time estimates and options for independent work between sessions.&lt;/p&gt;--&gt;
+                    &lt;p&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fab fa-google-drive&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Download all!&lt;/a&gt;&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col col-sm-12 col-md-6 col-lg-8&quot;&gt;
+                    &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1XQmnP1TUEJRmAqHuwgXWgOzpjhofqf3V/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fas fa-file-word&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Course Overview&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1Uj8HrCWFB0RxB91AHMPgvkHcVnljXp9a-q803ySfGfs/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-images&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Session #1 Slides&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/12XhjrKoIGuCfXgSMH3MdLpUlNaKGd9rBeEc5-3LAwLc/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-images&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Session #2 Slides&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fJCk8WQoh6C_jI5rxqVR8AEAeBf3UruI7pbsuiTceFY/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-images&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Session #3 Slides&lt;/a&gt;&lt;/li&gt;
+                  &lt;/ul&gt;
+              &lt;/div&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;mt-5&quot;&gt;&lt;i class=&quot;fas fa-certificate&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Course Goals&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt;Provide a rapid introduction to learner-centered design, rapid prototyping, and creating instructional resources.&lt;/li&gt;
+    &lt;li&gt;Quickly generate a large set of instructional resource prototypes following best practices in learner-centered design.&lt;/li&gt;
+    &lt;li&gt;Foster communities and cohorts who collaborate on the development of instructional resources together.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;i class=&quot;fas fa-comments&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Who can take this course?&lt;/h2&gt;
+
+&lt;p&gt;This course is open for all and was designed as an introduction. No pre-requite skills or knowledge required!&lt;/p&gt;
+
+&lt;h2&gt;&lt;i class=&quot;fas fa-clock&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Time Commitment&lt;/h2&gt;
+&lt;p&gt;Participants in this mini-course should plan for 7-9 hours of active engagement to include 4.5 hours of interactive, synchronous workshops and 2-3 hours of individual, asynchronous project work.&lt;/p&gt;
+
+&lt;h2&gt;&lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Customizing this course&lt;/h2&gt;
+
+&lt;p&gt;Feel free to adapt and customize these materials to work for your own context! For example, you may want to offer this as a one-day in service, or as a longer series of shorter meetings. Go for it!&lt;/p&gt;
+
+&lt;p&gt;All materials are &lt;i class=&quot;fab fa-creative-commons&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Creative Commons licensed as Attribution-NonCommercial-ShareAlike to encourage sharing and adaption! When using or adapting these materials, please cite this course as:&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt;Worsham, D., Lopez, C., Sutherland,H., Ravaei, K., Romero, R., Abumeeiz, S. Learner-Centered Design &amp;amp; Rapid Prototyping Mini-Course. (2020).&lt;/cite&gt;&lt;/p&gt;
+
+&lt;h2&gt;Workshop Slides&lt;/h2&gt;
+
+&lt;h3&gt;Session 1&lt;/h3&gt;
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vRVTWGPHp0qGbEIesPAD-Yg7jUbgyhj76dPHg7UgMShoYCXLHD9dfzvsa8ZT4L0FtNujK-XaN1X9jrK/embed?start=false&amp;amp;loop=false&amp;amp;delayms=60000&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Session 2&lt;/h3&gt;
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vR6furrcAc821jcYyUE8tTmhNmHEE3Xv6ACJ_IGY8sH7wd96Luh_luG_LSrpINRXCsuHZe4fKIbzY1w/embed?start=false&amp;amp;loop=false&amp;amp;delayms=60000&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Session 3&lt;/h3&gt;
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vS9w3c3_oF-Gh_XE-qFmkhiGMrZ5t1mduA3BnXqTZD7SPJYSNPizO688QHomxAziNkN7iP3wxvCOg8s/embed?start=false&amp;amp;loop=false&amp;amp;delayms=60000&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 class=&quot;mt-5&quot;&gt;Interested in more than an intro?&lt;/h2&gt;
+
+&lt;p&gt;Check out &lt;a href=&quot;https://uclalibrary.github.io/foundations/&quot;&gt;Foundations in Learner-Centered Design&lt;/a&gt;, a free and fully open online mini-course, as well as WI+RE's &lt;a href=&quot;https://uclalibrary.github.io/research-tips/about/design-toolkit/&quot;&gt;growing toolkit&lt;/a&gt; of open materials on design for learning.
+&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Toolkits" /><summary type="html">Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our complete toolkit of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.</summary></entry><entry><title type="html">The Making of Breaking Down Your Prompt</title><link href="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/" rel="alternate" type="text/html" title="The Making of Breaking Down Your Prompt" /><published>2020-07-29T00:00:00-07:00</published><updated>2020-07-29T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/the-making-of-breaking-down-your-prompt/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/breaking-down-your-prompt&quot; target=&quot;_blank&quot;&gt;Breaking Down Your Prompt&lt;/a&gt; is a fillable Google Doc that helps you break down any prompt into its main tasks and requirements, list helpful resources and readings, and brainstorm ideas for answering the prompt.&lt;/p&gt;
 
@@ -120,7 +183,7 @@
     About this Resource - Example
   &lt;/div&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-        &lt;h5 class=&quot;card-title&quot;&gt;Accessibility Information&lt;/h5&gt;
+        &lt;h2 class=&quot;card-title&quot;&gt;Accessibility Information&lt;/h2&gt;
             &lt;ul&gt;
                 &lt;li&gt;WAVE - 0 errors May, 22, 2020 (&lt;a href=&quot;https://wave.webaim.org/&quot; style=&quot;text-decoration: underline;&quot; target=&quot;_blank&quot;&gt;About WAVE - Web Accessibility Evaluation Tool&lt;/a&gt;)&lt;/li&gt;
                 &lt;li&gt;Closed Captioning Available&lt;/li&gt;
@@ -135,24 +198,24 @@
 
 &lt;p&gt;Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!&lt;/p&gt;
 
-&lt;h2 id=&quot;stats-snapshot&quot;&gt;Stats Snapshot&lt;/h2&gt;
+&lt;h2 id=&quot;stats-snapshot-&quot;&gt;Stats Snapshot &lt;!--same as &lt;h2&gt; tag--&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a name=&quot;stats&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;card-deck mb-5&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-       &lt;h4 class=&quot;card-title text-center&quot;&gt;2090+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Workshops completed at UCLA&lt;/small&gt;&lt;/h4&gt;
+       &lt;h3 class=&quot;card-title text-center&quot;&gt;2090+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Workshops completed at UCLA&lt;/small&gt;&lt;/h3&gt;
     &lt;/div&gt;
   &lt;/div&gt; 
   &lt;div class=&quot;card&quot;&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-       &lt;h4 class=&quot;card-title text-center&quot;&gt;146.5K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;views on YouTube&lt;/small&gt;&lt;/h4&gt;
+       &lt;h3 class=&quot;card-title text-center&quot;&gt;146.5K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;views on YouTube&lt;/small&gt;&lt;/h3&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;card&quot;&gt;
     &lt;div class=&quot;card-body&quot;&gt;
-      &lt;h4 class=&quot;card-title text-center&quot;&gt;177K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Website page views&lt;/small&gt;&lt;/h4&gt;
+      &lt;h3 class=&quot;card-title text-center&quot;&gt;177K+ &lt;br /&gt;&lt;small class=&quot;text-muted&quot;&gt;Website page views&lt;/small&gt;&lt;/h3&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -310,18 +373,18 @@
 &lt;p&gt;&lt;a name=&quot;thank-yous&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;thank-you&quot;&gt;Thank you!!&lt;/h2&gt;
 
-&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: Alana Enriquez, Alicia Reiley, Alison Scott, Allison R. Benedetti, Amber West, Amy Liu, Anahita Sehgal, Annelie Rugg, Annie Pho, Antigone Kutay, Antonia Osuna-Garcia, April Zhou, Ariane Bicho, Beth Goodhue, Bethany Meyers, Bethany Myers, Caitlin Meyer, Callie Holmes, Chris-Lopez, Chris Lopez, Christine Holten, Courtney Hoffner, Dana Cairns Watson, Diana King, Diana L. King, Diane Mizrachi, Doug Worsham, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Fernando Gomez, Gavin Jackson, Giselle Burns, Grace Sosa, Hanna Young, Hannah Sutherland, Henri Lim, Ibraheem Ali, Jacelyn Omusi, Jacy Black, Janet Goins, Janine Henri, Jeannie Chen, Jen Pierre, Jessica Rauch, Joanna Chen Cham, Juan Jaime, Juan Díaz, Julia Glassman, Julian Gautier, Kate McAllister, Kate Pham, Kate T. Pham, Katherine Ramirez, Kelly Kistner, Kelly Miller, Kian Ravaei, Leigh Harris, Lisa Kahn, Liz Galvin Lew, Lou Baya Ould Rouis, Luz Badillo, Marisa Méndez-Brady, Mary Tran, Matt Johnson, Matthew Johnson, Matthew Vest, Michael Lima-Sabatini, Miki Goral, Miriam Posner, Nadia Brooks, Natalie Selzer, Nina Mamikunian, Nisha Mody, Powell Library, Powell Library Embedded Inquiry Specialists, Renee Romero, Rikke Ogawa, Robert Freel, Robert Gore, Royson Lin, Ruby A. Bell-Gam, Salma Abumeeiz, Scott Martin, Shanna Shaked, Shannon Roux, Shushanik Stepanyan, Simon Lee, Sophia Wu, Srikar Poruri, Sylvia Page, Tama Hasson, Tara Prescott, Taylor Harper, Thomas Garbelotti, Tierra Sowell, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, Undergraduate Research Centers, University of Minnesota Libraries Research Paper Calculator, Valeria Morales, Whitney Arnold, Wynn Tranfield, Xinyi(Alex) Yan, Zoe Borovsky.&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.</summary></entry><entry><title type="html">The Making of Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/making-of-study-tips/" rel="alternate" type="text/html" title="The Making of Study Tips" /><published>2020-03-20T00:00:00-07:00</published><updated>2020-03-20T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/making-of-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/making-of-study-tips/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;And, as always, we are ever grateful for the many, many people and campus groups who have contributed to WI+RE, including: Alana Enriquez, Alicia Reiley, Alison Scott, Allison R. Benedetti, Amber West, Amy Liu, Anahita Sehgal, Annelie Rugg, Annie Pho, Antigone Kutay, Antonia Osuna-Garcia, April Zhou, Ariane Bicho, Beth Goodhue, Bethany Meyers, Bethany Myers, Caitlin Meyer, Callie Holmes, Chris Lopez, Christine Holten, Courtney Hoffner, Dana Cairns Watson, Diana King, Diana L. King, Diane Mizrachi, Doug Worsham, Elizabeth Cheney, Emily, Emily Appleton, Erin Sanders, Fernando Gomez, Gavin Jackson, Giselle Burns, Grace Sosa, Hanna Young, Hannah Sutherland, Henri Lim, Ibraheem Ali, Jacelyn Omusi, Jacy Black, Janet Goins, Janine Henri, Jeannie Chen, Jemma Tan, Jen Pierre, Jessica Rauch, Joanna Chen Cham, Juan Jaime, Juan Díaz, Julia Glassman, Julian Gautier, Kaitlin Alcontin, Kate McAllister, Kate Pham, Kate T. Pham, Katherine Ramirez, Kelly Kistner, Kelly Miller, Kian Ravaei, Leigh Harris, Lisa Kahn, Liz Galvin Lew, Lou Baya Ould Rouis, Luz Badillo, Marisa Méndez-Brady, Mary Tran, Matt Johnson, Matthew Johnson, Matthew Vest, Michael Lima-Sabatini, Miki Goral, Miriam Posner, Nadia Brooks, Natalie Selzer, Nina Mamikunian, Nisha Mody, Powell Library, Powell Library Embedded Inquiry Specialists, Renee Romero, Rikke Ogawa, Robert Freel, Robert Gore, Royson Lin, Ruby A. Bell-Gam, Salma Abumeeiz, Scott Martin, Shanna Shaked, Shannon Roux, Shushanik Stepanyan, Simon Lee, Sophia Wu, Srikar Poruri, Sylvia Page, Tama Hasson, Tara Prescott, Taylor Harper, Thomas Garbelotti, Tierra Sowell, Tony Aponte, UCLA Powell Library, UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences, UCLA Undergraduate Research Center - Sciences, UCLA Undergraduate Research Center: Arts, Humanities, and Social Sciences, UCLA Undergraduate Writing Center, Undergraduate Research Center - Humanities, Arts, and Social Sciences, Undergraduate Research Centers, University of Minnesota Libraries Research Paper Calculator, Valeria Morales, Whitney Arnold, Wynn Tranfield, Xinyi(Alex) Yan, Zoe Borovsky.&lt;/p&gt;</content><author><name>doug-worsham</name></author><category term="Updates" /><summary type="html">WI+RE has been working quickly over the past few weeks to pivot into remote collaboration and communication mode! We are up and running and ready to help.</summary></entry><entry><title type="html">The Making of Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/making-of-study-tips/" rel="alternate" type="text/html" title="The Making of Study Tips" /><published>2020-03-20T00:00:00-07:00</published><updated>2020-03-20T00:00:00-07:00</updated><id>http://localhost:4000/research-tips/sandbox/making-of-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/making-of-study-tips/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;These past two quarters, I had the pleasure of working with WI+RE, and this quarter (winter 2020) I used my position with WI+RE to fulfill my Psych 195B internship requirement for cognitive science. To fulfill the requirements of the internship, I had to complete a project determined jointly with my supervisor. I brainstormed ways to combine the cognitive science aspect of this project with the goals of WI+RE (writing instruction and research education), and a compilation of tips to help students do better in their classes seemed like the perfect integration of the two. I had learned a lot of memory strategies from my Cognitive Psychology class (Psych 120A) taught by Alan Castel, and this seemed like a great way to disseminate the information.&lt;/p&gt;
 
 &lt;p&gt;The six tips I discussed were spacing, testing, studying in different contexts, processing more deeply, understanding, and exercising.&lt;/p&gt;
 
-&lt;p&gt;You can find the project website &lt;a href=&quot;https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/&quot;&gt;You can find the project website here&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h1 id=&quot;rationale-behind-my-design&quot;&gt;Rationale behind my design&lt;/h1&gt;
+&lt;h2 id=&quot;rationale-behind-my-design&quot;&gt;Rationale behind my design&lt;/h2&gt;
 
 &lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
-  &lt;img src=&quot;/research-tips/assets/images/study-tips/making-of-study-tips.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
+  &lt;img src=&quot;/research-tips/assets/images/study-tips/making-of-study-tips.jpg&quot; class=&quot;figure-img img-fluid rounded&quot; alt=&quot;Paper prototype for Study Tips page.&quot; /&gt;
   &lt;figcaption class=&quot;figure-caption text-right&quot;&gt;My planning process behind the website.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -333,14 +396,14 @@
 
 &lt;p&gt;I saved the last two tips for last because they were not exactly “study strategies” as most students think of them, but they work nevertheless. Understanding was supposed to be a video describing an experience I had where I tried very hard to understand a concept from math class and as a result still remember it many years later, but unfortunately due to time and other constraints imposed by the COVID-19 situation, I opted to simply have text instead. Maybe one day if I have time and the materials I used to document my ideas for the video, I can return to the office and finish the video…. And last but not least, the most important memory and overall health tip: exercise. I wanted to emphasize an important habit that many people overlook or brush off but that benefits health in innumerable, wide-ranging ways, not to mention boosts memory and learning.&lt;/p&gt;
 
-&lt;h1 id=&quot;thank-you&quot;&gt;Thank you!&lt;/h1&gt;
+&lt;h2 id=&quot;thank-you&quot;&gt;Thank you!&lt;/h2&gt;
 
 &lt;p&gt;This final project and sandbox post wraps up my time at WI+RE. I am so grateful to my team (Kian and Alex), my supervisor (Doug), and the rest of the WI+RE space for providing me with such a friendly and welcoming work environment and supporting me in my goals. I hope this project can serve students at UCLA and beyond for many years to come!&lt;/p&gt;</content><author><name>royson-lin</name></author><category term="Prototypes" /><summary type="html">Introduction</summary></entry><entry><title type="html">Resource Playlist - Study Tips</title><link href="http://localhost:4000/research-tips/sandbox/resource-playlist-study-tips/" rel="alternate" type="text/html" title="Resource Playlist - Study Tips" /><published>2020-02-10T17:01:01-08:00</published><updated>2020-02-10T17:01:01-08:00</updated><id>http://localhost:4000/research-tips/sandbox/resource-playlist-study-tips</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/resource-playlist-study-tips/">&lt;p&gt;Are you excited to be in a fun and interesting class? Trying your best to learn and understand material you need to know later? Or do you just want to do well on your exams? Whatever your learning goals are, here is a playlist of some study tips backed by cognitive science that are endorsed by WI+RE. Use them to your full advantage!&lt;/p&gt;
 
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Space It Out&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Space It Out&lt;/h2&gt;
 	    &lt;p class=&quot;card-text&quot;&gt;Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the &lt;i&gt;spacing effect&lt;/i&gt;.&lt;/p&gt;
 		&lt;div class=&quot;text-center pt-3&quot;&gt;
 		&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
@@ -367,7 +430,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Test Yourself&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Test Yourself&lt;/h2&gt;
 	    &lt;p class=&quot;card-text&quot;&gt;Many studies have also shown that testing yourself on content you've just read or watched actually helps you remember it way better than simply rereading or rewatching the material. This is known as the &lt;i&gt;testing effect&lt;/i&gt;. One strong hypothesis about why it works is because testing yourself is a form of retrieval practice, or training yourself to recall something, which is the exact thing you need to do come test time!&lt;/p&gt;
 		&lt;p class=&quot;card-text&quot;&gt;Unfortunately, this is one of those counter-intuitive strategies that, while it works well, feels like it &lt;i&gt;doesn't&lt;/i&gt;. Roediger and Karpicke (2006) found that while participants remembered information a lot better over the long term when they tested themselves compared to simply studying more, they judged the restudying to help them more than testing did.&lt;/p&gt;
 		&lt;div class=&quot;text-center pt-3&quot;&gt;
@@ -402,7 +465,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Change It Up&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Change It Up&lt;/h2&gt;
 		&lt;div class=&quot;text-center pt-3&quot;&gt;
 			&lt;figure class=&quot;figure border border-primary shadow mt-3&quot;&gt;
 				&lt;img src=&quot;/research-tips/assets/images/study-tips/study-in-different-places.gif&quot; class=&quot;figure-img img-fluid rounded&quot; /&gt;
@@ -417,7 +480,7 @@
     &lt;/div&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Think About It&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Think About It&lt;/h2&gt;
             &lt;p class=&quot;card-text&quot;&gt;Another helpful memory aid is processing the material deeply. This paper by Craik and Lockhart suggests a framework for human memory that stresses the importance of depths or levels of processing and predicts that the deeper information is processed, the longer it will be remembered.&lt;/p&gt;
 			&lt;div class=&quot;text-center pt-3&quot;&gt;
             	&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S002253717280001X&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Craik &amp;amp; Lockhart 1972&lt;/a&gt;
@@ -430,7 +493,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Understand It&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Understand It&lt;/h2&gt;
             &lt;p class=&quot;card-text&quot;&gt;One of my favorite ways to remember big concepts from class that has worked for me over the long term is simply trying to understand the material. Studies have shown that actually knowing how the material you're learning ties into what you already know enhances retention and recall of the material.&lt;/p&gt;
             &lt;div class=&quot;text-center pt-3&quot;&gt;
                  &lt;a href=&quot;https://msu.edu/~ema/802/Ch6-Memory/2/BransfordJohnson72.pdf&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Bransford &amp;amp; Johnson 1972&lt;/a&gt;
@@ -443,7 +506,7 @@
 &lt;div class=&quot;card-deck mt-3&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Get Some Exercise&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Get Some Exercise&lt;/h2&gt;
 
 &lt;!-- commenting out this image for now
 		&lt;div class=&quot;text-center pt-3&quot;&gt;
@@ -532,20 +595,20 @@
 &lt;div class=&quot;card-deck&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;5 Effective Teaching Strategies to Use Every Day&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Janelle Cox&lt;/h6&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;5 Effective Teaching Strategies to Use Every Day&lt;/h2&gt;
+            &lt;cite class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Janelle Cox&lt;/cite&gt;
             &lt;div class=&quot;text-center pt-3&quot;&gt;
-                 &lt;a href=&quot;https://www.teachhub.com/5-effective-teaching-strategies-use-every-day&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;
+                 &lt;a href=&quot;https://www.teachhub.com/5-effective-teaching-strategies-use-every-day&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;5 Effective Teaching Strategies to Use Every Day&lt;/a&gt;
             &lt;/div&gt;
             &lt;p class=&quot;card-text&quot;&gt;Janelle Cox outlines five helpful teaching tactics to help students learn more efficiently. These tactics engage students' physical senses, social skills, and critical thinking skills to create a more effective learning environment.These tactics benefit the students as well as the teachers and their efforts.&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Comparing: Traditional Teaching &amp;amp; Constructivism&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by EDU3506PsychFound2013&lt;/h6&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Comparing: Traditional Teaching &amp;amp; Constructivism&lt;/h2&gt;
+            &lt;cite class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by EDU3506PsychFound2013&lt;/cite&gt;
             &lt;div class=&quot;text-center pt-3&quot;&gt;
-                 &lt;a href=&quot;https://www.youtube.com/watch?v=OuOXkM28llc&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;
+                 &lt;a href=&quot;https://www.youtube.com/watch?v=OuOXkM28llc&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Comparing: Traditional Teaching &amp;amp; Constructivism&lt;/a&gt;
             &lt;/div&gt;
             &lt;p class=&quot;card-text&quot;&gt;This video explains the difference between a traditional teaching approach and a constructivist teaching approach. It outlines how the approaches differ and why constructivism is a more effective teaching method. In short, students are more engaged in a constructivist environment by drawing conclusions and problem-solving using prior knowledge. This way the student is actively engaging other pieces of information simultaneously, solifying their understanding in these areas of knowledge.&lt;/p&gt;
         &lt;/div&gt;
@@ -555,10 +618,10 @@
 &lt;div class=&quot;card-deck mt-2&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;20 Differentiated Instruction Strategies and Examples&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Marcus Guido&lt;/h6&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;20 Differentiated Instruction Strategies and Examples&lt;/h2&gt;
+            &lt;cite class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Marcus Guido&lt;/cite&gt;
             &lt;div class=&quot;text-center pt-3&quot;&gt;
-                 &lt;a href=&quot;https://www.prodigygame.com/blog/differentiated-instruction-strategies-examples-download/&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;
+                 &lt;a href=&quot;https://www.prodigygame.com/blog/differentiated-instruction-strategies-examples-download/&quot; class=&quot;btn btn-primary&quot; target=&quot;_blank&quot;&gt;20 Differentiated Instruction Strategies and Examples&lt;/a&gt;
             &lt;/div&gt;
             &lt;p class=&quot;card-text&quot;&gt;Marcus Guido addresses a common classroom problem- different students have different learning needs. He explains how students differ in how they process information and understand concepts. He offers 20 strategies that can be used by teachers to address different students' needs, such as targeting different senses within lessons and using the Think-Pair-Share social activity.&lt;/p&gt;
         &lt;/div&gt;
@@ -568,7 +631,7 @@
 &lt;div class=&quot;card-deck mt-2&quot;&gt;
     &lt;div class=&quot;card&quot;&gt;
         &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Quotes on Smart Teaching&lt;/h5&gt;
+            &lt;h2 class=&quot;card-title&quot;&gt;Quotes on Smart Teaching&lt;/h2&gt;
             &lt;p class=&quot;card-text&quot;&gt; 
                 &lt;blockquote&gt;&quot;Working collaboratively with others helps students learn to give and receive feedback, as well as learn how to evaluate their own learning.&quot;&lt;p&gt;— Janelle Cox, 5 Effective Teaching Strategies to Use Every Day&lt;/p&gt;&lt;/blockquote&gt;
             &lt;/p&gt;
@@ -577,41 +640,4 @@
             &lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name>giselle-burns</name></author><category term="Updates" /><summary type="html">Here are a few articles and videos about Smart Teaching that can be used in the Foundations tutorial in the future.</summary></entry><entry><title type="html">Foundations in Learner-Centered Design - Growth Mindset</title><link href="http://localhost:4000/research-tips/sandbox/foundations-growth-mindset/" rel="alternate" type="text/html" title="Foundations in Learner-Centered Design - Growth Mindset" /><published>2019-07-07T18:01:01-07:00</published><updated>2019-07-07T18:01:01-07:00</updated><id>http://localhost:4000/research-tips/sandbox/foundations-growth-mindset</id><content type="html" xml:base="http://localhost:4000/research-tips/sandbox/foundations-growth-mindset/">&lt;p&gt;Here are some articles &amp;amp; other media resources on Growth Mindset, to be incorportated into the Foundations tutorial in the future.&lt;/p&gt;
-
-&lt;div class=&quot;card-deck&quot;&gt;
-    &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Carol Dweck's talk on Teaching a Growth Mindset&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Stanford University&lt;/h6&gt;
-            &lt;div class=&quot;text-center pt-3&quot;&gt;
-                 &lt;a href=&quot;https://www.youtube.com/watch?v=isHM1rEd3GE&quot; class=&quot;btn btn-primary&quot;&gt;Link&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;p class=&quot;card-text&quot;&gt;Dr. Carol Dweck, the founder of Mindset Theory, explains the definitions of Fixed vs Growth Mindset and presents her study on how to develop Growth Mindset.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Histroty and summary of Mindset study&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;by Mindset Works&lt;/h6&gt;
-            &lt;div class=&quot;text-center pt-3&quot;&gt;
-                 &lt;a href=&quot;https://www.mindsetworks.com/science/&quot; class=&quot;btn btn-primary&quot;&gt;Link&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;p class=&quot;card-text&quot;&gt;This website summarizes Dr. Dweck and collegues' research and the development of Mindset Theory.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card-deck mt-3&quot;&gt;
-    &lt;div class=&quot;card&quot;&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-            &lt;h5 class=&quot;card-title&quot;&gt;Qoutes on Growth Mindset&lt;/h5&gt;
-            &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt; from Dweck's talk and articles&lt;/h6&gt;
-            &lt;p class=&quot;card-text&quot;&gt; 
-                &lt;blockquote cite=&quot;https://www.youtube.com/watch?v=isHM1rEd3GE&quot;&gt;
-                &lt;p&gt; Students can have different perspectives on their intelligence, talents, and abilities. When they are in more of a fixed mindset, they believe their talents and abilities are just these fixed traits. They have a certain amount and that's it. This makes them afraid of learning. They are so worried about looking smart and not looking dumb that they back off from challenging learning, but when they are more of a growth mindset, they can forget about smart and dumb; they can focus on developing their abilities. As a result, they take on challenges, they are more resilient in the face of setbacks, and they learn more. &lt;/p&gt;
-                &lt;footer&gt;—Carol Dweck, &lt;cite&gt;Teaching a Growth Mindset&lt;/cite&gt;&lt;/footer&gt;
-                &lt;/blockquote&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name>xinyi-yan</name></author><category term="Updates" /><summary type="html">Here are some articles &amp;amp; other media resources on Growth Mindset, to be incorportated into the Foundations tutorial in the future.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>giselle-burns</name></author><category term="Updates" /><summary type="html">Here are a few articles and videos about Smart Teaching that can be used in the Foundations tutorial in the future.</summary></entry></feed>

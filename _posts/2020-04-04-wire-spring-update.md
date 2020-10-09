@@ -19,24 +19,24 @@ WI+RE has been working quickly over the past few weeks to pivot into remote coll
 
 Please let us know your thoughts on our upcoming projects and next steps. We would love to hear more about how we can help with synchronous and asynchronous remote learning. Let us know how we can help!
 
-## Stats Snapshot
+## Stats Snapshot <!--same as <h2> tag-->
 
 <a name="stats"></a>
 
 <div class="card-deck mb-5">
     <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">2090+ <br><small class="text-muted">Workshops completed at UCLA</small></h4>
+       <h3 class="card-title text-center">2090+ <br><small class="text-muted">Workshops completed at UCLA</small></h3>
     </div>
   </div> 
   <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">146.5K+ <br><small class="text-muted">views on YouTube</small></h4>
+       <h3 class="card-title text-center">146.5K+ <br><small class="text-muted">views on YouTube</small></h3>
     </div>
   </div>
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title text-center">177K+ <br><small class="text-muted">Website page views</small></h4>
+      <h3 class="card-title text-center">177K+ <br><small class="text-muted">Website page views</small></h3>
     </div>
   </div>
 </div>

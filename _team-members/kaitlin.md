@@ -10,6 +10,7 @@ category: Creative Team
 bio: >- 
    Kaitlin is an undergraduate Public Affairs major with minors in Environmental Systems and Society as well as Asian American studies. 
 profile: /assets/images/team/kaitlinpic.jpg
+
 features:
     - feature-title: 
       feature-img: 

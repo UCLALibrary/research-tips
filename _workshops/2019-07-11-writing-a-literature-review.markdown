@@ -34,11 +34,17 @@ learning-outcomes:
 acrl-frames:
     - Research as Inquiry
     - Scholarship as Conversation
+# CORE COMPETENCIES
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data.
+    - Evaluate and synthesize information and data
 tags:
-    - Literature review
-    - Writing
-    - Research
-    - Synthesis Matrix
+    - literature review
+    - writing
+    - research
+    - synthesis matrix
+    - review articles
 ---
 <!--H5P-->
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2434230" width="854" height="505" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

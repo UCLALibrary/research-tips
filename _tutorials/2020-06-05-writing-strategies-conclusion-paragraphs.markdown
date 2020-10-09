@@ -42,7 +42,7 @@ attributions:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/WritingStrategiesThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/ConclusionParagraphsThumbnail.png
 #
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
@@ -58,8 +58,7 @@ sort-weight: 26
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
     - Describe the general structure of a conclusion paragraph.
     - Describe the amount of detail that should go into the restatement of the thesis.
@@ -90,14 +89,19 @@ learning-outcomes:
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
     - Information Creation as a Process
+# CORE COMPETENCIES
+core-competencies:
+    - Share the work and engage with audiences
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
     - write
-    - topic sentence
+    - writing strategies
     - conclusion paragraph
+    - concluding paragraph
+    - writing tips
 ---
 <p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips, from revising topic sentences to crafting conclusion paragraphs! Each video includes interactive questions to test your knowledge. <i>More Writing Strategies Videos coming soon!</i></p>
 

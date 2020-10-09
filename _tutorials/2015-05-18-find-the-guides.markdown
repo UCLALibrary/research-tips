@@ -15,8 +15,19 @@ sort-weight: 31
 learning-outcomes: 
    - Find library research guides 
    - Choose the best databases for your topic
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Gather and organize information and data
 tags:
 - research guides
+- articles
+- books
+- finding articles
+- finding books
+- article database
 # image: featuredimagehere
 ---
 
@@ -26,11 +37,11 @@ tags:
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ilaW2DQekGA" allowfullscreen></iframe>
     </div>
 
-<h3 class="mt-4">Give it a try:</h3>
+<h2 class="mt-4">Give it a try:</h2>
 
 <p>Visit <a href="http://guides.library.ucla.edu" target="_blank">guides.library.ucla.edu</a> to find one or more research guides related to your topic or course. Then, visit the "articles" tab on the guides and choose the databases you would like to use to explore your topic.</p>
 
-### Tips:
+## Tips:
 
 <ul>
     <li>Consider using more than one research guide to help you find interdisciplinary perspectives on your topic.</li>

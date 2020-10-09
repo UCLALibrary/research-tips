@@ -7,6 +7,7 @@ authors:
     - taylor-harper
     - shannon-roux
 contributors:
+    - doug-worsham
     - Tony Aponte
     - Whitney Arnold
     - Joanna Chen Cham
@@ -34,16 +35,26 @@ sort-weight: 3
 # ######
 accessibility-info:
     - { text: 'Closed Captioning Available' }
-    - { text: 'WAVE tested - 0 errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
-    - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
     - Brainstorm research projects
     - Articulate the benefits of research 
     - Identify undergraduate research opportunities and resources at UCLA 
+# ACRL FRAMES
+acrl-frames:
+    - Information Creation as a Process
+    - Research as Inquiry
+    - Scholarship as Conversation
+# UCLA Library Core Competencies
+core-competencies:
+    - Define the goals, scope, and plan
+    - Reflect on and refine the research process
 tags:
 - Getting started with research
 - getting started
 - research at UCLA
+- get started
+- undergraduate research
 ---
 
 <p>Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!</p>
@@ -52,7 +63,7 @@ tags:
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2fIpRwxH30U" frameborder="0" allowfullscreen></iframe></div>
 <!-- include embed-and-share-buttons.html ? -->
 
-<h3 class="mt-3">Resources</h3>
+<h2 class="mt-3">Resources</h2>
 
 <p>Check out the <a href="http://www.ugeducation.ucla.edu/urhass/" target="blank">Undergraduate Research Center for the Humanities, Arts and Social sciences</a>.<p>
 <p>Check out the <a href="http://www.ugresearchsci.ucla.edu/" target="blank">Undergraduate Research Center for the Sciences</a>.</p>

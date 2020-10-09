@@ -27,12 +27,25 @@ sort-weight: 33.2
 # ######
 accessibility-info:
     - { text: 'Closed Captioning Available' }
-    - { text: 'WAVE tested - 0 errors', date: '2020-07-20', url: 'https://wave.webaim.org/' }
-    - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-20', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
     - Navigate search filters
     - Construct effective searches
     - Locate full texts of articles
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
+tags:
+    - find articles
+    - finding articles
+    - article search
+    - searching the literature
+    - articles
+    - article database
 ---
 
 <p class="intro">Ready to get the most out of your article search? This tutorial will help you successfully navigate search filters, construct effective searches, and download the full texts of your articles!</p>
@@ -40,12 +53,12 @@ learning-outcomes:
 <iframe width="90%" height="400" src="https://www.youtube.com/embed/sH9h4xkY4ys" frameborder="0" allowfullscreen></iframe>
 
 
-<h3 class="mt-3">Give it a try:</h3>
+<h2 class="mt-3">Give it a try:</h2>
 
 <p >Visit your favorite database, or <a href="http://www.library.ucla.edu/#databases" target="_blank">www.library.ucla.edu/#databases</a>, and get searching! Use the tips you learned in the video to make sure that your search is neither too broad nor too narrow!</p>
 <!-- include embed-and-share-buttons.html ? -->
 
-<h3>Tips:</h3>
+<h2>Tips:</h2>
 <ul>
     <li>Use synonyms to broaden your search.</li>
     <li>Use search filters and sorting options to narrow your search.</li>

@@ -88,18 +88,20 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-    - Define the goals, scope, and plan.
+    - Define the goals, scope, and plan
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 # Leaving this blank because I don't think any of them apply! - Kian, 2020-07-15
 acrl-frames:
+    - Information Creation as a Process
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
@@ -110,6 +112,7 @@ tags:
     - brainstorm
     - decipher
     - deciphering
+    - strategies
 ---
 
 

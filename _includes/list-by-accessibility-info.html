@@ -1,6 +1,6 @@
 {% for collection in site.collections %}
 <!-- todo:: add handouts below -->
-{% if collection.label == "tutorials" or collection.label == "workshops" <!-- or collection.label == "handouts" --> %}
+{% if collection.label == "tutorials" or collection.label == "workshops" %} <!-- or collection.label == "handouts" -->
   <h2>{{ collection.label | capitalize }}</h2>
     <table class="table table-responsive-sm">
         <thead>
@@ -30,7 +30,7 @@
                                     {% endfor %}
                                 </ul>
                             {% else %}
-                                <small><em>Coming soon!</em></small>
+                                <small><em>Accessibility review in progress...</em></small>
                             {% endif %}
                         </td>
                     </tr>

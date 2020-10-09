@@ -43,7 +43,7 @@
         
     <!-- date -->
     
-        <meta name="DCterms.issued" content="August 07, 2020" />
+        <meta name="DCterms.issued" content="October 02, 2020" />
     
     
     <!-- abstract -->
@@ -95,8 +95,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/research-tips/">Home</a>
+        <!-- removing home icon to fix redundant link warning in WAVE -->
+          <!--<li class="nav-item">
+          <a class="nav-link" href="/research-tips/">Home</a>-->
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/research-tips/about/">About</a>
@@ -282,6 +283,12 @@
                             
                                 
                             
+                                
+                            
+                                
+                            
+                                
+                            
                         </ul>
                     </div>
                 
@@ -292,6 +299,8 @@
                     <div class="col-sm-6">
                         <h4 class="mt-5">Sandbox Posts</h4>
                         <ul>
+                            
+                                
                             
                                 
                             
@@ -385,7 +394,7 @@
             </div>
             <div class="col-sm-4">
                 
-                    <a class="btn btn-primary btn-block  my-1" href="/research-tips/about/creative-team/kian/" data-toggle="tooltip" data-placement="top" title="Kian">Kian &rarr;</a>
+                    <a class="btn btn-primary btn-block  my-1" href="/research-tips/about/creative-team/kaitlin/" data-toggle="tooltip" data-placement="top" title="Kaitlin Alcontin">Kaitlin &rarr;</a>
                 
             </div>
         <!-- Sandbox special prev-next -->
@@ -470,6 +479,19 @@
 
 
 
+
+
+
+
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
 
   </body>
 

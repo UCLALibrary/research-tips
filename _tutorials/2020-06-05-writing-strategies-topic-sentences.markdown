@@ -42,7 +42,7 @@ attributions:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/WritingStrategiesThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/TopicSentencesThumbnail.png
 #
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
@@ -58,8 +58,7 @@ sort-weight: 25
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-21', url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement - headers', date: '2020-07-21', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
@@ -93,14 +92,19 @@ learning-outcomes:
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
     - Information Creation as a Process
+# CORE COMPETENCIES
+core-competencies:
+    - Share the work and engage with audiences
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
     - write
+    - writing strategies
     - academic writing
     - topic sentences
+    - writing tips
 ---
 <p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about topic sentences with Jessica! <i>More Writing Strategies Videos coming soon!</i></p>
 

@@ -10,12 +10,18 @@ sort-weight: 34
 # Accessibility info
 # ######
 accessibility-info:
-   - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
-   - { text: 'Issue filed for one accessibility improvement- headers', date: '2020-07-15', url: 'https://github.com/UCLALibrary/research-tips/issues' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
 learning-outcomes:
    - Use a variety of keywords to search for sources
    - Broaden and narrow search results (using tools such as Boolean Operators, etc.) 
    - Refine your search using database filtering tools 
+# ACRL FRAMES
+acrl-frames:
+    - Searching as Strategic Exploration
+# UCLA Library Core Competencies
+core-competencies:
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
 tags:
 - search
 # image: featuredimagehere
@@ -24,7 +30,7 @@ tags:
 <p>Rather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.</p>
 
 
-### Try a Search
+## Try a Search
 
 <p>Find one or more <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> related to your project. Choose a few databases and search tools and start exploring.</p>
 
@@ -32,13 +38,13 @@ tags:
 
 <img src="{{ '/assets/images/from-keywords-to-search-2.jpg' | prepend: site.baseurl }}" class="img-fluid" alt="Turn your notes and ideas on your topic into keywords for search" data-caption="Turn your notes and ideas on your topic into keywords for search."> 
 
-### Filter Your Search
+## Filter Your Search
 
 <p>Most databases have a set of powerful filtering tools, usually on the left side of the screen when you search. Use these to refine your search results and learn new search terms.</p>
 
 <img src="{{ '/assets/images/database-filtering-tools.jpg' | prepend: site.baseurl }}" class="img-fluid" alt="Web of Science search filters" data-caption="Many databases, including Web of Science pictured here, provide powerful tools to filter and refine your search results."> 
 
-### Tips
+## Tips
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>

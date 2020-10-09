@@ -14,6 +14,6 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
     <iframe width="100%" height="480px" src="https://ucla.box.com/s/ef2zk53drfl7z0ap90jm5uoeh0zdzjbj" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Give it a try:
+## Give it a try:
 
 <p >Open up a scholarly article and give it a try. You may prefer to print the article and work with a pencil and highlighter, or you may prefer to work inside a PDF reader.</p>

@@ -46,14 +46,16 @@ thumbnail: /assets/....png
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
 #
-awards: 
-   - award-1
-   - award-2
+# awards: 
+#   - award-1
+#   - award-2
 #
-# CATEGORY
+# CATEGORY & THEMES
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
+# Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
 category: 
+themes: 
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
@@ -96,13 +98,13 @@ accessibility-info:
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-    - Define the goals, scope, and plan.
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
-    - Evaluate and synthesize information and data.
-    - Use information and data ethically. 
-    - Share the work and engage with audiences. 
-    - Reflect on and refine the research process.
+    - Define the goals, scope, and plan
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
+    - Evaluate and synthesize information and data
+    - Use information and data ethically 
+    - Share the work and engage with audiences
+    - Reflect on and refine the research process
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
