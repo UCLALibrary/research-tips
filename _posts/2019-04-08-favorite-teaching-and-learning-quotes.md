@@ -21,6 +21,7 @@ authors:
     - Kaitlin Alcontin
     - hannah-sutherland
     - jake arakawa 
+    - cymdp
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -100,6 +101,10 @@ in the family of things.
 >Every room that you walk into is better off that you're there.
 >
 >_Jimmy Iovine_
+
+>You live longer once you realize that any time spent being unhappy is wasted.
+>
+> _Ruth E. Renkl_
 
 ## Want to add your favorite quote to this page?
 
