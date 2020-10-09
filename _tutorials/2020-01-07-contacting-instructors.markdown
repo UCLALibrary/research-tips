@@ -51,7 +51,7 @@ As students, you will often need to get in touch with your instructors. Whether 
 
 
 <a href="{{ '/assets/handouts/contacting-faculty-combined.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout" target="_blank">
-<img class="img-fluid" src="{{ '/assets/images/contacting-instructors-email.jpg' | relative_url }}" alt="Image of contacting instructors handout." data-caption="Image of contacting instructors handout." ></a>
+<img class="img-fluid" src="{{ '/assets/images/contacting-instructors-email.jpg' | relative_url }}" alt="When contacting instructors via email, include a clear subject line, an appropriate greeting, a concise body, and a thank you. Be sure to use a respectul tone throughout and include complete contact information for yourself." data-caption="Image of contacting instructors handout." ></a>
 
 <a href="{{ '/assets/handouts/contacting-faculty-combined.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout" target="_blank">
-<img class="img-fluid" src="{{ '/assets/images/contacting-instructors-in-person.jpg' | relative_url }}" alt="Image of contacting instructors handout." data-caption="Image of contacting instructors handout."></a>
+<img class="img-fluid" src="{{ '/assets/images/contacting-instructors-in-person.jpg' | relative_url }}" alt="To prepare for office hours, email your questions in advance, start the conversation with your most important questions, and be honest about what you know already. In-person meetings get easier with practice!" data-caption="Image of contacting instructors handout."></a>
