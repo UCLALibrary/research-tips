@@ -5,12 +5,12 @@ last-updated: 2020-10-08
 authors: 
     - salma-abumeeiz
     - kian-ravaei
+    - hannah-sutherland
 contributors: 
     - doug-worsham
     - renee-romero
     - Matt Johnson
     - chris-lopez
-    - hannah-sutherland
     - Lisa McAulay
     - Savanna Lake
     - Geno Sanchez
