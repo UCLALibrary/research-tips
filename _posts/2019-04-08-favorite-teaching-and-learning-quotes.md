@@ -21,7 +21,7 @@ authors:
     - Kaitlin Alcontin
     - hannah-sutherland
     - jake arakawa 
-    - cymdp
+    - Cymfenee-Dean-Phifer
     - sarah-phan
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
