@@ -113,6 +113,8 @@ tags:
     - scientific literature
     - critical analysis
     - critical synthesis
+    - stem
+    - science
 ---
 <p>CREATES is a set of 6 steps to help you read, analyze, and fully understand the narrative of scientific papers!</p>
 
