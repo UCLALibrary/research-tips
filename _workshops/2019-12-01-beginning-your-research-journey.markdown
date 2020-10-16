@@ -46,6 +46,8 @@ tags:
     - undergraduate research
     - getting started
     - Entering Research
+    - stem
+    - science
 category: Entering Research Workshops
 ---
 <!--H5P-->
