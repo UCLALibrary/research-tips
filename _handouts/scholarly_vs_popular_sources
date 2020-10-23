@@ -11,7 +11,7 @@ contributors:
     - kian-ravaei
     - doug-worsham 
 description: >-
-This handout is your roadmap to understanding the differences between scholarly and popular sources! It includes helpful examples of each source type and tips for how to distinguish between the two within library databases. 
+    This handout is your roadmap to understanding the differences between scholarly and popular sources! It includes helpful examples of each source type and tips for how to distinguish between the two within library databases.
 # THUMBNAIL
 # Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/.
 #
@@ -27,3 +27,5 @@ tags:
     - sciences
     - social sciences
 ---
+
+<p style="margin-bottom:"5 px;"><a href="#">Click here for an accessible version of this handout.</a></p>
