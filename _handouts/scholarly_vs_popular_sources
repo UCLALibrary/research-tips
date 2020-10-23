@@ -13,9 +13,9 @@ contributors:
 description: >-
     This handout is your roadmap to understanding the differences between scholarly and popular sources! It includes helpful examples of each source type and tips for how to distinguish between the two within library databases.
 # THUMBNAIL
-# Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/.
+# Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/...
 #
-thumbnail: /assets/handouts/thumbnails/scholarlypopular_thumbnail.png
+thumbnail: /assets/handouts/thumbnails/thumbnail_scholarlypopular
 embed-url: https://drive.google.com/file/d/1t6-YEyo4M5GjvVcTzk_To_TwbQ20sQLy/view?usp=sharing 
 category: Finding and Citing Sources
 tags:
