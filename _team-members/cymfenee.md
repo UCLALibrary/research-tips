@@ -1,6 +1,6 @@
 ---
 title:  "Cymfenee"
-username: Cymfenee-Dean-Phifer
+username: cymfenee-dean-phifer
 displayname: Cymfenee Dean-Phifer
 firstname: Cymfenee
 lastname: Dean-Phifer
