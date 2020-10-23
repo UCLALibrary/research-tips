@@ -1,6 +1,6 @@
 ---
 title:  "Jake"
-username: Jake-Arakawa
+username: jake-arakawa
 displayname: Jake Arakawa
 firstname: Jake
 lastname: Arakawa
