@@ -20,7 +20,7 @@ authors:
     - chris-lopez
     - Kaitlin Alcontin
     - hannah-sutherland
-    - Jake-Arakawa 
+    - jake-arakawa
     - Cymfenee-Dean-Phifer
     - sarah-phan
 ---
