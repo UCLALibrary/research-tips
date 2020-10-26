@@ -34,6 +34,6 @@ tags:
     - social sciences
 ---
 
-<p style="margin-bottom:"5 px;">
+<p style="margin-bottom: 5 px;">
   <a href="https://drive.google.com/file/d/1PgXt4vmEnhjD0V2X01GleAMVD_ZwVm6w/view?usp=sharing">Here is a link to an accessible version of this handout.</a>
 </p>
