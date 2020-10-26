@@ -11,13 +11,7 @@ contributors:
     - cymfenee-dean-phifer
     - kian-ravaei
     - doug-worsham 
-description:
-    This handout is your roadmap to understanding the differences between scholarly and popular sources!
-    It includes helpful examples of each source type and tips for how to distinguish between the two within library databases.
-    
-    <p>Need the defenitions to examples listed in the handout? We've got you covered! Check out our
-   <a href="https://uclalibrary.github.io/research-tips/research-and-academics-glossary/">Research and Academic Glossary</a>!</p>
-    
+description: "This handout is your roadmap to understanding the differences between scholarly and popular sources! It includes helpful examples of each source type and tips for how to distinguish between the two within library databases."
 # THUMBNAIL
 # Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/...
 #
@@ -37,3 +31,4 @@ tags:
 <p style="margin-bottom: 5 px;">
   <a href="https://drive.google.com/file/d/1PgXt4vmEnhjD0V2X01GleAMVD_ZwVm6w/view?usp=sharing">Here is a link to an accessible version of this handout.</a>
 </p>
+<p>Need the defenitions to examples listed in the handout? We've got you covered! Check out our <a href="https://uclalibrary.github.io/research-tips/research-and-academics-glossary/">Research and Academic Glossary</a>!</p>
