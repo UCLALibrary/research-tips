@@ -14,6 +14,8 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
     <iframe width="100%" height="480px" src="https://ucla.box.com/s/ef2zk53drfl7z0ap90jm5uoeh0zdzjbj" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<p>For more on academic reading, check out our collection of <a href="https://uclalibrary.github.io/research-tips/tutorials/#reading-strategies">reading strategies</a>.</p>
+
 ## Give it a try:
 
 <p >Open up a scholarly article and give it a try. You may prefer to print the article and work with a pencil and highlighter, or you may prefer to work inside a PDF reader.</p>
