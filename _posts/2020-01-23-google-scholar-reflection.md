@@ -49,7 +49,7 @@ You can see what the actual tip looks like below, or by visiting us on our websi
 
 <figure class="figure border border-primary shadow mt-3">
   <img src="{{ '/assets/images/google-scholar-reflection/refine-your-search-result.png' | relative_url }}" class="figure-img img-fluid rounded" alt="The Refine Your Search tip as it stands on the website.">
-  <figcaption class="figure-caption text-right">The Refine Your Search tip as it stands on the website.</figcaption>
+  <figcaption class="figure-caption text-right">The published Refine Your Search tip focuses on use of boolean operators in google scholar.</figcaption>
 </figure>
 
 While the search bars don’t look exactly the way I imagined, the difference is not too big and still serves the purpose of showing the reader how to incorporate our tips into their search—the WI+RE manifesto in practice.
