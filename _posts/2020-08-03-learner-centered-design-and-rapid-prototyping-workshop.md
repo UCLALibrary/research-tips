@@ -13,8 +13,7 @@ description: >-
     Here's our toolkit of slides and activities to help you offer your own workshop series on learner-centered design and rapid prototyping.
 category: Toolkits
 accessibility-info:
-    - { text: 'WAVE tested - 0 errors', date: '2020-08-06', url: 'https://wave.webaim.org/' }
-    - { text: 'Images in workshop slides need alt text', date: '2020-08-06', link-text: 'Issue reported', url: 'https://github.com/UCLALibrary/research-tips/issues/181' }
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-27', url: 'https://wave.webaim.org/' }
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
 <p>Want to offer your own workshop series on learner-centered design and rapid prototyping? Here's our <a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" target="_blank">complete toolkit</a> of slides and activities you can use to host your own hands-on intro sessions and quickly launch learner-centered design projects.</p>
@@ -28,8 +27,6 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
           <div class="row">
               <div class="col col-sm-12 col-md-6 col-lg-4">
                 <h3 class="card-title">Workshop Materials</h3>
-                  <!--<p class="card-text">The <a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" target="_blank">Google Drive folder</a> contains a workshop overview/syllabus, slides and activities for each session, as well as time estimates and options for independent work between sessions.</p>-->
-                    <p><a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" class="btn btn-primary" target="_blank"><i class="fab fa-google-drive" aria-hidden="true"></i> Download all!</a></p>
               </div>
               <div class="col col-sm-12 col-md-6 col-lg-8">
                     <ul class="list-group list-group-flush">
@@ -37,6 +34,7 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
                         <li class="list-group-item"><a href="https://docs.google.com/presentation/d/1Uj8HrCWFB0RxB91AHMPgvkHcVnljXp9a-q803ySfGfs/edit?usp=sharing" target="_blank"><i class="far fa-images" aria-hidden="true"></i> Session #1 Slides</a></li>
                         <li class="list-group-item"><a href="https://docs.google.com/presentation/d/12XhjrKoIGuCfXgSMH3MdLpUlNaKGd9rBeEc5-3LAwLc/edit?usp=sharing" target="_blank"><i class="far fa-images" aria-hidden="true"></i> Session #2 Slides</a></li>
                         <li class="list-group-item"><a href="https://docs.google.com/presentation/d/1fJCk8WQoh6C_jI5rxqVR8AEAeBf3UruI7pbsuiTceFY/edit?usp=sharing" target="_blank"><i class="far fa-images" aria-hidden="true"></i> Session #3 Slides</a></li>
+                        <li class="list-group-item"><a href="https://drive.google.com/drive/folders/1NLr3ASJjK5J2rmf2x56t_In-Uc9ilzvk?usp=sharing" class="btn btn-primary" target="_blank"><i class="fab fa-google-drive" aria-hidden="true"></i> Download all!</a></li>
                   </ul>
               </div>
           </div>
