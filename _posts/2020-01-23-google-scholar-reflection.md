@@ -11,7 +11,8 @@ contributors:
     - giselle-burns
     - renee-romero
     - taylor-harper
-    
+accessibility-info:
+    - { text: 'WAVE tested - 0 errors', date: '2020-10-27', url: 'https://wave.webaim.org/' }
 description: >-
     A summary of how we made our Using Google Scholar tutorial, complete with prototypes.
 category: Prototypes
