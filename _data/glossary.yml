@@ -1,3 +1,7 @@
+- term: "Abstract"
+  definition: "An abstract summarizes, usually in one paragraph of 300 words or less, the major aspects of the entire paper in a prescribed sequence that includes 1) the overall purpose of the study and the research problem(s) you investigated; 2) the basic design of the study; 3) major findings or trends found as a result of your analysis; and, 4) a brief summary of your interpretations and conclusions."
+  reference: https://libguides.usc.edu/writingguide/abstract
+  
 - term: "Academic conference"
   definition: "An event for researchers to present and discuss their recent work. It is often a part of an academic professional association’s annual meeting."
   reference: https://en.wikipedia.org/wiki/Academic_conference
@@ -124,6 +128,7 @@
   
 - term: "Research grant"
   definition: "non-repayable funds or products disbursed or given by one party (grant makers), often a government department, corporation, foundation or trust, to a recipient, often (but not always) a nonprofit entity, educational institution, business or an individual."
+  reference:
 
 - term: "Research poster"
   definition: "an organized, visual display of your research project. Typically, you present your poster in a poster session at a conference or seminar. Conference or seminar attendees will walk by your poster, study its contents, and ask you questions. You should be prepared to answer questions and to explain your project one-on-one frequently throughout the poster session"
@@ -133,7 +138,7 @@
   definition: "sources that were created later by someone who did not experience first-hand or participate in the events or conditions you're researching. A secondary source interprets and analyzes primary sources."
   reference: https://guides.library.harvard.edu/HistSciInfo/secondary
   
- - term: "Senior Thesis"
+- term: "Senior Thesis"
   definition: "a large, independent research project that students take on during their senior year of college to fulfill their graduation requirement. It is the culminating work of their studies at a particular institution, and it represents their ability to conduct research and write effectively."
   reference: https://www.thoughtco.com/what-is-a-senior-thesis-1857482#:~:text=A%20senior%20thesis%20is%20a,conduct%20research%20and%20write%20effectively
   
