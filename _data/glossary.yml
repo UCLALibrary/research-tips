@@ -1,18 +1,23 @@
+# want to test syntax before saving? You can use https://codebeautify.org/yaml-validator
+
 - term: "Abstract"
-  definition: "An abstract summarizes, usually in one paragraph of 300 words or less, the major aspects of the entire paper in a prescribed sequence that includes: 1) the overall purpose of the study and the research problem(s) you investigated; 2) the basic design of the study; 3) major findings or trends found as a result of your analysis; and, 4) a brief summary of your interpretations and conclusions."
+  definition: "An abstract summarizes, usually in one paragraph of 300 words or less, the major aspects of the entire paper in a prescribed sequence that includes 1) the overall purpose of the study and the research problem(s) you investigated; 2) the basic design of the study; 3) major findings or trends found as a result of your analysis; and, 4) a brief summary of your interpretations and conclusions."
   reference: https://libguides.usc.edu/writingguide/abstract
-  example:
-  
+
 - term: "Appendix"
   definition: "Supplementary material usually attached at the end of a piece of writing."
   reference: https://www.merriam-webster.com/dictionary/appendix 
-  
+
 - term: "Academic conference"
   definition: "An event for researchers to present and discuss their recent work. It is often a part of an academic professional association’s annual meeting."
   reference: https://en.wikipedia.org/wiki/Academic_conference
   
+- term: "Appendix"
+  definition: "Supplementary material usually attached at the end of a piece of writing"
+  reference: https://www.merriam-webster.com/dictionary/appendix
+  
 - term: "Article database"
-  definition: "Searchable collection of multiple academic journals or other media that are usually used to find relevant existing research (secondary sources) on a topic. Some databases, like JSTOR, search across multiple disciplines, whereas some, like PubMed, are specific to certain fields. Online databases accessible through the UCLA Library are available at:"
+  definition: "Searchable collection of multiple academic journals or other media that are usually used to find relevant existing research (secondary sources) on a topic. Some databases, like JSTOR, search across multiple disciplines, whereas some, like PubMed, are specific to certain fields. Online databases accessible through the UCLA Library are available by searching on the library homepage."
   reference: https://guides.library.ucla.edu/start/articles
   
 - term: "Case study"
@@ -27,17 +32,17 @@
   definition: "a set of rules on how to cite sources in academic writing. The three most common types include MLA, APA, and Chicago."
   reference: https://guides.library.ucla.edu/start/citing
   
-- term: "Cluster Analysis"  
+- term: "Cluster Analysis"
   definition: "a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are."
-  reference: https://www.qualtrics.com/experience-management/research/cluster-analysis/ 
+  reference: https://www.qualtrics.com/experience-management/research/cluster-analysis/
   
-- term: "Cohort Analysis"  
-  definition: "group by group analytic treatment of individuals having a statistical factor in common to each group. Group members share a particular characteristic [e.g., born in a given year] or a common experience [e.g., entering a college at a given time]."
-  reference: https://libguides.usc.edu/writingguide/researchglossary 
-
-- term: "Confirmability Objectivity" 
-  definition: "The findings of the study could be confirmed by another person conducting the same study."
-  reference: https://libguides.usc.edu/writingguide/researchglossary 
+- term: "Cohort Analysis"
+  definition: "group by group analytic treatment of individuals having a statistical factor in common to each group. Group members share a particular characteristic (e.g., born in a given year) or a common experience (e.g., entering a college at a given time)."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
+  
+- term: "Confirmability Objectivity"
+  definition: "the findings of the study could be confirmed by another person conducting the same study."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
   
 - term: "Contract course"
   definition: "supervised individual research or investigation under guidance of faculty member, with a culminating paper or project"
@@ -47,9 +52,9 @@
   definition: "A curriculum vitae, also called a vita or CV, is similar to a résumé and provides key information about your skills, education, and experience to a potential employer. A CV is typically used to apply for academic and research positions and for some graduate programs. It is longer than a résumé and displays academic credentials and accomplishments in greater detail."
   reference: https://grad.ucla.edu/asis/agep/advcv.pdf
   
-- term: "Dissertation" 
-  definition: "An extended usually written treatment of a subject. specifically : one submitted for a doctorate"
-  reference: https://www.merriam-webster.com/dictionary/dissertation 
+- term: "Dissertation"
+  definition: "An extended usually written treatment of a subject - specifically one submitted for a doctorate"
+  reference: https://www.merriam-webster.com/dictionary/dissertation
   
 - term: "Double-blind review"
   definition: "a form of peer-review when both the reviewer and author identities are concealed from the reviewers, and vice versa, throughout the review process."
@@ -76,13 +81,33 @@
   reference: https://wp.ucla.edu/wp-content/uploads/2015/12/Writing-the-Literature-Review.pdf
   
 - term: "Methodology"
-  definition: "Research methodology is the specific procedures or techniques used to identify, select, process, and analyze information about a topic. In a research paper, the methodology section allows the reader to critically evaluate a study’s overall validity and reliability. It answers two main questions: How was the data collected or generated? How was it analyzed?"
+  definition: "Research methodology is the specific procedures or techniques used to identify, select, process, and analyze information about a topic. In a research paper, the methodology section allows the reader to critically evaluate a study’s overall validity and reliability. It answers two main questions - How was the data collected or generated? How was it analyzed?"
   reference: https://libguides.wits.ac.za/c.php?g=693518&p=4914913
+  
+- term: "Minor"
+  definition: "also known as academic minor.  The academic minor comprises a designated group of classes in a discipline that is outside the major field(s). Minors typically consist of a minimum of 18 credit hours and are not required to obtain a degree."
+  reference: https://registrar.rice.edu/facstaff/glossary_academic_terms
   
 - term: "Oral presentation"
   definition: "a short talk on one’s research (or that of a research team), most often for the purposes of sharing findings and receiving feedback from peers and colleagues during an academic conference or symposium"
   reference: https://guides.library.ucla.edu/c.php?g=180334&p=1188045#s-lg-box3594142
 
+- term: "Peer Review"
+  definition: "a process of subjecting an author’s scholarly work, research or ideas to the scrutiny of others who are experts in the same field."
+  reference:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975196/
+
+- term: "Pedagogy"
+  definition: "as the approach to teaching, the theory and practice of learning and how this process influences, and is influenced by, the social, political and psychological development of learners. Pedagogy is the practice of considering the interactions that take place during learning."
+  reference: https://en.wikipedia.org/wiki/Pedagogy
+  
+- term: "PhD"
+  definition: "the highest university degree that is conferred after a course of study by a university. Because it is an earned research degree, those studying for a PhD are usually required to produce original research, normally in the form of a thesis or dissertation, and defend their work against experts in the field. The completion of a PhD is often a requirement for employment as a university professor, researcher, or scientist in many fields. Individuals who have earned a Doctor of Philosophy degree may, in many jurisdictions, use the title Doctor (often abbreviated Dr or Dr.) with their name."
+  reference: https://en.wikipedia.org/wiki/Doctor_of_Philosophy
+  
+- term: "PI (Principal Investigator)"
+  definition: "the individual responsible for the preparation, conduct, and administration of a research grant, cooperative agreement, training or public service project, contract, or other sponsored project."
+  reference: https://www.umass.edu/research/what-principal-investigator-pi-and-who-eligible
+  
 - term: "Poster presentation"
   definition: "presentation through the use of a poster showing a visual display of your research project and combines text and graphics to make a visually pleasing presentation. Typically, a professional poster involves showing your work to numerous researchers at a conference or seminar."
   reference: https://guides.library.ucla.edu/posters
@@ -106,6 +131,10 @@
 - term: "Quantitative research"
   definition: "research that gathers numerical data and generalizing it across groups of people or to explain a particular phenomenon"
   reference: https://libguides.usc.edu/writingguide/quantitative
+  
+- term: "Research grant"
+  definition: "non-repayable funds or products disbursed or given by one party (grant makers), often a government department, corporation, foundation or trust, to a recipient, often (but not always) a nonprofit entity, educational institution, business or an individual."
+  reference:
 
 - term: "Research poster"
   definition: "an organized, visual display of your research project. Typically, you present your poster in a poster session at a conference or seminar. Conference or seminar attendees will walk by your poster, study its contents, and ask you questions. You should be prepared to answer questions and to explain your project one-on-one frequently throughout the poster session"
@@ -114,7 +143,11 @@
 - term: "Secondary sources"
   definition: "sources that were created later by someone who did not experience first-hand or participate in the events or conditions you're researching. A secondary source interprets and analyzes primary sources."
   reference: https://guides.library.harvard.edu/HistSciInfo/secondary
- 
+  
+- term: "Senior Thesis"
+  definition: "a large, independent research project that students take on during their senior year of college to fulfill their graduation requirement. It is the culminating work of their studies at a particular institution, and it represents their ability to conduct research and write effectively."
+  reference: https://www.thoughtco.com/what-is-a-senior-thesis-1857482#:~:text=A%20senior%20thesis%20is%20a,conduct%20research%20and%20write%20effectively
+  
 - term: "Student-initiated project"
   definition: "working on a student-initiated project gives you the chance to pursue a project of your own design under the guidance of a faculty mentor. To find a faculty mentor, you might ask professors with whom you have taken courses in your area of interest"
   reference: http://hass.ugresearch.ucla.edu/getting-started/project/
@@ -134,6 +167,10 @@
 - term: "Thesis"
   definition: "declarative sentence that asserts the position a paper will be taking"
   reference: https://wp.ucla.edu/wpcontent/uploads/2016/01/UWC_handouts_Thesis-Construction_TB-edits.pdf
+  
+- term: "Translational Research"
+  definition: "medical research that is concerned with facilitating the practical application of scientific discoveries to the development and implementation of new ways to prevent, diagnose, and treat disease"
+  reference: https://www.merriam-webster.com/dictionary/translational%20research
   
 - term: "UCLA WI+RE group"
   definition: "WI+RE is a learner-led community at UCLA focused on helping everyone succeed in their writing and research projects. The WI+RE team leverages a learner-centered design toolkit to create and continually improve open online learning modules."

@@ -25,9 +25,10 @@ contributors:
     - renee-romero
     - Sophia Wu
     - taylor-harper
-    
 description: >-
     A summary of our poster series project and our SCILWorks 2019 presentation!
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-09', url: 'https://wave.webaim.org/' }
 category: Assessments and Reports
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
@@ -75,20 +76,28 @@ This next graphic shows the twofold goal of the interactive poster series.
 
 ## Prototypes
 
-Click through the slideshow below to see prototypes for the project!
+Check out early prototypes for the project below!
+
+<img src="{{ '/assets/images/poster-prototype-1.png' | relative_url }}" class="d-block w-100 img-fluid" alt="Prototype 1">
+
+<img src="{{ '/assets/images/poster-prototype-2.png' | relative_url }}" class="d-block img-fluid" alt="Prototype 2">
+
+<img src="{{ '/assets/images/poster-prototype-3.png' | relative_url }}" class="d-block w-100" alt="Prototype 3">
+
+<img src="{{ '/assets/images/poster-prototype-4.png' | relative_url }}" class="d-block img-fluid" alt="Prototype 4">
 
 <!--How do I make the carousel responsive?"-->
-
+<!--
 <div id="demo" class="carousel slide shadow" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-  </ul>
+  </ul>-->
   
   <!--slideshow-->
-  <div class="carousel-inner">
+  <!--<div class="carousel-inner">
     <div class="carousel-item active">
       <img src="{{ '/assets/images/poster-prototype-1.png' | relative_url }}" class="d-block w-100 img-fluid" alt="First Slide">
     </div>
@@ -101,17 +110,16 @@ Click through the slideshow below to see prototypes for the project!
     <div class="carousel-item">
       <img src="{{ '/assets/images/poster-prototype-4.png' | relative_url }}" class="d-block img-fluid" alt="Fourth Slide">
     </div>
-  </div>
+  </div>-->
   
   <!--controls-->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+  <!--<a class="carousel-control-prev" href="#demo" data-slide="prev">
     <span class="carousel-control-prev-icon"></span>
   </a>
   <a class="carousel-control-next" href="#demo" data-slide="next">
     <span class="carousel-control-next-icon"></span>
   </a>
-  
-</div>
+</div>-->
 
 <h2 class="mt-5">Results</h2>
 

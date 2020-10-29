@@ -20,8 +20,8 @@ authors:
     - chris-lopez
     - Kaitlin Alcontin
     - hannah-sutherland
-    - jake arakawa 
-    - cymdp
+    - jake-arakawa
+    - cymfenee-dean-phifer
     - sarah-phan
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?

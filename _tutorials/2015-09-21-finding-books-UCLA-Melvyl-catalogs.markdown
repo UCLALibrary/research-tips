@@ -23,6 +23,9 @@ acrl-frames:
 core-competencies:
     - Investigate diverse sources and perspectives
     - Gather and organize information and data
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-09', url: 'https://wave.webaim.org/' }
 tags:
     - find books
     - finding books

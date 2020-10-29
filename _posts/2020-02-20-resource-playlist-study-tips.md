@@ -4,6 +4,8 @@ date: 2020-02-11 01:01:01 +0000
 category: Resource Playlists
 authors: 
     - royson-lin
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-10-15', url: 'https://wave.webaim.org/' }
 author: royson-lin
 ---
 
@@ -16,7 +18,7 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 	    <p class="card-text">Hundreds of studies have shown that spacing, or spreading out study sessions with gaps in between, is far better for remembering the studied material than massing, or cramming as it is more commonly known. This is known as the <i>spacing effect</i>.</p>
 		<div class="text-center pt-3">
 		<figure class="figure border border-primary shadow mt-3">
-			<img src="{{ '/assets/images/study-tips/spacing.png' | relative_url }}" class="figure-img img-fluid rounded">
+			<img src="{{ '/assets/images/study-tips/spacing.png' | relative_url }}" class="figure-img img-fluid rounded" alt="Hand-drawn spacing effect diagram">
 			<figcaption class="figure-caption text-right">The spacing effect (from https://www.scotthyoung.com/blog/2018/12/24/why-cram/).</figcaption>
 		</figure>
 		</div>
@@ -44,11 +46,11 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
 		<p class="card-text">Unfortunately, this is one of those counter-intuitive strategies that, while it works well, feels like it <i>doesn't</i>. Roediger and Karpicke (2006) found that while participants remembered information a lot better over the long term when they tested themselves compared to simply studying more, they judged the restudying to help them more than testing did.</p>
 		<div class="text-center pt-3">
 		<figure class="figure border border-primary shadow mt-3">
-			<img src="{{ '/assets/images/study-tips/testing-vs-restudying.png' | relative_url }}" class="figure-img img-fluid rounded">
+			<img src="{{ '/assets/images/study-tips/testing-vs-restudying.png' | relative_url }}" class="figure-img img-fluid rounded" alt="Bar chart showing test performance after studying vs. restudying">
 			<figcaption class="figure-caption text-right">Test performance after testing vs. restudying.</figcaption>
 		</figure>
 		<figure class="figure border border-primary shadow mt-3">
-			<img src="{{ '/assets/images/study-tips/testing-performance-vs-jol.png' | relative_url }}" class="figure-img img-fluid rounded">
+			<img src="{{ '/assets/images/study-tips/testing-performance-vs-jol.png' | relative_url }}" class="figure-img img-fluid rounded" alt="Bar chart showing test performance vs. judgment of learning for testing vs. restudying.">
 			<figcaption class="figure-caption text-right">Test performance vs. judgment of learning for testing vs. restudying.</figcaption>
 		</figure>
 		</div>
@@ -77,8 +79,8 @@ Are you excited to be in a fun and interesting class? Trying your best to learn 
             <h2 class="card-title">Change It Up</h2>
 		<div class="text-center pt-3">
 			<figure class="figure border border-primary shadow mt-3">
-				<img src="{{ '/assets/images/study-tips/study-in-different-places.gif' | relative_url }}" class="figure-img img-fluid rounded">
-				<figcaption class="figure-caption text-right">Study in different places!</figcaption>
+				<img src="{{ '/assets/images/study-tips/study-in-different-places.gif' | relative_url }}" class="figure-img img-fluid rounded" alt="Various study locations">
+				<figcaption class="figure-caption text-right">Study in different places; you'll associate each on with new material.</figcaption>
 			</figure>
 		</div>
             <p class="card-text">You may have heard of the idea of having a single dedicated "study spot" that you do all your studying in. Maybe it's your desk at home or a library on campus. However, did you know that you might actually learn better if you switch it up and study in multiple different places? Smith & Rothkopf found that students who took an 8-hour statistics course over four days in four different classrooms did better on a test in a completely new environment compared to students who took the course in the same room. This might be useful for you if you like to study in places that are not the exam location, like most of us!  Check out their study!</p>
