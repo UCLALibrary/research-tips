@@ -36,10 +36,10 @@ description: >-
 #
 thumbnail: /assets/handouts/thumbnails/...
 #
-# GOOGLE DRIVE EMBED URL
-# Get the embed URL from Google Drive by clicking on the PDF, clicking the three dots on the top right and selecting "Open in new window," then clicking the three dots on the top right and selecting "Embed item...", then copying the URL in quotes, which will always end with "/preview".
+# HANDOUT URL
+# Put the handout in /assets/handouts/ and replace the three dots with the filename!
 #
-embed-url:
+handout-url: /assets/handouts/...
 #
 # CATEGORY
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
