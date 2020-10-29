@@ -15,6 +15,7 @@ description: "This handout is your roadmap to understanding the differences betw
 # THUMBNAIL
 # Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/...
 #
+handout-url: /assets/handouts/scholarly_popular_sources_finalversion.pdf
 thumbnail: /assets/tutorials/thumbnails/thumbnail_scholarlypopular.png
 embed-url: https://drive.google.com/file/d/1t6-YEyo4M5GjvVcTzk_To_TwbQ20sQLy/preview 
 category: Finding and Citing Sources

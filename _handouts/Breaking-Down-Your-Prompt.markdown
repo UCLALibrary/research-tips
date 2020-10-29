@@ -12,9 +12,8 @@ contributors:
 notes: ""
 description: >-
     This handout will help you break down a prompt into its main tasks and requirements, list helpful resources, and start brainstorming ideas!
-handout-url:
+handout-url: /assets/handouts/breaking_down_your_prompt.pdf
 thumbnail: /assets/handouts/thumbnails/BreakingDownYourPromptHandoutThumbnail.jpeg
-embed-url: https://drive.google.com/file/d/1Um0m55-AmEmBfV3Uu4MUGOZYc3Prqu4Q/preview
 category: Writing Strategies
 tags:
     - prompt

@@ -14,7 +14,7 @@ awards:
     - arlies2016-how-to
 description: Before you search, start by brainstorming a list of questions.
 thumbnail: /assets/tutorials/thumbnails/StartWithYourQuestionsThumbnail.jpg
-handout: https://drive.google.com/file/d/1_kpXzlT5oLaPkWaptaGtYx0Y-JHHvzz0/preview
+handout: /assets/handouts/questions.pdf
 handout-thumbail: /assets/handouts/thumbnails/questions-tn.png
 category: Getting Started with Research
 sort-weight: 7

@@ -23,7 +23,7 @@ contributors:
     - Simon Lee
     - Nisha Mody
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
-handout: https://drive.google.com/file/d/13hVXL5IM9qv1rUGB0P5iNziXveVl6jLL/preview
+handout: /assets/handouts/vpn-connection-process.pdf
 handout-thumbail: /assets/handouts/thumbnails/vpn-tn.png
 category: Finding and Citing Sources
 sort-weight: 30

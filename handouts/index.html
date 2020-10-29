@@ -33,7 +33,7 @@ background:
                             </p>
                         <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
                             <a href="{{ handout.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">More information</a>
-                            <a href="{{ handout.embed-url | replace: "preview", "view" }}" class="btn btn-primary">PDF</a>
+                            <a href="{{ handout.handout-url | relative_url }}" class="btn btn-primary">PDF</a>
                         </div>
                     </div>
                 </li>

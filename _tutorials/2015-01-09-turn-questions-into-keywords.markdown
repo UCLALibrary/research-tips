@@ -12,7 +12,7 @@ contributors:
     - UCLA Powell Library
 description: Improve the effectiveness of your searches by generating a variety of keywords.
 thumbnail: /assets/tutorials/thumbnails/QuestionsKeywordsThumbnail.jpg
-handout: https://drive.google.com/file/d/19FhasaYHirsqBOzg_yfieSTjykKTtPfV/preview
+handout: /assets/handouts/turn-questions-into-keywords-d2-form.pdf
 handout-thumbail: /assets/handouts/thumbnails/turn-questions-into-keywords-tn.png
 category: Finding and Citing Sources
 sort-weight: 32

@@ -15,7 +15,7 @@ contributors:
     - renee-romero
 description: There are many ways to use citations to support an argument.
 thumbnail: /assets/tutorials/thumbnails/IntegratingCitations.jpg
-handout: https://drive.google.com/file/d/12BgjR4yhgJ5ESeoa1jtDAJTmoNYob2Z7/preview
+handout: /assets/handouts/citation-integration-final.pdf
 handout-thumbail: /assets/handouts/thumbnails/citation-integration-tn.png
 category: Writing Strategies
 sort-weight: 23

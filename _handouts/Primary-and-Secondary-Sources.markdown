@@ -24,7 +24,6 @@ description: >-
     How to tell the difference between primary and secondary sources.
 handout-url: /assets/handouts/PSS_handout_primary-secondary.pdf
 thumbnail: /assets/handouts/thumbnails/PSS_handout_thumbnail.png
-embed-url: https://drive.google.com/file/d/1jLa6Y4WDeCXu6_NSn-QdosvdSGW2RH2U/preview
 category: Finding and Citing Sources
 tags:
 - primary

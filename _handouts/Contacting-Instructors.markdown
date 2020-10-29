@@ -29,7 +29,6 @@ description: >-
     As students, you will often need to get in touch with your instructors. Whether it is a TA, professor, or faculty advisor, a little bit of etiquette can go a long way to making sure your communication is efficient and effective for everyone involved.
 handout-url: /assets/handouts/contacting-faculty-combined.pdf
 thumbnail: /assets/handouts/thumbnails/contacting-instructors-combined-tn.png
-embed-url: https://drive.google.com/file/d/1N9EZMfOOk9Z6hrIOXw7mjjxzjh_eEW58/preview
 category: Getting Started
 tags:
 - Contacting Instructors
