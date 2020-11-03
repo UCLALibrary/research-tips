@@ -13,6 +13,8 @@ description: Annotated Bibliographies is a webcomic tutorial that walks learners
 thumbnail: /assets/tutorials/thumbnails/Annotatedbibs.png
 handout:
 handout-thumbail: 
+awards:
+    - merlot-5-star-editor-review
 category: Writing Strategies
 sort-weight: 15
 # ######

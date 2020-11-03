@@ -22,6 +22,8 @@ learning-outcomes:
 # ACRL FRAMES
 acrl-frames:
     - Information Creation as a Process
+awards:
+    - merlot-5-star-editor-review
 # CORE COMPETENCIES
 core-competencies:
     - Define the goals, scope, and plan

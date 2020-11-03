@@ -13,6 +13,7 @@ contributors:
     - doug-worsham
 awards:
     - primo2020
+    - merlot-5-star-editor-review
 thumbnail: /assets/workshops/thumbnails/ResearchMentorThumbnail.png
 description: "Once you've decided to do research, the next step is to make a list of research opportunities that interest you!"
 #

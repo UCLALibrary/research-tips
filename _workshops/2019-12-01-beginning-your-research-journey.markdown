@@ -16,6 +16,7 @@ contributors:
     - doug-worsham
 awards:
     - primo2020
+    - merlot-5-star-editor-review
 references:
     - { text: 'CIMER - Center for the Improvement of Mentored Experiences in Research', url: 'https://cimerproject.org/' }
     - { text: 'UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences', url: 'http://sciences.ugresearch.ucla.edu/' }

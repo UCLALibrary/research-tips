@@ -20,6 +20,8 @@ core-competencies:
     - Define the goals, scope, and plan
 acrl-frames:
     - Research as Inquiry
+awards:
+    - merlot-5-star-editor-review
 thumbnail: /assets/workshops/thumbnails/CraftingAResearchQuestionThumbnail.png
 description: "Coming up with a research question is essential for any research! Whether you're joining a faculty-led group or initiating an independent research project, research questions will be central to your work."
 #
