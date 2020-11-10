@@ -6,11 +6,13 @@
 
 - term: "Appendix"
   definition: "Supplementary material usually attached at the end of a piece of writing."
-  reference: https://www.merriam-webster.com/dictionary/appendix 
+  reference: https://www.merriam-webster.com/dictionary/appendix
 
 - term: "Academic conference"
   definition: "An event for researchers to present and discuss their recent work. It is often a part of an academic professional association’s annual meeting."
   reference: https://en.wikipedia.org/wiki/Academic_conference
+  example: !xml |
+           <p>"I’m looking forward to presenting my work and hearing about the work of other researchers at the <a href="http://www.cur.org/what/events/students/ncur/2019/" target="_blank">National Conference for Undergraduate Research</a>, an <b>academic conference</b> about the improvement, management, and promotion of undergraduate research."</p>
   
 - term: "Appendix"
   definition: "Supplementary material usually attached at the end of a piece of writing"
@@ -19,6 +21,8 @@
 - term: "Article database"
   definition: "Searchable collection of multiple academic journals or other media that are usually used to find relevant existing research (secondary sources) on a topic. Some databases, like JSTOR, search across multiple disciplines, whereas some, like PubMed, are specific to certain fields. Online databases accessible through the UCLA Library are available by searching on the library homepage."
   reference: https://guides.library.ucla.edu/start/articles
+  example: !xml |
+           <p>"The <a href="https://philpapers.org/" target="_blank">PhilPapers</a> <b>article database</b> is a great place to find academic articles about philosophy."</p>
   
 - term: "Case study"
   definition: "The collection and presentation of detailed information about a particular participant or small group, frequently including data derived from the subjects themselves"
@@ -27,10 +31,14 @@
 - term: "Citation manager"
   definition: "citation programs that allow you to collect, organize, and retrieve citation information from books, articles and websites and assist in inserting properly formatted footnotes or citations and bibliographies into a research paper"
   reference: https://guides.library.ucla.edu/citation-managers
+  example: !xml |
+           <p>"My <b>citation manager</b> of choice is Zotero, but some of my colleagues prefer EndNote or Mendeley."</p>
   
 - term: "Citation style"
   definition: "a set of rules on how to cite sources in academic writing. The three most common types include MLA, APA, and Chicago."
   reference: https://guides.library.ucla.edu/start/citing
+  example: !xml |
+           <p>"The <b>essay prompt</b> says to use the MLA 8 citation style."</p>
   
 - term: "Cluster Analysis"
   definition: "a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are."
@@ -51,6 +59,8 @@
 - term: "CV (Curriculum Vitae)"
   definition: "A curriculum vitae, also called a vita or CV, is similar to a résumé and provides key information about your skills, education, and experience to a potential employer. A CV is typically used to apply for academic and research positions and for some graduate programs. It is longer than a résumé and displays academic credentials and accomplishments in greater detail."
   reference: https://grad.ucla.edu/asis/agep/advcv.pdf
+  example: !xml |
+           <p><i>Check out this <b>CV</b> from Jen, a past member of the WI+RE team!</i> <a href="https://sites.google.com/g.ucla.edu/jennifer-pierre/cv" target="_blank">Link to Jen's CV</a></p>
   
 - term: "Dissertation"
   definition: "An extended usually written treatment of a subject - specifically one submitted for a doctorate"
@@ -63,6 +73,8 @@
 - term: "Faculty-initiated project"
   definition: "working on a faculty-initiated project gives you the chance to help a faculty member on a research project. A great resource for finding faculty-initiated projects is the Undergraduate Research Portal. In addition, you could ask your professors and TAs about available research opportunities"
   reference: http://hass.ugresearch.ucla.edu/getting-started/project/
+  example: !xml |
+           <p>"I’m hoping to join a <b>faculty-initiated research project</b> in Ecology so I can gain some research experience before embarking on my own projects."</p>
   
 - term: "Field Studies"
   definition: "Academic or other investigative studies undertaken in a natural setting, rather than in laboratories, classrooms, or other structured environments."
@@ -75,10 +87,14 @@
 - term: "Graduate record exam"
   definition: "The Graduate Record Examination, or GRE, is an important step in the graduate school or business school application process. The GRE is a multiple-choice, computer-based, standardized exam that is often required for admission to graduate programs and graduate business programs (MBA) globally"
   reference: https://www.ets.org/gre/revised_general/about
+  example: !xml |
+           <p>"Some graduate programs require <b>GRE</b> scores, while others do not."</p>
   
 - term: "Honors collegium"
   definition: "The Honors Collegium is a series of courses with an interdisciplinary emphasis designed for students enrolled in College Honors, but not necessarily limited to students in College Honors. It encourages animated discussion among students, as well as between students and professors and seeks to promote scholarly exchange across the major disciplines at UCLA."
   reference: https://catalog.registrar.ucla.edu/ucla-catalog19-20-813.html
+  example: !xml |
+           <p>"I fulfilled my Writing II requirement by taking an interdisciplinary <b>Honors collegium</b> course on Nabokov and Theory of Mind." <cite>— Kian, fourth-year UCLA undergraduate</cite></p>
   
 - term: "Interdisciplinary research"
   definition: "Interdisciplinary research is a mode of research by teams or individuals that integrates information, data, techniques, tools, perspectives, concepts, and/or theories from two or more disciplines or bodies of specialized knowledge to advance fundamental understanding or to solve problems whose solutions are beyond the scope of a single discipline or area of research practice."

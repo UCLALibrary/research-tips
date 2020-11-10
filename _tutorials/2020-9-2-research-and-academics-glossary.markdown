@@ -45,7 +45,7 @@ authors:
           {% if entry.example %}
           <div class="collapse float-right" id="{{ hrefname }}Example" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3">
-              <i>{{ entry.example }}</i>
+              {{ entry.example }}
             </div>
           </div>
             {% endif %}
