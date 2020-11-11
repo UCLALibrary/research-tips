@@ -25,11 +25,16 @@
     <meta property="og:site_name" content="{{ site.title }} - {{ site.description }}"/>
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:description" content="{{ page.description }}"/>
-    {% if page.thumbnail %}<meta property="og:image" content="{{ page.thumbnail | absolute_url }}">{% endif %}
-    {% if page.profile %}<meta property="og:image" content="{{ page.profile | absolute_url }}">{% endif %}
+    {% if page.thumbnail %}
+        <meta property="og:image" content="{{ page.thumbnail | relative_url }}">
+    {% elsif page.profile %}
+        <meta property="og:image" content="{{ page.profile | relative_url }}">
+    {% elsif page.background %}
+        <meta property="og:image" content="{{ page.background | relative_url }}">
+    {% endif %}
     <meta property="og:type" content="education"/>
     
-    
+    https://uclalibrary.github.io/research-tips/assets/workshops/thumbnails/Ready_Researcher.png
     
   <!-- Zotero/DC metadata -->
     <!-- this captures the list of team member names from site.team-members -->
