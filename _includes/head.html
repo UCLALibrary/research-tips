@@ -26,11 +26,11 @@
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:description" content="{{ page.description }}"/>
     {% if page.thumbnail %}
-        <meta property="og:image" content="{{ page.thumbnail | relative_url }}">
+        <meta property="og:image" content="{{ page.thumbnail | prepend: site.url }}">
     {% elsif page.profile %}
-        <meta property="og:image" content="{{ page.profile | relative_url }}">
+        <meta property="og:image" content="{{ page.profile | prepend: site.url }}">
     {% elsif page.background %}
-        <meta property="og:image" content="{{ page.background | relative_url }}">
+        <meta property="og:image" content="{{ page.background | prepend: site.url }}">
     {% endif %}
     <meta property="og:type" content="education"/>
     
