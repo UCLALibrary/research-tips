@@ -19,6 +19,17 @@
   </title>
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+    <!-- Metadata for Social and Other things -->
+    
+    <meta property="og:site_name" content="{{ site.title }} - {{ site.description }}"/>
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:description" content="{{ page.description }}"/>
+    {% if page.thumbnail %}<meta property="og:image" content="{{ page.thumbnail | absolute_url }}">{% endif %}
+    {% if page.profile %}<meta property="og:image" content="{{ page.profile | absolute_url }}">{% endif %}
+    <meta property="og:type" content="education"/>
+    
+    
     
   <!-- Zotero/DC metadata -->
     <!-- this captures the list of team member names from site.team-members -->
