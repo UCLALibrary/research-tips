@@ -43,7 +43,9 @@
 - term: "Cluster Analysis"
   definition: "a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are."
   reference: https://www.qualtrics.com/experience-management/research/cluster-analysis/
-  
+  example: !xml |
+           <p> "We can conduct a cluster analysis to find out which flowers belong to the same species." <p>
+           
 - term: "Cohort Analysis"
   definition: "group by group analytic treatment of individuals having a statistical factor in common to each group. Group members share a particular characteristic (e.g., born in a given year) or a common experience (e.g., entering a college at a given time)."
   reference: https://libguides.usc.edu/writingguide/researchglossary
