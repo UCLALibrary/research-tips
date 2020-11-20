@@ -67,6 +67,8 @@
 - term: "Dissertation"
   definition: "An extended usually written treatment of a subject - specifically one submitted for a doctorate"
   reference: https://www.merriam-webster.com/dictionary/dissertation
+  example: !xml |
+           <p><a href="https://escholarship.org/uc/item/9sh0f94h" target="_blank">Seeding Transformation for Seven Generations: A Case Study of Roses in Concrete Community School</a></p>
   
 - term: "Double-blind review"
   definition: "a form of peer-review when both the reviewer and author identities are concealed from the reviewers, and vice versa, throughout the review process."
@@ -105,6 +107,8 @@
 - term: "Literature review"
   definition: "A literature review discusses published information in a particular subject area, and sometimes information in a particular subject area within a certain time period. It can be just a simple summary of the sources, but it usually has an organizational pattern and combines both summary and synthesis"
   reference: https://wp.ucla.edu/wp-content/uploads/2015/12/Writing-the-Literature-Review.pdf
+  example: !xml |
+           <p><a href="https://escholarship.org/uc/item/8rb5m1zf" target="_blank">A review of hair product use on breast cancer risk in African American women</a></p>
   
 - term: "Margin of Error"
   definition: "the permittable or acceptable deviation from the target or a specific value. The allowance for slight error or miscalculation or changing circumstances in a study."
@@ -117,6 +121,8 @@
 - term: "Minor"
   definition: "also known as academic minor.  The academic minor comprises a designated group of classes in a discipline that is outside the major field(s). Minors typically consist of a minimum of 18 credit hours and are not required to obtain a degree."
   reference: https://registrar.rice.edu/facstaff/glossary_academic_terms
+  example: !xml |
+           <p>My major is in Psychology and my <b>minor</b> is in Professional Writing. <a href="https://www.admission.ucla.edu/prospect/Majors/minor.htm" target="_blank">List of all minors at UCLA</a></p>
   
 - term: "Oral presentation"
   definition: "a short talk on one’s research (or that of a research team), most often for the purposes of sharing findings and receiving feedback from peers and colleagues during an academic conference or symposium"
