@@ -91,7 +91,7 @@ authors:
 {% if entry.reference %}
           <div class="collapse float-right" id="{{ hrefname }}Reference" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3">
-                  <cite><a href="{{ entry.reference }}" target="_blank">{{ entry.reference | remove: "http://" | remove: "https://" | remove: "www."}}</a></cite>
+                  <p class="mt-0 mb-0"><a href="{{ entry.reference }}" target="_blank">{{ entry.reference | remove: "http://" | remove: "https://" | remove: "www."}}</a></p>
             </div>
           </div>
           {% endif %}
