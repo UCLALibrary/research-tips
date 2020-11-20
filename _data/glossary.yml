@@ -3,6 +3,8 @@
 - term: "Abstract"
   definition: "An abstract summarizes, usually in one paragraph of 300 words or less, the major aspects of the entire paper in a prescribed sequence that includes 1) the overall purpose of the study and the research problem(s) you investigated; 2) the basic design of the study; 3) major findings or trends found as a result of your analysis; and, 4) a brief summary of your interpretations and conclusions."
   reference: https://libguides.usc.edu/writingguide/abstract
+  example: !xml |
+           <p class="mt-0 mb-0">"Stigma and social inequality deprive disadvan-taged social groups of a sense of social well-being. Stress researchers have focused on prejudice-related events and conditions but have not described more intangible stressors experienced by sexual minorities. We use narrative methods to examine how sexual minorities experience stigma and social inequality as we focus on the more intangible stressors that are both pervasive and difficult to measure.Three themes emerged in the narratives of our ethnically diverse sample of 57 adult sexual minority women and men: (a) stigma deprived them of access to critical possibilities and opportunities; (b) stigma deprives them of safety and acceptance; and (c) despite this, the experience of stigma is also related to the adoption of a positive and collective orientation towards their stigmatized identities. Recognizing these stressors and related resilience can direct policy makers toward interventions that go even beyond eliminating prejudice by including goals to strengthen minority communities."<br><br> (<a href="https://escholarship.org/uc/item/0842x56p" target="_blank">'"We'd Be Free": Narratives of Life Without Homophobia, Racism, or Sexism' by Ilan H. Meyer, Suzanne C. Ouellette, Rahwa Haile, and Tracy A. McFarlane</a>)</p>
 
 - term: "Appendix"
   definition: "Supplementary material usually attached at the end of a piece of writing."
@@ -12,7 +14,7 @@
   definition: "An event for researchers to present and discuss their recent work. It is often a part of an academic professional association’s annual meeting."
   reference: https://en.wikipedia.org/wiki/Academic_conference
   example: !xml |
-           <p>"I’m looking forward to presenting my work and hearing about the work of other researchers at the <a href="http://www.cur.org/what/events/students/ncur/2019/" target="_blank">National Conference for Undergraduate Research</a>, an <b>academic conference</b> about the improvement, management, and promotion of undergraduate research."</p>
+           <p class="mt-0 mb-0">"I’m looking forward to presenting my work and hearing about the work of other researchers at the <a href="http://www.cur.org/what/events/students/ncur/2019/" target="_blank">National Conference for Undergraduate Research</a>, an <b>academic conference</b> about the improvement, management, and promotion of undergraduate research."</p>
   
 - term: "Appendix"
   definition: "Supplementary material usually attached at the end of a piece of writing"
@@ -22,7 +24,7 @@
   definition: "Searchable collection of multiple academic journals or other media that are usually used to find relevant existing research (secondary sources) on a topic. Some databases, like JSTOR, search across multiple disciplines, whereas some, like PubMed, are specific to certain fields. Online databases accessible through the UCLA Library are available by searching on the library homepage."
   reference: https://guides.library.ucla.edu/start/articles
   example: !xml |
-           <p>"The <a href="https://philpapers.org/" target="_blank">PhilPapers</a> <b>article database</b> is a great place to find academic articles about philosophy."</p>
+           <p class="mt-0 mb-0">"The <a href="https://philpapers.org/" target="_blank">PhilPapers</a> <b>article database</b> is a great place to find academic articles about philosophy."</p>
   
 - term: "Case study"
   definition: "The collection and presentation of detailed information about a particular participant or small group, frequently including data derived from the subjects themselves"
@@ -32,19 +34,19 @@
   definition: "citation programs that allow you to collect, organize, and retrieve citation information from books, articles and websites and assist in inserting properly formatted footnotes or citations and bibliographies into a research paper"
   reference: https://guides.library.ucla.edu/citation-managers
   example: !xml |
-           <p>"My <b>citation manager</b> of choice is Zotero, but some of my colleagues prefer EndNote or Mendeley."</p>
+           <p class="mt-0 mb-0">"My <b>citation manager</b> of choice is Zotero, but some of my colleagues prefer EndNote or Mendeley."</p>
   
 - term: "Citation style"
   definition: "a set of rules on how to cite sources in academic writing. The three most common types include MLA, APA, and Chicago."
   reference: https://guides.library.ucla.edu/start/citing
   example: !xml |
-           <p>"The <b>essay prompt</b> says to use the MLA 8 citation style."</p>
+           <p class="mt-0 mb-0">"The <b>essay prompt</b> says to use the MLA 8 citation style."</p>
   
 - term: "Cluster Analysis"
   definition: "a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are."
   reference: https://www.qualtrics.com/experience-management/research/cluster-analysis/
   example: !xml |
-           <p>"We can conduct a cluster analysis to find out which flowers belong to the same species."</p>
+           <p class="mt-0 mb-0">"We can conduct a cluster analysis to find out which flowers belong to the same species."</p>
            
 - term: "Cohort Analysis"
   definition: "group by group analytic treatment of individuals having a statistical factor in common to each group. Group members share a particular characteristic (e.g., born in a given year) or a common experience (e.g., entering a college at a given time)."
@@ -62,13 +64,13 @@
   definition: "A curriculum vitae, also called a vita or CV, is similar to a résumé and provides key information about your skills, education, and experience to a potential employer. A CV is typically used to apply for academic and research positions and for some graduate programs. It is longer than a résumé and displays academic credentials and accomplishments in greater detail."
   reference: https://grad.ucla.edu/asis/agep/advcv.pdf
   example: !xml |
-           <p><i>Check out this <b>CV</b> from Jen, a past member of the WI+RE team!</i> <a href="https://sites.google.com/g.ucla.edu/jennifer-pierre/cv" target="_blank">Link to Jen's CV</a></p>
+           <p class="mt-0 mb-0"><i>Check out this <b>CV</b> from Jen, a past member of the WI+RE team!</i> <a href="https://sites.google.com/g.ucla.edu/jennifer-pierre/cv" target="_blank">Link to Jen's CV</a></p>
   
 - term: "Dissertation"
   definition: "An extended usually written treatment of a subject - specifically one submitted for a doctorate"
   reference: https://www.merriam-webster.com/dictionary/dissertation
   example: !xml |
-           <p><a href="https://escholarship.org/uc/item/9sh0f94h" target="_blank">Seeding Transformation for Seven Generations: A Case Study of Roses in Concrete Community School</a></p>
+           <p class="mt-0 mb-0"><a href="https://escholarship.org/uc/item/9sh0f94h" target="_blank">Seeding Transformation for Seven Generations: A Case Study of Roses in Concrete Community School</a></p>
   
 - term: "Double-blind review"
   definition: "a form of peer-review when both the reviewer and author identities are concealed from the reviewers, and vice versa, throughout the review process."
@@ -78,7 +80,7 @@
   definition: "working on a faculty-initiated project gives you the chance to help a faculty member on a research project. A great resource for finding faculty-initiated projects is the Undergraduate Research Portal. In addition, you could ask your professors and TAs about available research opportunities"
   reference: http://hass.ugresearch.ucla.edu/getting-started/project/
   example: !xml |
-           <p>"I’m hoping to join a <b>faculty-initiated research project</b> in Ecology so I can gain some research experience before embarking on my own projects."</p>
+           <p class="mt-0 mb-0">"I’m hoping to join a <b>faculty-initiated research project</b> in Ecology so I can gain some research experience before embarking on my own projects."</p>
   
 - term: "Field Studies"
   definition: "Academic or other investigative studies undertaken in a natural setting, rather than in laboratories, classrooms, or other structured environments."
@@ -92,13 +94,13 @@
   definition: "The Graduate Record Examination, or GRE, is an important step in the graduate school or business school application process. The GRE is a multiple-choice, computer-based, standardized exam that is often required for admission to graduate programs and graduate business programs (MBA) globally"
   reference: https://www.ets.org/gre/revised_general/about
   example: !xml |
-           <p>"Some graduate programs require <b>GRE</b> scores, while others do not."</p>
+           <p class="mt-0 mb-0">"Some graduate programs require <b>GRE</b> scores, while others do not."</p>
   
 - term: "Honors collegium"
   definition: "The Honors Collegium is a series of courses with an interdisciplinary emphasis designed for students enrolled in College Honors, but not necessarily limited to students in College Honors. It encourages animated discussion among students, as well as between students and professors and seeks to promote scholarly exchange across the major disciplines at UCLA."
   reference: https://catalog.registrar.ucla.edu/ucla-catalog19-20-813.html
   example: !xml |
-           <p>"I fulfilled my Writing II requirement by taking an interdisciplinary <b>Honors collegium</b> course on Nabokov and Theory of Mind." <cite>— Kian, fourth-year UCLA undergraduate</cite></p>
+           <p class="mt-0 mb-0">"I fulfilled my Writing II requirement by taking an interdisciplinary <b>Honors collegium</b> course on Nabokov and Theory of Mind." <cite>— Kian, fourth-year UCLA undergraduate</cite></p>
   
 - term: "Interdisciplinary research"
   definition: "Interdisciplinary research is a mode of research by teams or individuals that integrates information, data, techniques, tools, perspectives, concepts, and/or theories from two or more disciplines or bodies of specialized knowledge to advance fundamental understanding or to solve problems whose solutions are beyond the scope of a single discipline or area of research practice."
@@ -108,7 +110,7 @@
   definition: "A literature review discusses published information in a particular subject area, and sometimes information in a particular subject area within a certain time period. It can be just a simple summary of the sources, but it usually has an organizational pattern and combines both summary and synthesis"
   reference: https://wp.ucla.edu/wp-content/uploads/2015/12/Writing-the-Literature-Review.pdf
   example: !xml |
-           <p><a href="https://escholarship.org/uc/item/8rb5m1zf" target="_blank">A review of hair product use on breast cancer risk in African American women</a></p>
+           <p class="mt-0 mb-0"><a href="https://escholarship.org/uc/item/8rb5m1zf" target="_blank">"A review of hair product use on breast cancer risk in African American women" by Laura Stiel, Paris B. Adkins-Jackson, Phyllis Clark, Eudora Mitchell, and Susanne Montgomery</a></p>
   
 - term: "Margin of Error"
   definition: "the permittable or acceptable deviation from the target or a specific value. The allowance for slight error or miscalculation or changing circumstances in a study."
@@ -122,11 +124,13 @@
   definition: "also known as academic minor.  The academic minor comprises a designated group of classes in a discipline that is outside the major field(s). Minors typically consist of a minimum of 18 credit hours and are not required to obtain a degree."
   reference: https://registrar.rice.edu/facstaff/glossary_academic_terms
   example: !xml |
-           <p>My major is in Psychology and my <b>minor</b> is in Professional Writing. <a href="https://www.admission.ucla.edu/prospect/Majors/minor.htm" target="_blank">List of all minors at UCLA</a></p>
+           <p class="mt-0 mb-0">"My major is in Psychology and my <b>minor</b> is in Professional Writing." <a href="https://www.admission.ucla.edu/prospect/Majors/minor.htm" target="_blank">List of all minors at UCLA</a></p>
   
 - term: "Oral presentation"
   definition: "a short talk on one’s research (or that of a research team), most often for the purposes of sharing findings and receiving feedback from peers and colleagues during an academic conference or symposium"
   reference: https://guides.library.ucla.edu/c.php?g=180334&p=1188045#s-lg-box3594142
+  example: !xml |
+           <p class="mt-0 mb-0">"I’m giving an <b>oral presentation</b> on gender representation in comic books at an academic conference."</p>
 
 - term: "Peer Review"
   definition: "a process of subjecting an author’s scholarly work, research or ideas to the scrutiny of others who are experts in the same field."
@@ -147,10 +151,14 @@
 - term: "Poster presentation"
   definition: "presentation through the use of a poster showing a visual display of your research project and combines text and graphics to make a visually pleasing presentation. Typically, a professional poster involves showing your work to numerous researchers at a conference or seminar."
   reference: https://guides.library.ucla.edu/posters
+  example: !xml |
+           <p class="mt-0 mb-0">"During my <b>poster presentation</b> at UCLA Undergraduate Research Poster Day, I stood in front of my poster and talked to passersby about my research."</p>
   
 - term: "Primary sources"
   definition: "immediate, first-hand accounts of a topic, from people who had a direct connection with it"
   reference: https://umb.libguides.com/PrimarySources/secondary
+  example: !xml |
+           <p class="mt-0 mb-0">"Suppose I’m an English major researching the works of Toni Morrison. Her novel <i>The Bluest Eye</i> would be an example of a <b>primary source</b>. A book review of <i>The Bluest Eye</i> would be a secondary source."</p>
 
 - term: "Professional association"
   definition: "a body of persons engaged in the same profession, they may maintain professional standards and ethics, award and reward work within the profession, coordinate the collection of data or maintain data sources, organize conferences and events, promote professional development, represent the profession in discussions with other bodies, some may oversee certifications that control entry into the profession"
@@ -175,14 +183,20 @@
 - term: "Research poster"
   definition: "an organized, visual display of your research project. Typically, you present your poster in a poster session at a conference or seminar. Conference or seminar attendees will walk by your poster, study its contents, and ask you questions. You should be prepared to answer questions and to explain your project one-on-one frequently throughout the poster session"
   reference: https://www.library.ucla.edu/poster-guidelines
+  example: !xml |
+           <p class="mt-0 mb-0"><a href="https://ugs.utexas.edu/our/poster/samples" target="_blank"><i>Check out these helpful examples of undergraduate research posters from UT Austin!</i></a></p>
   
 - term: "Secondary sources"
   definition: "sources that were created later by someone who did not experience first-hand or participate in the events or conditions you're researching. A secondary source interprets and analyzes primary sources."
   reference: https://guides.library.harvard.edu/HistSciInfo/secondary
+  example: !xml |
+           <p class="mt-0 mb-0">"Suppose I’m an English major researching the works of Toni Morrison. Her novel <i>The Bluest Eye</i> would be an example of a primary source. A book review of <i>The Bluest Eye</i> would be a <b>secondary source</b>."</p>
   
 - term: "Senior Thesis"
   definition: "a large, independent research project that students take on during their senior year of college to fulfill their graduation requirement. It is the culminating work of their studies at a particular institution, and it represents their ability to conduct research and write effectively."
   reference: https://www.thoughtco.com/what-is-a-senior-thesis-1857482#:~:text=A%20senior%20thesis%20is%20a,conduct%20research%20and%20write%20effectively
+  example: !xml |
+           <p class="mt-0 mb-0">"In order to have enough data for my <b>senior thesis</b>, my advisor recommended that I join a research lab by Winter Quarter of my third year."</p>
   
 - term: "Student-initiated project"
   definition: "working on a student-initiated project gives you the chance to pursue a project of your own design under the guidance of a faculty mentor. To find a faculty mentor, you might ask professors with whom you have taken courses in your area of interest"
@@ -195,19 +209,21 @@
 - term: "Synthesis matrix"
   definition: "a synthesis matrix is a table that can be used to organize research. When completed, it provides a visual representation of main ideas found in the literature and also shows where there is overlap in ideas between authors. A completed matrix will help to integrate all of the different resources together, which will facilitate the synthesis of information on a specific topic and writing a literature review"
   reference: https://writingcenter.ashford.edu/synthesis-matrix
+  example: !xml |
+           <p class="mt-0 mb-0"><a href="https://docs.google.com/document/u/2/d/1koaghMOwxOX9Rrt1yj_CiGU85h52whV6uAt_pvt1peo/copy" target="_blank"><i>Click here to copy WI+RE’s synthesis matrix into your Google Drive!</i></a></p>
 
 - term: "Tertiary sources"
   definition: "publications that summarize and digest the information in primary and secondary sources to provide background on a topic, idea, or event"
   reference: http://guides.library.cornell.edu/sources/tertiary
+  example: !xml |
+           <p class="mt-0 mb-0">"Examples of <b>tertiary sources</b> include textbooks and encyclopedias."</p>
 
 - term: "Thesis"
   definition: "declarative sentence that asserts the position a paper will be taking"
   reference: https://wp.ucla.edu/wpcontent/uploads/2016/01/UWC_handouts_Thesis-Construction_TB-edits.pdf
+  example: !xml |
+           <p class="mt-0 mb-0">"Both Freud, in <i>Civilization and Its Discontents</i>, and Gilman, in <i>Women and Economics</i>, attest to the social relevance of the individual’s sexual instincts, but disagree about the role that sex ought to play in society."</p>
   
 - term: "Translational Research"
   definition: "medical research that is concerned with facilitating the practical application of scientific discoveries to the development and implementation of new ways to prevent, diagnose, and treat disease"
   reference: https://www.merriam-webster.com/dictionary/translational%20research
-  
-- term: "UCLA WI+RE group"
-  definition: "WI+RE is a learner-led community at UCLA focused on helping everyone succeed in their writing and research projects. The WI+RE team leverages a learner-centered design toolkit to create and continually improve open online learning modules."
-  reference: https://library.ucla.edu/wire
