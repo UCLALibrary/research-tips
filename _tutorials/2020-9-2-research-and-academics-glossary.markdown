@@ -27,6 +27,7 @@ authors:
 <table class="table table-sm table-responsive-sm">
   <tbody id="myTable">
       {% for entry in site.data.glossary %}
+      {% if entry.draft != true %}
       {% capture hrefname %}{{ entry.term | remove: " " | remove: "(" | remove: ")" | remove: "+" }}{% endcapture %}
       <tr>
         <td>
@@ -98,6 +99,7 @@ authors:
           </div>
         </td>
       </tr>
+    {% endif %}
     {% endfor %}
 </tbody>
 </table>

@@ -1,5 +1,16 @@
 # want to test syntax before saving? You can use https://codebeautify.org/yaml-validator
 
+# Example
+
+- term: "Term"
+  definition: "A definition"
+  reference: https://google.com
+  example: !xml |
+           <p class="mt-0 mb-0">An example with the <b>term</b> bolded.</p>
+  draft: true #remove this line to show the term on the page!
+  
+# Glossary - put in alphabetical order!
+
 - term: "Abstract"
   definition: "An abstract summarizes, usually in one paragraph of 300 words or less, the major aspects of the entire paper in a prescribed sequence that includes 1) the overall purpose of the study and the research problem(s) you investigated; 2) the basic design of the study; 3) major findings or trends found as a result of your analysis; and, 4) a brief summary of your interpretations and conclusions."
   reference: https://libguides.usc.edu/writingguide/abstract
@@ -36,7 +47,7 @@
   definition: "a set of rules on how to cite sources in academic writing. The three most common types include MLA, APA, and Chicago."
   reference: https://guides.library.ucla.edu/start/citing
   example: !xml |
-           <p class="mt-0 mb-0">"The <b>essay prompt</b> says to use the MLA 8 citation style."</p>
+           <p class="mt-0 mb-0">"The essay prompt says to use the MLA 8 <b>citation style</b>."</p>
   
 - term: "Cluster Analysis"
   definition: "a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are."
@@ -97,6 +108,13 @@
   reference: https://catalog.registrar.ucla.edu/ucla-catalog19-20-813.html
   example: !xml |
            <p class="mt-0 mb-0">"I fulfilled my Writing II requirement by taking an interdisciplinary <b>Honors collegium</b> course on Nabokov and Theory of Mind." <cite>— Kian, fourth-year UCLA undergraduate</cite></p>
+
+- term: "Hypothesis"
+  definition: "A definition"
+  reference: https://google.com
+  example: !xml |
+           <p class="mt-0 mb-0">An example with the <b>term</b> bolded.</p>
+  draft: true #remove this line to show the term on the page!
   
 - term: "Interdisciplinary research"
   definition: "Interdisciplinary research is a mode of research by teams or individuals that integrates information, data, techniques, tools, perspectives, concepts, and/or theories from two or more disciplines or bodies of specialized knowledge to advance fundamental understanding or to solve problems whose solutions are beyond the scope of a single discipline or area of research practice."
@@ -207,6 +225,13 @@
   reference: https://writingcenter.ashford.edu/synthesis-matrix
   example: !xml |
            <p class="mt-0 mb-0"><a href="https://docs.google.com/document/u/2/d/1koaghMOwxOX9Rrt1yj_CiGU85h52whV6uAt_pvt1peo/copy" target="_blank"><i>Click here to copy WI+RE’s synthesis matrix into your Google Drive!</i></a></p>
+
+- term: "Problem Statement"
+  definition: "A definition"
+  reference: https://google.com
+  example: !xml |
+           <p class="mt-0 mb-0">An example with the <b>term</b> bolded.</p>
+  draft: true #remove this line to show the term on the page!
 
 - term: "Tertiary sources"
   definition: "publications that summarize and digest the information in primary and secondary sources to provide background on a topic, idea, or event"
