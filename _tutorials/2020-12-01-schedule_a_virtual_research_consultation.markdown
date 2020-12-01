@@ -4,7 +4,7 @@ description: "Make a virtual appointment with a Library Student Research Assista
 date:   2020-12-01
 authors: 
     - hannah-sutherland
-    - Alex Solodkaya
+    - Alexandra Solodkaya
     - Srikar Poruri
 contributors:
     - 
