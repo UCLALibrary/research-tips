@@ -8,7 +8,7 @@ title:  "Strategies for Taking a Timed Exam"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Timed exams also tests your ability to think and write quickly, time management, dissecting a prompt or question, and more. This tutorial will offer tips to help you strategize for your next timed exam!"
+description: "Timed exams often test your ability to think and write quickly, manage your time, dissect a question, and more. This tutorial will offer tips to help you strategize for your next timed exam!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
