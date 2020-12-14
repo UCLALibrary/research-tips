@@ -1,7 +1,7 @@
 ---
 title: 
 
-"Remote Study Strategies The Pomodoro Technique"
+Remote Study Strategies The Pomodoro Technique
 date:  
 
 2020-12-14
