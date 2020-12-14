@@ -1,9 +1,11 @@
 ---
-title:  Remote Study Strategies The Pomodoro Technique
+title:  "Remote Study Strategies The Pomodoro Technique"
 date:   2020-12-14
 authors: 
+
     - jake-arakawa
 contributors:
+
     - chris-lopez
     - kian-ravaei
     - doug-worsham
