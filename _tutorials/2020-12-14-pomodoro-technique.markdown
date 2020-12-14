@@ -4,16 +4,14 @@ date:   2020-12-14
 authors: 
     - jake-arakawa
 contributors:
-    - christopher-lopez
+    - chris-lopez
     - kian-ravaei
     - doug-worsham
     - cymfenee-dean-phifer
     - sarah-phan
     
 description: Remote Study Strategies: The Pomodoro Technique is an interactive tutorial that walks learners through the Pomodoro Technique, a productivity strategy that is useful for studying! This tutorial goes over the methodology of the Pomodoro Technique, and includes tips from our team to help optimize your studying experience!
-thumbnail:
-handout:
-handout-thumbail: 
+
 category: Getting Started with Research
 sort-weight: 15
 
@@ -32,6 +30,7 @@ tags:
     - productivity
     - study strategies
     - remote learning
+    
 ---
 As we shift towards remote learning and working from home, it is important to avoid burnout and stay on task! _Remote Study Strategies: The Pomodoro Technique_ is an interactive presentation that walks students through the Pomodoro Technique, a productivity strategy that is useful for studying. This tutorial gives background on the technique, and provides tips from our team that we find useful to enhance our work process. 
 
