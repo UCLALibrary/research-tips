@@ -31,8 +31,7 @@ core-competencies:
 tags:
     - productivity
     - study strategies
-    - remote learning
-    
+    - remote learning  
 ---
 As we shift towards remote learning and working from home, it is important to avoid burnout and stay on task! _Remote Study Strategies: The Pomodoro Technique_ is an interactive presentation that walks students through the Pomodoro Technique, a productivity strategy that is useful for studying. This tutorial gives background on the technique, and provides tips from our team that we find useful to enhance our work process. 
 
