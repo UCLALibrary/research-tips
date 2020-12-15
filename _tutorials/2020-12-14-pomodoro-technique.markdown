@@ -35,6 +35,7 @@ contributors:
     - kian-ravaei
     - doug-worsham
     - cymfenee-dean-phifer
+    - sarah-phan
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
