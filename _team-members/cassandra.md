@@ -10,8 +10,7 @@ start-date: 2018-04
 end-date: 2019-07
 start-end-phrase: April 2018 - July 2019
 category: Alumni
-bio: >- 
-
+bio:
 profile: 
 linkedin: http://linkedin.com/in/cbautista98
 features:

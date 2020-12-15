@@ -13,7 +13,11 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="post-heading">
             <div class="post-heading-text-box heading-text-box text-center">
-                <img class="rounded mx-auto d-block" style="max-height: 200px;" src="{{ page.profile | relative_url }}" alt="{{ page.firstname }}'s profile picture" />
+                {% if page.profile %}
+                    <img class="rounded mx-auto d-block" style="max-height: 200px;" src="{{ page.profile | relative_url }}" alt="{{ page.firstname }}'s profile picture" />
+                {% else %}
+                    <img src="{{ '/assets/images/team/np_cat_114598_B8B8B8.png' | relative_url }}" class="mr-3 img-fluid" style="height: 100px;" alt="Generic Cat Profile Picture">
+                {% endif %}
                 <h1>
                     {% if page.displayname %}
                         {{ page.displayname }}
@@ -21,11 +25,15 @@ layout: default
                         {{ page.title }}
                     {% endif %}
                 </h1>
+                {% if page.position %}
+                    <p>{{ page.position }}{% if page.start-end-phrase %}, {{ page.start-end-phrase }}{% endif %}</p>
+                {% endif %}
             </div>
         </div>
       </div>
     </div>
   </div>
+      
 </header>
 <div class="container">
     <div class="row">
@@ -46,12 +54,25 @@ layout: default
             -->
             <!-- do we need to repeat the name?
             <!-- <h2>{{ page.firstname }} <span class="text-muted">{{ page.lastname }}</span></h2>-->
-            <p class="lead">
-                {{ page.bio }}
-            </p>
+
+            <div {% if page.bio %}class="lead"{% endif %}>
+                <p>{{ page.bio }}</p>
+                {% if page.linkedin or page.website %}
+                <div>
+                <ul class="list-inline text-center">
+                    {% if page.linkedin %}
+                        <li class="list-inline-item"><a href="{{ page.linkedin }}" target="_blank" aria-label="LinkedIn profile"><i class="fab fa-linkedin" aria-hidden="true" title="LinkedIn profile"></i></a></li>
+                    {% endif %}
+                    {% if page.website %}
+                        <li class="list-inline-item"><a href="{{ page.linkedin }}" target="_blank"aria-label="Website or more information"><i class="fas fa-info-circle" aria-hidden="true" title="Website or more information"></i></a></li>
+                    {% endif %}
+                </ul>
+                    </div>
+                {% endif %}
+            </div>
 <!-- Features -->
             {% if page.features[0]['feature-title'] %}
-            <h3 class="mt-5">Featured Projects:</h3>
+            <h2 class="mt-5">Featured Projects:</h2>
                 <!-- todo:: improve this slideshow? -->
                     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
                         <ol class="carousel-indicators">
@@ -87,7 +108,7 @@ layout: default
             {% capture sandbox-author-list %}{{ site.posts | map: 'authors' | split: ',' }}{% endcapture %}
             {% if workshop-author-list contains page.username or tutorial-author-list contains page.username or handout-author-list contains page.username or sandbox-author-list contains page.username %}
 
-<h3 class="mt-5">My WI+RE Portfolio</h3>
+<h2 class="mt-5">My WI+RE Portfolio</h2>
             {% endif %}
             <div class="container">
                 <div class="row">
@@ -105,7 +126,7 @@ layout: default
                         {% endif %}
                     <!-- Create pub and pres list for authors -->
                     {% if isAnAuthor == true %}
-                        <h4 class="mt-5">Publications &amp; Presentations</h4>
+                        <h3 class="mt-5">Publications &amp; Presentations</h3>
                         <ul class="fa-ul">
                             {% for pub in site.data.publications.twentytwenty %}
                                         {% include pub-list-item.html %}
@@ -141,7 +162,7 @@ layout: default
                                     {% endif %}
                                 {% endfor %}
                             <!-- end count -->
-                            <h4 class="mt-5">{{ counter }} Workshop{% if counter > 1 %}s{% endif %}</h4>
+                            <h3 class="mt-5">{{ counter }} Workshop{% if counter > 1 %}s{% endif %}</h3>
                             <ul>
                                 {% for workshop in site.workshops %}
                                     {% if workshop.authors contains page.username %}
@@ -162,7 +183,7 @@ layout: default
                                     {% endif %}
                                 {% endfor %}
                             <!-- end count -->
-                        <h4 class="mt-5">{{ counter }} Tutorial{% if counter > 1 %}s{% endif %}</h4>
+                        <h3 class="mt-5">{{ counter }} Tutorial{% if counter > 1 %}s{% endif %}</h3>
                         <ul>
                             {% for tutorial in site.tutorials %}
                                 {% if tutorial.authors contains page.username %}
@@ -183,7 +204,7 @@ layout: default
                                     {% endif %}
                                 {% endfor %}
                             <!-- end count -->
-                    <h4 class="mt-5">{{ counter }} Handout{% if counter > 1 %}s{% endif %}</h4>
+                    <h3 class="mt-5">{{ counter }} Handout{% if counter > 1 %}s{% endif %}</h3>
                         <ul>
                             {% for handout in site.handouts %}
                                 {% if handout.authors contains page.username %}
@@ -204,7 +225,7 @@ layout: default
                                     {% endif %}
                                 {% endfor %}
                             <!-- end count -->
-                        <h4 class="mt-5">{{ counter }} Sandbox Post{% if counter > 1 %}s{% endif %}</h4>
+                        <h3 class="mt-5">{{ counter }} Sandbox Post{% if counter > 1 %}s{% endif %}</h3>
                         <ul>
                             {% for post in site.posts %}
                                 {% if post.authors contains page.username %}
@@ -222,7 +243,7 @@ layout: default
             {% capture handout-contributor-list %}{{ site.handouts | map: 'contributors' | split: ',' }}{% endcapture %}
             {% capture sandbox-contributor-list %}{{ site.posts | map: 'contributors' | split: ',' }}{% endcapture %}
             {% if workshop-contributor-list contains page.username or tutorial-contributor-list contains page.username or handout-contributor-list contains page.username or sandbox-contributor-list contains page.username %}
-                <h3 class="mt-5">My Contributions</h3>
+                <h2 class="mt-5">My Contributions</h2>
                 <small>
                     {% if workshop-contributor-list contains page.username %}
                         <!-- count -->
