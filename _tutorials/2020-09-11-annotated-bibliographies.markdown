@@ -44,4 +44,4 @@ As annotated bibliographies (AB) become more commonly assigned, it is important 
 
 **Note:** a transcript for each slide can be located at the bottom left of each slide. Click the button to preview transcript of slide for description of art in each panel and the script of tutorial guide.
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3213459" width="1559" height="902" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3213459" width="1206" height="704" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
