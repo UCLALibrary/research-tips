@@ -10,8 +10,10 @@ start-date:   YYYY-MM-DD
 end-date:
 category: Alumni
 bio: >- 
-    Jen is a PhD candidate in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-faciliated commmunity engagement. At WI+RE she was the lead instructional designer of the resarch process interactive poster survey series, where she and other WI+RE members collected data about UCLA students' research processes and recommended library services to help navigate it. She also worked on the Wheel of Sources project, and is currently working with WI+RE members on a forthcoming chapter on student engagement in libraries.
+    Jen is a User Experience and Human-Computer Interaction researcher, currently working at Google Stadia. She worked at WI+RE while completing her Ph.D. in Information Studies, and was the lead instructional designer of the research process interactive poster survey series. She also worked on the Wheel of Sources project, and co-authored a book chapter on student engagement in libraries with her fellow WI+RE members.
 profile: /assets/images/team/jen.jpeg
+linkedin:
+website: https://sites.google.com/g.ucla.edu/jennifer-pierre/home
 features:
     - feature-title: "Reading Strategies"
       feature-img: /assets/images/Reading Strat_3.png

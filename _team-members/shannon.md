@@ -6,11 +6,12 @@ firstname: Shannon
 lastname:  Roux
 position: Learner-Designer
 background: 
-start-date:    
-end-date:
+start-date: 2016-10 
+end-date: 2018-06
+start-end-phrase: October 2016 - June 2018
 category: Alumni
 bio: >- 
-   Shannon worked with the WI+RE Team for two years, right as the project was getting started. Through WI+RE she was able to explore and build a variety of new skills like html coding on the WI+RE website, video editing on projects such as “Reading Strategies,” and simple animation like in “Expanding Perspectives.” Most of all Shannon took away a passion for the collaborative design process and for instructional design. Shannon is currently using and building this passion as a 3-4th grade special education teacher in Chicago. 
+   Shannon worked with the WI+RE Team for two years, right as the project was getting started. Through WI+RE she was able to explore and build a variety of new skills like html coding on the WI+RE website, video editing on projects such as “Reading Strategies,” and simple animation like in “Expanding Perspectives.” Most of all Shannon took away a passion for the collaborative design process and for instructional design. Shannon is currently using and building this passion as a special education teacher. 
 profile: /assets/images/team/shannon.jpg
 features:
     - feature-title: "Research Paper Planner"
