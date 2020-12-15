@@ -1,29 +1,17 @@
 ---
-title: 
-
-Remote Study Strategies The Pomodoro Technique
-date:  
-
-2020-12-14
+title: Remote Study Strategies The Pomodoro Technique
+date: 2020-12-14
 authors: 
-
     - jake-arakawa
 contributors:
-
     - chris-lopez
     - kian-ravaei
     - doug-worsham
     - cymfenee-dean-phifer
-    - sarah-phan
-    
+    - sarah-phan   
 description: Remote Study Strategies: The Pomodoro Technique is an interactive tutorial that walks learners through the Pomodoro Technique, a productivity strategy that is useful for studying! This tutorial goes over the methodology of the Pomodoro Technique, and includes tips from our team to help optimize your studying experience!
 category: Getting Started with Research
 sort-weight: 15
-# ######
-# ACCESSIBILITY INFO
-# - { text: 'WAVE tested - 0 errors', date: '2020-09-18', url: 'https://wave.webaim.org/' }
-# - { text: 'Transcript Available in Tutorial' }
-# ######
 accessibility-info:
  Forthcoming
 learning-outcomes:
