@@ -10,7 +10,7 @@ contributors:
     - cymfenee-dean-phifer
     - sarah-phan   
 description: Remote Study Strategies: The Pomodoro Technique is an interactive tutorial that walks learners through the Pomodoro Technique, a productivity strategy that is useful for studying! This tutorial goes over the methodology of the Pomodoro Technique, and includes tips from our team to help optimize your studying experience!
-category: Getting Started with Research
+category: Study Strategies
 sort-weight: 15
 accessibility-info:
  Forthcoming
@@ -34,4 +34,4 @@ As we shift towards remote learning and working from home, it is important to av
 
 **Note:** Throughout the tutorial, audio clips from WI+RE team members are avaliable to walk you through the slides and provide you with additional information. To play these clips, look for an audio button found in the slides. 
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/view.php?id=3408081" width="1559" height="902" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3408081" width="871" height="515" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
