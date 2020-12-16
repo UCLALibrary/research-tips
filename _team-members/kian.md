@@ -9,6 +9,7 @@ background:
 start-date:   YYYY-MM-DD 
 end-date:
 category: Creative Team
+website: http://kianravaei.com/
 bio: >- 
     Kian is an undergraduate Music Composition major. He strives to help learners achieve their learning goals through empathy, honesty, and purposeful design.
 profile: /assets/images/team/kian_headshot.jpg
