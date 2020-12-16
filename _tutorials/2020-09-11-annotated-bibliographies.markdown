@@ -23,7 +23,6 @@ sort-weight: 15
 # - { text: 'Transcript Available in Tutorial' }
 # ######
 accessibility-info:
- Forthcoming
 learning-outcomes:
     - Identify components of an annotated bibliography
     - List reasons for making an annotated bibliography
