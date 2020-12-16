@@ -10,6 +10,7 @@ contributors:
     - Emily Appleton
     - Kelly Miller
     - Undergraduate Research Center - Humanities, Arts, and Social Sciences
+    - jeannie-chen
 awards:
     - arlies2016-how-to
 description: Before you search, start by brainstorming a list of questions.

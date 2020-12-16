@@ -17,7 +17,7 @@ contributors:
     - Emily Teng
     - Jade Alburo
     - Jamrensze “J-Mi” De Leon
-    - Jeannie Chen
+    - jeannie-chen
     - Joseph Babi
     - juan-diaz
     - Juan Jaime

@@ -6,7 +6,7 @@ authors:
     - jen-pierre
     - shannon-roux
     - juan-diaz
-    - Jeannie Chen
+    - jeannie-chen
     - april-zhou
     - Emily
     - Sophia Wu

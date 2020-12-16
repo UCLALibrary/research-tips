@@ -10,7 +10,7 @@ authors:
     - kian-ravaei
     - shannon-roux
     - taylor-harper
-    - Jeannie Chen
+    - jeannie-chen
     - april-zhou
     - Sophia Wu
     - giselle-burns

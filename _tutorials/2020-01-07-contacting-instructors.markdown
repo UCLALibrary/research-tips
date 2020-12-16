@@ -8,7 +8,7 @@ authors:
 contributors:
     - Whitney Arnold 
     - Allison R. Benedetti
-    - Jeannie Chen
+    - jeannie-chen
     - juan-diaz 
     - Thomas Garbelotti
     - Janet Goins

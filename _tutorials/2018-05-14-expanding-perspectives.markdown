@@ -7,7 +7,7 @@ authors:
     - shannon-roux
     - taylor-harper
     - kian-ravaei
-    - Jeannie Chen
+    - jeannie-chen
 contributors:
     - Whitney Arnold
     - Joanna Chen Cham

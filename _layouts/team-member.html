@@ -243,7 +243,7 @@ layout: default
             {% capture handout-contributor-list %}{{ site.handouts | map: 'contributors' | split: ',' }}{% endcapture %}
             {% capture sandbox-contributor-list %}{{ site.posts | map: 'contributors' | split: ',' }}{% endcapture %}
             {% if workshop-contributor-list contains page.username or tutorial-contributor-list contains page.username or handout-contributor-list contains page.username or sandbox-contributor-list contains page.username %}
-                <h2 class="mt-5">My Contributions</h2>
+                <h3 class="mt-5">My Contributions</h3>
                 <small>
                     {% if workshop-contributor-list contains page.username %}
                         <!-- count -->
