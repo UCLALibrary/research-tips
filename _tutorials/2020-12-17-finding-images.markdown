@@ -1,6 +1,6 @@
 ---
 title:  "Finding Images with the UCLA Library"
-date:   2020-12-18
+date:   2020-12-17
 authors: 
     - Alexandra Solodkaya
     - Ashley Peterson
