@@ -110,15 +110,16 @@
            <p class="mt-0 mb-0">"I fulfilled my Writing II requirement by taking an interdisciplinary <b>Honors collegium</b> course on Nabokov and Theory of Mind." <cite>— Kian, fourth-year UCLA undergraduate</cite></p>
 
 - term: "Hypothesis"
-  definition: "A definition."
-  reference: https://google.com
-  example: !xml |
-           <p class="mt-0 mb-0">An example with the <b>term</b> bolded.</p>
-  draft: true #remove this line to show the term on the page!
+  definition: "A hypothesis is a prediction about the outcome of a study that is stated in sentence form."
+  reference: https://jan.ucc.nau.edu/~mid/edr610/class/variables/hypotheses/lesson3-2-1.html
   
 - term: "Interdisciplinary research"
   definition: "Interdisciplinary research is a mode of research by teams or individuals that integrates information, data, techniques, tools, perspectives, concepts, and/or theories from two or more disciplines or bodies of specialized knowledge to advance fundamental understanding or to solve problems whose solutions are beyond the scope of a single discipline or area of research practice."
   reference: https://www.nsf.gov/od/oia/additional_resources/interdisciplinary_research/definition.jsp
+  
+- term: "Intersectionality"
+  definition: "Intersectionality is an analytical framework for understanding how aspects of a person's social and political identities combine to create different modes of discrimination and privilege."
+  reference: https://en.wikipedia.org/wiki/Intersectionality
 
 - term: "Literature review"
   definition: "A literature review discusses published information in a particular subject area, and sometimes information in a particular subject area within a certain time period. It can be just a simple summary of the sources, but it usually has an organizational pattern and combines both summary and synthesis."
@@ -227,12 +228,9 @@
            <p class="mt-0 mb-0"><a href="https://docs.google.com/document/u/2/d/1koaghMOwxOX9Rrt1yj_CiGU85h52whV6uAt_pvt1peo/copy" target="_blank"><i>Click here to copy WI+RE’s synthesis matrix into your Google Drive!</i></a></p>
 
 - term: "Problem statement"
-  definition: "A definition"
-  reference: https://google.com
-  example: !xml |
-           <p class="mt-0 mb-0">An example with the <b>term</b> bolded.</p>
-  draft: true #remove this line to show the term on the page!
-
+  definition: "A problem statement is a move that a document makes to help the reader realize why the document is important. Problem statements can be either formal — like a thesis statement — or they can be informal — usually a sentence that explains how what you are saying will impact the reader."
+  reference: https://owl.purdue.edu/owl/subject_specific_writing/writing_in_the_purdue_surf_program/surf_workshop_resources_problem_statements/index.html
+  
 - term: "Tertiary sources"
   definition: "Publications that summarize and digest the information in primary and secondary sources to provide background on a topic, idea, or event."
   reference: http://guides.library.cornell.edu/sources/tertiary
