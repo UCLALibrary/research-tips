@@ -34,7 +34,7 @@ background:
 <div class="container">
   <div class="row">
     <div class="col-lg-12 col-md-12 col-xl-12 mx-auto">
-      <h2>WI+RE Categories!!!!</h2>
+      <h2>WI+RE Categories</h2>
         {% assign prepgroups1 = site.documents | where_exp:"item","item.layout != 'team-member'" %}
         {% assign prepgroups2 = prepgroups1 | where_exp:"item","item.layout != 'handout'" %}
         {% assign prepgroups3 = prepgroups2 | where_exp:"item","item.layout != 'post'"%}
@@ -43,7 +43,7 @@ background:
         {% assign groups = prepgroups5 | group_by: "category" | sort: "sort-weight" %}
         
         {% for group in groups %}
-        {% if group.name %}
+        {% if group.name != '' %}
         {% assign anchorname = group.name | slugify %}
             <a href="#{{ anchorname }}">
                 <button type="button" class="btn btn-primary mb-1">
