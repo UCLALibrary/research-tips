@@ -34,18 +34,17 @@ background:
 <div class="container">
   <div class="row">
     <div class="col-lg-12 col-md-12 col-xl-12 mx-auto">
-      <h2>WI+RE Categories</h2>
-        {% assign groups = site.documents | group_by: "category" | sort: "sort-weight" %}
+      <h2>WI+RE Categories!!</h2>
+        {% assign prepgroups = site.documents | where_exp:"item","item.category != ''" %}
+        {% assign groups = prepgroups | group_by: "category" | sort: "sort-weight" %}
         
         {% for group in groups %}
-        {% if group %}
         {% assign anchorname = group.name | slugify %}
             <a href="#{{ anchorname }}">
                 <button type="button" class="btn btn-primary mb-1">
                     {{ group.name }}
                 </button>
             </a> 
-        {% endif %}
         {% endfor %}
 
         {% for group in groups %}
