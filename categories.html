@@ -38,7 +38,7 @@ background:
         {% assign prepgroups1 = site.documents | where_exp:"item","item.layout != 'team-member'" %}
         {% assign prepgroups2 = prepgroups1 | where_exp:"item","item.layout != 'handout'" %}
         {% assign prepgroups3 = prepgroups2 | where_exp:"item","item.layout != 'post'"%}
-        {% assign groups = prepgroups | group_by: "category" | sort: "sort-weight" %}
+        {% assign groups = prepgroups3 | group_by: "category" | sort: "sort-weight" %}
         
         {% for group in groups %}
         {% if group.name %}
@@ -99,7 +99,7 @@ background:
                                 {% endif %}
 -->
                                 <div class="btn-group btn-group-sm float-right mb-3" role="group" aria-label="Actions">
-                                    <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
+                                    <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">{{ tutorial.layout }}</a>
                                     {% if tutorial.handout %}
                                         <a href="{{ tutorial.handout | relative_url }}" class="btn btn-primary">Handout</a>
                                     {% endif %}
