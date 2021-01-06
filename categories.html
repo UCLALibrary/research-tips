@@ -38,7 +38,9 @@ background:
         {% assign prepgroups1 = site.documents | where_exp:"item","item.layout != 'team-member'" %}
         {% assign prepgroups2 = prepgroups1 | where_exp:"item","item.layout != 'handout'" %}
         {% assign prepgroups3 = prepgroups2 | where_exp:"item","item.layout != 'post'"%}
-        {% assign groups = prepgroups3 | group_by: "category" | sort: "sort-weight" %}
+        {% assign prepgroups4 = prepgroups3 | where_exp:"item","item.layout != 'embed'"%}
+        {% assign prepgroups5 = prepgroups4 | where_exp:"item","item.layout != 'embed-simple'"%}
+        {% assign groups = prepgroups5 | group_by: "category" | sort: "sort-weight" %}
         
         {% for group in groups %}
         {% if group.name %}
