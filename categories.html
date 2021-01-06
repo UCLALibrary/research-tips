@@ -34,8 +34,8 @@ background:
 <div class="container">
   <div class="row">
     <div class="col-lg-12 col-md-12 col-xl-12 mx-auto">
-      <h2>WI+RE Categories!!</h2>
-        {% assign prepgroups = site.documents | where_exp:"item","item.layout == 'tutorial' OR item.layout == 'workshop'" %}
+      <h2>WI+RE Categories</h2>
+        {% assign prepgroups = site.documents | where_exp:"item","item.layout != 'team-member'" %}
         {% assign groups = prepgroups | group_by: "category" | sort: "sort-weight" %}
         
         {% for group in groups %}
