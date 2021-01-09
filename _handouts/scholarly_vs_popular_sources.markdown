@@ -27,6 +27,9 @@ tags:
     - humanities
     - sciences
     - social sciences
+    
+awards:
+    - merlot-5-star-editor-review
 ---
 
 <p style="margin-bottom: 5 px;">
