@@ -9,7 +9,7 @@ start-date:
 end-date:
 category: Creative Team
 bio: >- 
-    Salma Abumeeiz is a Research and Instruction Librarian at the Powell Library with a focus area of online learning at scalable teaching. She supports learners across a variety of disciplines, and also serves as a liaison to the Academic Advancement Program. Salma is passionate about learner-centered design and critical pedagogy.
+    Salma Abumeeiz is a Research and Instruction Librarian at the Powell Library with a focus area of online learning at scalable teaching. She supports learners across a variety of disciplines, and also serves as a liaison to <i> Cluster 27: Global Islam </i> and the Academic Advancement Program. Salma is passionate about critical pedagogy and supporting student research.
 profile: /assets/images/team/salma.jpg
 features:
     - feature-title: 
