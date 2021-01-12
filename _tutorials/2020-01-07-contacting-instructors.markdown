@@ -1,10 +1,15 @@
 ---
-title:  "Communicating with Instructors: Email and Office Hours"
+title:  "Contacting Instructors: Email and In-Person"
 date:   2020-01-07
+last-updated: 2021-01-11
 authors: 
-    - shannon-roux
-    - kian-ravaei
+    - jake-arakawa
     - taylor-harper
+    - chris-lopez
+    - cymfenee-dean-phifer
+    - kian-ravaei
+    - shannon-roux
+    - renee-romero
 contributors:
     - Whitney Arnold 
     - Allison R. Benedetti
@@ -49,9 +54,10 @@ tags:
 
 As students, you will often need to get in touch with your instructors. Whether it is a TA, professor, or faculty advisor, a little bit of etiquette can go a long way to making sure your communication is efficient and effective for everyone involved.
 
+<div class="mb-5">
+  <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3565659" width="1094" height="641" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+</div>
 
-<a href="{{ '/assets/handouts/contacting-faculty-combined.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout" target="_blank">
-<img class="img-fluid" src="{{ '/assets/images/contacting-instructors-email.jpg' | relative_url }}" alt="When contacting instructors via email, include a clear subject line, an appropriate greeting, a concise body, and a thank you. Be sure to use a respectul tone throughout and include complete contact information for yourself." data-caption="Image of contacting instructors handout." ></a>
-
-<a href="{{ '/assets/handouts/contacting-faculty-combined.pdf' | prepend: site.baseurl }}" title="PDF Handout" aria-label="Handout" target="_blank">
-<img class="img-fluid" src="{{ '/assets/images/contacting-instructors-in-person.jpg' | relative_url }}" alt="To prepare for office hours, email your questions in advance, start the conversation with your most important questions, and be honest about what you know already. In-person meetings get easier with practice!" data-caption="Image of contacting instructors handout."></a>
+<div>
+  <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3565830" width="1094" height="641" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+</div>
