@@ -8,7 +8,7 @@ title:  "Reading Pedigrees"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "A short and snappy description referencing the learning outcome and/or breakthrough!"
+description: "An interactive tutorial on how to read and analyze pedigrees!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
@@ -18,7 +18,7 @@ date:   2021-01-14
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: YYYY-MM-DD
+last-updated: 2021-01-14
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
@@ -31,48 +31,49 @@ featured:
 authors:
     - cymfenee-dean-phifer
 contributors:
-    - firstname-lastname
-    - Firstname Lastname
+    - doug-worsham
+    - renee-romero
+    - kian-ravaei
+    - jake-arakawa
+    - chris-lopez
+    - sarah-phan
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
-    - name, organization, or citation
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
 thumbnail: /assets/....png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
-handout: /assets/handouts/....pdf
+handout: 
 #
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
 #
 # awards: 
-#   - award-1
-#   - award-2
+#  
 #
 # CATEGORY & THEMES
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: 
-themes: 
+category: STEM Tutorials
+themes: stem, biology, Life Sciences
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight: ##
+sort-weight: 1
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
-    - starting with verbs
+    - Differentiate between recessive and dominant genotypes
+    - Recognize how heterozygous traits are shown on a pedigree
+    - Identify the different genotype possibilities and/or modes of inheritance given an individual's parents/offspring
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -100,29 +101,33 @@ accessibility-info:
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-    - Define the goals, scope, and plan
-    - Investigate diverse sources and perspectives
-    - Gather and organize information and data
-    - Evaluate and synthesize information and data
-    - Use information and data ethically 
-    - Share the work and engage with audiences
-    - Reflect on and refine the research process
+    - Learn how to read and interpret pedigrees
+    - Differentiate between different modes of inheritance
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
-    - Authority Is Constructed and Contextual
-    - Information Creation as a Process
     - Information Has Value
-    - Research as Inquiry
-    - Scholarship as Conversation
     - Searching as Strategic Exploration
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - tag 1
-    - tag 2
+    - pedigree
+    - pedigrees
+    - biology
+    - Life Science
+    - Life Sciences
+    - Life Science 7B
+    - genetics
+    - genes
+    - autosomal
+    - dominant
+    - recessive
+    - allele
+    - alleles
 ---
+Here is an interactive book tutorial on how to read pedigrees! This tutorial was designed for anyone who needs some extra help with interpreting pedigrees, or if you just need refresher. I hope you enjoyed and learned something new!
+
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3441513" width="100%" height="742" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
