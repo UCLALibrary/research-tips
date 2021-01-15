@@ -23,7 +23,7 @@ learning-outcomes:
     - Recognize how heterozygous traits are shown on a pedigree
     - Identify the different genotype possibilities and/or modes of inheritance given an individual's parents/offspring
 accessibility-info:
-    - { text: 'H5P Content Type - Interactive Book', date: '2021-01-14', , url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+    - { text: 'H5P Content Type - Interactive Book', date: '2021-01-14', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 core-competencies:
     - Learn how to read and interpret pedigrees
     - Differentiate between different modes of inheritance
