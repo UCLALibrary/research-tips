@@ -48,6 +48,10 @@
   reference: https://guides.library.ucla.edu/start/citing
   example: !xml |
            <p class="mt-0 mb-0">"The essay prompt says to use the MLA 8 <b>citation style</b>."</p>
+           
+- term: "Claim"
+  definition: "A statement, similar to a hypothesis, which is made in response to the research question and that is affirmed with evidence based on research."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
   
 - term: "Cluster analysis"
   definition: "A statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are."
@@ -57,6 +61,10 @@
            
 - term: "Cohort analysis"
   definition: "Group by group analytic treatment of individuals having a statistical factor in common to each group. Group members share a particular characteristic (e.g., born in a given year) or a common experience (e.g., entering a college at a given time)."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
+  
+- term: "Confidentiality"
+  definition: "A research condition in which no one except the researcher(s) knows the identities of the participants in a study. It refers to the treatment of information that a participant has disclosed to the researcher in a relationship of trust and with the expectation that it will not be revealed to others in ways that violate the original consent agreement, unless permission is granted by the participant."
   reference: https://libguides.usc.edu/writingguide/researchglossary
   
 - term: "Confirmability objectivity"
