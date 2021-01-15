@@ -68,4 +68,4 @@ tags:
 
 <h2 class="mt-5">Getting Started</h2>
 
-In this activity, you will look at a well-written academic paper from your {% include glossary-term.html term="discipline" termshown="discipline"%}, paying careful attention to the paper’s style and conventions. As you go along, fill out the style guide based on your findings, using the example answers to guide you. The activity might take about forty-five minutes to an hour to complete, but once you're finished with your guide, you can always come back to it for future class assignments and research papers. Click on the link above to get started!
+<p>In this activity, you will look at a well-written academic paper from your {% include glossary-term.html term="discipline" termshown="discipline,"%} paying careful attention to the paper’s style and conventions. As you go along, fill out the style guide based on your findings, using the example answers to guide you. The activity might take about forty-five minutes to an hour to complete, but once you're finished with your guide, you can always come back to it for future class assignments and research papers. Click on the link above to get started!</p>
