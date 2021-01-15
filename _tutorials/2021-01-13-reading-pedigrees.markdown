@@ -1,3 +1,4 @@
+---
 title:  "Reading Pedigrees"
 description: "An interactive tutorial on how to read and analyze pedigrees!"
 date:   2021-01-14
