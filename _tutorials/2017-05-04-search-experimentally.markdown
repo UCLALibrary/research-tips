@@ -27,7 +27,7 @@ tags:
 # image: featuredimagehere
 ---
 
-<p>Rather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for interdisciplinary perspectives on your topic by trying out your searches in more than one database.</p>
+<p>Rather than trying to construct one perfect search, plan on trying several experimental searches. As you search, seek out diverse  perspectives by using a variety of keywords. Look for {% include glossary-term.html term="Interdisciplinary research" termshown="interdisciplinary"%} perspectives on your topic by trying out your searches in more than one {% include glossary-term.html term="article database" termshown="database"%}.</p>
 
 
 ## Try a Search

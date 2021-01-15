@@ -55,7 +55,7 @@ tags:
 
 <h2 class="mt-3">Give it a try:</h2>
 
-<p >Visit your favorite database, or <a href="http://www.library.ucla.edu/#databases" target="_blank">www.library.ucla.edu/#databases</a>, and get searching! Use the tips you learned in the video to make sure that your search is neither too broad nor too narrow!</p>
+<p >Visit your favorite {% include glossary-term.html term="article database" termshown="database,"%} or <a href="http://www.library.ucla.edu/#databases" target="_blank">www.library.ucla.edu/#databases</a>, and get searching! Use the tips you learned in the video to make sure that your search is neither too broad nor too narrow!</p>
 <!-- include embed-and-share-buttons.html ? -->
 
 <h2>Tips:</h2>

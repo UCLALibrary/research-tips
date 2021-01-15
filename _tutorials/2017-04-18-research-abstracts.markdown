@@ -30,7 +30,7 @@ tags:
 - writing an abstract
 - academic conference
 ---
-<p>Are you applying to present your research project at a conference or submitting it for publication? If yes, you will most likely have to submit a research abstract. Here's a quick introduction that will teach you all about abstracts.</p>
+<p>Are you applying to present your research project at a conference or submitting it for publication? If yes, you will most likely have to submit a {% include glossary-term.html term="abstract" termshown="research abstract."%} Here's a quick introduction that will teach you all about abstracts.</p>
 
 <!-- todo:: this likely needs to be reworked into an accessible format. consider adapting to h5p for improved accessibility -->
 <p > Navigate through the module below to learn...</p>

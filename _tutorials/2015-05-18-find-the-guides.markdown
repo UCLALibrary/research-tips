@@ -31,7 +31,7 @@ tags:
 # image: featuredimagehere
 ---
 
-<p>Google is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> can help you find the best databases and search tools for your topic, and help you more quickly find the information you need.</p>
+<p>Google is great, but for your research project, you're likely going to need more than even Google can provide. UCLA Library's <a href="http://guides.library.ucla.edu" target="_blank">research guides</a> can help you find the best {% include glossary-term.html term="article database" termshown="databases"%} and search tools for your topic, and help you more quickly find the information you need.</p>
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ilaW2DQekGA" allowfullscreen></iframe>
@@ -44,5 +44,5 @@ tags:
 ## Tips:
 
 <ul>
-    <li>Consider using more than one research guide to help you find interdisciplinary perspectives on your topic.</li>
+    <li>Consider using more than one research guide to help you find {% include glossary-term.html term="Interdisciplinary research" termshown="interdisciplinary"%} perspectives on your topic.</li>
 </ul>

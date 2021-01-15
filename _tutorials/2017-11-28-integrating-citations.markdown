@@ -146,7 +146,7 @@ tags:
 
 <h3>Heads Up:</h3>
 
-<p>How authors integrate sources into their writing varies from field to field. Make sure that you understand which citation style is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations, or try our <a href="https://uclalibrary.github.io/research-tips/reading-for-writing/" target="_blank">Reading for Writing</a> activity. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.
+<p>How authors integrate sources into their writing varies from field to field. Make sure that you understand which {% include glossary-term.html term="citation style" termshown="citation style"%} is most commonly used in your discipline! Are you writing for Geology or Microbiology, Musicology or History? Find a representative paper in your field and take a look at how the authors use and integrate citations, or try our <a href="https://uclalibrary.github.io/research-tips/reading-for-writing/" target="_blank">Reading for Writing</a> activity. For example, Humanities articles tend to use direct quotations to integrate their sources, whereas science-based academic papers do not.
 
 <h2>The examples in this guide come from:</h2>
 <p style="font-size: small;">Marcotullio, P. J., Hughes, S., Sarzynski, A., Pincetl, S., Sanchez Peña, L., Romero-Lankao, P., Runfola, D. and Seto, K. C. (2014), Urbanization and the carbon cycle: Contributions from social science. Earth's Future, 2: 496–514. doi:10.1002/2014EF000257</p>

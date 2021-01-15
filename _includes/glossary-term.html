@@ -2,6 +2,6 @@
 {% for entry in site.data.glossary %}
 {% capture termglossary %}{{ entry.term | downcase }}{% endcapture %}
 {% if termglossary == terminput %}
-<a href="#" data-toggle="popover" title="{{ entry.term }}" data-content="{{ entry.definition }}">{{ include.term }}</a>
+<a href="#" data-toggle="popover" title="{{ entry.term }}" data-content="{{ entry.definition }}">{% if include.termshown %}{{include.termshown}}{% else %}{{ include.term }}{% endif %}</a>
 {% endif %}
 {% endfor %}

@@ -33,7 +33,7 @@ tags:
 
 ### So what is an elevator speech?
 
-<p>In a research setting, an elevator speech introduces you as a researcher, your research questions, and the significance of your research. Because an elevator speech is short, typically 30 seconds to 2 minutes, it is a great way to introduce and share your research with others at formal networking events, conferences, casual conversations, or even during an actual elevator ride.</p>
+<p>In a research setting, an elevator speech introduces you as a researcher, your research questions, and the significance of your research. Because an elevator speech is short, typically 30 seconds to 2 minutes, it is a great way to introduce and share your research with others at formal networking events, {% include glossary-term.html term="academic conference" termshown="academic conferences," %} casual conversations, or even during an actual elevator ride.</p>
 
 <p>Ultimately, your elevator speech should provide a 'hook' and make your listener want to know more about your research! </p>
 
@@ -111,7 +111,7 @@ tags:
 <p>And lastly, be <b><i> enthusiastic. </i></b> Recall what first sparked your interest in your research and be sure to convey that to your audience. </p>
 
 <h3>What's the difference between an elevator speech and an abstract?</h3>
-<p>Although both serve to present your research and its significance in a concise manner, elevator speeches and abstracts differ in format and purpose. </p>
+<p>Although both serve to present your research and its significance in a concise manner, elevator speeches and {% include glossary-term.html term="abstract" termshown="abstracts"%} differ in format and purpose. </p>
 
 <table class="table table-bordered">
   <thead>

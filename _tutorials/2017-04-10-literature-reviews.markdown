@@ -42,7 +42,7 @@ featured: yes
 ---
 <h2>Overview</h2>
 <!-- <p >Literature reviews are great resources for research projects in all disciplines. Not only do they present the key ideas in a field and point to must-read articles, but they also suggest directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review - covering everything from your role as the author of a literature review to organizational approaches and writing strategies.</p> <BR> <p> This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. </p> -->
-<p >Literature reviews are great resources for research projects in all disciplines, presenting the key ideas in a field, pointing to must-read articles, and sugesting directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review.</p>
+<p>{% include glossary-term.html term="literature review" termshown="Literature reviews" %} are great resources for research projects in all disciplines, presenting the key ideas in a field, pointing to must-read articles, and sugesting directions for future research. How do you go about writing one, though? This page is a collection of resources and tips for creating your own literature review.</p>
 <p> This first video takes you on an outer space journey with different disciplines at UCLA, introducing how to create a literature review and what you can do with it when it’s done. </p>
 
 <div class="embed-responsive embed-responsive-16by9">

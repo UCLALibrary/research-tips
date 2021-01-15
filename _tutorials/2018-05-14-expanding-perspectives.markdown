@@ -53,6 +53,6 @@ tags:
 <h2 class="mt-3">Next steps</h2> 
 
 <p> Once you have chosen a few areas to actively expand your perspective, you will need to make important decions about what to include and exclude from your search.<p>
-<p> Be sure to refer to your assignment guidelines as to what types of sources are appropriate and how much evidence you are expected to provide. If you are not working inside an assignment for a class, try looking at a few articles in your discipline to see what types of sources they include and what the conventions of the field are!</p> 
+<p> Be sure to refer to your assignment guidelines as to what types of sources are appropriate and how much evidence you are expected to provide. If you are not working inside an assignment for a class, try looking at a few articles in your {% include glossary-term.html term="discipline" termshown="discipline"%} to see what types of sources they include and what the conventions of the field are!</p> 
 <p> Good Luck! </p>
 
