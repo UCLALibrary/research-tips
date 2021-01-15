@@ -8,7 +8,7 @@ theme:  simple
 
 <!--<span><small><i>Note: This glossary is being continually updated with new content! If you would like to request a definition, use the form at the bottom of the page!</i></small></span>-->
 <div class="row">
-                    <div class="col-lg-12 col-md-12 mx-auto mb-5 mt-3">
+                    <div class="col-lg-12 col-md-12 mx-auto mb-4 mt-3">
                         <div class="input-group md-form form-sm form-1 pl-0 mb-0">
                           <div class="input-group-prepend">
                             <span class="input-group-text" style="background-color: #005587;" id="basic-text1"><i class="fas fa-search text-white" aria-hidden="true"></i></span>
