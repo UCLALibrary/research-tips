@@ -41,6 +41,7 @@ tags:
     - genetics
     - genes
     - autosomal
+    - x-linked
     - dominant
     - recessive
     - allele
