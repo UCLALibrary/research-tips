@@ -72,6 +72,12 @@
   reference: https://grad.ucla.edu/asis/agep/advcv.pdf
   example: !xml |
            <p class="mt-0 mb-0"><i>Check out this <b>CV</b> from Jen, a past member of the WI+RE team!</i> <a href="https://sites.google.com/g.ucla.edu/jennifer-pierre/cv" target="_blank">Link to Jen's CV</a></p>
+           
+- term: "Discipline"
+  definition: "Specific area of study; formally organized body of knowledge."
+  reference: http://catalog.kent.edu/glossary/glossary.pdf
+  example: !xml |
+           <p class="mt-0 mb-0">My <b>discipline</b> is comparative literature.</p>
   
 - term: "Dissertation"
   definition: "An extended usually written treatment of a subject - specifically one submitted for a doctorate."
@@ -193,7 +199,7 @@
   
 - term: "Research grant"
   definition: "Non-repayable funds or products disbursed or given by one party (grant makers), often a government department, corporation, foundation or trust, to a recipient, often (but not always) a nonprofit entity, educational institution, business or an individual."
-  reference:
+  reference: https://en.wikipedia.org/wiki/Grant_(money)
 
 - term: "Research poster"
   definition: "An organized, visual display of your research project. Typically, you present your poster in a poster session at a conference or seminar. Conference or seminar attendees will walk by your poster, study its contents, and ask you questions. You should be prepared to answer questions and to explain your project one-on-one frequently throughout the poster session."
