@@ -23,6 +23,7 @@ authors:
     - jake-arakawa
     - cymfenee-dean-phifer
     - sarah-phan
+    - xinjian-cen
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -110,6 +111,10 @@ in the family of things.
 >Success is the sum of small efforts, repeated day in and day out.
 >
 >_Robert Collier_
+
+>Our greatest glory is not in never falling, but in rising every time we fall.
+>
+>_Confucius (Kongzi)_
 
 ## Want to add your favorite quote to this page?
 
