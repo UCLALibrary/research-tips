@@ -17,3 +17,6 @@ tags:
 - research questions
 - brainstorming
 ---
+<p style="margin-bottom: 5 px;">
+  <a href="https://drive.google.com/file/d/1q7LI7jWQEka556M4hmYi-24zyV8Xuess/view?usp=sharing">Here is a link to an accessible version of this handout.</a>
+</p>

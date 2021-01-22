@@ -21,3 +21,6 @@ tags:
 - article
 - article search
 ---
+<p style="margin-bottom: 5 px;">
+  <a href="https://drive.google.com/file/d/1EYLd-inspQlx9wHNUG7HYErn_sGQDgWa/view?usp=sharing">Here is a link to an accessible version of this handout.</a>
+</p>

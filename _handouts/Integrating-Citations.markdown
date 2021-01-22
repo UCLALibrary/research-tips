@@ -22,3 +22,6 @@ tags:
 - bibliographies
 - writing
 ---
+<p style="margin-bottom: 5 px;">
+  <a href="https://drive.google.com/file/d/1t4yhkEXKRIJJ5dKdI_De4wy8aa3AafW5/view?usp=sharing">Here is a link to an accessible version of this handout.</a>
+</p>
