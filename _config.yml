@@ -19,9 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Quick and practical research and writing tutorials, collaboratively designed by students at UCLA.
 baseurl: "/research-tips" # the subpath of your site, e.g. /blog
 url: "https://uclalibrary.github.io/research-tips" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: WIREbruin
+twitter_username: UCLALibrary
 github_username:  uclalibrary/research-tips
-facebook_username: WIREbruin
+facebook_username: uclalibrary
 permalink: /:collection/:title/
 
 # Collections
