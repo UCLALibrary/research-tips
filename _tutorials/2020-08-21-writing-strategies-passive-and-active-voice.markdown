@@ -107,7 +107,7 @@ tags:
     - receiver
     - writing strategies
 ---
-<p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about passive and active voice with Jessica!</p>
+<p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips! Each video includes interactive questions to test your knowledge. In this video, learn all about passive and active voice with Jemma!</p>
 
 
 <h2>Passive and Active Voice <span style="font-weight:normal">with Jemma</span></h2>
