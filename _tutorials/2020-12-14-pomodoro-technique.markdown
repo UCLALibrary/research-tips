@@ -116,6 +116,6 @@ tags:
 ---
 As we shift towards remote learning and working from home, it is important to avoid burnout and stay on task! _Remote Study Strategies: The Pomodoro Technique_ is an interactive presentation that walks students through the Pomodoro Technique, a productivity strategy that is useful for studying. This tutorial gives background on the technique, and provides tips from our team that we find useful to enhance our work process. 
 
-**Note:** Throughout the tutorial, audio clips from WI+RE team members are avaliable to walk you through the slides and provide you with additional information. To play these clips, look for an audio button found in the slides. 
+**Note:** Throughout the tutorial, audio clips from WI+RE team members are available to walk you through the slides and provide you with additional information. To play these clips, look for an audio button found in the slides. 
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3408081" width="871" height="515" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
