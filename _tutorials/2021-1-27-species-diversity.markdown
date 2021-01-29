@@ -112,6 +112,6 @@ tags:
     - ecology
     - conservation 
 ---
-Biodiversity is a useful measure to help us understand the range of diverse communities that make up our ecosystems! _Calculating Species Diversity_ is an interactive tutorial that walks learners through the different types of species diversity and how to calculate them. Additionally, learners will gain an understanding on how human activites negatively impact biodiversity and how they can help alleivate the side effects of these actions.
+Biodiversity is a useful measure to help us understand the range of diverse species that make up our ecosystems! _Calculating Species Diversity_ is an interactive tutorial that walks learners through the different types of species diversity and how to calculate them. Additionally, learners will gain an understanding on how human activites negatively impact biodiversity and how they can help alleviate the side effects of these actions.
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3575151" width="913" height="438" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
