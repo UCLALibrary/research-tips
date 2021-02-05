@@ -20,6 +20,7 @@ thumbnail: /assets/tutorials/thumbnails/findingimages.png
 handout:
 handout-thumbail: 
 awards:
+    - merlot-5-star-editor-review
 category: Finding and Citing Sources
 sort-weight: 15
 # ######

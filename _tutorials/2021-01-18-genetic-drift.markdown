@@ -38,6 +38,7 @@ tags:
     - genetic drift
     - founder effect
     - bottleneck
+    - STEM
 ---
 Here is an interactive tutorial on how to differentiate between two modes of Genetic Drift! This tutorial was designed for anyone who needs some extra help on how to differentiate between how Founder Effect and Bottleneck take place, and ultimately result in Genetic Drift. I hope you enjoy and learn something new!
 

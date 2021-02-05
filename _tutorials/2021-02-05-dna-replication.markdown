@@ -3,22 +3,22 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Calculating Species Diversity"
+title:  "DNA Replication Mechanism"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Calculating Species Diversity is an interactive tutorial that walks learners through the different kinds of species diversity. This tutorial is designed to give learners an adequete background on the different types of species diversity and the factors that affect them!"
+description: "This interactive video will help you learn the different parts of the DNA replication mechanism!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2021-1-27
+date:   2021-02-05
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: 2021-1-27
+last-updated: 2021-02-05
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
@@ -29,19 +29,22 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - jake-arakawa
+    - sarah-phan
+    - DNA Learning Center
 contributors:
-    - renee-romero
-    - kian-ravaei
-    - kaitlin-alcontin
+    - jake-arakawa
     - cymfenee-dean-phifer
+    - kian-ravaei
+    - renee-romero
+    - doug-worsham
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
+    - DNA Learning Center
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/SpeciesDiversityThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/DNAReplicationMechanismThumbnail.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout:
@@ -70,10 +73,8 @@ sort-weight:
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Define the different types of biodiversity
-    - Calculate the alpha, beta, and gamma diversity of a model ecosystem
-    - Assess how human interactions can affect ecosystem biodiversity
-#
+    - List replisome components that act before, during, and after DNA replication.
+    - Identify the major modules of DNA polymerase III and their roles in replication  
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
 # Examples:
@@ -91,28 +92,25 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-  - { text: 'H5P Content Type - Interactive Book. Accessibility status - Tested with no known problems', date: '2021-1-27', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+  - { text: 'H5P Content Type - Interactive Video. Accessibility status - Tested with no known problems', date: '2021-02-05', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-- Evaluate and synthesize information and data
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
-- Information Has Value
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - biodiversity
-    - ecology
-    - conservation 
+    - DNA
+    - replication
+    - biology
     - STEM
 ---
-Biodiversity is a useful measure to help us understand the range of diverse species that make up our ecosystems! _Calculating Species Diversity_ is an interactive tutorial that walks learners through the different types of species diversity and how to calculate them. Additionally, learners will gain an understanding on how human activites negatively impact biodiversity and how they can help alleviate the side effects of these actions.
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3575151" width="913" height="438" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3392014" width="1368" height="831" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
