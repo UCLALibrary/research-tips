@@ -1,0 +1,45 @@
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="{{"/" | relative_url }}" aria-label="{{ site.title }} homepage">{{ site.title }}</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item"  href="{{"/about" | relative_url }}">About WI+RE</a>
+          <a class="dropdown-item" href="{{"/about/creative-team/" | relative_url }}">The WI+RE Team</a>
+          <a class="dropdown-item" href="{{"/sandbox/" | relative_url }}">WI+RE's Sandbox</a>
+          <a class="dropdown-item" href="{{"/about/design-toolkit/" | relative_url }}">WI+RE's Design Toolkit</a>
+          <a class="dropdown-item" href="{{"/wire-way/" | relative_url }}">The WI+RE Way</a>
+        </div>
+        </li>
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Tutorials
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item"  href="{{"/research/" | relative_url }}">Research</a>
+          <a class="dropdown-item" href="{{"/writing/" | relative_url }}">Writing</a>
+          <a class="dropdown-item" href="{{"/reading/" | relative_url }}">Reading</a>
+          <a class="dropdown-item" href="{{"/stem/" | relative_url }}">STEM</a>
+          <a class="dropdown-item" href="{{"/student-success/" | relative_url }}">Student Success</a>
+          <a class="dropdown-item" href="{{"/all-tutorials/" | relative_url }}">All Tutorials</a>
+        </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
+        </li>
+          <li class="nav-item">
+              <a class="nav-link" href="{{'search' | relative_url }}"><i class="fas fa-search" aria-label="Search"></i><span class="d-lg-none"> Search</span></a>
+          </li>
+      </ul>
+    </div>
+  </div>
+</nav>
