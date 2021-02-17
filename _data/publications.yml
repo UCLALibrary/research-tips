@@ -1,4 +1,17 @@
 twentytwenty:
+- title: "Three Interactive Workshops—October 2020 Site of the Month Interview"
+  authors: 
+    - kian-ravaei
+    - Jacy Black
+    - doug-worsham
+    - renee-romero
+  type: interview
+  date: 2020-10-08
+  year: 2020
+  place: ACRL Instruction Section Website
+  url: http://www.ala.org/acrl/aboutacrl/directoryofleadership/sections/is/isweb/primo_sotm_1020
+  fa-icon: fas fa-comments
+
 - title: "When you only have a week: Rapid-response, grassroots public services for access, wellness, and student success"
   authors:
     - Wynn Tranfield
@@ -47,6 +60,7 @@ twentytwenty:
   place: ACRL Instruction Section Website
   url: https://acrl.ala.org/IS/instruction-tools-resources-2/pedagogy/primo-peer-reviewed-instruction-materials-online/primo-site-of-the-month/may-2020-site-of-the-month/
   fa-icon: fas fa-comments
+  
 
 twentynineteen:
 - title: "Getting started with student-centered design"
