@@ -9,7 +9,7 @@ end-date:
 category: Creative Team
 bio: >- 
     Néha is a first year Neuroscience major who will be minoring in Spanish. She is passionate about making learning accessible and enjoyable for her fellow students.
-profile: /assets/images/team/your-photo.jpg
+profile: /assets/images/team/IMG_6542.jpg
 features:
     - feature-title: 
       feature-img: 
