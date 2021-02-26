@@ -24,6 +24,7 @@ authors:
     - cymfenee-dean-phifer
     - sarah-phan
     - xinjian-cen
+    - neha-gupta
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -115,6 +116,10 @@ in the family of things.
 >Our greatest glory is not in never falling, but in rising every time we fall.
 >
 >_Confucius (Kongzi)_
+
+>Even the genius asks questions.
+>
+>_Tupac Shakur_
 
 ## Want to add your favorite quote to this page?
 
