@@ -1,3 +1,4 @@
+---
 title:  "What is Hardy-Weinberg Equilibrium?"
 description: "An interactive tutorial on how to know when a population is in Hardy-Weinberg Equilibrium!"
 date:   2021-03-01
@@ -11,7 +12,7 @@ contributors:
     - kian-ravaei
     - jake-arakawa
     - chris-lopez
-thumbnail: /assets/tutorials/thumbnails/GeneticDriftThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/HWETutorial.png
 category: STEM Tutorials
 themes: stem, biology, Life Sciences, Hardy-Weinberg, Hardy-Weinberg Equilibrium, allele frequency, genotype frequency, evolution
 sort-weight: 4
