@@ -1,8 +1,8 @@
 ---
 title:  "Genetic Drift: Founder Effect vs. Bottleneck"
-description: "An interactive video on the two modes of Genetic Drift!"
+description: "An interactive tutorial on the two modes of Genetic Drift!"
 date:   2021-01-18
-last-updated: 2021-01-18
+last-updated: 2021-03-01
 featured: yes
 authors:
     - cymfenee-dean-phifer
