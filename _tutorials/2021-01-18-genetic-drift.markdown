@@ -11,6 +11,7 @@ contributors:
     - renee-romero
     - kian-ravaei
     - jake-arakawa
+    - xinjian-cen
 thumbnail: /assets/tutorials/thumbnails/GeneticDriftThumbnail.png
 category: STEM Tutorials
 themes: stem, biology, Life Sciences, genetics, genetic drift
