@@ -24,7 +24,7 @@ authors:
     - cymfenee-dean-phifer
     - sarah-phan
     - xinjian-cen
-    - neha-gupta
+    - néha-gupta
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
