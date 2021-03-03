@@ -25,6 +25,7 @@ authors:
     - sarah-phan
     - xinjian-cen
     - néha-gupta
+    - monique-tudon
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -120,6 +121,10 @@ in the family of things.
 >Even the genius asks questions.
 >
 >_Tupac Shakur_
+
+>Tell me and I forget, teach me and I may remember, involve me and I learn.
+>
+>_Benjamin Franklin_
 
 ## Want to add your favorite quote to this page?
 
