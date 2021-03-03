@@ -25,7 +25,7 @@ authors:
     - sarah-phan
     - xinjian-cen
     - néha-gupta
-    - monique-tudon
+    - Monique-Tudon
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
