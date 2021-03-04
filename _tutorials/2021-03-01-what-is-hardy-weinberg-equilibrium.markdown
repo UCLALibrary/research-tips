@@ -12,6 +12,7 @@ contributors:
     - kian-ravaei
     - jake-arakawa
     - chris-lopez
+    - xinjian-cen
 thumbnail: /assets/tutorials/thumbnails/HWETutorial.png
 category: STEM Tutorials
 themes: stem, biology, Life Sciences, Hardy-Weinberg, Hardy-Weinberg Equilibrium, allele frequency, genotype frequency, evolution
