@@ -3,7 +3,7 @@ title:  "Positionality & Research"
 date:   2020-03-19
 authors: 
     - chris-lopez
-    - kian-ravei
+    - kian-ravaei
     - renee-romero
     - Sylvia Page
 contributors:
