@@ -9,7 +9,7 @@ authors:
 contributors:
     - doug-worsham
     - salma-abumeeiz
-    - Center for the Advancement of Teaching
+    - UCLA Center for the Advancement of Teaching
     
 description: This resource introduces learners to the concept of positionality, explains how their positionality shapes their research process, and helps them identify ways to remain aware of their positionality.
 thumbnail: /assets/tutorials/thumbnails/Positionality.png
