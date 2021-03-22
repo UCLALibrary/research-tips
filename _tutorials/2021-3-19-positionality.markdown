@@ -43,6 +43,9 @@ tags:
     - identities
     - critical inquiry
     - positionality
+    - expanding perspectives
+    - search bias
+    - diverse perspectives
 ---
 Positionality in research refers to how our identities and experiences not only influence the choices we make in the research process but also how those factors shape the way others see us and give us power and/or insight in a specific research context. This dynamic of perception, experience, and power has a profound impact on us as we do research.  This resource introduces learners to the concept of positionality, explains how their positionality shapes their research process, and helps them identify ways to remain aware of their positionality.
 
