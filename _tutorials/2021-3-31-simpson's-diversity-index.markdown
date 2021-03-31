@@ -13,12 +13,12 @@ description: "Using Simpson's Diversity Index is an interactive tutorial that wa
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2021-3-30
+date:   2021-3-31
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: 2021-3-30
+last-updated: 2021-3-31
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
