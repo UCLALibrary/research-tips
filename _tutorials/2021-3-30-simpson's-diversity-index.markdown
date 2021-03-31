@@ -3,7 +3,7 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Using Simpsons Diversity Index"
+title:  "Using Simpson's Diversity Index"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
@@ -30,7 +30,7 @@ featured:
 #
 authors:
     - jake-arakawa
-contributors
+contributors:
     - kian-ravaei
     - cymfenee-dean-phifer
     - chris-lopez
