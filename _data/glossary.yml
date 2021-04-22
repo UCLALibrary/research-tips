@@ -23,6 +23,10 @@
   example: !xml |
            <p class="mt-0 mb-0">"I’m looking forward to presenting my work and hearing about the work of other researchers at the <a href="http://www.cur.org/what/events/students/ncur/2019/" target="_blank">National Conference for Undergraduate Research</a>, an <b>academic conference</b> about the improvement, management, and promotion of undergraduate research."</p>
   
+- term: "Action Research"
+  definition: "Action research conducted to solve problems, inform policy, or improve the way that issues are addressed and problems solved. There are two broad types of action research: participatory action research and practical action research."
+  reference: https://www.researchconnections.org/childcare/research-glossary
+
 - term: "Appendix"
   definition: "Supplementary material usually attached at the end of a piece of writing."
   reference: https://www.merriam-webster.com/dictionary/appendix
@@ -33,6 +37,10 @@
   example: !xml |
            <p class="mt-0 mb-0">"The <a href="https://philpapers.org/" target="_blank">PhilPapers</a> <b>article database</b> is a great place to find academic articles about philosophy."</p>
   
+- term: "Bias"
+  definition: "Influences that distort the results of a research study."
+  reference: https://www.researchconnections.org/childcare/research-glossary
+
 - term: "Case study"
   definition: "The collection and presentation of detailed information about a particular participant or small group, frequently including data derived from the subjects themselves."
   reference: https://libguides.usc.edu/writingguide/researchglossary
@@ -74,7 +82,11 @@
 - term: "Contract course"
   definition: "Supervised individual research or investigation under guidance of faculty member, with a culminating paper or project."
   reference: https://www.registrar.ucla.edu/Registration-Classes/Enrollment Policies/Enrollment-Restrictions/Contract-Courses
-  
+
+- term: "Control Group"
+  definition: "In an experiment, the control group does not receive the intervention or treatment under investigation. This group may also be referred to as the comparison group."
+  reference: https://www.researchconnections.org/childcare/research-glossary
+
 - term: "Curriculum vitae"
   definition: "A curriculum vitae, also called a vita or CV, is similar to a résumé and provides key information about your skills, education, and experience to a potential employer. A CV is typically used to apply for academic and research positions and for some graduate programs. It is longer than a résumé and displays academic credentials and accomplishments in greater detail."
   reference: https://grad.ucla.edu/asis/agep/advcv.pdf
@@ -278,6 +290,10 @@
   reference: http://guides.library.cornell.edu/sources/tertiary
   example: !xml |
            <p class="mt-0 mb-0">"Examples of <b>tertiary sources</b> include textbooks and encyclopedias."</p>
+
+- term: "Theory"
+  definition: "A general explanation about a specific behavior or set of events that is based on known principles and serves to organize related events in a meaningful way. A theory is not as specific as a hypothesis."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
 
 - term: "Thesis"
   definition: "Declarative sentence that asserts the position a paper will be taking."
