@@ -1,5 +1,5 @@
 ---
-title:  "Exploring the CCLE Library Resource Tab"
+title:  "Exploring the CCLE Library Resources Menu"
 date:   2021-05-05
 authors: 
     - xinjian-cen
@@ -12,7 +12,7 @@ contributors:
     - jake-arakawa
     - cymfenee-dean-phifer
     
-description: Navigate your library resource menu on CCLE!
+description: Navigate your Library Resource Menu on CCLE!
 thumbnail: /assets/tutorials/thumbnails/CCLE_library_menu.png
 handout:
 handout-thumbail: 
@@ -44,6 +44,6 @@ tags:
     - library guide
     - course reserves
 ---
-This interactive tutorial is your introduction to the CCLE Library Resource Tab! It covers what each items are and their functions, as well as how to find research help from librarians.
+This interactive tutorial is your introduction to the CCLE Library Resource Menu! You’ll discover what each tab does, from accessing course reserves to finding research help from librarians and more!
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3885737" width="913" height="539" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
