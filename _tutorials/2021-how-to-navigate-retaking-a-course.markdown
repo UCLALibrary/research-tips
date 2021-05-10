@@ -101,6 +101,6 @@ tags:
     - emotional health
     - student success
 ---
-Here is an in-depth tutorial on how to navigate retaking a course. Whether you saw this coming or where completely blindsided, this tutorial can help you prepare in the meantime to come back stronger. I hope this tutorial can give you some clarity and comfort.
+Here is an in-depth tutorial on how to navigate retaking a course. Whether you saw this coming or were completely blindsided, this tutorial can help you prepare in the meantime to come back stronger. I hope this tutorial can give you some clarity and comfort.
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3831085" width="922" height="698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
