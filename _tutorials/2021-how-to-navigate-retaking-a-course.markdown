@@ -24,7 +24,7 @@ contributors:
     - xinjian-cen
     - Monique-Tudon
     - néha-gupta
-thumbnail: HowToNavigate.png
+thumbnail: /assets/tutorials/thumbnails/HowToNavigate.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 # handout: /assets/handouts/....pdf
