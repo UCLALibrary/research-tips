@@ -4,13 +4,13 @@ username: doug-worsham
 displayname: Doug Worsham
 firstname: Doug
 lastname:  Worsham
-position: Science Librarian & WI+RE Co-Founder
+position:  WI+RE Co-Founder and Digital Experience Manager at UCSD Library
 background: 
 start-date:
 end-date:
-category: Creative Team
+category: Alumni
 bio: >- 
-    Doug Worsham is a Science Librarian and a co-founder and community organizer for WI+RE. With a background in instructional design and student-centered pedagogy, Doug is passionately interested in how learners work together to build knowledge. 
+    Doug Worsham is a WI+RE co-founder, a former librarian at UCLA, and currently the Digital Experience Manager at UCSD Library. With a background in instructional design and student-centered pedagogy, he is passionately interested in how learners work together to build knowledge. 
 profile: /assets/images/team/doug.jpg
 features:
     - feature-title: "Build Something Toolkit"
