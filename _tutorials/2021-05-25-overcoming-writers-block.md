@@ -99,9 +99,9 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear' }
+   - {text: 'H5P Content Type - Branching Scenario. Accessible and maintained by H5P core development team', date: '2021-05-25', url: 'https://h5p.org/documentation/installation/content-type-accessibility'}
+    - { text: 'Accessible PDF Available', date: '2021-05-25', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+    
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
