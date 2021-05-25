@@ -114,6 +114,7 @@ layout: default
                 <div class="row">
 <!-- Publications and Presentations -->
                     <!-- Gather publication and presentation authors -->
+                        {% assign twentytwentyoneAuthors = site.data.publications.twentytwentyone | map: 'authors' | join: ", " %}
                         {% assign twentytwentyAuthors = site.data.publications.twentytwenty | map: 'authors'  | join: ', ' %}
                         {% assign twentynineteenAuthors = site.data.publications.twentynineteen | map: 'authors'  | join: ', ' %}
                         {% assign twentyeighteenAuthors = site.data.publications.twentyeighteen | map: 'authors'  | join: ', ' %}
@@ -121,13 +122,16 @@ layout: default
                         {% assign twentysixteenAuthors = site.data.publications.twentysixteen | map: 'authors'  | join: ', ' %}
                     <!-- end gather -->
                     <!-- check to see if current user is an author -->
-                        {% if twentytwentyAuthors contains page.username or twentynineteenAuthors contains page.username or twentyeighteenAuthors contains page.username or twentyseventeenAuthors contains page.username or twentysixteenAuthors contains page.username %}
+                        {% if twentytwentyoneAuthors contains page.username or twentytwentyAuthors contains page.username or twentynineteenAuthors contains page.username or twentyeighteenAuthors contains page.username or twentyseventeenAuthors contains page.username or twentysixteenAuthors contains page.username %}
                             {% assign isAnAuthor = true %}
                         {% endif %}
                     <!-- Create pub and pres list for authors -->
                     {% if isAnAuthor == true %}
                         <h3 class="mt-5">Publications &amp; Presentations</h3>
                         <ul class="fa-ul">
+                            {% for pub in site.data.publications.twentytwentyone %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
                             {% for pub in site.data.publications.twentytwenty %}
                                         {% include pub-list-item.html %}
                             {% endfor %}

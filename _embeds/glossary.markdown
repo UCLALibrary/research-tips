@@ -8,7 +8,7 @@ theme:  simple
 
 <!--<span><small><i>Note: This glossary is being continually updated with new content! If you would like to request a definition, use the form at the bottom of the page!</i></small></span>-->
 <div class="row">
-                    <div class="col-lg-12 col-md-12 mx-auto mb-4 mt-3">
+                    <div class="col-lg-12 col-md-12 mx-auto mb-5">
                         <div class="input-group md-form form-sm form-1 pl-0 mb-0">
                           <div class="input-group-prepend">
                             <span class="input-group-text" style="background-color: #005587;" id="basic-text1"><i class="fas fa-search text-white" aria-hidden="true"></i></span>
@@ -33,7 +33,35 @@ theme:  simple
             {% if entry.example %}
                 <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Example" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Example">Example</a>
               {% endif %}
+                  {% assign sorted_documents = site.documents | sort: "title" %}
+                  {% assign maxRelated = 6 %}
+                  {% assign minCommonTags =  1 %}
+                  {% assign maxRelatedCounter = 0 %}
+
+                  {% for item in sorted_documents %}
+
+                    {% assign sameTagCount = 0 %}
+                    {% assign commonTags = '' %}
+
+                    {% for tag in item.tags %}
+                      {% if item.url != page.url %}
+                        {% capture termdowncase %}{{ entry.term | downcase }}{% endcapture %}
+                        {% if tag contains entry.term or tag contains termdowncase %}
+                          {% assign sameTagCount = sameTagCount | plus: 1 %}
+                          {% capture tagmarkup %} <span class="badge badge-primary">{{ tag }}</span> {% endcapture %}
+                          {% assign commonTags = commonTags | append: tagmarkup %}
+                        {% endif %}
+                      {% endif %}
+                    {% endfor %}
+
+                    {% if sameTagCount >= minCommonTags %}
+                          {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                          {% if maxRelatedCounter >= maxRelated %}{% break %}{% endif %}
+                    {% endif %}
+                  {% endfor %}
+            {% if maxRelatedCounter != 0 %}
             <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Resources" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Resources">Related Resources</a>
+            {% endif %}
             {% if entry.reference %}
                 <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Reference" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Reference">Reference</a>
                {% endif %}
@@ -45,6 +73,10 @@ theme:  simple
             </div>
           </div>
             {% endif %}
+          
+
+
+          {% if maxRelatedCounter != 0 %}
           <div class="collapse float-right" id="{{ hrefname }}Resources" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3" style="width: 100%;">
 <!--              Resources-->
@@ -76,14 +108,12 @@ theme:  simple
           {% if maxRelatedCounter >= maxRelated %}{% break %}{% endif %}
     {% endif %}
   {% endfor %}
-  
+
 </ul>
-  {% if maxRelatedCounter == 0 %}
-    <i>Coming soon!</i>
-  {% endif %}
     </div>
             </div>
           </div>
+          {% endif %}
 {% if entry.reference %}
           <div class="collapse float-right" id="{{ hrefname }}Reference" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3">
@@ -100,5 +130,5 @@ theme:  simple
 </table>
 
 <center>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSe4ujpnDT3wpw4P1U5kk_iUukXdPgkRARR0n22BOxPI9cXg/viewform?embedded=true" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSe4ujpnDT3wpw4P1U5kk_iUukXdPgkRARR0n22BOxPI9cXg/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </center>

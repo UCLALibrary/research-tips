@@ -13,6 +13,7 @@ contributors:
     - jake-arakawa
     - chris-lopez
     - sarah-phan
+    - xinjian-cen
 references:
 thumbnail: /assets/tutorials/thumbnails/readingpedigreesthumbnail.png
 handout: 

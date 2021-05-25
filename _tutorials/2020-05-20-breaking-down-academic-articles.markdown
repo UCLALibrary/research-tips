@@ -14,6 +14,8 @@ description: Breaking Down Academic Articles is a webcomic tutorial that walks y
 thumbnail: /assets/tutorials/thumbnails/BreakingDownAcademicArticles.png
 handout:
 handout-thumbail: 
+awards:
+    - merlot-5-star-editor-review
 category: Reading Strategies
 sort-weight: 15
 # ######

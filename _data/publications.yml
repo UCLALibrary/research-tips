@@ -1,3 +1,28 @@
+twentytwentyone:
+- title: "Creative and Logical: 10 STEM Fields That Make the Best of Both Worlds"
+  authors: 
+    - Kassidy Zhang
+  type: interview
+  date: 2021-04-21
+  year: 2021
+  place: College Magazine
+  url: https://www.collegemagazine.com/creative-and-logical-10-stem-fields-that-make-the-best-of-both-worlds/
+  fa-icon: fas fa-comments
+
+- title: "Scenarios for Success: Building High-Impact Library Collaborations"
+  authors: 
+    - Gayle R. Schaub
+    - Hazel A. McClure
+    - doug-worsham
+    - Caitlin Richardson
+  type: Poster Presentation
+  date: 2021-02-11
+  year: 2021
+  place: AAC&U’s 2021 Virtual Conference on General Education, Pedagogy, and Assessment
+  url: https://www.eventscribe.com/2021/gepa/fsPopup.asp?Mode=posterinfo&PosterID=344787
+  fa-icon: fas fa-images
+
+
 twentytwenty:
 - title: "Three Interactive Workshops—October 2020 Site of the Month Interview"
   authors: 

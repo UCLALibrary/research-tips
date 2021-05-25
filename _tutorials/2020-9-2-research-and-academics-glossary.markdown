@@ -38,7 +38,35 @@ authors:
             {% if entry.example %}
                 <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Example" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Example">Example</a>
               {% endif %}
+                  {% assign sorted_documents = site.documents | sort: "title" %}
+                  {% assign maxRelated = 6 %}
+                  {% assign minCommonTags =  1 %}
+                  {% assign maxRelatedCounter = 0 %}
+
+                  {% for item in sorted_documents %}
+
+                    {% assign sameTagCount = 0 %}
+                    {% assign commonTags = '' %}
+
+                    {% for tag in item.tags %}
+                      {% if item.url != page.url %}
+                        {% capture termdowncase %}{{ entry.term | downcase }}{% endcapture %}
+                        {% if tag contains entry.term or tag contains termdowncase %}
+                          {% assign sameTagCount = sameTagCount | plus: 1 %}
+                          {% capture tagmarkup %} <span class="badge badge-primary">{{ tag }}</span> {% endcapture %}
+                          {% assign commonTags = commonTags | append: tagmarkup %}
+                        {% endif %}
+                      {% endif %}
+                    {% endfor %}
+
+                    {% if sameTagCount >= minCommonTags %}
+                          {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                          {% if maxRelatedCounter >= maxRelated %}{% break %}{% endif %}
+                    {% endif %}
+                  {% endfor %}
+            {% if maxRelatedCounter != 0 %}
             <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Resources" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Resources">Related Resources</a>
+            {% endif %}
             {% if entry.reference %}
                 <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Reference" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Reference">Reference</a>
                {% endif %}
@@ -50,6 +78,10 @@ authors:
             </div>
           </div>
             {% endif %}
+          
+
+
+          {% if maxRelatedCounter != 0 %}
           <div class="collapse float-right" id="{{ hrefname }}Resources" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3" style="width: 100%;">
 <!--              Resources-->
@@ -81,14 +113,12 @@ authors:
           {% if maxRelatedCounter >= maxRelated %}{% break %}{% endif %}
     {% endif %}
   {% endfor %}
-  
+
 </ul>
-  {% if maxRelatedCounter == 0 %}
-    <i>Coming soon!</i>
-  {% endif %}
     </div>
             </div>
           </div>
+          {% endif %}
 {% if entry.reference %}
           <div class="collapse float-right" id="{{ hrefname }}Reference" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3">

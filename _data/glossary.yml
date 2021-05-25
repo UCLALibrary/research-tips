@@ -23,6 +23,10 @@
   example: !xml |
            <p class="mt-0 mb-0">"I’m looking forward to presenting my work and hearing about the work of other researchers at the <a href="http://www.cur.org/what/events/students/ncur/2019/" target="_blank">National Conference for Undergraduate Research</a>, an <b>academic conference</b> about the improvement, management, and promotion of undergraduate research."</p>
   
+- term: "Action Research"
+  definition: "Action research conducted to solve problems, inform policy, or improve the way that issues are addressed and problems solved. There are two broad types of action research: participatory action research and practical action research."
+  reference: https://www.researchconnections.org/childcare/research-glossary
+
 - term: "Appendix"
   definition: "Supplementary material usually attached at the end of a piece of writing."
   reference: https://www.merriam-webster.com/dictionary/appendix
@@ -33,6 +37,10 @@
   example: !xml |
            <p class="mt-0 mb-0">"The <a href="https://philpapers.org/" target="_blank">PhilPapers</a> <b>article database</b> is a great place to find academic articles about philosophy."</p>
   
+- term: "Bias"
+  definition: "Influences that distort the results of a research study."
+  reference: https://www.researchconnections.org/childcare/research-glossary
+
 - term: "Case study"
   definition: "The collection and presentation of detailed information about a particular participant or small group, frequently including data derived from the subjects themselves."
   reference: https://libguides.usc.edu/writingguide/researchglossary
@@ -74,7 +82,11 @@
 - term: "Contract course"
   definition: "Supervised individual research or investigation under guidance of faculty member, with a culminating paper or project."
   reference: https://www.registrar.ucla.edu/Registration-Classes/Enrollment Policies/Enrollment-Restrictions/Contract-Courses
-  
+
+- term: "Control Group"
+  definition: "In an experiment, the control group does not receive the intervention or treatment under investigation. This group may also be referred to as the comparison group."
+  reference: https://www.researchconnections.org/childcare/research-glossary
+
 - term: "Curriculum vitae"
   definition: "A curriculum vitae, also called a vita or CV, is similar to a résumé and provides key information about your skills, education, and experience to a potential employer. A CV is typically used to apply for academic and research positions and for some graduate programs. It is longer than a résumé and displays academic credentials and accomplishments in greater detail."
   reference: https://grad.ucla.edu/asis/agep/advcv.pdf
@@ -96,6 +108,14 @@
 - term: "Double-blind review"
   definition: "A form of peer-review when both the reviewer and author identities are concealed from the reviewers, and vice versa, throughout the review process."
   reference: https://www.journals.elsevier.com/social-science-and-medicine/policies/double-blind-peer-reviewguidelines
+
+- term: "Empirical Research"
+  definition: "The process of developing systematized knowledge gained from observations that are formulated to support insights and generalizations about the phenomena being researched."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
+
+- term: "Ethnography"
+  definition: "A method to study groups and/or cultures over a period of time. The goal of this type of research is to comprehend the particular group/culture through immersion into the culture or group. Research is completed through various methods but, since the researcher is immersed within the group for an extended period of time, more detailed information is usually collected during the research."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
 
 - term: "Faculty-initiated project"
   definition: "Working on a faculty-initiated project gives you the chance to help a faculty member on a research project. A great resource for finding faculty-initiated projects is the Undergraduate Research Portal. In addition, you could ask your professors and TAs about available research opportunities."
@@ -135,6 +155,10 @@
   definition: "Intersectionality is an analytical framework for understanding how aspects of a person's social and political identities combine to create different modes of discrimination and privilege."
   reference: https://en.wikipedia.org/wiki/Intersectionality
 
+- term: "Life History"
+  definition: "A record of an event/events in a respondent's life told (written down, but increasingly audio or video recorded) by the respondent from his/her own perspective in his/her own words. A life history is different from a 'research story' in that it covers a longer time span, perhaps a complete life, or a significant period in a life."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
+
 - term: "Literature review"
   definition: "A literature review discusses published information in a particular subject area, and sometimes information in a particular subject area within a certain time period. It can be just a simple summary of the sources, but it usually has an organizational pattern and combines both summary and synthesis."
   reference: https://wp.ucla.edu/wp-content/uploads/2015/12/Writing-the-Literature-Review.pdf
@@ -144,6 +168,10 @@
 - term: "Margin of error"
   definition: "The permittable or acceptable deviation from the target or a specific value. The allowance for slight error or miscalculation or changing circumstances in a study."
   reference: https://libguides.usc.edu/writingguide/researchglossary 
+
+- term: "Meta-analysis"
+  definition: "An analysis combining the results of several studies that address a set of related hypotheses."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
   
 - term: "Methodology"
   definition: "Research methodology is the specific procedures or techniques used to identify, select, process, and analyze information about a topic. In a research paper, the methodology section allows the reader to critically evaluate a study’s overall validity and reliability. It answers two main questions - How was the data collected or generated? How was it analyzed?"
@@ -154,6 +182,14 @@
   reference: https://registrar.rice.edu/facstaff/glossary_academic_terms
   example: !xml |
            <p class="mt-0 mb-0">"My major is in Psychology and my <b>minor</b> is in Professional Writing." <a href="https://www.admission.ucla.edu/prospect/Majors/minor.htm" target="_blank">List of all minors at UCLA</a></p>
+
+- term: "Mixed methods"
+  definition: "The creation of a physical or computer analogy to understand a particular phenomenon. Modeling helps in estimating the relative magnitude of various factors involved in a phenomenon. A successful model can be shown to account for unexpected behavior that has been observed, to predict certain behaviors, which can then be tested experimentally, and to demonstrate that a given theory cannot account for certain phenomenon."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
+
+- term: "Modeling"
+  definition: "A research approach that uses two or more methods from both the quantitative and qualitative research categories. It is also referred to as blended methods, combined methods, or methodological triangulation."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
   
 - term: "Oral presentation"
   definition: "A short talk on one’s research (or that of a research team), most often for the purposes of sharing findings and receiving feedback from peers and colleagues during an academic conference or symposium."
@@ -214,6 +250,10 @@
   reference: https://www.library.ucla.edu/poster-guidelines
   example: !xml |
            <p class="mt-0 mb-0"><a href="https://ugs.utexas.edu/our/poster/samples" target="_blank"><i>Check out these helpful examples of undergraduate research posters from UT Austin!</i></a></p>
+
+- term: "Sample"
+  definition: "The population researched in a particular study. Usually, attempts are made to select a 'sample population' that is considered representative of groups of people to whom results will be generalized or transferred. In studies that use inferential statistics to analyze results or which are designed to be generalizable, sample size is critical, generally the larger the number in the sample, the higher the likelihood of a representative distribution of the population."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
   
 - term: "Secondary sources"
   definition: "Sources that were created later by someone who did not experience first-hand or participate in the events or conditions you're researching. A secondary source interprets and analyzes primary sources."
@@ -250,6 +290,10 @@
   reference: http://guides.library.cornell.edu/sources/tertiary
   example: !xml |
            <p class="mt-0 mb-0">"Examples of <b>tertiary sources</b> include textbooks and encyclopedias."</p>
+
+- term: "Theory"
+  definition: "A general explanation about a specific behavior or set of events that is based on known principles and serves to organize related events in a meaningful way. A theory is not as specific as a hypothesis."
+  reference: https://libguides.usc.edu/writingguide/researchglossary
 
 - term: "Thesis"
   definition: "Declarative sentence that asserts the position a paper will be taking."
