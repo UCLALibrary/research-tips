@@ -3,17 +3,17 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "The Title of the Resource"
+title:  "Overcoming Writer's Block"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "A short and snappy description referencing the learning outcome and/or breakthrough!"
+description: "Feeling stuck in your writing process? In this choose-your-own-adventure tutorial, you'll learn how to identify types of writer's block and discuss strategies for each so you can get back in your writing groove."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   YYYY-MM-DD
+date:   2021-05-25
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
@@ -23,28 +23,35 @@ last-updated: YYYY-MM-DD
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
 #
-featured: 
+featured: yes
 #
 # AUTHORS AND CONTRIBUTORS
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - firstname-lastname
-    - Firstname Lastname
+    - néha-gupta
+ 
 contributors:
-    - firstname-lastname
-    - Firstname Lastname
+    - kian-ravaei
+    - cymfenee-dean-phifer
+    - jake-arakawa
+    - chris-lopez
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
-    - name, organization, or citation
+    - Purdue Online Writing Lab
+    - "The Three Tpes of Writer's Block & How to Combat Them." _Youtube_, uploaded by Reedsy, 11 Aug. 2020, https://www.youtube.com/watch?v=kveXQz5S_0w
+    - “Battle Strategies for Writer’s Block.” Backpack | College of Liberal Arts, 5 Nov. 2019, https://cla.umn.edu/backpack/news-events/blog/battle-strategies-writer-s-block.
+    - Review: Prewriting Prevents Writer’s Block | Introduction to College Writing. https://courses.lumenlearning.com/everettcc-introcollegewriting-10wk/chapter/sample-assignment-my-writing-process-prewriting-and-draft/. Accessed 25 May 2021.
+
+
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/....png
+thumbnail: /assets/tutorials/thumbnails/Resourceful-Writer.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
-handout: /assets/handouts/....pdf
+handout: /assets/handouts/Overcoming-Writers-Block-handout.pdf
 #
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
@@ -57,8 +64,8 @@ handout: /assets/handouts/....pdf
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: 
-themes: 
+category: Student Success
+themes: writing, grades, research, academics
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
@@ -70,10 +77,10 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
-    - starting with verbs
+    - Identify writer's block and explain the different ways one might experience it
+    - Discuss various strategies for overcoming writer's block
+    - Assess your own writing situation and employ the most relevant strategy/solution
+    
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -121,9 +128,13 @@ acrl-frames:
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
-#
 tags:
-    - tag 1
-    - tag 2
+    - writer's block
+    - writing
+    - academic paper
+    - essay
+    - creativity
+    - research
+    
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3851966" width="1077" height="745" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
