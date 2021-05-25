@@ -17,7 +17,7 @@ featured:
 authors:
     - cymfenee-dean-phifer
 contributors:
-    - renee-romera
+    - renee-romero
     - kian-ravaei
     - jake-arakawa
     - chris-lopez
