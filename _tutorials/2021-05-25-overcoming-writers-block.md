@@ -18,7 +18,7 @@ date:   2021-05-25
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: YYYY-MM-DD
+last-updated: 
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
