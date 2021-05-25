@@ -23,7 +23,7 @@ last-updated: YYYY-MM-DD
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
 #
-featured: yes
+featured: 
 #
 # AUTHORS AND CONTRIBUTORS
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
@@ -33,8 +33,10 @@ authors:
  
 contributors:
     - kian-ravaei
+    - renee-romero
     - cymfenee-dean-phifer
     - jake-arakawa
+    - monique-tudon
     - chris-lopez
 # References and Attribution
 # include a list of referenced work, if necessary
@@ -71,7 +73,7 @@ themes: writing, grades, research, academics
 # not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight: ##
+sort-weight: 01
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
@@ -137,4 +139,4 @@ tags:
     - research
     
 ---
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3851966" width="1077" height="745" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3851966" width="636" height="356" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
