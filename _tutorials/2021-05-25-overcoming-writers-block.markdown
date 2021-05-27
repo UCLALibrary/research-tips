@@ -30,7 +30,6 @@ featured:
 #
 authors:
     - néha-gupta
- 
 contributors:
     - kian-ravaei
     - renee-romero
@@ -45,8 +44,6 @@ references:
     - "The Three Tpes of Writer's Block & How to Combat Them." _Youtube_, uploaded by Reedsy, 11 Aug. 2020, https://www.youtube.com/watch?v=kveXQz5S_0w
     - “Battle Strategies for Writer’s Block.” Backpack | College of Liberal Arts, 5 Nov. 2019, https://cla.umn.edu/backpack/news-events/blog/battle-strategies-writer-s-block.
     - Review: Prewriting Prevents Writer’s Block | Introduction to College Writing. https://courses.lumenlearning.com/everettcc-introcollegewriting-10wk/chapter/sample-assignment-my-writing-process-prewriting-and-draft/. Accessed 25 May 2021.
-
-
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
@@ -82,7 +79,6 @@ learning-outcomes:
     - Identify writer's block and explain the different ways one might experience it
     - Discuss various strategies for overcoming writer's block
     - Assess your own writing situation and employ the most relevant strategy/solution
-    
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -102,8 +98,7 @@ learning-outcomes:
 #
 accessibility-info:
    - {text: 'H5P Content Type - Branching Scenario. Accessible and maintained by H5P core development team', date: '2021-05-25', url: 'https://h5p.org/documentation/installation/content-type-accessibility'}
-    - { text: 'Accessible PDF Available', date: '2021-05-25', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    
+    - { text: 'Accessible PDF Available', date: '2021-05-25', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }  
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
@@ -137,6 +132,5 @@ tags:
     - essay
     - creativity
     - research
-    
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3851966" width="636" height="356" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
