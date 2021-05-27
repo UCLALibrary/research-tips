@@ -13,7 +13,7 @@ description: "Feeling stuck in your writing process? In this choose-your-own-adv
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2021-05-25
+date:   2021-05-27
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
