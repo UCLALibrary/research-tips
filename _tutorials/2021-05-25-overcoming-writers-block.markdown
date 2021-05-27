@@ -39,11 +39,6 @@ contributors:
     - chris-lopez
 # References and Attribution
 # include a list of referenced work, if necessary
-references:
-    - Purdue Online Writing Lab
-    - "The Three Tpes of Writer's Block & How to Combat Them." _Youtube_, uploaded by Reedsy, 11 Aug. 2020, https://www.youtube.com/watch?v=kveXQz5S_0w
-    - “Battle Strategies for Writer’s Block.” Backpack | College of Liberal Arts, 5 Nov. 2019, https://cla.umn.edu/backpack/news-events/blog/battle-strategies-writer-s-block.
-    - Review: Prewriting Prevents Writer’s Block | Introduction to College Writing. https://courses.lumenlearning.com/everettcc-introcollegewriting-10wk/chapter/sample-assignment-my-writing-process-prewriting-and-draft/. Accessed 25 May 2021.
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
