@@ -73,7 +73,7 @@ themes: writing, grades, research, academics
 # not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight: 01
+sort-weight: 
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
