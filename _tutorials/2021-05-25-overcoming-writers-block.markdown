@@ -35,7 +35,7 @@ contributors:
     - renee-romero
     - cymfenee-dean-phifer
     - jake-arakawa
-    - monique-tudon
+    - Monique-Tudon
     - chris-lopez
 # References and Attribution
 # include a list of referenced work, if necessary
