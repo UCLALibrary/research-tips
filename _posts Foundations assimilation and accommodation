@@ -1,0 +1,62 @@
+---
+title: "Foundations in Learner-Centered Design - Assimilation and Accommodation"
+date: 2021-03-05 04:21:01 +0000
+category: Updates
+authors: 
+    - néha-gupta 
+accessibility-info:
+author: néha-gupta
+---
+
+Here are a few articles and videos about Assimilation and Accommodation that can be used in the Foundations tutorial in the future.
+
+
+<div class="card-deck">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title">The Assimilation vs Accommodation of Knowledge</h2>
+            <cite class="card-subtitle mb-2 text-muted">by Terry Heick</cite>
+            <div class="text-center pt-3">
+                 <a href="https://www.teachthought.com/learning/assimilation-vs-accommodation-of-knowledge/" class="btn btn-primary" target="_blank">The Assimilation vs Accommodation of Knowledge</a>
+            </div>
+            <p class="card-text">Terry Heick explains how students learn by filling and modifying "schemas," or knowledge bases, with new experiences and information they come across. Assimilation refers to the addition of new information to previous bases of knowledge, while accommodation refers to altering previous bases of knowledge to fit new information. Heick outlines the ways in which teachers can make classrooms schema-friendly so that students can direct their own learning experience.</p>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title">The Importance of Assimilation in Adaptation</h2>
+            <cite class="card-subtitle mb-2 text-muted">by Kendra Cherry</cite>
+            <div class="text-center pt-3">
+                 <a href="https://www.verywellmind.com/what-is-assimilation-2794821" class="btn btn-primary" target="_blank">The Importance of Assimilation in Adaptation</a>
+            </div>
+            <p class="card-text">This article illustrates Piaget's idea of assimilation and accommodation and relates this concept to equilibrium.</p>
+        </div>
+    </div>
+</div>
+
+<div class="card-deck mt-2">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title">Schemas, assimilation, and accommodation</h2>
+            <cite class="card-subtitle mb-2 text-muted">by Khan Academy</cite>
+            <div class="text-center pt-3">
+                 <a href="https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/schemas-assimilation-and-accommodation-2" class="btn btn-primary" target="_blank">20 Differentiated Instruction Strategies and Examples</a>
+            </div>
+            <p class="card-text">This clear video by Khan Academy contains a detailed explanation of what schemas are, and how they, along with assimilation and accommodation, allow us to organize new information.</p>
+        </div>
+    </div>
+</div>
+
+<div class="card-deck mt-2">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title">Quotes on Assimilation and Accommodation</h2>
+            <p class="card-text"> 
+                <blockquote>"Through assimilation, we take in new information or experiences and incorporate them into our existing ideas"<p>— Kendra Cherry, The Importance of Assimilation in Adaptation</p></blockquote>
+            </p>
+            <p class="card-text"> 
+                <blockquote>"Development moves along in a state of equilibrium as we assimilate new information that we come across. But every once in a while we run into something that throws part of our world view into disarray. And this disequilibrium is what drives our learning process because we accommodate as a way to restore equilibrium"<p>—Schemas, assimilation, and accommodation </p></blockquote>
+            </p>
+        </div>
+    </div>
+</div>
