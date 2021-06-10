@@ -8,7 +8,7 @@ title:  "Understanding Electron Configurations"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Understanding Electron Configurations is an interactive tutorial designed to give learners an adequete background on orbitals and electron configurations in Chemistry.
+description: "Understanding Electron Configurations is an interactive tutorial designed to give learners an adequete background on orbitals and electron configurations in Chemistry."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
