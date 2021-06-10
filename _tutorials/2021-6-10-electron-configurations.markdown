@@ -41,7 +41,7 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/simpsonsthumbnail.png
+thumbnail: /assets/tutorials/thumbnails/orbitalsthumbnail.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout:
@@ -113,4 +113,4 @@ tags:
 ---
 Atoms make up everything around us, and orbitals and electron configurations help us understand how they operate! _Understanding Electron Configurations_ is an interactive tutorial that walks learners through understanding what an orbital represents, and how we can use electron configurations to visualize the placement of electrons around an atom. These concepts are important to help learners visualize the relationship between electrons and the elements they are apart of!
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3662810" width="1022" height="691" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3888628" width="994" height="698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
