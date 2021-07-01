@@ -3,22 +3,22 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Remote Study Strategies: The Pomodoro Technique"
+title:  "Setting Academic Goals"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Remote Study Strategies: The Pomodoro Technique is an interactive tutorial that walks learners through the Pomodoro Technique, a productivity strategy that is useful for studying! This tutorial goes over the methodology of the Pomodoro Technique, and includes tips from our team to help optimize your studying experience!"
+description: "Set achievable academic goals with SMART and WI+RE's goal organizer!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2020-12-14
+date:   2021-06-28
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: 2020-12-14
+last-updated:
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
@@ -29,21 +29,22 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - jake-arakawa
-contributors:
-    - chris-lopez
+    - giselle-burns
     - kian-ravaei
+    - xinyi-yan
+contributors:
+    - Janet Goins
+    - Kelly Kistner
     - doug-worsham
-    - cymfenee-dean-phifer
-    - sarah-phan
-    - néha-gupta
+    - CIMER (Center for the Improvement of Mentored Experiences in Research)
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
+    - CIMER (Center for the Improvement of Mentored Experiences in Research)
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/pomodorothumbnail.png
+thumbnail: /assets/tutorials/thumbnails/SettingAcademicGoalsThumbnail.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout:
@@ -66,16 +67,15 @@ themes:
 # not built yet - but hoping this will work soon - 2020-06-09
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
-sort-weight:
+sort-weight: 
 #
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Confidently complete work using the Pomodoro Technique
-    - Develop a personalized study plan that works for you
-    - Assess if the Pomodoro technique is right for you
-    - Adapt the Pomodoro Technique for your specific needs
+    - List the parts of a SMART goal
+    - Identify at least three personal long-term academic SMART goals
+    - Recognize the benefit of breaking down large goals into manageable tasks
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -94,29 +94,49 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-  - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: '2020-12-14', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+    - { text: 'H5P Content Type - Interactive Video. Accessibility status - Tested with no known problems', date: '2021-06-28', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+    - { text: 'WAVE tested - 0 errors', date: '2021-06-28', url: 'https://wave.webaim.org/' }
+    - { text: 'Closed Captioning Available' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-- Reflect on and refine the research process
+    - Define the goals, scope, and plan
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
-- Research as Inquiry
+#
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - productivity
-    - study strategies
-    - remote learning 
+    - Entering Research
 ---
-As we shift towards remote learning and working from home, it is important to avoid burnout and stay on task! _Remote Study Strategies: The Pomodoro Technique_ is an interactive presentation that walks students through the Pomodoro Technique, a productivity strategy that is useful for studying. This tutorial gives background on the technique, and provides tips from our team that we find useful to enhance our work process. 
 
-**Note:** Throughout the tutorial, audio clips from WI+RE team members are available to walk you through the slides and provide you with additional information. To play these clips, look for an audio button found in the slides. 
+<i class="text-muted">This tutorial is excerpted from the <a href="{{ '/workshops/your-research-plan/' | relative_url }}">Your Research Plan</a> workshop. Check out the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Entering Research Workshops</a> for more tips on getting started with research!</i>
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3408081" width="871" height="515" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+## SMART Goals
+
+SMART is an acronym to help you remember how to set achievable goals, whether they’re academic or non-academic. Watch this short interactive video and answer the questions for an overview of SMART goals!
+
+<iframe class="mb-5" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4021755" width="1522" height="918" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+## Breaking Down Your Goals
+
+Breaking down your goals into concrete steps can help make them seem less overwhelming.
+
+**Try using our <a href="https://docs.google.com/document/u/1/d/1ogWrZgBwgHkARD3njKXMSmkkb75GLkbYGz55NnH8xow/copy" target="_blank">Google Doc template</a> to help break down your goals into manageable tasks.** Then, set realistic deadlines for each step.
+
+Want some inspiration? <a href="https://docs.google.com/document/d/19W35zudAodQrx_McD6rhWgO7a_ZTq-wE8SeQDTcavHo/edit?usp=sharing" target="_blank">Take a look at our Goal Organizer example</a>.
+
+<img src="https://ccle.ucla.edu/pluginfile.php/3785932/mod_hvp/content/6021/images/file-5d72bd5191c04.png" alt="WI+RE goal organizer example" width="100%">
+
+Need to break down a research paper project into manageable tasks? <b>Try using our <a href="{{ '/research-planner/' | relative_url }}" target="_blank">Research Paper Planner</a></b>! Just enter your paper deadline, and the planner will take care of the rest.
+
+## Resources
+
+- <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}"><u>Entering Research Workshops</u></a>
+- <a href="{{ '/workshops/#cornerstone-research-workshops' | relative_url }}"><u>Cornerstone Research Workshops</u></a>

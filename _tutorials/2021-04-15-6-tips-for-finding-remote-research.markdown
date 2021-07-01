@@ -80,7 +80,7 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    -
+    - List six tips for finding remote research opportunities at UCLA
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!

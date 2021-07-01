@@ -148,7 +148,6 @@ The <a href="https://be.my.ucla.edu/urportal.aspx" target="_blank">UCLA Undergra
 
 <iframe class="mb-5" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4019120" width="1074" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
 ## What's next?
 
 Now that you know how to find research opportunities, **make a list of at least 5 potential mentors and/or research projects you would like to pursue**. Here are some things to consider!
