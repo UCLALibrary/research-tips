@@ -16,6 +16,8 @@ thumbnail: /assets/tutorials/thumbnails/Positionality.png
 handout:
 handout-thumbail: 
 category: Inclusive Research Strategies
+awards:
+    - merlot-5-star-editor-review
 sort-weight: 15
 # ######
 # ACCESSIBILITY INFO
