@@ -1,3 +1,4 @@
+---
 #
 # TITLE
 # Enter the title of the resource in quotes.
@@ -28,8 +29,9 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - kian-ravaei
     - kaitlin-alcontin
+    - kian-ravaei
+
 contributors:
     - neha-gupta
     - jake-arakawa
@@ -40,7 +42,7 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/SpeciesDiversityThumbnail.png
+thumbnail: /assets/tutorials/thumbnails/PrimarySourceAnalysisThumbnail.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout:
@@ -56,7 +58,7 @@ handout:
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: Getting Started
+category: Writing Strategies
 themes: 
 #
 # SORT WEIGHT
@@ -113,7 +115,8 @@ tags:
     - primary source
     - history research
     - archive
+    - primary sources
 ---
-Primary Source Analysis is an interactive tutorial that walks learners through a five step process of researching a primary source. Test your skills with example documents from UCLA Special Collections!
+_Primary Source Analysis_ is an interactive tutorial that walks learners through a five step process of researching a primary source. Test your skills with example documents from UCLA Special Collections!
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3962831" width="1020" height="599" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script> charset="UTF-8"></script>
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3962831" width="1020" height="599" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
