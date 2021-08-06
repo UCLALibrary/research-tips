@@ -33,7 +33,7 @@ authors:
     - kian-ravaei
 
 contributors:
-    - neha-gupta
+    - néha-gupta
     - jake-arakawa
     - hannah-sutherland
 # References and Attribution
