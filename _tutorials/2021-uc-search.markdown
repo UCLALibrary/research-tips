@@ -36,7 +36,7 @@ authors:
     - kian-ravaei
     - Renee Romero
     - hannah-sutherland
-    - monique-tudon
+    - Monique-Tudon
 
 contributors:
     - 
