@@ -63,7 +63,7 @@ handout:
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
 category: Finding and Citing Sources
-themes: 
+themes: Finding and Citing Sources
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
@@ -120,6 +120,6 @@ tags:
     - catalog
     - research
 ---
-"Libraries on all 10 University of California campuses are now connected through UC Library Search, a unified discovery and borrowing system. Watch this video to learn more about this new discovery tool!" 
+Libraries on all 10 University of California campuses are now connected through UC Library Search, a unified discovery and borrowing system. Watch this video to learn more about this new discovery tool!
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/3Yd7RUZjdHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
