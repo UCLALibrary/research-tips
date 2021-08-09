@@ -32,6 +32,7 @@ authors:
     - salma-abumeeiz
     - kaitlin-alcontin
     - xinjian-cen
+    - néha-gupta
     - Matt Johnson
     - chris-lopez
     - kian-ravaei
