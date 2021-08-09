@@ -99,7 +99,6 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-  - { text: 'H5P Content Type - Interactive Book. Accessibility status - Tested with no known problems', date: '2021-1-27', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
@@ -121,5 +120,6 @@ tags:
     - catalog
     - research
 ---
+"Libraries on all 10 University of California campuses are now connected through UC Library Search, a unified discovery and borrowing system. Watch this video to learn more about this new discovery tool!" 
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/3Yd7RUZjdHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
