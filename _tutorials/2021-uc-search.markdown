@@ -34,7 +34,7 @@ authors:
     - Matt Johnson
     - chris-lopez
     - kian-ravaei
-    - Renee Romero
+    - renee-romero
     - hannah-sutherland
     - Monique-Tudon
 
