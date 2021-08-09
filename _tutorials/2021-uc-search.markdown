@@ -30,14 +30,13 @@ featured:
 #
 authors:
     - kaitlin-alcontin
-    - kian-ravaei
-    - monique-tudon
     - xinjian-cen
+    - Matt Johnson
     - chris-lopez
+    - kian-ravaei
     - Renee Romero
     - hannah-sutherland
-    - Matt Johnson
-    
+    - monique-tudon
 
 contributors:
     - 
