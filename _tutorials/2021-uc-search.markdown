@@ -124,4 +124,6 @@ tags:
 ---
 Libraries on all 10 University of California campuses are now connected through UC Library Search, a unified discovery and borrowing system. Watch this video to learn more about this new discovery tool!
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/3Yd7RUZjdHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3Yd7RUZjdHs" frameborder="0" allowfullscreen></iframe>
+</div>
