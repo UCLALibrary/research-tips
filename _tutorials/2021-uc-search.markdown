@@ -3,7 +3,7 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "UC Library Search"
+title:  "Navigating UC Library Search"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
