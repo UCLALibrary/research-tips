@@ -23,7 +23,7 @@ authors:
 contributors:
     - Marian Gabra
     - kian-ravaei
-    - néha-gupta
+    - neha-gupta
     - renee-romero
     - salma-abumeeiz
     - kaitlin-alcontin

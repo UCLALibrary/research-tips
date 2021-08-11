@@ -33,7 +33,7 @@ authors:
 contributors:
     - kian-ravaei
     - cymfenee-dean-phifer
-    - néha-gupta
+    - neha-gupta
     - Monique-Tudon
 # References and Attribution
 # include a list of referenced work, if necessary
