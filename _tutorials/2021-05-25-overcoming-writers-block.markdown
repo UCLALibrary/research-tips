@@ -29,7 +29,7 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - néha-gupta
+    - neha-gupta
 contributors:
     - kian-ravaei
     - renee-romero

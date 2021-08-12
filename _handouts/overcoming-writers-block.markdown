@@ -2,7 +2,7 @@
 title:  "Overcoming Writer's Block"
 date: 2021-05-27
 authors:
-    - néha-gupta
+    - neha-gupta
 contributors:
     - jake-arakawa 
     - salma-abumeeiz 

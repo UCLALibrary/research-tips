@@ -23,7 +23,7 @@ contributors:
     - chris-lopez
     - xinjian-cen
     - Monique-Tudon
-    - néha-gupta
+    - neha-gupta
 thumbnail: /assets/tutorials/thumbnails/HowToNavigate.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!

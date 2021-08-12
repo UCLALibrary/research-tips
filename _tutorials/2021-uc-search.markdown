@@ -3,22 +3,22 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "Electron Configurations"
+title:  "Navigating UC Library Search"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Electron Configurations is an interactive tutorial designed to give learners an adequete background on orbitals and electron configurations in Chemistry."
+description: "Take a closer look at the new discover tool, UC Library Search!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2021-6-10
+date:   2021-8-09
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: 2021-6-10
+last-updated: 2021-8-09
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
@@ -29,19 +29,26 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - jake-arakawa
-contributors:
-    - kian-ravaei
-    - cymfenee-dean-phifer
+    - salma-abumeeiz
+    - kaitlin-alcontin
+    - xinjian-cen
     - neha-gupta
+    - Matt Johnson
+    - chris-lopez
+    - kian-ravaei
+    - renee-romero
+    - hannah-sutherland
     - Monique-Tudon
+
+contributors:
+    - 
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/orbitalsthumbnail.png
+thumbnail: /assets/tutorials/thumbnails/ucsearch.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout:
@@ -57,8 +64,8 @@ handout:
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: STEM Tutorials
-themes: 
+category: Finding and Citing Sources
+themes: Finding and Citing Sources
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
@@ -70,8 +77,12 @@ sort-weight:
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Articulate what orbitals are and what they mean
-    - Construct an electron configuration for an element 
+    - Articulate the resources and locations that the UC Library Search is capable of searching
+    - Identify the location of the UC Library Search bar
+    - Differentiate between the UC Library Search search scopes
+    - Identify the location of the search filters
+    - Identify the locations of Holding information, Interlibrary Loan, Permalink, Create Citation, and Subject Headings in the catalog record
+    - Identify the location of the 24/7 Ask a Librarian widget
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -90,27 +101,29 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-  - { text: 'H5P Content Type - Interactive Book. Accessibility status - Tested with no known problems', date: '2021-6-10', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-- Evaluate and synthesize information and data
+- Gather and organize information and data
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
-- Information Has Value
+- Searching as Strategic Exploration
+- Research as Inquiry 
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - chemistry
-    - orbitals
-    - electron configurations 
+    - UC Search
+    - catalog
+    - research
 ---
-Atoms make up everything around us, and orbitals and electron configurations help us understand how they operate! _Electron Configurations_ is an interactive tutorial that walks learners through understanding what an orbital represents, and how we can use electron configurations to visualize the placement of electrons around an atom. These concepts are important to help learners visualize the relationship between electrons and the elements they are apart of!
+Libraries on all 10 University of California campuses are now connected through UC Library Search, a unified discovery and borrowing system. Watch this video to learn more about this new discovery tool!
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3888628" width="1022" height="698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3Yd7RUZjdHs" frameborder="0" allowfullscreen></iframe>
+</div>

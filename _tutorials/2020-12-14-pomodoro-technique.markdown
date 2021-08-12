@@ -36,7 +36,7 @@ contributors:
     - doug-worsham
     - cymfenee-dean-phifer
     - sarah-phan
-    - néha-gupta
+    - neha-gupta
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
