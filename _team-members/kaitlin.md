@@ -8,7 +8,7 @@ start-date: 2020-07-06
 end-date:
 category: Creative Team
 bio: >- 
-   Kaitlin is an undergraduate Public Affairs major with minors in Environmental Systems and Society as well as Asian American studies. 
+   Kaitlin is a 4th year undergraduate Public Affairs major with minors in Environmental Systems and Society and Asian American studies. She is passionate about community engaged research and also works on UCLA Library social media. 
 profile: /assets/images/team/kaitlinpic.jpg
 
 features:
