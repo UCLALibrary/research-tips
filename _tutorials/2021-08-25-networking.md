@@ -191,7 +191,6 @@ People go to networking events with the express purpose of meeting new people an
 
 Ready to network? Click and hold anywhere on the image and drag your mouse (or use your arrow keys) to navigate around the panoramic scene. Click on the blue buttons for tips. We recommend clicking the full screen button in the top right for an immersive experience!
 
-
 <iframe class="mb-4" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4097105" width="622" height="375" frameborder="0" allowfullscreen="allowfullscreen" title="Networking Events"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 Image Credit: ESO (https://www.eso.org/public/images/ESO_Guesthouse_360_Marcio_Cabral_Chile_01-CC/)
