@@ -36,6 +36,7 @@ contributors:
     - neha-gupta
     - jake-arakawa
     - hannah-sutherland
+    - chris-lopez
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -90,9 +91,6 @@ learning-outcomes:
 # OPTIONS
 # Including text: '' is required
 # Optionally include a url and link-text
-#
-accessibility-info:
-  - { text: 'H5P Content Type - Interactive Book. Accessibility status - Tested with no known problems', date: '2021-1-27', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
