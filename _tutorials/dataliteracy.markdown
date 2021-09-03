@@ -36,15 +36,18 @@ sort-weight: ##
 learning-outcomes:
     - Explain how the definition of data is shaped by multiple factors in the data research process
     - Describe examples of data research across various disciplinary fields
-
+# ######
+# Accessibility info
+# ######
 accessibility-info:
     - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: '2021-08-26', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
     - { text: 'H5P Content Type - Interactive Room. Accessibility status - Tested with no known problems', date: '2021-08-26', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
-
+    
+# ACRL FRAMES
 core-competencies:
  - Evaluate and synthesize information and data.
  - Reflect on and refine the research process
-
+# UCLA Library Core Competencies
 acrl-frames:
  - Scholarship as Conversation
  - Research as Inquiry
@@ -54,6 +57,6 @@ tags:
     - data research
     - dataset
     - data science
-    ---
-
+    
+  ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3833277" width="1559" height="2193" frameborder="0" allowfullscreen="allowfullscreen" title="UCLA Library Data Literacy Series"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
