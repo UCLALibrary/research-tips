@@ -1,6 +1,6 @@
 ---
 title:  "Intro to Data Literacy"
-date:   2021-08-25
+date:   2021-09-03
 authors:
     - chris-lopez
     - Ashley Peterson
@@ -14,7 +14,6 @@ contributors:
     -néha-gupta
 
 description: "Understanding big data or engaging in data research can feel very intimidating, especially those who have never formally worked with data. You are not alone and just because you are new to data research doesn't mean you can't learn how to participate in it! This interactive webcomic marks the first of our WI+RE Data Literacy Suite. Intro to Data Literacy introduces learners to a variety of ways different academic disciplines conduct data research; it also helps data research beginners appreciate the contextual factors that shape the definition of data."
-
 thumbnail: /assets/tutorials/thumbnails/Dataliteracythumbnail.png
 handout:
 category: Data Literacy
@@ -27,8 +26,7 @@ learning-outcomes:
 # Accessibility info
 # ######
 accessibility-info:
-    - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: '2021-08-26', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
-    - { text: 'H5P Content Type - Interactive Room. Accessibility status - Tested with no known problems', date: '2021-08-26', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-09-03', url: 'https://wave.webaim.org/' }
  # ACRL FRAMES
 core-competencies:
  - Evaluate and synthesize information and data.
@@ -43,4 +41,6 @@ tags:
     - dataset
     - data science
   ---
+Understanding big data or engaging in data research can feel very intimidating, especially those who have never formally worked with data. You are not alone and just because you are new to data research doesn't mean you can't learn how to participate in it! This interactive webcomic marks the first of our WI+RE Data Literacy Suite. Intro to Data Literacy introduces learners to a variety of ways different academic disciplines conduct data research; it also helps data research beginners appreciate the contextual factors that shape the definition of data.
+
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3833277" width="1559" height="2193" frameborder="0" allowfullscreen="allowfullscreen" title="UCLA Library Data Literacy Series"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
