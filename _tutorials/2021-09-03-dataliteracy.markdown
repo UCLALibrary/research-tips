@@ -30,7 +30,7 @@ authors:
     - Leigh Phan
     - Monique-Tudon
 contributors:
-    - néha-gupta
+    - neha-gupta
     - Matthew Johnson
     - kaitlin-alcontin
     - kian-ravaei
