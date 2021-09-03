@@ -115,7 +115,7 @@ tags:
     - network
     - social media
 ---
-<div class="card shadow">
+<div class="card shadow-sm bg-light">
     <div class="card-body">
         <h2>Table of Contents</h2>
         <a href="#The-Where-Who-and-Why-of-Networking">The Where, Who, and Why of Networking</a><br>
@@ -135,7 +135,7 @@ People are always talking about how important it is to network. But what is netw
 
 Networking can be a lot of different things! Before we begin, it’s important to identify your goals for networking. Your goals could include any of the things below and more.
 
-<img src="{{ '/assets/images/whats-your-networking-goal.png/' | relative_url }}" alt="Networking goals infographic" class="img-fluid">
+<img src="{{ '/assets/images/whats-your-networking-goal.png' | relative_url }}" alt="Networking goals infographic" class="img-fluid">
 <a href="#img1" data-toggle="collapse">Image Description</a>
 <div id="img1" class="collapse">
     <p>What's Your Networking Goal?</p>
@@ -173,7 +173,7 @@ Networking can be a lot of different things! Before we begin, it’s important t
 
 Networking can seem like a big and overwhelming process, so here are 3 steps to help you break it down into smaller chunks. Just like a hike or excursion, networking is a journey. Don't stress about getting a certain amount of networking done in a specific amount of time, but look at it as an ongoing way of life that you keep adding to as time passes.
 
-<img src="{{ '/assets/images/3-steps-to-networking.png/' | relative_url }}" alt="3 Steps to Networking Infographic" class="img-fluid">
+<img src="{{ '/assets/images/3-steps-to-networking.png' | relative_url }}" alt="3 Steps to Networking Infographic" class="img-fluid">
 <a href="#img2" data-toggle="collapse">Image Description</a>
 <div id="img2" class="collapse">
     <p>3 Steps to Networking</p>
@@ -198,7 +198,7 @@ Ready to network? Click and hold anywhere on the image and drag your mouse (or u
 
 We sometimes tend to have a view of networking with us at the center of a linear map. If you really want to make the most of networking, start to see yourself as not only a match for others, but also a matchmaker. If you meet someone who seems like they would get along really well with someone else you know, introduce them to each other. In doing this, you build a more widespread network that helps everyone around you, and that may help you in the long run as well. The graphic below shows what this perspective shift looks like:
 
-<img src="{{ '/assets/images/matchmaker.png/' | relative_url }}" alt="Playing matchmaker infographic" class="img-fluid">
+<img src="{{ '/assets/images/matchmaker.png' | relative_url }}" alt="Playing matchmaker infographic" class="img-fluid">
 <a href="#img3" data-toggle="collapse">Image Description</a>
 <div id="img3" class="collapse">
     <p>When you consider connections from only your point of view, you miss an opportunity to truly expand your network by connecting others with each other and bringing more people together.</p>
@@ -210,7 +210,7 @@ We sometimes tend to have a view of networking with us at the center of a linear
 Here are some tips for talking to strangers! (And remember — all your best friends started as strangers.)
 
 
-<img src="{{ '/assets/images/conversing-with-strangers.png/' | relative_url }}" alt="Conversing with strangers infographic" class="img-fluid">
+<img src="{{ '/assets/images/conversing-with-strangers.png' | relative_url }}" alt="Conversing with strangers infographic" class="img-fluid">
 <a href="#img4" data-toggle="collapse">Image Description</a>
 <div id="img4" class="collapse">
     <p>The first word is a floodgate. The hardest thing is starting the conversation. After you make the first effort, it begins to flow.</p>
