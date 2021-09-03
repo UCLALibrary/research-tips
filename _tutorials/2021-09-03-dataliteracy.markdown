@@ -28,7 +28,7 @@ authors:
     - Ashley Peterson
     - Ibraheem Ali
     - Leigh Phan
-    - monique-tudon
+    - Monique-Tudon
 contributors:
     - néha-gupta
     - Matthew Johnson
