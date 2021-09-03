@@ -193,7 +193,7 @@ Ready to network? Click and hold anywhere on the image and drag your mouse (or u
 
 <iframe class="mb-4" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4097105" width="622" height="375" frameborder="0" allowfullscreen="allowfullscreen" title="Networking Events"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Image Credit: ESO (https://www.eso.org/public/images/ESO_Guesthouse_360_Marcio_Cabral_Chile_01-CC/)
+<Image Credit: ESO (https://www.eso.org/public/images/ESO_Guesthouse_360_Marcio_Cabral_Chile_01-CC/)>
 
 <h4 id="The-Benefits-of-Playing-Matchmaker">The Benefits of Playing Matchmaker</h4>
 
@@ -228,7 +228,7 @@ Try out these strategies by talking to some strangers! Click on the blue button 
 
 <iframe class="mb-4" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4047712" width="622" height="375" frameborder="0" allowfullscreen="allowfullscreen" title="Conversation Tips for Networking"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Image credit: ESO (https://www.eso.org/public/images/cafeteria-pano1/)
+<Image credit: ESO (https://www.eso.org/public/images/cafeteria-pano1/)>
 
 <h3 id="Network-Regularly">Network Regularly</h3>
 
@@ -236,7 +236,7 @@ You don't have to be at a networking event to network! You can have a conversati
 
 <iframe class="mb-4" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4096328" width="706" height="423" frameborder="0" allowfullscreen="allowfullscreen" title="Networking Regularly"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Image credit: ESO (https://www.eso.org/public/images/mg_3010_3053/)
+<Image credit: ESO (https://www.eso.org/public/images/mg_3010_3053/)>
 
 There are so many different places you can network. Here are a few ideas:
 
@@ -253,7 +253,7 @@ Click on the all the blue icons in the classroom below to learn about different 
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4067600" width="622" height="375" frameborder="0" allowfullscreen="allowfullscreen" title="Networking in Academic Settings"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Image credit: ESO (https://www.eso.org/public/images/2017_10_15_ABC_Building_Meeting_Room_360-CC/)
+<Image credit: ESO (https://www.eso.org/public/images/2017_10_15_ABC_Building_Meeting_Room_360-CC/)>
 
 <h3 id="Networking-on-the-Internet">Networking on the Internet</h3>
 
