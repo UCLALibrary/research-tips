@@ -193,6 +193,8 @@ Ready to network? Click and hold anywhere on the image and drag your mouse (or u
 
 <iframe class="mb-4" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4097105" width="622" height="375" frameborder="0" allowfullscreen="allowfullscreen" title="Networking Events"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+Image Credit: ESO (https://www.eso.org/public/images/ESO_Guesthouse_360_Marcio_Cabral_Chile_01-CC/)
+
 <h4 id="The-Benefits-of-Playing-Matchmaker">The Benefits of Playing Matchmaker</h4>
 
 We sometimes tend to have a view of networking with us at the center of a linear map. If you really want to make the most of networking, start to see yourself as not only a match for others, but also a matchmaker. If you meet someone who seems like they would get along really well with someone else you know, introduce them to each other. In doing this, you build a more widespread network that helps everyone around you, and that may help you in the long run as well. The graphic below shows what this perspective shift looks like:
@@ -225,11 +227,15 @@ Try out these strategies by talking to some strangers! Click on the blue button 
 
 <iframe class="mb-4" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4047712" width="622" height="375" frameborder="0" allowfullscreen="allowfullscreen" title="Conversation Tips for Networking"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+Image credit: ESO (https://www.eso.org/public/images/cafeteria-pano1/)
+
 <h3 id="Network-Regularly">Network Regularly</h3>
 
 You don't have to be at a networking event to network! You can have a conversation with anyone you meet in any context — you never know who might end up being a lifelong friend. Keep an open mind, and try the interactive room below for tips on networking regularly!
 
 <iframe class="mb-4" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4096328" width="706" height="423" frameborder="0" allowfullscreen="allowfullscreen" title="Networking Regularly"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+Image credit: ESO (https://www.eso.org/public/images/mg_3010_3053/)
 
 There are so many different places you can network. Here are a few ideas:
 
@@ -245,6 +251,8 @@ Every person in a university setting — including professors, teaching assistan
 Click on the all the blue icons in the classroom below to learn about different networking strategies!
 
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4067600" width="622" height="375" frameborder="0" allowfullscreen="allowfullscreen" title="Networking in Academic Settings"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+Image credit: ESO (https://www.eso.org/public/images/2017_10_15_ABC_Building_Meeting_Room_360-CC/)
 
 <h3 id="Networking-on-the-Internet">Networking on the Internet</h3>
 
