@@ -4,17 +4,17 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "The Title of the Resource"
+title:  "How to Write a Thesis Statement"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "A short and snappy description referencing the learning outcome and/or breakthrough!"
+description: "A straightforward and resourcefull tutorial on how to begin the process of writing a thesis statement for an essay. Learn what makes an effective thesis and the requisite steps on how to get there!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   YYYY-MM-DD
+date:   2015-09-16
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
@@ -30,11 +30,13 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - firstname-lastname
+    - Monique-Tudon
     - Firstname Lastname
 contributors:
-    - firstname-lastname
-    - Firstname Lastname
+    - Kian-Ravaei
+    - Neha-Gupta
+    -Chris-Lopez
+    -Renee-Romero
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
