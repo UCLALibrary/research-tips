@@ -16,7 +16,7 @@ description: "These handouts walk you through the most important featutes of the
 #
 handout-url: /assets/handouts/WIR_UC Library Search FAQ.pdf
 handout-url: /assets/handouts/WIR_UC Library Search Tutorial.pdf
-thumbnail: /assets/tutorials/thumbnails/WIR_UC Library Search Tutorial.png
+thumbnail: /assets/tutorials/thumbnails/WIR_UC Library Search Tutorial .png
 category: Finding and Citing Sources
 tags:
     - scholarly Sources
