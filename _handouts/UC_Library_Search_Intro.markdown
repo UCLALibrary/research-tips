@@ -10,7 +10,7 @@ contributors:
     - neha-gupta
     - chris-lopez
     - renee-romero
-description: "These handouts walk you through the most important featutes of the new discovery tool, UC Library!"
+description: "This handouts walks you through the most important featutes of the new discovery tool, UC Library!"
 # THUMBNAIL
 # Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/...
 #
