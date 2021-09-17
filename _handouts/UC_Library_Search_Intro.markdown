@@ -14,7 +14,7 @@ description: "This handouts walks you through the most important featutes of the
 # THUMBNAIL
 # Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/...
 #
-handout-url: /assets/handouts/WIR_UC Library Search Tutorial.pdf
+handout-url: /assets/handouts/WIR_UC Library Search Tutorial .pdf
 thumbnail: /assets/tutorials/thumbnails/WIR_UC Library Search Tutorial.png
 category: Finding and Citing Sources
 tags:
