@@ -14,7 +14,7 @@ description: "A straightforward and resourcefull tutorial on how to begin the pr
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2015-09-16
+date:   2015-09-22
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
@@ -31,12 +31,11 @@ featured:
 #
 authors:
     - Monique-Tudon
-    - Firstname Lastname
 contributors:
     - Kian-Ravaei
     - Neha-Gupta
-    -Chris-Lopez
-    -Renee-Romero
+    - Chris-Lopez
+    - Renee-Romero
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -73,15 +72,15 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
-    - starting with verbs
+    - identify the requisite steps to writing a thesis statement 
+    - recognize examples of effective and ineffective thesis statements
+    - identify the components of a well structured thesis statement 
+    - recognize that the thesis writing process is flexible, nonlinear, and susceptible to change 
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
 # Examples:
-# - { text: 'WAVE tested - 0 errors', date: '2020-05-22', url: 'https://wave.webaim.org/' }
+# - { text: 'WAVE tested - 0 errors', date: '2021-09-16', url: 'https://wave.webaim.org/' }
 # - { text: 'Closed Captioning Available' }
 # - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: 'YYYY-MM-DD', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 # - { text: 'Accessible PDF Available', link-text: 'Handout Title', url: 'full-url' }
@@ -126,7 +125,7 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - tag 1
-    - tag 2
+    - thesis statement
+    - essay
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3953053" width="1254" height="8999" frameborder="0" allowfullscreen="allowfullscreen" title="How to Write a Thesis Statement"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
