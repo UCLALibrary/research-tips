@@ -43,7 +43,8 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: How to Write a Thesis Thumbnail.png
+thumbnail: /assets/tutorials/thumbnails/How to Write a Thesis Thumbnail.png
+
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout: .pdf
