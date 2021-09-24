@@ -56,6 +56,8 @@ handout:
 #   - award-1
 #   - award-2
 #
+awards:
+    - merlot-5-star-editor-review
 # CATEGORY & THEMES
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
