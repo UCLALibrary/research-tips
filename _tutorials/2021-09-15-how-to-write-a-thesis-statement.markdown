@@ -1,4 +1,3 @@
-
 ---
 #
 # TITLE
@@ -27,10 +26,10 @@ last-updated:
 authors:
     - Monique-Tudon
 contributors:
-    - Kian-Ravaei
-    - Neha-Gupta
-    - Chris-Lopez
-    - Renee-Romero
+    - kian-ravaei
+    - neha-gupta
+    - chris-lopez
+    - renee-romero
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -111,5 +110,6 @@ acrl-frames:
 tags:
     - thesis statement
     - essay
+    - writing
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3953053" width="1254" height="8999" frameborder="0" allowfullscreen="allowfullscreen" title="How to Write a Thesis Statement"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
