@@ -6,13 +6,14 @@ firstname: Kian
 lastname: Ravaei
 position: Learner-Designer
 background: 
-start-date:   YYYY-MM-DD 
-end-date:
+start-date:   2018-04-02
+end-date: 2021-10-07
 category: Creative Team
 website: http://kianravaei.com/
+category: Alumni
 bio: >- 
-    Kian is an undergraduate Music Composition major. He strives to help learners achieve their learning goals through empathy, honesty, and purposeful design.
-profile: /assets/images/team/kian_headshot.jpg
+    Kian worked with WI+RE for over three years as an undergraduate Music Composition major at UCLA. He strives to help learners achieve their learning goals through empathy, honesty, and purposeful design.
+profile: /assets/images/team/kian.JPG
 features:
     - feature-title: "Wheel of Sources"
       feature-img: /assets/images/Wheel_of_Sources.png
