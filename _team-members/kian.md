@@ -6,7 +6,7 @@ firstname: Kian
 lastname: Ravaei
 position: Learner-Designer
 background: 
-start-date:   2018-04-02
+start-date: 2018-04-02
 end-date: 2021-10-07
 category: Creative Team
 website: http://kianravaei.com/
