@@ -1,5 +1,5 @@
 ---
-title:  "Pamela Rodriguez Cervantes"
+title:  "Pamela"
 username: pamela-rodriguez-cervantes
 displayname: Pamela Rodriguez Cervantes
 firstname: Pamela
