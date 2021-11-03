@@ -1,5 +1,5 @@
 ---
-title:  "Abigail Holder"
+title:  "Abigail"
 username: abigail-holder
 displayname: Abigail Holder
 firstname: Abigail
