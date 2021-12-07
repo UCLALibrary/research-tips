@@ -1,0 +1,291 @@
+---
+#
+# TITLE
+# Enter the title of the resource in quotes.
+#
+title:  "Understanding Misinformation: A Lesson Plan Toolkit"
+#
+# DESCRIPTION
+# Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
+#
+description: "The best way to understand and combat misinformation is to create a collaborative learning environment that gives participants opportunities to reflect, share, and explore together. Rather than provide a checklist or an authoritative overview our goal is to help you facilitate conversations within your community."
+#
+# PUBLICATION DATE
+# Enter the date that the resource was published.
+#
+date:   2021-12-06
+#
+# LAST UPDATED DATE
+# If you make updates, update the date here! Leave this blank if this is being published for the first time.
+#
+last-updated: 
+#
+# Featured: yes
+# make it possible to feature this, e.g., on the homepage
+#
+featured: 
+#
+# AUTHORS AND CONTRIBUTORS
+# For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
+#
+authors:
+    - Taylor Sieverling
+    - Max Grollman
+    - Ashley Peterson
+    - Alex Solodkaya
+    - chris-lopez
+# References and Attribution
+# include a list of referenced work, if necessary
+references:
+# THUMBNAIL
+# Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
+#
+thumbnail: /assets/tutorials/thumbnails/Misinfo.png
+# HANDOUT
+# If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
+handout:
+#
+# AWARDS
+# If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
+#
+# awards: 
+#   - award-1
+#   - award-2
+#
+# CATEGORY & THEMES
+# Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
+# Themes can be used to create thematic collections of resources, e.g., stem, etc.
+#
+#
+# SORT WEIGHT
+# not built yet - but hoping this will work soon - 2020-06-09
+# This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
+#
+sort-weight: ##
+#
+# LEARNING OUTCOMES
+# List all the learning outcomes for the resource.
+#
+learning-outcomes:
+    - Articulate the benefits of networking
+    - Identify effective strategies for networking in multiple contexts
+    - Identify strategies for maintaining connections with your network
+#
+# ACCESSIBILITY INFO
+# NOTE special formatting of the info in this section!!
+# Examples:
+# - { text: 'WAVE tested - 0 errors', date: '2020-05-22', url: 'https://wave.webaim.org/' }
+# - { text: 'Closed Captioning Available' }
+# - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: 'YYYY-MM-DD', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+# - { text: 'Accessible PDF Available', link-text: 'Handout Title', url: 'full-url' }
+#
+# FOR HANDOUT CONTENT TYPE
+# { text: 'PDF Accessibility checked with Adobe Acrobat', date: 'YYYY-MM-DD' }
+# { text: 'PDF Accessibility needs review', date: 'YYYY-MM-DD', link-text: 'Issue reported', url: 'link to issue' } 
+#
+# OPTIONS
+# Including text: '' is required
+# Optionally include a url and link-text
+#
+accessibility-info:
+    - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: '2021-12-06', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+
+#
+# CORE COMPETENCIES
+# List all core competencies for the resource.
+# See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
+core-competencies:
+- Investigate diverse sources and perspectives
+- Gather and organize information and data
+- Evaluate and synthesize information and data
+# ACRL Framework for information literacy
+# List related ACRL frames for the resource
+# See http://www.ala.org/acrl/standards/ilframework for more information
+acrl-frames:
+- Authority is Constructed
+- Information creation as a process
+- Research as Inquiry 
+# TAGS
+# List a few keywords related to the resource that will help users search for it.
+#
+tags:
+    - misinformation
+    - disinformation
+    - Critical-thinking
+    - systemic
+---
+<div class="card shadow-sm bg-light">
+    <div class="card-body">
+        <h2>Table of Contents</h2>
+        <p><a style="margin-left:40px; href="#Introduction-and-Instructions">Introduction and Instructions"</a></p><br>
+        <p><a style="margin-left:40px; href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation"</a></p><br>
+        <p><a style="margin-left:40px; href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation"</a></p><br>
+        <p><a style="margin-left:40px; href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation"</a></p><br>
+    </div>
+</div>
+
+<h2 id="Introduction-and-Instructions">Introduction and Instructions</h2>
+
+<h3>About the Toolkit</h3>
+
+<p>Misinformation is a systemic issue. Its causes are varied and complex, and its solutions will be just as messy. Ready to dive in with us?</p>
+
+<p>We, the creators of this resource, believe that the best way to understand and combat misinformation is to create a collaborative learning environment that gives participants opportunities to reflect, share, and explore together. Rather than provide a checklist (“Ten Easy Steps to End Misinformation!”) or an authoritative overview (“Here’s What’s REALLY Up With Conspiracy Theories”) our goal is to help you facilitate conversations within your community. We hope that your goals will be to enable a nuanced understanding of misinformation and enact creative solutions in response.</p>
+
+<h3>Who is the Toolkit for?</h3>
+
+<p>Anyone who wants to facilitate learning about misinformation, e.g. course instructors, library staff, or student staff.</p>
+
+<h3>How to use the Toolkit</h3>
+
+<p>This resource is divided into three learning outcomes:</p>
+<ul>
+  <li><strong>Identify the causes of misinformation</strong></li>
+<li><strong>Define information, misinformation, and disinformation</strong></li>
+<li><strong>Identify strategies for recognizing misinformation</strong></li>
+</ul>
+ 
+<p>For each outcome, we have provided a theoretical framework, learning activity examples, and resources for further exploration. The outcomes are designed to work individually, or in any combination or sequence that makes sense for your learning community. Any or all of the outcomes can form the basis of a standalone workshop or course about understanding misinformation, or be integrated into existing course curricula.</p> 
+
+<p>This toolkit is designed to be generative, and we hope it will serve as a launching point for adapting, revising, and creating your own learning outcomes.</p>
+
+
+<h2 id="Identify-the-causes-of-misinformation">Identify the causes of misinformation</h2>
+
+<h3>Theoretical Framework</h3>
+
+<p>The causes of misinformation extend beyond the individuals who create and disseminate it to encompass the entirety of our complex information ecosystem. In the learning activity below, we explore three aspects of this ecosystem and their contributions to the misinformation landscape: information overload, internet platform business models, and outdated internet literacy learning models. We encourage you and your learning community to explore other systemic causes of misinformation beyond what we present here.</p> 
+<hr>
+
+<h3>Example Learning Activity</h3>
+<ul>
+  <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6">Presentation slides</a></li>
+  <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy">Reflection prompt and learning assessment quiz</a></li>
+  </ul>
+  
+  <h3>Resources</h3>
+  
+ <ul>
+  <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296320307852">Fake news, social media and marketing: A systematic review</a></li>
+    <ul>
+      <li>From the Journal of Business Research, an overview and synthesis of 117 academic studies relating to misinformation on social networks.</li>
+    </ul>
+  <li> <a href="https://www.youtube.com/watch?v=r34aENF8vUY">The Social Dilemma – Bonus Clip: The Discrimination Dilemma</a></li>
+    <ul>
+      <li>A clip from the documentary The Social Dilemma (full film available on Netflix) that describes how algorithms and machine learning can perpetuate bias.   </li>
+    </ul>
+  <li> <a href="https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/">Information Overload Helps Fake News Spread, and Social Media Knows It</a></li>
+    <ul>
+       <li>From Scientific American, an article about the psychological underpinnings of misinformation-spreading behavior.</li>
+   </ul>
+  <li> <a href="https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/">Causes and consequences of mainstream media dissemination of fake news: literature review and synthesis</a></li>
+    <ul>
+       <li>From the Annals of the International Communication Association, a study exploring the role of mainstream news outlets in disseminating misinformation.</li>
+   </ul>
+  <li> <a href="https://purl.stanford.edu/mf412bt5333">Educating for Misunderstanding: How Approaches to Teaching Digital Literacy Make Students Susceptible to Scammers, Rogues, Bad Actors, and Hate Mongers</a></li>
+    <ul>
+      <li>From the Stanford History Education Group, a study of how outdated approaches to teaching internet literacy impact the online habits of 256 college undergraduates.</li>
+    </ul>
+ </ul>
+
+<h2 id="Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</h2>
+
+<h3>Example Learning Activities</h3>
+
+<ul>
+  <li>Defining Terms <a href="https://docs.google.com/presentation/d/1CjK_CrV2bqnj4eRFEJSvglYQASYbhlFpKbDM0KFFzM4/copy>Presentation Slides & Quiz Questions/Answers"</a> </li>
+  <ul>
+    <li> <a href="https://play.kahoot.it/v2/?quizId=d839ae13-b580-45cf-a6f8-e6481a146c73">Kahoot Quiz</a> (an example of how to present the quiz)</li>
+  </ul>
+  </ul>
+  
+  <h3>Resources</h3>
+  
+ <ul>
+  <li> <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve">Let’s flatten the infodemic curve</a></li>
+    <ul>
+      <li>Good step by step tutorial from the WHO about recognizing medical disinformation as well as an aesthetic infographic covering that same topic.</li>
+    </ul>
+  
+  <li> <a href="https://ca.pbslearningmedia.org/resource/4197f3a0-5b4a-432b-9dbe-e49aae81ba7b/lesson-plan-how-to-teach-your-students-about-fake-news/">PBS lesson plan for identifying misinformation</a></li>
+    <ul>
+      <li>Intended for middle and high school audiences. Provides relevant examples, thought-provoking questions, and linked resources.</li>
+    </ul>
+  
+  <li> <a href="https://educators4sc.org/topic-resources/teaching-about-fake-news/">Teaching About Fake News</a></li>
+    <ul>
+      <li>List of relevant resources and tutorials for identifying misinformation.</li>
+    </ul>
+    
+  <li> <a href="https://www.bookwidgets.com/blog/2019/01/fact-checking-and-fake-news-lesson-plans-the-ultimate-teacher-guide">Fact checking and fake news lesson plans - The ultimate teacher guide</a></li>
+    <ul>
+      <li>Teacher blog with useful tips for identifying “fake news.”</li>
+    </ul>
+  
+<li> <a href="https://guides.library.cornell.edu/evaluate_news/infographic">Fake News, Propaganda, and Disinformation: Learning to Critically Evaluate Media Sources</a></li>
+    <ul>
+      <li>Infographic on spotting fake news from the Cornell University Library.</li>
+    </ul>
+  </ul>
+  
+  <h2 id="Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</h2>
+
+<h3>Theoretical Framework</h3>
+
+<p>The amount of distorted information on internet platforms is overwhelming, and developing strategies to identify it is crucial to effective civic engagement. The learning activity below outlines those strategies and helps learners develop and practice them. 
+</p> 
+<hr>
+
+<h3>Example Learning Activity</h3>
+<ul>
+  <li>Recognizing Misinformation Group Exploration</li>
+  <ul>
+    <li><a href="https://docs.google.com/presentation/d/1Q2kNHOcMQPpcZnWRa0_Zo91xZwvmQuStJ9CmNVFEmvI/copy#slide=id.gb87d0164e3_0_112">Presentation slides</a> that set up the activity for learners</li>
+    <li>Identifying Causes <a href="activity instructions">Activity instructions</a> for learners</li>
+  </ul> 
+  </ul>
+  
+  <h3>Resources</h3>
+  
+ <ul>
+  <li> <a href="https://www.rand.org/pubs/research_reports/RR2314.html">Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life</a></li>
+    <ul>
+      <li>A report from the RAND Corporation that explores the systemic causes of misinformation.</li>
+    </ul>  
+      
+   <li> <a href="https://www.nature.com/articles/s41558-018-0368-6">Evidence-based strategies to combat scientific misinformation</a></li>
+    <ul>
+      <li>Focus on climate change misinformation.</li>   
+    </ul>
+      
+       <li> <a href="https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-11-12-november-5-2020/vaccine-misinformation-found-online.html">Fake news and science denier attacks on vaccines. What can you do?</a></li>
+    <ul>
+      <li>Analysis of 5 tactics commonly employed by science-based misinformation with a particular focus on COVID-19 vaccine denialism.</li>   
+    </ul>
+
+      <li> <a href="https://www.sciencedirect.com/science/article/pii/S0099133320301956">Librarians against fake news: A systematic literature review of Library practices (Jan. 2018-Sept.2019)</a></li>
+    <ul>
+      <li>Overview of general library practices with embedded publications focusing on particular skills, workshops, frameworks, programs, etc.</li>   
+    </ul>
+      
+      <li> <a href="https://www.journals.ala.org/index.php/ltr/issue/viewFile/662/423">Library Technology Reports: Combating Fake News in the Digital Age</a></li>
+    <ul>
+      <li>History of fake news and how it spreads, the role of technology, methods for individual recognition of misinformation, and strategies for instructors to teach students on how to identify misinformation.</li>
+    </ul> 
+  
+      <li> <a href="https://webliteracy.pressbooks.com/">Web Literacy for Student Fact Checkers</a></li>
+    <ul>
+      <li>Curriculum for evaluating web based content including social media. Includes a section on lateral reading.</li>   
+    </ul>
+  
+  <li> <a href="https://library.louisville.edu/citizen-literacy/lateral">Citizen Literacy - Lateral Reading</a></li>
+    <ul>
+      <li>Explanation of lateral reading strategies.</li>   
+    </ul>
+  
+  <li> <a href="https://thecrashcourse.com/courses/navigatingdigitalinfo">Crash Course - Navigating Digital Information
+</a></li>
+    <ul>
+      <li>ECrash Course series hosted by John Green explains how to navigate various aspects of digital information, including Social Media, Online Information, Lateral Reading, and Fact Checking in relatively brief 14 minute segments.</li>   
+    </ul>
+</ul>  
