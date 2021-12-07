@@ -116,10 +116,10 @@ tags:
 <div class="card shadow-sm bg-light">
     <div class="card-body">
         <h2>Table of Contents</h2>
-        <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions"</a> </p></strong>
-        <strong><p> <a href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation"</a> </p></strong>
-        <strong><p> <a href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation"</a> </p></strong>
-        <strong><p> <a href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation"</a> </p></strong>
+        <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
+        <strong><p> <a href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
+        <strong><p> <a href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
+        <strong><p> <a href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
     </div>
 </div>
 
