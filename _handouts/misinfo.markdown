@@ -90,8 +90,6 @@ learning-outcomes:
 #
 accessibility-info:
     - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: '2021-12-06', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
-
-#
 # CORE COMPETENCIES
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
@@ -118,10 +116,10 @@ tags:
 <div class="card shadow-sm bg-light">
     <div class="card-body">
         <h2>Table of Contents</h2>
-        <p><a style="margin-left:40px; href="#Introduction-and-Instructions">Introduction and Instructions"</a></p><br>
-        <p><a style="margin-left:40px; href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation"</a></p><br>
-        <p><a style="margin-left:40px; href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation"</a></p><br>
-        <p><a style="margin-left:40px; href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation"</a></p><br>
+        <p><a href="#Introduction-and-Instructions">Introduction and Instructions"</a></p>
+        <p><a href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation"</a></p>
+        <p><a href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation"</a></p>
+        <p><a href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation"</a></p>
     </div>
 </div>
 
