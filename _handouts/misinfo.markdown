@@ -41,7 +41,7 @@ references:
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
 thumbnail: /assets/tutorials/thumbnails/Misinfo.png
-category: Writing Strategies
+category: Lesson Plans
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout:
@@ -149,14 +149,13 @@ tags:
 <p>For each outcome, we have provided a theoretical framework, learning activity examples, and resources for further exploration. The outcomes are designed to work individually, or in any combination or sequence that makes sense for your learning community. Any or all of the outcomes can form the basis of a standalone workshop or course about understanding misinformation, or be integrated into existing course curricula.</p> 
 
 <p>This toolkit is designed to be generative, and we hope it will serve as a launching point for adapting, revising, and creating your own learning outcomes.</p>
-
+<hr>
 
 <h2 id="Identify-the-causes-of-misinformation">Identify the causes of misinformation</h2>
 
 <h3>Theoretical Framework</h3>
 
 <p>The causes of misinformation extend beyond the individuals who create and disseminate it to encompass the entirety of our complex information ecosystem. In the learning activity below, we explore three aspects of this ecosystem and their contributions to the misinformation landscape: information overload, internet platform business models, and outdated internet literacy learning models. We encourage you and your learning community to explore other systemic causes of misinformation beyond what we present here.</p> 
-<hr>
 
 <h3>Example Learning Activity</h3>
 <ul>
@@ -188,6 +187,7 @@ tags:
       <li>From the Stanford History Education Group, a study of how outdated approaches to teaching internet literacy impact the online habits of 256 college undergraduates.</li>
     </ul>
  </ul>
+ <hr>
 
 <h2 id="Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</h2>
 
@@ -228,6 +228,7 @@ tags:
       <li>Infographic on spotting fake news from the Cornell University Library.</li>
     </ul>
   </ul>
+  <hr>
   
   <h2 id="Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</h2>
 
@@ -235,7 +236,6 @@ tags:
 
 <p>The amount of distorted information on internet platforms is overwhelming, and developing strategies to identify it is crucial to effective civic engagement. The learning activity below outlines those strategies and helps learners develop and practice them. 
 </p> 
-<hr>
 
 <h3>Example Learning Activity</h3>
 <ul>
