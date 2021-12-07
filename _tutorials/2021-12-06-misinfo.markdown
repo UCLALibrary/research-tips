@@ -123,7 +123,11 @@ tags:
     </div>
 </div>
 
+<br>
+
 <h2 id="Introduction-and-Instructions">Introduction and Instructions</h2>
+
+<br>
 
 <h3>About the Toolkit</h3>
 
@@ -157,7 +161,7 @@ tags:
 
 <h3>Example Learning Activity</h3>
 <ul>
-  <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6">Presentation slides</a></li>
+  <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6"><u>Presentation slides</u></a></li>
   <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy">Reflection prompt and learning assessment quiz</a></li>
   </ul>
   
@@ -188,6 +192,10 @@ tags:
  <hr>
 
 <h2 id="Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</h2>
+
+<h3>Theoretical Framework</h3>
+
+<p>The language we use matters. The terms misinformation and disinformation are not always interchangeable and each come with their own set of implications about the intent of the sharer, the information’s level of veracity and factuality (or lack thereof), and the reliability of the source. The learning activity below helps learners define these terms and practice spotting examples.</p> 
 
 <h3>Example Learning Activities</h3>
 
