@@ -119,12 +119,12 @@ tags:
     
 ---
 <div class="card shadow-sm bg-light">
-    <div class="card-body">
+    <div "margin-left:40px"; class="card-body">
         <h2>Table of Contents</h2>
-        <strong><p> <a style="margin-left:40px;" href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
-        <strong><p> <a style="margin-left:40px;" href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
-        <strong><p> <a style="margin-left:40px;" href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
-        <strong><p> <a style="margin-left:40px;" href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
+        <strong><p> <a style="margin-left:40px"; href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
+        <strong><p> <a style="margin-left:40px"; href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
+        <strong><p> <a style="margin-left:40px"; href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
+        <strong><p> <a style="margin-left:40px"; href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
     </div>
 </div>
 
@@ -206,36 +206,36 @@ tags:
 <h3>Example Learning Activities</h3>
 
 <ul>
-  <li>Defining Terms <a href="https://docs.google.com/presentation/d/1CjK_CrV2bqnj4eRFEJSvglYQASYbhlFpKbDM0KFFzM4/copy">Presentation Slides & Quiz Questions/Answers</a> </li>
+  <li>Defining Terms <a href="https://docs.google.com/presentation/d/1CjK_CrV2bqnj4eRFEJSvglYQASYbhlFpKbDM0KFFzM4/copy"><u>Presentation Slides & Quiz Questions/Answers</u></a> </li>
   <ul>
-    <li> <a href="https://play.kahoot.it/v2/?quizId=d839ae13-b580-45cf-a6f8-e6481a146c73">Kahoot Quiz</a> (an example of how to present the quiz)</li>
+    <li> <a href="https://play.kahoot.it/v2/?quizId=d839ae13-b580-45cf-a6f8-e6481a146c73"><u>Kahoot Quiz</u></a> (an example of how to present the quiz)</li>
   </ul>
   </ul>
   
   <h3>Resources</h3>
   
  <ul>
-  <li> <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve">Let’s flatten the infodemic curve</a></li>
+  <li> <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve"><u>Let’s flatten the infodemic curve</a></u></li>
     <ul>
       <li>Good step by step tutorial from the WHO about recognizing medical disinformation as well as an aesthetic infographic covering that same topic.</li>
     </ul>
-  
-  <li> <a href="https://ca.pbslearningmedia.org/resource/4197f3a0-5b4a-432b-9dbe-e49aae81ba7b/lesson-plan-how-to-teach-your-students-about-fake-news/">PBS lesson plan for identifying misinformation</a></li>
+  <br>
+  <li> <a href="https://ca.pbslearningmedia.org/resource/4197f3a0-5b4a-432b-9dbe-e49aae81ba7b/lesson-plan-how-to-teach-your-students-about-fake-news/"<u>PBS lesson plan for identifying misinformation</u></a></li>
     <ul>
       <li>Intended for middle and high school audiences. Provides relevant examples, thought-provoking questions, and linked resources.</li>
     </ul>
-  
-  <li> <a href="https://educators4sc.org/topic-resources/teaching-about-fake-news/">Teaching About Fake News</a></li>
+  <br>
+  <li> <a href="https://educators4sc.org/topic-resources/teaching-about-fake-news/"><u>Teaching About Fake News</u></a></li>
     <ul>
       <li>List of relevant resources and tutorials for identifying misinformation.</li>
     </ul>
-    
-  <li> <a href="https://www.bookwidgets.com/blog/2019/01/fact-checking-and-fake-news-lesson-plans-the-ultimate-teacher-guide">Fact checking and fake news lesson plans - The ultimate teacher guide</a></li>
+    <br>
+  <li> <a href="https://www.bookwidgets.com/blog/2019/01/fact-checking-and-fake-news-lesson-plans-the-ultimate-teacher-guide"><u>Fact checking and fake news lesson plans - The ultimate teacher guide</u></a></li>
     <ul>
       <li>Teacher blog with useful tips for identifying “fake news.”</li>
     </ul>
-  
-<li> <a href="https://guides.library.cornell.edu/evaluate_news/infographic">Fake News, Propaganda, and Disinformation: Learning to Critically Evaluate Media Sources</a></li>
+  <br>
+<li> <a href="https://guides.library.cornell.edu/evaluate_news/infographic"><u>Fake News, Propaganda, and Disinformation: Learning to Critically Evaluate Media Sources</u></a></li>
     <ul>
       <li>Infographic on spotting fake news from the Cornell University Library.</li>
     </ul>
@@ -250,51 +250,51 @@ tags:
 <ul>
   <li>Recognizing Misinformation Group Exploration</li>
   <ul>
-    <li><a href="https://docs.google.com/presentation/d/1Q2kNHOcMQPpcZnWRa0_Zo91xZwvmQuStJ9CmNVFEmvI/copy#slide=id.gb87d0164e3_0_112">Presentation slides</a> that set up the activity for learners</li>
-    <li>Identifying Causes <a href="activity instructions">Activity instructions</a> for learners</li>
+    <li><a href="https://docs.google.com/presentation/d/1Q2kNHOcMQPpcZnWRa0_Zo91xZwvmQuStJ9CmNVFEmvI/copy#slide=id.gb87d0164e3_0_112"><u>Presentation slides</u></a> that set up the activity for learners</li>
+      <li>Identifying Causes <a href="activity instructions"><u>Activity instructions</u></a> for learners</li>
   </ul> 
   </ul>
   
   <h3>Resources</h3>
   
  <ul>
-  <li> <a href="https://www.rand.org/pubs/research_reports/RR2314.html">Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life</a></li>
+  <li> <a href="https://www.rand.org/pubs/research_reports/RR2314.html"><u>Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life</u></a></li>
     <ul>
       <li>A report from the RAND Corporation that explores the systemic causes of misinformation.</li>
     </ul>  
-      
-   <li> <a href="https://www.nature.com/articles/s41558-018-0368-6">Evidence-based strategies to combat scientific misinformation</a></li>
+      <br>
+   <li> <a href="https://www.nature.com/articles/s41558-018-0368-6"><u>Evidence-based strategies to combat scientific misinformation</u>/a></li>
     <ul>
       <li>Focus on climate change misinformation.</li>   
     </ul>
-      
-       <li> <a href="https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-11-12-november-5-2020/vaccine-misinformation-found-online.html">Fake news and science denier attacks on vaccines. What can you do?</a></li>
+    <br>
+       <li> <a href="https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-11-12-november-5-2020/vaccine-misinformation-found-online.html"><u>Fake news and science denier attacks on vaccines. What can you do?</u></a></li>
     <ul>
       <li>Analysis of 5 tactics commonly employed by science-based misinformation with a particular focus on COVID-19 vaccine denialism.</li>   
     </ul>
-
-      <li> <a href="https://www.sciencedirect.com/science/article/pii/S0099133320301956">Librarians against fake news: A systematic literature review of Library practices (Jan. 2018-Sept.2019)</a></li>
+    <br>
+      <li> <a href="https://www.sciencedirect.com/science/article/pii/S0099133320301956"><u>Librarians against fake news: A systematic literature review of Library practices (Jan. 2018-Sept.2019)</u></a></li>
     <ul>
       <li>Overview of general library practices with embedded publications focusing on particular skills, workshops, frameworks, programs, etc.</li>   
     </ul>
-      
-      <li> <a href="https://www.journals.ala.org/index.php/ltr/issue/viewFile/662/423">Library Technology Reports: Combating Fake News in the Digital Age</a></li>
+    <br>  
+      <li> <a href="https://www.journals.ala.org/index.php/ltr/issue/viewFile/662/423"><a>Library Technology Reports: Combating Fake News in the Digital Age</u></a></li>
     <ul>
       <li>History of fake news and how it spreads, the role of technology, methods for individual recognition of misinformation, and strategies for instructors to teach students on how to identify misinformation.</li>
     </ul> 
-  
-      <li> <a href="https://webliteracy.pressbooks.com/">Web Literacy for Student Fact Checkers</a></li>
+  <br>
+      <li> <a href="https://webliteracy.pressbooks.com/"><u>Web Literacy for Student Fact Checkers</u></a></li>
     <ul>
       <li>Curriculum for evaluating web based content including social media. Includes a section on lateral reading.</li>   
     </ul>
-  
-  <li> <a href="https://library.louisville.edu/citizen-literacy/lateral">Citizen Literacy - Lateral Reading</a></li>
+  <br>
+  <li> <a href="https://library.louisville.edu/citizen-literacy/lateral"><u>Citizen Literacy - Lateral Reading</u></a></li>
     <ul>
       <li>Explanation of lateral reading strategies.</li>   
     </ul>
-  
-  <li> <a href="https://thecrashcourse.com/courses/navigatingdigitalinfo">Crash Course - Navigating Digital Information
-</a></li>
+  <br>
+  <li> <a href="https://thecrashcourse.com/courses/navigatingdigitalinfo"><u>Crash Course - Navigating Digital Information
+     </u></a></li>
     <ul>
       <li>ECrash Course series hosted by John Green explains how to navigate various aspects of digital information, including Social Media, Online Information, Lateral Reading, and Fact Checking in relatively brief 14 minute segments.</li>   
     </ul>
