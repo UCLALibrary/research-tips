@@ -123,8 +123,8 @@ tags:
         <h2>Table of Contents</h2>
         <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
         <strong><p> <a href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
-        <strong><p> <a shref="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
-        <strong><p> <a shref="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
+        <strong><p> <a href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
+        <strong><p> <a href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
     </div>
 </div>
 
@@ -170,7 +170,7 @@ tags:
   </ul>
   <br>
  <h3>Resources</h3>
-  
+ <ul>
   <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296320307852"><u>Fake news, social media and marketing: A systematic review</u></a></li>
     <ul>
       <li>From the Journal of Business Research, an overview and synthesis of 117 academic studies relating to misinformation on social networks.</li>
