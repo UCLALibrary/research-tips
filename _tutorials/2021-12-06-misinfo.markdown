@@ -68,9 +68,9 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Articulate the benefits of networking
-    - Identify effective strategies for networking in multiple contexts
-    - Identify strategies for maintaining connections with your network
+    - Identify the causes of misinformation
+    - Define information, misinformation, and disinformation
+    - Identify strategies for recognizing misinformation
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
