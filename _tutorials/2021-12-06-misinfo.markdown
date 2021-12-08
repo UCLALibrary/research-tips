@@ -104,9 +104,9 @@ core-competencies:
 #
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
-- Authority is Constructed
+- Authority is constructed and contextual
 - Information creation as a process
-- Research as Inquiry 
+- Research as inquiry 
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
@@ -116,18 +116,19 @@ tags:
     - disinformation
     - Critical-thinking
     - systemic
+    
 ---
 <div class="card shadow-sm bg-light">
     <div class="card-body">
         <h2>Table of Contents</h2>
-        <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
-        <strong><p> <a href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
-        <strong><p> <a href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
-        <strong><p> <a href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
+        <strong><p> <a style="margin-left:40px;" href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
+        <strong><p> <a style="margin-left:40px;" href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
+        <strong><p> <a style="margin-left:40px;" href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
+        <strong><p> <a style="margin-left:40px;" href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
     </div>
 </div>
 
-<br>
+<hr>
 
 <h2 id="Introduction-and-Instructions">Introduction and Instructions</h2>
 
@@ -165,29 +166,33 @@ tags:
 <ul>
   <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6"><u>Presentation slides</u></a></li>
     <br>
-  <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy">Reflection prompt and learning assessment quiz</a></li>
+  <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy"><u>Reflection prompt and learning assessment quiz</a></u></li>
   </ul>
   
   <h3>Resources</h3>
   
  <ul>
-  <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296320307852">Fake news, social media and marketing: A systematic review</a></li>
+  <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296320307852"><u>Fake news, social media and marketing: A systematic review</u></a></li>
     <ul>
       <li>From the Journal of Business Research, an overview and synthesis of 117 academic studies relating to misinformation on social networks.</li>
     </ul>
-  <li> <a href="https://www.youtube.com/watch?v=r34aENF8vUY">The Social Dilemma – Bonus Clip: The Discrimination Dilemma</a></li>
+    <br>
+  <li> <a href="https://www.youtube.com/watch?v=r34aENF8vUY"><u>The Social Dilemma – Bonus Clip: The Discrimination Dilemma</u></a></li>
     <ul>
       <li>A clip from the documentary The Social Dilemma (full film available on Netflix) that describes how algorithms and machine learning can perpetuate bias.   </li>
     </ul>
-  <li> <a href="https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/">Information Overload Helps Fake News Spread, and Social Media Knows It</a></li>
+    <br>
+  <li> <a href="https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/"><u>Information Overload Helps Fake News Spread, and Social Media Knows It</u></a></li>
     <ul>
        <li>From Scientific American, an article about the psychological underpinnings of misinformation-spreading behavior.</li>
    </ul>
-  <li> <a href="https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/">Causes and consequences of mainstream media dissemination of fake news: literature review and synthesis</a></li>
+    <br>
+  <li> <a href="https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/"><u>Causes and consequences of mainstream media dissemination of fake news: literature review and synthesis</u></a></li>
     <ul>
        <li>From the Annals of the International Communication Association, a study exploring the role of mainstream news outlets in disseminating misinformation.</li>
    </ul>
-  <li> <a href="https://purl.stanford.edu/mf412bt5333">Educating for Misunderstanding: How Approaches to Teaching Digital Literacy Make Students Susceptible to Scammers, Rogues, Bad Actors, and Hate Mongers</a></li>
+    <br>
+  <li> <a href="https://purl.stanford.edu/mf412bt5333"><u>Educating for Misunderstanding: How Approaches to Teaching Digital Literacy Make Students Susceptible to Scammers, Rogues, Bad Actors, and Hate Mongers</u></a></li>
     <ul>
       <li>From the Stanford History Education Group, a study of how outdated approaches to teaching internet literacy impact the online habits of 256 college undergraduates.</li>
     </ul>
