@@ -119,12 +119,12 @@ tags:
     
 ---
 <div class="card shadow-sm bg-light">
-    <div "margin-left:40px"; class="card-body">
+    <div class="card-body">
         <h2>Table of Contents</h2>
-        <strong><p> <a style="margin-left:40px"; href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
-        <strong><p> <a style="margin-left:40px"; href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
-        <strong><p> <a style="margin-left:40px"; href="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
-        <strong><p> <a style="margin-left:40px"; href="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
+        <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
+        <strong><p> <a href="#Identify-the-causes-of-misinformation">Identify the causes of misinformation</a> </p></strong>
+        <strong><p> <a shref="#Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</a> </p></strong>
+        <strong><p> <a shref="#Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</a> </p></strong>
     </div>
 </div>
 
@@ -166,12 +166,11 @@ tags:
 <ul>
   <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6"><u>Presentation slides</u></a></li>
     <br>
-  <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy"><u>Reflection prompt and learning assessment quiz</a></u></li>
+  <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy"><u>Reflection prompt and learning assessment quiz</u></a></li>
   </ul>
+  <br>
+ <h3>Resources</h3>
   
-  <h3>Resources</h3>
-  
- <ul>
   <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296320307852"><u>Fake news, social media and marketing: A systematic review</u></a></li>
     <ul>
       <li>From the Journal of Business Research, an overview and synthesis of 117 academic studies relating to misinformation on social networks.</li>
@@ -211,16 +210,16 @@ tags:
     <li> <a href="https://play.kahoot.it/v2/?quizId=d839ae13-b580-45cf-a6f8-e6481a146c73"><u>Kahoot Quiz</u></a> (an example of how to present the quiz)</li>
   </ul>
   </ul>
-  
+  <br>
   <h3>Resources</h3>
   
  <ul>
-  <li> <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve"><u>Let’s flatten the infodemic curve</a></u></li>
+  <li> <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve"><u>Let’s flatten the infodemic curve</u></a></li>
     <ul>
       <li>Good step by step tutorial from the WHO about recognizing medical disinformation as well as an aesthetic infographic covering that same topic.</li>
     </ul>
   <br>
-  <li> <a href="https://ca.pbslearningmedia.org/resource/4197f3a0-5b4a-432b-9dbe-e49aae81ba7b/lesson-plan-how-to-teach-your-students-about-fake-news/"<u>PBS lesson plan for identifying misinformation</u></a></li>
+  <li> <a href="https://ca.pbslearningmedia.org/resource/4197f3a0-5b4a-432b-9dbe-e49aae81ba7b/lesson-plan-how-to-teach-your-students-about-fake-news/"><u>PBS lesson plan for identifying misinformation</u></a></li>
     <ul>
       <li>Intended for middle and high school audiences. Provides relevant examples, thought-provoking questions, and linked resources.</li>
     </ul>
@@ -254,7 +253,7 @@ tags:
       <li>Identifying Causes <a href="activity instructions"><u>Activity instructions</u></a> for learners</li>
   </ul> 
   </ul>
-  
+  <br>
   <h3>Resources</h3>
   
  <ul>
@@ -263,7 +262,7 @@ tags:
       <li>A report from the RAND Corporation that explores the systemic causes of misinformation.</li>
     </ul>  
       <br>
-   <li> <a href="https://www.nature.com/articles/s41558-018-0368-6"><u>Evidence-based strategies to combat scientific misinformation</u>/a></li>
+   <li> <a href="https://www.nature.com/articles/s41558-018-0368-6"><u>Evidence-based strategies to combat scientific misinformation</u></a></li>
     <ul>
       <li>Focus on climate change misinformation.</li>   
     </ul>
@@ -278,7 +277,7 @@ tags:
       <li>Overview of general library practices with embedded publications focusing on particular skills, workshops, frameworks, programs, etc.</li>   
     </ul>
     <br>  
-      <li> <a href="https://www.journals.ala.org/index.php/ltr/issue/viewFile/662/423"><a>Library Technology Reports: Combating Fake News in the Digital Age</u></a></li>
+      <li> <a href="https://www.journals.ala.org/index.php/ltr/issue/viewFile/662/423"><u>Library Technology Reports: Combating Fake News in the Digital Age</u></a></li>
     <ul>
       <li>History of fake news and how it spreads, the role of technology, methods for individual recognition of misinformation, and strategies for instructors to teach students on how to identify misinformation.</li>
     </ul> 
