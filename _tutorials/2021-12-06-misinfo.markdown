@@ -239,7 +239,7 @@ The language we use matters. The terms misinformation and disinformation are not
       <li>Teacher blog with useful tips for identifying “fake news.”</li>
     </ul>
   <br>
-<li> <a href="https://guides.library.cornell.edu/evaluate_news/infographic target="_blank""><u>Fake News, Propaganda, and Disinformation: Learning to Critically Evaluate Media Sources</u></a></li>
+<li> <a href="https://guides.library.cornell.edu/evaluate_news/infographic" target="_blank"><u>Fake News, Propaganda, and Disinformation: Learning to Critically Evaluate Media Sources</u></a></li>
     <ul>
       <li>Infographic on spotting fake news from the Cornell University Library.</li>
     </ul>
