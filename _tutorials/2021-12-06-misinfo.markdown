@@ -132,9 +132,7 @@ tags:
 
 <h2 id="Introduction-and-Instructions">Introduction and Instructions</h2>
 
-<h3>About the Toolkit</h3>
-
-Misinformation is a systemic issue. Its causes are varied and complex, and its solutions will be just as messy. Ready to dive in with us?
+<h3>About the Toolkit</h3> Misinformation is a systemic issue. Its causes are varied and complex, and its solutions will be just as messy. Ready to dive in with us?
 
 <p>We, the creators of this resource, believe that the best way to understand and combat misinformation is to create a collaborative learning environment that gives participants opportunities to reflect, share, and explore together. Rather than provide a checklist (“Ten Easy Steps to End Misinformation!”) or an authoritative overview (“Here’s What’s REALLY Up With Conspiracy Theories”) our goal is to help you facilitate conversations within your community. We hope that your goals will be to enable a nuanced understanding of misinformation and enact creative solutions in response.</p>
 
