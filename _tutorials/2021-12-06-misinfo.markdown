@@ -95,18 +95,18 @@ accessibility-info:
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 #
 core-competencies:
-- Investigate diverse sources and perspectives
-- Gather and organize information and data
-- Evaluate and synthesize information and data
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
+    - Evaluate and synthesize information and data
 #
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 #
 # See http://www.ala.org/acrl/standards/ilframework for more information
 acrl-frames:
-- Authority is constructed and contextual
-- Information creation as a process
-- Research as inquiry 
+    - Authority is constructed and contextual
+    - Information creation as a process
+    - Research as inquiry 
 #
 # TAGS
 # List a few keywords related to the resource that will help users search for it.
@@ -115,8 +115,7 @@ tags:
     - misinformation
     - disinformation
     - Critical-thinking
-    - systemic
-    
+    - systemic   
 ---
 <div class="card shadow-sm bg-light">
     <div class="card-body">
@@ -151,7 +150,7 @@ Misinformation is a systemic issue. Its causes are varied and complex, and its s
 <li><strong>Identify strategies for recognizing misinformation</strong></li>
 </ul>
  
-<p>For each outcome, we have provided a theoretical framework, learning activity examples, and resources for further exploration. The outcomes are designed to work individually, or in any combination or sequence that makes sense for your learning community. Any or all of the outcomes can form the basis of a standalone workshop or course about understanding misinformation, or be integrated into existing course curricula.</p> 
+<p>For each outcome, we have provided a theoretical framework, learning activity examples, and resources for further exploration. The outcomes are designed to work individually, or in any combination or sequence that makes sense for your learning community. Any or all of the outcomes can form the basis of a standalone workshop or course about understanding misinformation, or be integrated into existing course curricula. Some of the resources are only available for UCLA students, staff, and faculty. If you are accessing the resources from off-campus, make sure to have your devicece configured with <a href="https://uclalibrary.github.io/research-tips/get-configured/>VPN or Proxy</a> </p> 
 
 <p>This toolkit is designed to be generative, and we hope it will serve as a launching point for adapting, revising, and creating your own learning outcomes.</p>
 <hr>
@@ -161,7 +160,7 @@ Misinformation is a systemic issue. Its causes are varied and complex, and its s
 <h2 id="Identify-the-causes-of-misinformation">Identify the causes of misinformation</h2>
 
 <h3>Theoretical Framework</h3>The causes of misinformation extend beyond the individuals who create and disseminate it to encompass the entirety of our complex information ecosystem. In the learning activity below, we explore three aspects of this ecosystem and their contributions to the misinformation landscape: information overload, internet platform business models, and outdated internet literacy learning models. We encourage you and your learning community to explore other systemic causes of misinformation beyond what we present here. 
-
+<br>
 <h3>Example Learning Activity</h3>
 <ul>
   <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6" target="_blank"><u>Presentation slides</u></a></li>
@@ -206,7 +205,7 @@ Misinformation is a systemic issue. Its causes are varied and complex, and its s
 <h3>Theoretical Framework</h3> 
 
 The language we use matters. The terms misinformation and disinformation are not always interchangeable and each come with their own set of implications about the intent of the sharer, the information’s level of veracity and factuality (or lack thereof), and the reliability of the source. The learning activity below helps learners define these terms and practice spotting examples. 
-
+<br>
 <h3>Example Learning Activities</h3>
 
 <ul>
@@ -254,7 +253,7 @@ The language we use matters. The terms misinformation and disinformation are not
 <h3>Theoretical Framework</h3>
 
 The amount of distorted information on internet platforms is overwhelming, and developing strategies to identify it is crucial to effective civic engagement. The learning activity below outlines those strategies and helps learners develop and practice them.
-
+<br>
 <h3>Example Learning Activity</h3>
 <ul>
   <li>Recognizing Misinformation Group Exploration</li>
