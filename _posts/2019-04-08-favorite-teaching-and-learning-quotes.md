@@ -26,7 +26,8 @@ authors:
     - xinjian-cen
     - neha-gupta
     - Monique-Tudon
----
+--- - Pamela Rodriguez
+
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
 Here's a collection of quotes gathered by the WI+RE team:
@@ -125,7 +126,10 @@ in the family of things.
 >Tell me and I forget, teach me and I may remember, involve me and I learn.
 >
 >_Benjamin Franklin_
-
+>
+>Shoot for the moon. Even if you miss, you'll land among the stars.
+>
+>_Les Brown_
 ## Want to add your favorite quote to this page?
 
 You'll find the code for this post in the `_posts` directory of the WI+RE's websites code repository. First, find the code repository at [https://github.com/UCLALibrary/research-tips](https://github.com/UCLALibrary/research-tips) - look for the `_posts` directory and see if you can find the code for this post. It should be in a file called `2019-04-08-favorite-teaching-and-learning-quotes.md`
