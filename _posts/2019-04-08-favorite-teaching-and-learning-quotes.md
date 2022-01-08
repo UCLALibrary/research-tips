@@ -26,6 +26,8 @@ authors:
     - xinjian-cen
     - neha-gupta
     - Monique-Tudon
+    - pamela-cervantes-rodriguez
+   ---
 
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
