@@ -307,4 +307,6 @@ The amount of distorted information on internet platforms is overwhelming, and d
       <li>ECrash Course series hosted by John Green explains how to navigate various aspects of digital information, including Social Media, Online Information, Lateral Reading, and Fact Checking in relatively brief 14 minute segments.</li>   
     </ul>
 </ul>  
+<hr>
+<p>How was your experience using the Understanding Misinformation Toolkit? Please let us know by filling out <a href="https://ucla.libwizard.com/f/misinfo-toolkit">this breif survey</a>! </p>     
 </div>
