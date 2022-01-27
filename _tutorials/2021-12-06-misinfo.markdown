@@ -310,5 +310,5 @@ The amount of distorted information on internet platforms is overwhelming, and d
 </ul>  
 <hr>
     <h3>Feedback</h3>
-    <p>How was your experience using the Understanding Misinformation Toolkit? Please let us know in <a href="https://ucla.libwizard.com/f/misinfo-toolkit">this brief survey</a>! </p>     
+    <p>How was your experience using the Understanding Misinformation Toolkit? Please let us know in <a href="https://ucla.libwizard.com/f/misinfo-toolkit">this brief survey</a>. </p>     
 </div>
