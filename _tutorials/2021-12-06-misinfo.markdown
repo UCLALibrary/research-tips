@@ -155,7 +155,7 @@ This resource is divided into three learning outcomes:
 </p> 
 <p>For each outcome, we have provided a theoretical framework, learning activity examples, and resources for further exploration. The outcomes are designed to work individually, or in any combination or sequence that makes sense for your learning community. Any or all of the outcomes can form the basis of a standalone workshop or course about understanding misinformation, or be integrated into existing course curricula. Some of the resources are only available for UCLA students, staff, and faculty. If you are accessing the resources from off-campus, make sure to have your device configured with <a href="https://uclalibrary.github.io/research-tips/get-configured/">VPN or Proxy</a> </p> 
 
-<p>This toolkit is designed to be generative, and we hope it will serve as a launching point for adapting, revising, and creating your own learning outcomes.</p>
+<p>The Toolkit is designed to be generative, and we hope it will serve as a launching point for adapting, revising, and creating your own learning outcomes.</p>
 <p>As you use the Toolkit, we welcome your feedback! Let us know what works well, and what can be improved, via <a href="https://ucla.libwizard.com/f/misinfo-toolkit">this brief survey</a>. </p> 
 <hr>
 </div>
