@@ -122,9 +122,10 @@ tags:
         <h2>Table of Contents</h2>
         <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
         <strong><p> <a href="#Identify-the-causes-of-misinformation">Learning Outcome: Identify the causes of misinformation</a> </p></strong>
-        <strong><p> <a href="#Define-information-misinformation-disinformation">Learning Outcome: Define information, misinformation, and disinformation</a>
+        <strong><p> <a href="#Define-information-misinformation-disinformation">Learning Outcome: Define information, misinformation, and disinformation</a> </p></strong>
         <strong><p> <a href="#Define-information-misinformation-disinformation">Learning Outcome: Define information, misinformation, and disinformation</a> </p></strong>
         <strong><p> <a href="#Feedback">Feedback</a> </p></strong>
+            
     </div>
 </div>
 
