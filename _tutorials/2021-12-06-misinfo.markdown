@@ -165,7 +165,6 @@ This resource is divided into three learning outcomes:
 <h3>Example Learning Activity</h3>
 <ul>
   <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6" target="_blank"><u>Presentation slides</u></a></li>
-    <br>
   <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy" target="_blank"><u>Reflection prompt and learning assessment quiz</u></a></li>
   </ul>
   <br>
@@ -204,9 +203,8 @@ This resource is divided into three learning outcomes:
     
 <h2 id="Define-information-misinformation-disinformation">Define information, misinformation, and disinformation</h2>
 <br>
-<h3>Theoretical Framework</h3> 
-
-The language we use matters. The terms misinformation and disinformation are not always interchangeable and each come with their own set of implications about the intent of the sharer, the information’s level of veracity and factuality (or lack thereof), and the reliability of the source. The learning activity below helps learners define these terms and practice spotting examples. 
+<p><h3>Theoretical Framework</h3> 
+The language we use matters. The terms misinformation and disinformation are not always interchangeable and each come with their own set of implications about the intent of the sharer, the information’s level of veracity and factuality (or lack thereof), and the reliability of the source. The learning activity below helps learners define these terms and practice spotting examples. </p>
 <br>
 <h3>Example Learning Activities</h3>
 
@@ -252,9 +250,8 @@ The language we use matters. The terms misinformation and disinformation are not
   
   <h2 id="Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</h2>
 <br>  
-<h3>Theoretical Framework</h3>
-
-The amount of distorted information on internet platforms is overwhelming, and developing strategies to identify it is crucial to effective civic engagement. The learning activity below outlines those strategies and helps learners develop and practice them.
+<p><h3>Theoretical Framework</h3>
+The amount of distorted information on internet platforms is overwhelming, and developing strategies to identify it is crucial to effective civic engagement. The learning activity below outlines those strategies and helps learners develop and practice them.</p>
 <br>
 <h3>Example Learning Activity</h3>
 <ul>
