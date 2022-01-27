@@ -122,8 +122,9 @@ tags:
         <h2>Table of Contents</h2>
         <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
         <strong><p> <a href="#Identify-the-causes-of-misinformation">Learning Outcome: Identify the causes of misinformation</a> </p></strong>
+        <strong><p> <a href="#Define-information-misinformation-disinformation">Learning Outcome: Define information, misinformation, and disinformation</a>
         <strong><p> <a href="#Define-information-misinformation-disinformation">Learning Outcome: Define information, misinformation, and disinformation</a> </p></strong>
-        <strong><p> <a href="#Identify-strategies-for-recognizing-misinformation">Learning Outcome: Identify strategies for recognizing misinformation</a> </p></strong>
+        <strong><p> <a href="#Feedback">Feedback</a> </p></strong>
     </div>
 </div>
 
@@ -308,5 +309,6 @@ The amount of distorted information on internet platforms is overwhelming, and d
 </ul>  
 <hr>
     <h3>Feedback</h3>
+    <h3 id="Feedback">Feedback</h3>
     <p>How was your experience using the Understanding Misinformation Toolkit? Please let us know in <a href="https://ucla.libwizard.com/f/misinfo-toolkit">this brief survey</a>. </p>     
 </div>
