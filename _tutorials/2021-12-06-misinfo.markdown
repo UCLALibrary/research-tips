@@ -250,7 +250,7 @@ The language we use matters. The terms misinformation and disinformation are not
   <div>
   
   <h2 id="Identify-strategies-for-recognizing-misinformation">Identify strategies for recognizing misinformation</h2>
-  
+<br>  
 <h3>Theoretical Framework</h3>
 
 The amount of distorted information on internet platforms is overwhelming, and developing strategies to identify it is crucial to effective civic engagement. The learning activity below outlines those strategies and helps learners develop and practice them.
