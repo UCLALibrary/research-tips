@@ -131,7 +131,7 @@ tags:
 <div>
 <h2 id="Introduction-and-Instructions">Introduction and Instructions</h2>
 
-<h3>About the Toolkit</h3>
+<p><h3>About the Toolkit</h3></p>
 
 Misinformation is a systemic issue. Its causes are varied and complex, and its solutions will be just as messy. Ready to dive in with us?
 
