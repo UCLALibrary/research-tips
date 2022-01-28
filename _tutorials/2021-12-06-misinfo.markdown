@@ -123,7 +123,7 @@ tags:
         <strong><p> <a href="#Introduction-and-Instructions">Introduction and Instructions</a> </p></strong>
         <strong><p> <a href="#Identify-the-causes-of-misinformation">Learning Outcome: Identify the causes of misinformation</a> </p></strong>
         <strong><p> <a href="#Define-information-misinformation-disinformation">Learning Outcome: Define information, misinformation, and disinformation</a>                    </p></strong>
-        <strong><p> <a href="#Define-information-misinformation-disinformation">Learning Outcome: Define information, misinformation, and disinformation</a>                    </p></strong>
+        <strong><p> <a href="Identify-strategies-for-recognizing-misinformation">Learning Outcome: Identify strategies for recognizing misinformation</a>                    </p></strong>
         <strong><p> <a href="#Feedback">Feedback</a> </p></strong>
             
     </div>
