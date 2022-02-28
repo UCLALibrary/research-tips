@@ -209,9 +209,11 @@
   definition: "The highest university degree that is conferred after a course of study by a university. Because it is an earned research degree, those studying for a PhD are usually required to produce original research, normally in the form of a thesis or dissertation, and defend their work against experts in the field. The completion of a PhD is often a requirement for employment as a university professor, researcher, or scientist in many fields. Individuals who have earned a Doctor of Philosophy degree may, in many jurisdictions, use the title Doctor (often abbreviated Dr or Dr.) with their name."
   reference: https://en.wikipedia.org/wiki/Doctor_of_Philosophy
   
-- term: "Principal investigator"
-  definition: "A principal investigator, or PI, is the individual responsible for the preparation, conduct, and administration of a research grant, cooperative agreement, training or public service project, contract, or other sponsored project."
-  reference: https://www.umass.edu/research/what-principal-investigator-pi-and-who-eligible
+- term: "Positionality statement"
+  definition: "A positionality statement is a description of an author's in society, especially as it relates to a particular project."
+  reference: https://www.elon.edu/u/academics/writing-excellence/wp-content/uploads/sites/921/2021/08/Assignment-5-Writing-a-Positionality-Statement.docx.pdf
+  example: !xml |
+           <p class="mt-0 mb-0">"Alexandra Brown is a tenured professor at a university with a predominantly white student body and faculty. She is a former public school teacher with seven years of experience in a diverse classroom (approx. 40% African American, 40% Hispanic American, and 20% Caucasian American). Her research is conducted at a local community tutoring program in Los Angeles that serves 120 high school students each week. Most of the students served work part-time jobs at least 12 hours a week in addition to attending school full time. Brown is fluent in English and has some ability to communicate in Spanish. Working with community students who are fluent in Spanish and have some ability to communicate in English is within her skill range, but when interacting with students new to English, she relies on translators to help ensure clear communication. Sometimes these translators are professionals employed by the school district or community center and sometimes they are other students. Her research is informed by a commitment to recognizing language diversity and the expertise that many multi-lingual high school students share with their peers, teachers, and community. Brown’s research is funded by grants from UCLA and the Arthur Vining Davis Corporation.."</p>
   
 - term: "Poster presentation"
   definition: "Presentation through the use of a poster showing a visual display of your research project and combines text and graphics to make a visually pleasing presentation. Typically, a professional poster involves showing your work to numerous researchers at a conference or seminar."
@@ -224,6 +226,10 @@
   reference: https://umb.libguides.com/PrimarySources/secondary
   example: !xml |
            <p class="mt-0 mb-0">"Suppose I’m an English major researching the works of Toni Morrison. Her novel <i>The Bluest Eye</i> would be an example of a <b>primary source</b>. A book review of <i>The Bluest Eye</i> would be a secondary source."</p>
+
+- term: "Principal investigator"
+  definition: "A principal investigator, or PI, is the individual responsible for the preparation, conduct, and administration of a research grant, cooperative agreement, training or public service project, contract, or other sponsored project."
+  reference: https://www.umass.edu/research/what-principal-investigator-pi-and-who-eligible
 
 - term: "Professional association"
   definition: "A body of persons engaged in the same profession, they may maintain professional standards and ethics, award and reward work within the profession, coordinate the collection of data or maintain data sources, organize conferences and events, promote professional development, represent the profession in discussions with other bodies, some may oversee certifications that control entry into the profession."
