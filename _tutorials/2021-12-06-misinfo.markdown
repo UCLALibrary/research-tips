@@ -32,8 +32,9 @@ authors:
     - Taylor Sieverling
     - Max Grollman
     - Ashley Peterson
-    - Alex Solodkaya
+    - Alexandra Solodkaya
     - chris-lopez
+    - kian-ravaei
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -261,7 +262,7 @@ The amount of distorted information on internet platforms is overwhelming, and d
   <li>Recognizing Misinformation Group Exploration</li>
   <ul>
     <li><a href="https://docs.google.com/presentation/d/1Q2kNHOcMQPpcZnWRa0_Zo91xZwvmQuStJ9CmNVFEmvI/copy#slide=id.gb87d0164e3_0_112" target="_blank"><u>Presentation slides</u></a> that set up the activity for learners</li>
-      <li>Identifying Causes <a href="activity instructions" target="_blank"><u>Activity instructions</u></a> for learners</li>
+      <li>Identifying Causes <a href="https://docs.google.com/document/u/1/d/1kRMMZUnq7C5JO11uovznq78q2aQNwej54j2RFk_6qjU/copy" target="_blank"><u>Activity instructions</u></a> for learners</li>
   </ul> 
   </ul>
   <br>
