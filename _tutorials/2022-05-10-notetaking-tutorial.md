@@ -45,7 +45,7 @@ references:
 thumbnail: /assets/tutorials/thumbnails/notetakingthumb.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
-handout: /assets/handouts/....pdf
+handout: /assets/handouts/Note-taking handout.pdf
 #
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
@@ -58,8 +58,7 @@ handout: /assets/handouts/....pdf
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: 
-themes: 
+category: Student Success
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
@@ -71,10 +70,9 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
-    - starting with verbs
+    - Identify strategies to take notes effectively
+    - Understand how various methods of taking notes work best in specific situations
+    - Expand toolkit of helpful abbreviations and shorthand to make taking notes efficient
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
