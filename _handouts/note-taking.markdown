@@ -25,6 +25,6 @@ tags:
 awards:
 ---
 <p style="margin-bottom: 5 px;">
-  <a href=["https://drive.google.com/file/d/1HI4WNwCFYUD6MXY6_P24GL3nsw3zA5Ur/view?usp=sharing"](https://drive.google.com/file/d/1rjNj-HOkuh0zOYFNrLvakEiCepcuqlbk/view?usp=sharing)>Here is a link to an accessible version of this handout.</a>
+  <a href="https://drive.google.com/file/d/1rjNj-HOkuh0zOYFNrLvakEiCepcuqlbk/view?usp=sharing">Here is a link to an accessible version of this handout.</a>
 </p>
 <p>Need some definitions to the terms used in the handout? We've got you covered! Check out our <a href="https://uclalibrary.github.io/research-tips/research-and-academics-glossary/">Research and Academic Glossary</a>!</p>
