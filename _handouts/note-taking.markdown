@@ -13,7 +13,7 @@ description: "This handout features a graphic that you can always refer back to 
 # Include a thumbnail image of the first page of the handout. Thumbnails for handouts go in /assets/handouts/thumbnails/...
 #
 handout-url: /assets/handouts/Note-taking handout.pdf
-thumbnail: /assets/tutorials/thumbnails/Screen Shot 2022-05-20 at 3.22.56 PM.png
+thumbnail: /assets/handouts/thumbnails/notetakingthumb.png
 category: Student Success
 tags:
     - taking notes
