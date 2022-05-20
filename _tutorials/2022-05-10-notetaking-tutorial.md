@@ -72,6 +72,7 @@ sort-weight: ##
 learning-outcomes:
     - Identify strategies to take notes effectively
     - Understand how various methods of taking notes work best in specific situations
+    - Recognize common pitfalls of note-taking
     - Expand toolkit of helpful abbreviations and shorthand to make taking notes efficient
 #
 # ACCESSIBILITY INFO
@@ -91,9 +92,9 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear' }
+    - { text: 'H5P Content Type - Interactive Book. Accessible and maintained by H5P core development team', date: '2022-05-20', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
+    - { text: 'Accessible Handout Available', date: '2022-05-20', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+   
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
@@ -122,7 +123,12 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - tag 1
-    - tag 2
+    - take notes
+    - note-taking
+    - studying
+    - learning
+    - notes
+    - study habits
 ---
-
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4252749" width="1095" height="437" frameborder="0" allowfullscreen="allowfullscreen" title="Note-taking Guide"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
