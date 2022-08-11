@@ -86,6 +86,10 @@
 - term: "Control Group"
   definition: "In an experiment, the control group does not receive the intervention or treatment under investigation. This group may also be referred to as the comparison group."
   reference: https://www.researchconnections.org/childcare/research-glossary
+  
+- term: "Creative Inquiry"
+  definition: "Creative inquiry is the process of exploring issues, objects or works through the collection and analysis of evidence including combining or synthesizing existing ideas, products, or expertise in original ways to answer an open-ended question or achieve a desired goal."
+  reference: https://www.tntech.edu/oci-qep/student-learning-outcomes.php
 
 - term: "Curriculum vitae"
   definition: "A curriculum vitae, also called a vita or CV, is similar to a résumé and provides key information about your skills, education, and experience to a potential employer. A CV is typically used to apply for academic and research positions and for some graduate programs. It is longer than a résumé and displays academic credentials and accomplishments in greater detail."
@@ -209,6 +213,10 @@
   definition: "The highest university degree that is conferred after a course of study by a university. Because it is an earned research degree, those studying for a PhD are usually required to produce original research, normally in the form of a thesis or dissertation, and defend their work against experts in the field. The completion of a PhD is often a requirement for employment as a university professor, researcher, or scientist in many fields. Individuals who have earned a Doctor of Philosophy degree may, in many jurisdictions, use the title Doctor (often abbreviated Dr or Dr.) with their name."
   reference: https://en.wikipedia.org/wiki/Doctor_of_Philosophy
   
+- term: "Positionality"
+  definition: "Positionality is the notion that personal values, views, and location in time and space influence how one understands the world. In this context, gender, race, class, and other aspects of identities are indicators of social and spatial positions are not fixed, given qualities. Positions act on the knowledge a person has about things, both material and abstract. Consequently, knowledge is the product of a specific position that reflects particular places and spaces."
+  reference: https://www.arteachingcollective.com/positionality.html 
+  
 - term: "Positionality statement"
   definition: "A positionality statement is a description of an author's in society, especially as it relates to a particular project."
   reference: https://www.elon.edu/u/academics/writing-excellence/wp-content/uploads/sites/921/2021/08/Assignment-5-Writing-a-Positionality-Statement.docx.pdf
@@ -246,6 +254,14 @@
 - term: "Quantitative research"
   definition: "Research that gathers numerical data and generalizing it across groups of people or to explain a particular phenomenon."
   reference: https://libguides.usc.edu/writingguide/quantitative
+  
+- term: "Reference"
+  definition: "In the context of research, to reference a work is to acknowledge the contribution of other writers and researchers in your work, giving credit to those from whom you have borrowed words and ideas."
+  reference: https://www.student.unsw.edu.au/why-referencing-important#:~:text=Referencing%20allows%20you%20to%20acknowledge,have%20borrowed%20words%20and%20ideas.
+  
+- term: "Research"
+  definition: "Research is systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. This means that a project or study is research if it is conducted with the intention of drawing conclusions that have some general applicability and uses a commonly accepted scientific method."
+  reference: https://ori.hhs.gov/content/chapter-3-The-Protection-of-Human-Subjects-Definitions
   
 - term: "Research grant"
   definition: "Non-repayable funds or products disbursed or given by one party (grant makers), often a government department, corporation, foundation or trust, to a recipient, often (but not always) a nonprofit entity, educational institution, business or an individual."
