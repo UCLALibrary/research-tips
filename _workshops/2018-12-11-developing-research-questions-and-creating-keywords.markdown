@@ -38,4 +38,4 @@ tags:
     - search strategies
     - Cornerstone Research Workshops
 ---
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2242526" width="926" height="546" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709929264362158/embed" width="926" height="546" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
