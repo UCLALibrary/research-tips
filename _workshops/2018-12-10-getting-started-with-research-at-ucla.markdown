@@ -34,4 +34,4 @@ tags:
 - UCLA Undergraduate Research Portal
 featured: yes
 ---
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2242500" width="741" height="442" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709929138954528" width="741" height="442" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
