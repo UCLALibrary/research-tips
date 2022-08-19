@@ -47,4 +47,4 @@ tags:
     - review articles
 ---
 <!--H5P-->
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2434230" width="854" height="505" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709896296360988/embed" width="854" height="505" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
