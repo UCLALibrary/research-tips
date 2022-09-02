@@ -42,7 +42,7 @@ tags:
 - science
 ---
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2242500" width="1094" height="640" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709929138954528/embed" width="1094" height="640" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 <p>Walk through the process of researching, from brainstorming to distinguishing appropriate sources, specifically for technical and engineering topics!</p>
 
@@ -51,7 +51,7 @@ tags:
     <div class="card-body">
                 <h2 class="card-title">Getting Started: Organized Brainstorming</h2>
     <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424342" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  <iframe class="embed-responsive-item card-img-top" src="https://uclabruinlearn.h5p.com/content/1291709902108554578/embed" frameborder="0" allowfullscreen></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
     </div>
                 <p class="card-text">Before you can start researching, you have to figure out what you're looking for! Learn how to map out your ideas and questions to help you find the perfect sources for you.</p>
             </div>
@@ -63,7 +63,7 @@ tags:
     <div class="card-body">
                 <h2 class="card-title">Getting Started: Constructing Effective Searches</h2>
                 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424343" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  <iframe class="embed-responsive-item card-img-top" src="https://uclabruinlearn.h5p.com/content/1291709902228902038/embed" frameborder="0" allowfullscreen></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
         </div>
                <p class="card-text">For when it seems like you just can't get to the sources you need, this tutorial will help you get going in the right direction. Learn how to use boolean search terms and related keywords to construct effective searches!</p>
     </div>
@@ -75,7 +75,7 @@ tags:
     <div class="card-body">
                 <h2 class="card-title">Researching: Understanding Databases</h2>
                 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424344" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  <iframe class="embed-responsive-item card-img-top" src="https://uclabruinlearn.h5p.com/content/1291709902349647078/embed" frameborder="0" allowfullscreen></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
            </div>
                 <p class="card-text">Databases offer a vast and varying amount of sources and are an essential part of academic research. Learn how to effectively search for sources within databases with this tutorial!</p>
     </div>
@@ -87,7 +87,7 @@ tags:
     <div class="card-body">
                 <h2 class="card-title">Researching: Navigating the Melvyl Catalog</h2>
                 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424345" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  <iframe class="embed-responsive-item card-img-top" src="https://uclabruinlearn.h5p.com/content/1291709902458542618/embed" frameborder="0" allowfullscreen></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
             </div>
                 <p class="card-text">Why limit your researching to only the books your particular school has to offer? Learn how to use the Melvyl catalog and request books from other libraries with this helpful tutorial!</p>
     </div>
@@ -99,7 +99,7 @@ tags:
     <div class="card-body">
                 <h2 class="card-title">Researching: Finding Primary Sources through Newspaper Archives</h2>
                 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item card-img-top" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2424346" frameborder="0" allowfullscreen></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  <iframe class="embed-responsive-item card-img-top" src="https://uclabruinlearn.h5p.com/content/1291709902579564198/embed" frameborder="0" allowfullscreen></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
             </div>
                 <p class="card-text">By expanding your research and finding primary sources, you can get a better understanding of your topic. Learn how to find newspaper archives with this tutorial!</p>
     </div>
