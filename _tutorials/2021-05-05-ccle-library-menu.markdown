@@ -46,4 +46,4 @@ tags:
 ---
 This interactive tutorial is your introduction to the CCLE Library Resource Menu! You’ll discover what each tab does, from accessing course reserves to finding research help from librarians and more!
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3885737" width="913" height="539" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709897852828878/embed" width="913" height="539" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
