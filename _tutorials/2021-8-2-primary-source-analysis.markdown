@@ -117,4 +117,4 @@ tags:
 ---
 _Primary Source Analysis_ is an interactive tutorial that walks learners through a five step process of researching a primary source. Test your skills with example documents from UCLA Special Collections!
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3962831" width="1020" height="599" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291731538332484828/embed" width="1020" height="599" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
