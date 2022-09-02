@@ -112,4 +112,4 @@ tags:
 
 <h2>Passive and Active Voice <span style="font-weight:normal">with Jemma</span></h2>
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3186884" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709897192542158/embed" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
