@@ -63,7 +63,7 @@ tags:
 
 <p class="intro">Learn to tell the difference between primary and secondary sources by becoming a contestant on everybody's favorite new game show, <i>Wheel of Sources</i>! Click on the interactive video below to get started.</p>
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2142561" width="1101" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709931105650748/embed" width="1101" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 <!-- include embed-and-share-buttons.html ? -->
 
