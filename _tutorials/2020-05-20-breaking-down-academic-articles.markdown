@@ -45,4 +45,4 @@ Few of us can recall every detail and argument from academic articles - they're 
 
 *Note:* a transcript for each slide can be located at the bottom of each slide. Click the button to preview transcript of slide for description of art in each panel and the script of tutorial guide.
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3002375" width="1574" height="910" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709931428653788/embed" width="1574" height="910" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
