@@ -123,4 +123,4 @@ tags:
 ---
 <p>In this interactive tutorial, you will learn about the role of data in humanities research. It is part of WI+RE's Data Literacy Suite, which also includes <a href="https://uclalibrary.github.io/research-tips/dataliteracy/">Intro to Data Literacy</a>. </p>
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4330723" width="1095" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Data in Humanities"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709903130245608/embed" width="1095" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Data in Humanities"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
