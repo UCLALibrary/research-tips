@@ -51,4 +51,4 @@ This interactive comic is your introduction to finding digital images at the UCL
 
 **Note:** a transcript for each slide can be located at the bottom left of each slide. Click the button to preview transcript of slide for description of art in each panel and the script of tutorial guide.
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3491777" width="1079" height="632" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709932044874028/embed" width="1079" height="632" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
