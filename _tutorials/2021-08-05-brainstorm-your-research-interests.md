@@ -123,7 +123,7 @@ tags:
 
 It can be daunting to realize that you may not know what you are interested in, but don't worry! Check out this video for a number of ways to find out your interests.
 
-<iframe class="mb-5" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4069174" width="1094" height="1038" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe class="mb-5" src="https://uclabruinlearn.h5p.com/content/1291709899889835528/embed" width="1094" height="1038" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 ## What's next?
 
