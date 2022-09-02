@@ -106,4 +106,4 @@ tags:
 <p>Peer Learning Facilitators from the <a href="https://wp.ucla.edu/">UCLA Undergraduate Writing Center</a> give their top writing tips, from revising topic sentences to crafting conclusion paragraphs! Each video includes interactive questions to test your knowledge. <i>More Writing Strategies Videos coming soon!</i></p>
 
 <h2 class="mt-4">Conclusion Paragraphs <span style="font-weight:normal">with Grace</span></h2>
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3065812" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709896965307168/embed" width="1094" height="676" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
