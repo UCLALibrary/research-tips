@@ -45,13 +45,13 @@ tags:
 
 <p>This tutorial identifies the Digital Library as a resource for supporting primary source research, and outlines how to find and access the Digital Library as well as its scope.</p>
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3310090" width="1085" height="672" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709896710181838/embed" width="1085" height="672" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 <p>First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.</p>
 
 <p>This tutorial demonstrates how to use an assignment prompt to find find, discover, and access relevant primary sources on the Digital Library homepage.</p>
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3310099" width="1085" height="672" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709896824175198/embed" width="1085" height="672" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 <p>For an in-depth digital guide on the Digital Library Collections, please head to the EXPLORATION & INQUIRY site created by former Digital Library Research Assistant, <a href="https://savannahlake.github.io/explorationandinquiry/index.html">Savannah Lake!</a></p>
 
