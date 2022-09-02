@@ -43,4 +43,4 @@ tags:
 ---
 Here is an interactive tutorial on how to differentiate between two modes of Genetic Drift! This tutorial was designed for anyone who needs some extra help on how to differentiate between how Founder Effect and Bottleneck take place, and ultimately result in Genetic Drift. I hope you enjoy and learn something new!
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3579010" width="544" height="331" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291731476919854078/embed" width="544" height="331" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
