@@ -113,4 +113,4 @@ tags:
 ---
 Biodiversity is a useful measure to help us understand the range of diverse species that make up our ecosystems! _Using Simpson's Diversity Index_ is an interactive tutorial that walks learners through the Simpson's Diversity Index Equation. This is a useful equation that can be used to reflect the biodiversity of a habitat!
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3662810" width="1022" height="691" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291731480998610108/embed" width="1022" height="691" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
