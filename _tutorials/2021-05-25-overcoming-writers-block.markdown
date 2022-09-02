@@ -127,4 +127,4 @@ tags:
     - creativity
     - research
 ---
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3851966" width="636" height="356" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709931804901558/embed" width="636" height="356" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
