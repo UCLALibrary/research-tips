@@ -83,4 +83,4 @@ tags:
 
 Understanding big data or engaging in data research can feel very intimidating, especially for those who have never formally worked with data. You are not alone and just because you are new to data research doesn't mean you can't learn how to participate in it! This interactive webcomic marks the first of our WI+RE Data Literacy Suite. Intro to Data Literacy introduces learners to a variety of ways different academic disciplines conduct data research; it also helps data research beginners appreciate the contextual factors that shape the definition of data.
 
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=3833277" width="1559" height="2193" frameborder="0" allowfullscreen="allowfullscreen" title="UCLA Library Data Literacy Series"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291709933582332148/embed" width="1559" height="2193" frameborder="0" allowfullscreen="allowfullscreen" title="UCLA Library Data Literacy Series"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
