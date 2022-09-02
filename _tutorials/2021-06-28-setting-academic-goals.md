@@ -122,7 +122,7 @@ tags:
 
 SMART is an acronym to help you remember how to set achievable goals, whether they’re academic or non-academic. Watch this short interactive video and answer the questions for an overview of SMART goals!
 
-<iframe class="mb-5" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4021755" width="1522" height="918" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe class="mb-5" src="https://uclabruinlearn.h5p.com/content/1291709899777319138/embed" width="1522" height="918" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 ## Breaking Down Your Goals
 
@@ -132,7 +132,7 @@ Breaking down your goals into concrete steps can help make them seem less overwh
 
 Want some inspiration? <a href="https://docs.google.com/document/d/19W35zudAodQrx_McD6rhWgO7a_ZTq-wE8SeQDTcavHo/edit?usp=sharing" target="_blank">Take a look at our Goal Organizer example</a>.
 
-<img src="https://ccle.ucla.edu/pluginfile.php/3785932/mod_hvp/content/6021/images/file-5d72bd5191c04.png" alt="WI+RE goal organizer example" width="100%">
+<img src="https://uclalibrary.github.io/research-tips/assets/images/goals-image.png" alt="WI+RE goal organizer example" width="100%">
 
 Need to break down a research paper project into manageable tasks? <b>Try using our <a href="{{ '/research-planner/' | relative_url }}" target="_blank">Research Paper Planner</a></b>! Just enter your paper deadline, and the planner will take care of the rest.
 
