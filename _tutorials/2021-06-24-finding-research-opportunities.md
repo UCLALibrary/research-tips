@@ -136,19 +136,19 @@ Check out the <a href="{{ '/workshops/research-logistics/' | relative_url }}">Re
 
 Browsing departmental websites and contacting faculty members with relevant interests can open the door to research opportunities!
 
-<iframe class="mb-5" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4019101" width="1074" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe class="mb-5" src="https://uclabruinlearn.h5p.com/content/1291709899277155228/embed" width="1074" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 ## 2. Ask About Research Opportunities
 
 You might not know it, but there are lots of people around you who do research! Talking to them is a great way to find research opportunities.
 
-<iframe class="mb-5" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4019117" width="1074" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe class="mb-5" src="https://uclabruinlearn.h5p.com/content/1291735808996310338/embed" width="1074" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 ## 3. UCLA Undergraduate Research Portal
 
 The <a href="https://be.my.ucla.edu/urportal.aspx" target="_blank">UCLA Undergraduate Research Portal</a> is a free online resource for UCLA students to find research opportunities, including paid and off-campus opportunities. Check out this video for more information!
 
-<iframe class="mb-5" src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4019120" width="1074" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe class="mb-5" src="https://uclabruinlearn.h5p.com/content/1291709899660042938/embed" width="1074" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
 
 ## What's next?
 
