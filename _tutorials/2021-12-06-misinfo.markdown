@@ -170,7 +170,7 @@ This resource is divided into three learning outcomes:
 <h3>Example Learning Activity</h3>
 <ul>
   <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1yL174gVQWENuQKZRHE6_cq17mw9JwfZz4PK_L5aHJyo/copy#slide=id.gb5c3490c2a_0_6" target="_blank"><u>Presentation slides</u></a></li>
-  <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy" target="_blank"><u>Reflection prompt and learning assessment quiz</u></a></li>
+  <li>Identifying Causes <a href="https://docs.google.com/document/d/14RbH1B88367gAFmLDYjpaPBA-mRqmZdsz9VZ9ZLOMNE/copy" target="_blank"><u>Reflection prompt and learning assessment quiz</u></a></li>
   </ul>
   <br>
  <h3>Resources</h3>
@@ -214,7 +214,7 @@ The language we use matters. The terms misinformation and disinformation are not
 <h3>Example Learning Activities</h3>
 
 <ul>
-  <li>Defining Terms <a href="https://docs.google.com/presentation/d/1CjK_CrV2bqnj4eRFEJSvglYQASYbhlFpKbDM0KFFzM4/copy" target="_blank"><u>Presentation Slides & Quiz Questions/Answers</u></a> </li>
+  <li>Defining Terms <a href="https://docs.google.com/presentation/d/1Khcs8lA-LWr4UsQmUqO5vydN3Dq9xVFWaKU8qb1FyKk/copy#slide=id.p" target="_blank"><u>Presentation Slides & Quiz Questions/Answers</u></a> </li>
   <ul>
     <li> <a href="https://play.kahoot.it/v2/?quizId=d839ae13-b580-45cf-a6f8-e6481a146c73" target="_blank"><u>Kahoot Quiz</u></a> (an example of how to present the quiz)</li>
   </ul>
@@ -263,7 +263,7 @@ The amount of distorted information on internet platforms is overwhelming, and d
 <ul>
   <li>Recognizing Misinformation Group Exploration</li>
   <ul>
-    <li><a href="https://docs.google.com/presentation/d/1Q2kNHOcMQPpcZnWRa0_Zo91xZwvmQuStJ9CmNVFEmvI/copy#slide=id.gb87d0164e3_0_112" target="_blank"><u>Presentation slides</u></a> that set up the activity for learners</li>
+    <li><a href="https://docs.google.com/presentation/d/1yL174gVQWENuQKZRHE6_cq17mw9JwfZz4PK_L5aHJyo/copy#slide=id.gb5c3490c2a_0_6" target="_blank"><u>Presentation slides</u></a> that set up the activity for learners</li>
       <li>Identifying Causes <a href="https://docs.google.com/document/d/1X10b91FWlsg1KPN9tdp9up_4KxfqEtKNRjBoxAYrFAI/copy" target="_blank"><u>Activity instructions</u></a> for learners</li>
   </ul> 
   </ul>
