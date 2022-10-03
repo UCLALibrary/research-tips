@@ -169,7 +169,7 @@ This resource is divided into three learning outcomes:
 
 <h3>Example Learning Activity</h3>
 <ul>
-  <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1R0VhqkaJdbKIVSeqVp_REsbK-xn626Bw-KZyvG_JgnM/copy#slide=id.gb5c3490c2a_0_6" target="_blank"><u>Presentation slides</u></a></li>
+  <li>Identifying Causes <a href="https://docs.google.com/presentation/d/1yL174gVQWENuQKZRHE6_cq17mw9JwfZz4PK_L5aHJyo/copy#slide=id.gb5c3490c2a_0_6" target="_blank"><u>Presentation slides</u></a></li>
   <li>Identifying Causes <a href="https://docs.google.com/document/d/1TDdLne0b33T2se_BMgKbjccrqhJAtPDYCMq2_oAZsDg/copy" target="_blank"><u>Reflection prompt and learning assessment quiz</u></a></li>
   </ul>
   <br>
