@@ -263,7 +263,7 @@ The amount of distorted information on internet platforms is overwhelming, and d
 <ul>
   <li>Recognizing Misinformation Group Exploration</li>
   <ul>
-    <li><a href="https://docs.google.com/presentation/d/1yL174gVQWENuQKZRHE6_cq17mw9JwfZz4PK_L5aHJyo/copy#slide=id.gb5c3490c2a_0_6" target="_blank"><u>Presentation slides</u></a> that set up the activity for learners</li>
+    <li><a href="https://docs.google.com/presentation/d/1vgpwskm7hnc3tpUs__SgwL64ZhXWdpiy8VNN06D1Yy0/copy#slide=id.gb87d0164e3_0_112" target="_blank"><u>Presentation slides</u></a> that set up the activity for learners</li>
       <li>Identifying Causes <a href="https://docs.google.com/document/d/1X10b91FWlsg1KPN9tdp9up_4KxfqEtKNRjBoxAYrFAI/copy" target="_blank"><u>Activity instructions</u></a> for learners</li>
   </ul> 
   </ul>
