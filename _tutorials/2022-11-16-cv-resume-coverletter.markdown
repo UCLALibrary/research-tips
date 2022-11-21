@@ -13,12 +13,12 @@ description: "In this tutorial, you will learn how to build a resume, cv, and co
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   YYYY-MM-DD
+date:   2022-11-21
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: YYYY-MM-DD
+last-updated: 2022-11-21
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
