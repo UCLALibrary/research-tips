@@ -58,7 +58,7 @@ handout: /assets/handouts/....pdf
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
 category: Student Success
-themes: 
+themes: professional, applications, career
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
