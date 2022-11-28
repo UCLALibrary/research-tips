@@ -28,6 +28,7 @@ authors:
     - Monique-Tudon
     - pamela-rodriguez-cervantes
     - abigail-holder
+    - nushrat-esha
 ---
 
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
@@ -136,6 +137,11 @@ in the family of things.
 >Education is the kindling of a flame, not the filling of a vessel.
 >
 >_Socrates_
+
+>Intellectual growth should commence at birth and cease only at death.
+>
+>_Albert Einstein_
+>
 ## Want to add your favorite quote to this page?
 
 You'll find the code for this post in the `_posts` directory of the WI+RE's websites code repository. First, find the code repository at [https://github.com/UCLALibrary/research-tips](https://github.com/UCLALibrary/research-tips) - look for the `_posts` directory and see if you can find the code for this post. It should be in a file called `2019-04-08-favorite-teaching-and-learning-quotes.md`
