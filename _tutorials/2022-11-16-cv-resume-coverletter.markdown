@@ -33,7 +33,9 @@ authors:
     - Neha Gupta
 contributors:
     - Abigail-Holder
-    - Firstname Lastname
+    - Renee-Romero
+    -Matt-Johnson
+    -Hannah-Sutherland
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -58,7 +60,7 @@ handout: /assets/handouts/....pdf
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
 category: Student Success
-themes: professional, applications, career, 
+themes: professional, applications, career, service, education, job, hiring
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
@@ -70,10 +72,13 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
-    - starting with verbs
+    - the fundamentals of a resume
+    - components of a resume
+    - Specific sets of skills to highlight in your resume
+    - Fundamentals and differences between a resume and CV
+    -Which scenarios fit better for creating a CV
+    -You will learn how to write a cover letter
+    -There will be information to prepare you and get you started with your document
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -123,7 +128,23 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - tag 1
-    - tag 2
+    - resume
+    -cv
+    -cover letter
+    -job
+    -hiring
+    -create
+    -document
+    -application
+    -skills
+    -internship
+    -qualifications
+    -requirements
+    -process
+    -personal statement
+    -description
+    -leadership
+    -training
+    - student sucess
 ---
 <iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4334711" width="1059" height="438" frameborder="0" allowfullscreen="allowfullscreen" title="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
