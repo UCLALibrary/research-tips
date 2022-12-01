@@ -13,6 +13,6 @@ profile: /assets/images/team/esha.jpg
 features:
     - feature-title:
       feature-img: 
-      feature-url: ![esha](https://user-images.githubusercontent.com/118940781/204947222-ea63a11a-3215-4fa9-860d-d03c7c584c07.jpg)
+      feature-url: 
       feature-note: 
 ---
