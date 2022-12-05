@@ -8,7 +8,7 @@ title:  "Building a CV, Resume, and Cover Letter"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "In this tutorial, you will learn how to build a resume, cv, and cover letter. You will learn to structure your skills and have a bigger idea of the fundamental points to tackle when demonstrating your abilities."
+description: "In this tutorial, you will learn how to build a resume, CV, and cover letter. You will learn to structure your skills and have a bigger idea of the fundamental points to tackle when demonstrating your abilities."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
@@ -72,8 +72,8 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - the fundamentals of a resume
-    - components of a resume
+    - The fundamentals of a resume
+    - Components of a resume
     - Specific sets of skills to highlight in your resume
     - Fundamentals and differences between a resume and CV
     - Which scenarios fit better for creating a CV
