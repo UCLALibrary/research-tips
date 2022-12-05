@@ -29,13 +29,13 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - Pamela-Rodriguez
-    - Neha Gupta
+    - pamela-rodriguez
+    - neha-gupta
 contributors:
-    - Abigail-Holder
-    - Renee-Romero
+    - abigail-holder
+    - renee-romero
     - Matt Johnson
-    - Hannah-Sutherland
+    - hannah-sutherland
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -96,7 +96,7 @@ learning-outcomes:
 # Including text: '' is required
 # Optionally include a url and link-text
 #
-accessibility-info:
+# accessibility-info:
     - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
     - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
     - { text: 'Some text you want to appear' }
