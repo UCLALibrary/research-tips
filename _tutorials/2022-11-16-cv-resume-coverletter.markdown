@@ -146,6 +146,5 @@ tags:
     -leadership
     -training
     -student sucess
-    
 ---
 <iframe src="https://uclabruinlearn.h5p.com/content/1291800801752157208/embed" width="1059" height="438" frameborder="0" allowfullscreen="allowfullscreen" title="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
