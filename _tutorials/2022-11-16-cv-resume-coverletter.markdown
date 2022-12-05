@@ -18,7 +18,7 @@ date:   2022-11-21
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated: 2022-11-21
+last-updated:
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
@@ -34,8 +34,8 @@ authors:
 contributors:
     - Abigail-Holder
     - Renee-Romero
-    -Matt-Johnson
-    -Hannah-Sutherland
+    - Matt Johnson
+    - Hannah-Sutherland
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -145,6 +145,7 @@ tags:
     -description
     -leadership
     -training
-    - student sucess
+    -student sucess
+    
 ---
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4334711" width="1059" height="438" frameborder="0" allowfullscreen="allowfullscreen" title="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291800801752157208/embed" width="1059" height="438" frameborder="0" allowfullscreen="allowfullscreen" title="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
