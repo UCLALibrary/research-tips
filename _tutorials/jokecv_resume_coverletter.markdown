@@ -13,7 +13,7 @@ description: "A short and snappy description referencing the learning outcome an
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   YYYY-MM-DD
+# date:   YYYY-MM-DD
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
