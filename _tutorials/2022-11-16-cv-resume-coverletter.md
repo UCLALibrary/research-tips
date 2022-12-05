@@ -76,9 +76,9 @@ learning-outcomes:
     - components of a resume
     - Specific sets of skills to highlight in your resume
     - Fundamentals and differences between a resume and CV
-    -Which scenarios fit better for creating a CV
-    -You will learn how to write a cover letter
-    -There will be information to prepare you and get you started with your document
+    - Which scenarios fit better for creating a CV
+    - You will learn how to write a cover letter
+    - There will be information to prepare you and get you started with your document
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -129,22 +129,22 @@ acrl-frames:
 #
 tags:
     - resume
-    -cv
-    -cover letter
-    -job
-    -hiring
-    -create
-    -document
-    -application
-    -skills
-    -internship
-    -qualifications
-    -requirements
-    -process
-    -personal statement
-    -description
-    -leadership
-    -training
-    -student sucess
+    - cv
+    - cover letter
+    - job
+    - hiring
+    - create
+    - document
+    - application
+    - skills
+    - internship
+    - qualifications
+    - requirements
+    - process
+    - personal statement
+    - description
+    - leadership
+    - training
+    - student sucess
 ---
 <iframe src="https://uclabruinlearn.h5p.com/content/1291800801752157208/embed" width="1059" height="438" frameborder="0" allowfullscreen="allowfullscreen" title="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>
