@@ -31,8 +31,8 @@ featured:
 authors:
     - nushrat-esha
 contributors:
-    - firstname-lastname
-    - Firstname Lastname
+    - renee-romero
+    - neha-gupta
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -40,7 +40,7 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/....png
+thumbnail: /assets/tutorials/thumbnails/emailing.md
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout: /assets/handouts/....pdf
@@ -56,7 +56,7 @@ handout: /assets/handouts/....pdf
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: 
+category: Getting Started with Research 
 themes: 
 #
 # SORT WEIGHT
@@ -69,10 +69,8 @@ sort-weight: ##
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - a list
-    - of learning outcome
-    - statements
-    - starting with verbs
+    - Articulate the publications and research conducted in the labs you are interested in working in with your own words.
+    - Craft a successful email that will make you stand out from the other individuals that send out emails to the same faculty member. 
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -122,6 +120,7 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - tag 1
-    - tag 2
+    - emailing
+    - cold emailing
+    - research
 ---
