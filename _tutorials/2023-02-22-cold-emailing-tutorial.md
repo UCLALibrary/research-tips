@@ -3,12 +3,12 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "A Guide to Cold Emailing"
+title:  "WIRE's Guide to Writing a Cold Email"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "A tutorial covering the basics and essentials to emailing faculty about interest regarding research."
+description: "Stuck on how to email a faculty member regarding interest in research? No worries, this tutorial covers the basics and essentials to emailing faculty to help get you into the lab of interest!"
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
@@ -41,16 +41,6 @@ references:
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
 thumbnail: assets/tutorials/thumbnails/email.md.png
-# HANDOUT
-# If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
-handout: /assets/handouts/....pdf
-#
-# AWARDS
-# If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
-#
-# awards: 
-#   - award-1
-#   - award-2
 #
 # CATEGORY & THEMES
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
@@ -79,10 +69,6 @@ learning-outcomes:
 # - { text: 'Closed Captioning Available' }
 # - { text: 'H5P Content Type - Course Presentation. Accessibility status - Tested with no known problems', date: 'YYYY-MM-DD', url: 'https://h5p.org/documentation/installation/content-type-accessibility' }
 # - { text: 'Accessible PDF Available', link-text: 'Handout Title', url: 'full-url' }
-#
-# FOR HANDOUT CONTENT TYPE
-# { text: 'PDF Accessibility checked with Adobe Acrobat', date: 'YYYY-MM-DD' }
-# { text: 'PDF Accessibility needs review', date: 'YYYY-MM-DD', link-text: 'Issue reported', url: 'link to issue' } 
 #
 # OPTIONS
 # Including text: '' is required
