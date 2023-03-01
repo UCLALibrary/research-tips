@@ -3,7 +3,7 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "WIRE's Guide to Writing a Cold Email"
+title:  "WI+RE's Guide to Writing a Cold Email"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
