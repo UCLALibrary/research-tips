@@ -55,8 +55,8 @@ thumbnail: /assets/tutorials/thumbnails/cv.resume.thumbnail.png
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: Student Success
-themes: professional, applications, career, service, education, job, hiring
+category: Finding and Citing Sources
+themes: sources, citing, research
 #
 # SORT WEIGHT
 # not built yet - but hoping this will work soon - 2020-06-09
