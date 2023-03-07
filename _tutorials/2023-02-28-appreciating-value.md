@@ -30,8 +30,12 @@ featured:
 #
 authors:
     - abigail-holder
+    - Makena Tinney
 contributors:
     - renee-romero
+    - Ashley Peterson
+    - Katherine Kapsidelis
+    - Simon Lee
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -39,7 +43,7 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/tutorials/thumbnails/cv.resume.thumbnail.png
+thumbnail: /assets/tutorials/thumbnails/AppreciatingValue.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 # handout: /assets/handouts/....pdf
@@ -120,23 +124,13 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - resume
-    - cv
-    - cover letter
-    - job
-    - hiring
-    - create
-    - document
-    - application
-    - skills
-    - internship
-    - qualifications
-    - requirements
-    - process
-    - personal statement
-    - description
-    - leadership
-    - training
-    - student sucess
+    - resources
+    - research
+    - citing
+    - sources
+    - secondary
+    - scholarly
+    - popular
+    - Finding and Citing Sources
 ---
 <iframe src="https://uclabruinlearn.h5p.com/content/1291849124688024218/embed" width="1059" height="438" frameborder="0" allowfullscreen="allowfullscreen" title="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
