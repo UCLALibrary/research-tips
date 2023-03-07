@@ -8,12 +8,12 @@ title:  "Appreciating the Value of Different Resource Types"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "In this module, we will explore how the value, relevance, authority, and accuracy of an information source is influenced by its category (scholarly and popular; primary and secondary) and its type (book, encyclopedia, website, social media, etc.)."
+description: "In this module, we will explore how the value, relevance, authority, and accuracy of an information source is influenced by its category and its type."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2023-02-28
+date:   2023-03-06
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
