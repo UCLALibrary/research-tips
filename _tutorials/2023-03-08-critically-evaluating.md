@@ -8,7 +8,7 @@ title:  "Critically Evaluating Resources"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "In this module, we will investigate the role your positionalities play in the research process as well as how to identify the reliability, validity, and usefulness of a given source."
+description: "In this module, we will investigate the role your positionalities play in the research process as well as how to identify the reliability, validity, and usefulness of a given source.."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
@@ -136,4 +136,4 @@ tags:
     - SIFT
     - Finding and Citing Sources
 ---
-[<iframe src="https://uclabruinlearn.h5p.com/content/1291802624831013478/embed" aria-label="Appreciating the Value of Different Resource Types" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>]
+<iframe src="https://uclabruinlearn.h5p.com/content/1291802624831013478/embed" aria-label="Appreciating the Value of Different Resource Types" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
