@@ -136,4 +136,4 @@ tags:
     - SIFT
     - Finding and Citing Sources
 ---
-[<iframe src="https://uclabruinlearn.h5p.com/content/1291802624831013478/embed" aria-label="Appreciating the Value of Different Resource Types" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>](https://uclabruinlearn.h5p.com/content/1291802613673599198)
+[<iframe src="https://uclabruinlearn.h5p.com/content/1291802624831013478/embed" aria-label="Appreciating the Value of Different Resource Types" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>]
