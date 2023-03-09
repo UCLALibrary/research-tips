@@ -8,7 +8,7 @@ title:  "Critically Evaluating Resources"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "In this module, we will explore how the value, relevance, authority, and accuracy of an information source is influenced by its category and its type."
+description: "In this module, we will investigate the role your positionalities play in the research process as well as how to identify the reliability, validity, and usefulness of a given source."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
