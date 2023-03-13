@@ -36,6 +36,10 @@
   reference: https://guides.library.ucla.edu/start/articles
   example: !xml |
            <p class="mt-0 mb-0">"The <a href="https://philpapers.org/" target="_blank">PhilPapers</a> <b>article database</b> is a great place to find academic articles about philosophy."</p>
+
+- term: "Artist Statement"
+  definition: "An artist’s statement is a text that describes their work and gives the viewer an understanding of its context. The statement is not one size fits all; rather, will likely be revised many times throughout an artist’s lifetime to fit the needs of the environments in which it will be displayed, which include galleries, applications, and press releases."
+  reference: https://en.wikipedia.org/wiki/Artist%27s_statement
   
 - term: "Bias"
   definition: "Influences that distort the results of a research study."
@@ -97,6 +101,10 @@
   example: !xml |
            <p class="mt-0 mb-0"><i>Check out this <b>CV</b> from Jen, a past member of the WI+RE team!</i> <a href="https://sites.google.com/g.ucla.edu/jennifer-pierre/cv" target="_blank">Link to Jen's CV</a></p>
            
+- term: "Database"
+  definition: "A database is a usually large collection of data organized especially for rapid search and retrieval (as by a computer)."
+  reference: https://www.merriam-webster.com/dictionary/database
+
 - term: "Discipline"
   definition: "Specific area of study; formally organized body of knowledge."
   reference: http://catalog.kent.edu/glossary/glossary.pdf
@@ -158,6 +166,10 @@
 - term: "Intersectionality"
   definition: "Intersectionality is an analytical framework for understanding how aspects of a person's social and political identities combine to create different modes of discrimination and privilege."
   reference: https://en.wikipedia.org/wiki/Intersectionality
+  
+- term: "Keyword"
+  definition: "Keywords are important words/concepts found in your research question, topic, or thesis. A quick way to pull keywords from a research question is to choose the most important nouns. Using keywords to search will retrieve more results than searching for long phrases or vague, overly broad topics."
+  reference: https://libguides.lvc.edu/c.php?g=333843&p=2247147#:~:text=Keywords%20are%20important%20words%2Fconcepts,results%20than%20phrases%20or%20sentences.
 
 - term: "Life History"
   definition: "A record of an event/events in a respondent's life told (written down, but increasingly audio or video recorded) by the respondent from his/her own perspective in his/her own words. A life history is different from a 'research story' in that it covers a longer time span, perhaps a complete life, or a significant period in a life."
