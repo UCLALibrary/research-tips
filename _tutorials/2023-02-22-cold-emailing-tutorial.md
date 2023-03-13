@@ -40,7 +40,7 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: assets/tutorials/thumbnails/noun-cold-email-4245355.png
+thumbnail: assets/tutorials/thumbnails/noun-email-4449467.png
 #
 # CATEGORY & THEMES
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
