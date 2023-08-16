@@ -24,10 +24,18 @@ sort-weight: 15
 accessibility-info:
     - { text: 'Transcript Available in Tutorial' }
 learning-outcomes:
-    - Identify the different functions of each tab item
-    - Explain how each item can support your course
-    - Navigate through all the items
-    - Locate where to reach out for research help
+    - Part 1: Deciding Whether or Not to Go
+        - Differentiate between different types of graduate and professional programs
+        - Compare the various reasons why people choose to go to grad school and possible paths (straight through vs. gap)
+        - List questions to ask yourself when deciding if grad school is the right path for you
+    - Part 2: Preparing during Undergrad
+        - Conducting informational interviews
+        - Office hours & networking with professors
+        - Constructing a long term prep plan that works for you
+    - Part 3: Assembling Application Materials
+        - Deciding where to apply
+        - Putting together your application package
+        - List strategies for navigating imposter syndrome & self doubt
 # ACRL FRAMES
 acrl-frames:
     - 
