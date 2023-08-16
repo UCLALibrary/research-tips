@@ -22,7 +22,7 @@ sort-weight: 15
 # - { text: 'WAVE tested - 0 errors', date: '2020-09-18', url: 'https://wave.webaim.org/' }
 # ######
 accessibility-info:
-    - { text: 'Transcript Available in Tutorial' }
+       - {text: 'H5P Content Type - Branching Scenario. Accessible and maintained by H5P core development team', date: '2021-05-25', url: 'https://h5p.org/documentation/installation/content-type-accessibility'}
 learning-outcomes:
     - Part 1: Deciding Whether or Not to Go
         - Differentiate between different types of graduate and professional programs
