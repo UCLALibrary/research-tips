@@ -1,0 +1,45 @@
+---
+title:  "Graduate School 101"
+date:   2023-07-31
+authors: 
+    - xinjian-cen
+    - kaitlin-alcontin
+    - hannah-sutherland
+contributors:
+    - neha-gupta
+    - abigail-holder
+    - renee-romero
+    
+description: Navigate Graduate School Application process with us by choosing your own journey!
+thumbnail: assets/tutorials/thumbnails/Grad School 101 Bear.png
+handout:
+handout-thumbail: 
+awards:
+category: Student Success
+sort-weight: 15
+# ######
+# ACCESSIBILITY INFO
+# - { text: 'WAVE tested - 0 errors', date: '2020-09-18', url: 'https://wave.webaim.org/' }
+# ######
+accessibility-info:
+    - { text: 'Transcript Available in Tutorial' }
+learning-outcomes:
+    - Identify the different functions of each tab item
+    - Explain how each item can support your course
+    - Navigate through all the items
+    - Locate where to reach out for research help
+# ACRL FRAMES
+acrl-frames:
+    - 
+# UCLA Library Core Competencies
+core-competencies:
+    -
+tags:
+    - applications
+    - career paths
+    - navigation
+    - research
+    - graduate school
+---
+This interactive choose your own path will take you through all about grad school!
+<iframe src="https://uclabruinlearn.h5p.com/content/1291865488274800448/embed" aria-label="Grad 101 (most updated)" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
