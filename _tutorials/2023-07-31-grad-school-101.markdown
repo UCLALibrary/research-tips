@@ -25,17 +25,17 @@ accessibility-info:
        - {text: 'H5P Content Type - Branching Scenario. Accessible and maintained by H5P core development team', date: '2021-05-25', url: 'https://h5p.org/documentation/installation/content-type-accessibility'}
 learning-outcomes:
     - Part 1: Deciding Whether or Not to Go
-        - Differentiate between different types of graduate and professional programs
-        - Compare the various reasons why people choose to go to grad school and possible paths (straight through vs. gap)
-        - List questions to ask yourself when deciding if grad school is the right path for you
+      - Differentiate between different types of graduate and professional programs
+      - Compare the various reasons why people choose to go to grad school and possible paths (straight through vs. gap)
+      - List questions to ask yourself when deciding if grad school is the right path for you
     - Part 2: Preparing during Undergrad
-        - Conducting informational interviews
-        - Office hours & networking with professors
-        - Constructing a long term prep plan that works for you
+    - Conducting informational interviews
+    - Office hours & networking with professors
+    - Constructing a long term prep plan that works for you
     - Part 3: Assembling Application Materials
-        - Deciding where to apply
-        - Putting together your application package
-        - List strategies for navigating imposter syndrome & self doubt
+    - Deciding where to apply
+    - Putting together your application package
+    - List strategies for navigating imposter syndrome & self doubt
 # ACRL FRAMES
 acrl-frames:
     - 
