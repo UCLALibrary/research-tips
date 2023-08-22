@@ -6,8 +6,9 @@ authors:
     - kaitlin-alcontin
     - hannah-sutherland
 contributors:
-    - neha-gupta
     - abigail-holder
+    - Nancy Khuc
+    - neha-gupta
     - renee-romero
     
 description: Navigate Graduate School Application process with us by choosing your own journey!
