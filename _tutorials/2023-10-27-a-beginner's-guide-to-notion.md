@@ -32,9 +32,9 @@ authors:
     - firstname-lastname
     - Firstname Lastname
 contributors:
-    - mohsin-ali
+    - Mohsin Ali
     - neha-gupta
-    - adam-bowling
+    - Adam Bowling
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -42,7 +42,7 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: /assets/....png
+thumbnail: assets/tutorials/thumbnails/notion-icon-1964x2048-p7u8pn3c.png
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
 handout: /assets/handouts/....pdf
