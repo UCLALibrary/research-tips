@@ -29,7 +29,7 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 authors:
-    - firstname-lastname
+    - nushrat-esha
     - Firstname Lastname
 contributors:
     - mohsin-ali
@@ -58,7 +58,7 @@ handout: /assets/handouts/....pdf
 # Enter one category to put the resource in (e.g. Getting Started). If you enter a category that doesn't already exist, a new category will be created on the WI+RE site.
 # Themes can be used to create thematic collections of resources, e.g., stem, etc.
 #
-category: 
+category: Student Success
 themes: 
 #
 # SORT WEIGHT
@@ -125,7 +125,9 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - tag 1
-    - tag 2
+    - notion
+    - notetaking
+    - organization
 ---
+
 <iframe src="https://uclabruinlearn.h5p.com/content/1291928741983331238/embed" aria-label="A Beginner's Guide to Notion" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
