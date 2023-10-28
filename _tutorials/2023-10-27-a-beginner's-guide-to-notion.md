@@ -30,7 +30,6 @@ featured:
 #
 authors:
     - nushrat-esha
-    - Firstname Lastname
 contributors:
     - Mohsin Ali
     - neha-gupta
