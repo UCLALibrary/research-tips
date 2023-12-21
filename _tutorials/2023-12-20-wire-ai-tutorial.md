@@ -77,11 +77,8 @@ sort-weight: ##
 learning-outcomes:
     - Define what generative AI is and how it can be used as a tool.
     - Describe (generally) how generative AI models are trained and programmed.
-    - Draw attention to our existing preconceptions surrounding AI.
-    - Explore different ethical considerations by which we can understand or approach AI within an academic setting.
-    - Recognize/identify the limitations of using Generative AI in an academic setting (false information, inaccurate information).
-    - Identify potentual productive methods of collaborating with Generative AI in an academic setting (writing, editing, etc).
-    - Describe the ethical concerns behind the use of AI in academic settings (cheating, academic integrity).
+    - Recognize the limitations of using Generative AI in an academic setting using generative AI tools.
+    - Identify potentual productive methods of collaborating with Generative AI in an academic setting.
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
