@@ -100,8 +100,8 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
+    - { text: 'Closed Captioning Available' }
+    - { text: 'Some text you want to appear', date: '2023-12-20', url: '[[https://uclalibrary.github.io/research-tips/full-url-here.html](https://h5p.org/documentation/installation/content-type-accessibility)](https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations)' }
     - { text: 'Some text you want to appear' }
 #
 # CORE COMPETENCIES
