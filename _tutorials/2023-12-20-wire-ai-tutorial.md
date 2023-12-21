@@ -78,7 +78,7 @@ learning-outcomes:
     - Define what generative AI is and how it can be used as a tool.
     - Describe (generally) how generative AI models are trained and programmed.
     - Recognize the limitations of using Generative AI in an academic setting using generative AI tools.
-    - Identify potentual productive methods of collaborating with Generative AI in an academic setting.
+    - Identify potential productive methods of collaborating with Generative AI in an academic setting.
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
