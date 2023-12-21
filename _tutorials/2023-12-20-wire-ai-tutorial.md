@@ -102,7 +102,6 @@ learning-outcomes:
 accessibility-info:
     - { text: 'Closed Captioning Available' }
     - { text: 'H5P Content Type - Branching Scenario. Accessibility status - Tested with no known problems', date: '2023-12-06', url: 'https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations' }
-    - { text: 'Some text you want to appear' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
