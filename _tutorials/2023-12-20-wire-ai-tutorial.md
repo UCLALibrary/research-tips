@@ -3,12 +3,12 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "WIRE AI Tutorial"
+title:  "WI+RE's Introduction to AI Chatbots"
 #
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "A tutorial covering the basics of AI, the limitations, and possible collaborations with the AI tool ChatGPT. Tutorial includes examples, videos, and questions to help gain a better understanding of ChatGPT."
+description: "A branching scenario tutorial with the options to learn about the basics of generative AI, their limitations in an academic context, and possible collaborations with the AI tool ChatGPT. Tutorial includes examples, videos, and questions to help gain a better understanding of ChatGPT."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
@@ -29,7 +29,7 @@ featured:
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
 contributors:
-    - Mohsin Ali
+    - mohsinmalikali
     - abigail-holder
     - Ashley Peterson
     - hannah-sutherland
