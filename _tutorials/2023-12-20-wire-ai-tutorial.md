@@ -3,17 +3,17 @@
 # TITLE
 # Enter the title of the resource in quotes.
 #
-title:  "A Beginner's Guide to Notion"
+title:  "WIRE AI Tutorial"
 #
 # DESCRIPTION
-# A tutorial explaining the basics of Notion and how the platform could be used to help with organization and planning in academics, work, and much more!
+# Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "Learn better planning and organization skills with Notion!"
+description: "A tutorial covering the basics of AI, the limitations, and possible collaborations with the AI tool ChatGPT. Tutorial includes examples, videos, and questions to help gain a better understanding of ChatGPT."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
 #
-date:   2023-10-26
+date:   2023-12-20
 #
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
@@ -28,13 +28,16 @@ featured:
 # AUTHORS AND CONTRIBUTORS
 # For members of the WI+RE team who have their own profile on the Creative Team page, enter the name as firstname-lastname (e.g. doug-worsham). For community partners who don't have their own profile on the WI+RE site, enter their name as Firstname Lastname (e.g. Gene Block). The names will appear in the order you enter them.
 #
-authors:
-    - nushrat-esha
-#
 contributors:
-    - mohsinmalikali
-    - neha-gupta
-    - Adam Bowling
+    - Mohsin Ali
+    - abigail-holder
+    - Ashley Peterson
+    - hannah-sutherland
+    - nushrat-esha
+    - Maizah Ali
+    - renee-romero
+    - Shelby Hallman
+    - Zoe Annabella Busenberg
 # References and Attribution
 # include a list of referenced work, if necessary
 references:
@@ -42,10 +45,10 @@ references:
 # THUMBNAIL
 # Include a thumbnail as a square PNG with a white or transparent background. Our standard dimensions are 250x250 px, but any size square will do. Thumbnails for tutorials go in /assets/tutorials/thumbnails/, and for workshops, /assets/workshops/thumbnails/.
 #
-thumbnail: assets/tutorials/thumbnails/notion-icon-1964x2048-p7u8pn3c.png
+thumbnail: /assets/tutorials/thumbnails/chatgpt-logo
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
-handout: /assets/handouts/....pdf
+
 #
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
@@ -67,15 +70,15 @@ themes:
 #
 sort-weight: ##
 #
+#
 # LEARNING OUTCOMES
 # List all the learning outcomes for the resource.
 #
 learning-outcomes:
-    - Develop the confidence to create a personalized Notion page with different subpages to help better organize between personal life, classes, work, and research.
-    - Apply the Notion’s scheduling software, such as Google Calendar, to help with time management.
-    - Recognize effective note taking strategies and explore how to organize notes onto the Notion platform.
-    - Identify how to use the digital platforms and different sites connected with Notion to help create a personal touch to your page.
-    
+    - Define what generative AI is and how it can be used as a tool.
+    - Describe (generally) how generative AI models are trained and programmed.
+    - Recognize the limitations of using generative AI tools in an academic setting.
+    - Identify potential productive methods of collaborating with Generative AI in an academic setting.
 #
 # ACCESSIBILITY INFO
 # NOTE special formatting of the info in this section!!
@@ -94,9 +97,8 @@ learning-outcomes:
 # Optionally include a url and link-text
 #
 accessibility-info:
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', link-text: 'The title of a link that appears next', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear', date: 'YYYY-MM-DD', url: 'https://uclalibrary.github.io/research-tips/full-url-here.html' }
-    - { text: 'Some text you want to appear' }
+    - { text: 'Closed Captioning Available' }
+    - { text: 'H5P Content Type - Branching Scenario. Accessibility status - Tested with no known problems', date: '2023-12-06', url: 'https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations' }
 #
 # CORE COMPETENCIES
 # List all core competencies for the resource.
@@ -125,8 +127,7 @@ acrl-frames:
 # List a few keywords related to the resource that will help users search for it.
 #
 tags:
-    - notion
-    - notetaking
-    - organization
+    - tag 1
+    - tag 2
 ---
-<iframe src="https://uclabruinlearn.h5p.com/content/1291928741983331238/embed" aria-label="A Beginner's Guide to Notion" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1292097061161039968/embed" aria-label="WIRE AI TUTORIAL" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
