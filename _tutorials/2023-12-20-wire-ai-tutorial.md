@@ -48,7 +48,7 @@ references:
 thumbnail: /assets/tutorials/thumbnails/chatgpt-logo
 # HANDOUT
 # If there's a handout for this tutorial, put it in /assets/handouts/ and replace the three dots with the filename!
-handout: /assets/handouts/....pdf
+
 #
 # AWARDS
 # If the resource has won an award, reference a file name in includes/awards/ without the .html. For example, if it was accepted to PRIMO, you would write "primo". If the award isn't in includes/awards, create a new award file!
