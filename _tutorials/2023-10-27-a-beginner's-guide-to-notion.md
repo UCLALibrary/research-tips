@@ -30,8 +30,9 @@ featured:
 #
 authors:
     - nushrat-esha
+#
 contributors:
-    - Mohsin Ali
+    - mohsinmalikali
     - neha-gupta
     - Adam Bowling
 # References and Attribution
