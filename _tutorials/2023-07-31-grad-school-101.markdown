@@ -1,0 +1,54 @@
+---
+title:  "Graduate School 101"
+date:   2023-07-31
+authors: 
+    - xinjian-cen
+    - kaitlin-alcontin
+
+contributors:
+    - neha-gupta
+    - abigail-holder
+    - renee-romero
+    - hannah-sutherland
+    
+description: Learn how to navigate the graduate school application process!
+thumbnail: assets/tutorials/thumbnails/Grad School 101 Bear.png
+handout:
+handout-thumbail: 
+awards:
+category: Student Success
+sort-weight: 15
+# ######
+# ACCESSIBILITY INFO
+# - { text: 'WAVE tested - 0 errors', date: '2020-09-18', url: 'https://wave.webaim.org/' }
+# ######
+accessibility-info:
+    - {text: 'H5P Content Type - Branching Scenario. Accessible and maintained by H5P core development team', date: '2021-05-25', url: 'https://h5p.org/documentation/installation/content-type-accessibility'}
+learning-outcomes:
+    - Part 1 Deciding Whether or Not to Go
+        - Differentiate between different types of graduate and professional programs
+        - Compare the various reasons why people choose to go to grad school and possible paths (straight through vs. gap)
+        - List questions to ask yourself when deciding if grad school is the right path for you
+    - Part 2 Preparing during Undergrad
+        - Conducting informational interviews
+        - Office hours & networking with professors
+        - Constructing a long term prep plan that works for you
+    - Part 3 Assembling Application Materials
+        - Deciding where to apply
+        - Putting together your application package
+        - List strategies for navigating imposter syndrome & self doubt
+# ACRL FRAMES
+acrl-frames:
+    - 
+# UCLA Library Core Competencies
+core-competencies:
+    -
+tags:
+    - applications
+    - career paths
+    - navigation
+    - research
+    - graduate school
+---
+This choose-your-own-adventure tutorial will help you explore different options for applying and attending a graduate school program.
+<iframe src="https://uclabruinlearn.h5p.com/content/1291865488274800448/embed" aria-label="Grad 101 (most updated)" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
