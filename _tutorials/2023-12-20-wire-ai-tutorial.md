@@ -101,7 +101,7 @@ learning-outcomes:
 #
 accessibility-info:
     - { text: 'Closed Captioning Available' }
-    - { text: 'Some text you want to appear', date: '2023-12-20', url: '[[https://uclalibrary.github.io/research-tips/full-url-here.html](https://h5p.org/documentation/installation/content-type-accessibility)](https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations)' }
+    - { text: 'H5P Content Type - Branching Scenario. Accessibility status - Tested with no known problems', date: '2023-12-06', url: 'https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations' }
     - { text: 'Some text you want to appear' }
 #
 # CORE COMPETENCIES
