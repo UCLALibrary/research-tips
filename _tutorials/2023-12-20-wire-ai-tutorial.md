@@ -8,7 +8,7 @@ title:  "WI+RE's Introduction to AI Chatbots"
 # DESCRIPTION
 # Enter a short description of the resource in quotes. This description will appear on the list page as a preview, but not on the tutorial/workshop itself.
 #
-description: "A branching scenario tutorial with the options to learn about the basics of generative AI, their limitations in an academic context, and possible collaborations with the AI tool ChatGPT. Tutorial includes examples, videos, and questions to help gain a better understanding of ChatGPT."
+description: "An interactive tutorial with the options to learn about the basics of generative AI, their limitations in an academic context, and possible collaborations with the AI tool ChatGPT. Tutorial includes examples, videos, and questions to help gain a better understanding of ChatGPT."
 #
 # PUBLICATION DATE
 # Enter the date that the resource was published.
@@ -130,4 +130,4 @@ tags:
     - tag 1
     - tag 2
 ---
-<iframe src="https://uclabruinlearn.h5p.com/content/1292097061161039968/embed" aria-label="WIRE AI TUTORIAL" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1292146539098967248/embed" aria-label="WI+RE's Introduction to Generative AI and ChatGPT" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
