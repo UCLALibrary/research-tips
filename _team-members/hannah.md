@@ -4,12 +4,12 @@ username: hannah-sutherland
 displayname: Hannah Sutherland
 firstname: Hannah
 lastname: Sutherland
-position: Instructional Design & Technology Consultant
+position: Instructional Designer & Outreach Specialist 
 start-date: 
 end-date:
 category: Creative Team
 bio: >- 
-    Hannah Sutherland (she/her) is the Instructional Design and Technology Consultant for Arts, Music, and Powell libraries as well as a member of the Teaching and Learning team at the UCLA Library.  She is particularly passionate about scalable and accessible online pedagogy.
+    Hannah Sutherland (she/her) is the Instructional Designer and Outreach Specialist for Arts, Music, and Powell libraries. She also serves as a co-library liaison to the Global Islam Cluster. She is particularly passionate about critical pedagogy, Universal Design for Learning and accessible and scalable online instructional design.
 profile: /assets/images/team/hannah.JPG
 features:
     - feature-title: 
