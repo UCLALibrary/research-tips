@@ -133,4 +133,8 @@ tags:
     - popular
     - Finding and Citing Sources
 ---
+In this module, we will explore how the value, relevance, authority, and accuracy of an information source is influenced by its category and its type.
+
+Thank you to Chris Lopez, Dr. Michelle Rensel, and Simon Lee for designing the original iteration of this tutorial tailored for Cluster 71 (Biotechnology and Society).
+
 <iframe src="https://uclabruinlearn.h5p.com/content/1291802624831013478/embed" aria-label="Appreciating the Value of Different Resource Types" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
