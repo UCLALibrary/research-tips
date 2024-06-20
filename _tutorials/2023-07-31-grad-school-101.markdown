@@ -6,8 +6,9 @@ authors:
     - kaitlin-alcontin
 
 contributors:
-    - neha-gupta
     - abigail-holder
+    - Nancy Khuc
+    - neha-gupta
     - renee-romero
     - hannah-sutherland
     
