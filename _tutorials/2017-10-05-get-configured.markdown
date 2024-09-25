@@ -22,6 +22,7 @@ contributors:
     - Matthew Johnson
     - Simon Lee
     - Nisha Mody
+    - mohsin-ali
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn-connection-process.pdf
 handout-thumbail: /assets/handouts/thumbnails/vpn-tn.png
