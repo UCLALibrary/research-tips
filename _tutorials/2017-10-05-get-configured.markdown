@@ -22,7 +22,7 @@ contributors:
     - Matthew Johnson
     - Simon Lee
     - Nisha Mody
-    - mohsin-ali
+    - mohsinmalikali
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn-connection-process.pdf
 handout-thumbail: /assets/handouts/thumbnails/vpn-tn.png
@@ -112,7 +112,7 @@ tags:
           <img src="{{ '/assets/images/vpn-connection-handout-icon.jpg' | relative_url }}" class="mr-3" style="width: 150px;" alt="VPN remote access process overview handout"></a>
     <div class="media-body">
       Check out this handout that guides you through the VPN connection process from start to finish, step-by-step!<br>
-         <a href="https://ucla.box.com/s/gqyc4gmi2qi5teozk982jh38wh98up21" target="_blank" class="btn btn-primary">PDF Handout</a>
+         <a href="https://uclalibrary.github.io/research-tips/assets/handouts/vpn-connection-process.pdf" target="_blank" class="btn btn-primary">PDF Handout</a>
         <blockquote> - Thanks to Zoe Borovsky for making this great handout!</blockquote>
     </div>
   </li>
