@@ -121,7 +121,7 @@ tags:
 
 <h2>Looking for more help?</h2>
 
-<p>You can download this <a href="https://www.library.ucla.edu/sites/default/files/Off%20Campus%20Access%20to%20Online%20Resources%20-%20v3.pdf" target="_blank">Printable Handout on Off Campus Access to Online Resources (PDF)</a>, or visit the <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">library website for more information on how to get configured</a>!</p>
+<p>You can download this <a href="https://uclalibrary.github.io/research-tips/assets/handouts/vpn.pdf" target="_blank">Printable Handout on Off Campus Access to Online Resources (PDF)</a>, or visit the <a href="http://www.library.ucla.edu/use/computers-computing-services/connect-campus" target="_blank">library website for more information on how to get configured</a>!</p>
 
 
 
