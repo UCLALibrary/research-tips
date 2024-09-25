@@ -108,7 +108,7 @@ tags:
 <h2 class="mt-5">Want a visual overview of the connection process?</h2>
 <ul class="list-unstyled">
   <li class="media">
-      <a href="https://ucla.box.com/s/gqyc4gmi2qi5teozk982jh38wh98up21" target="_blank">
+      <a href="https://uclalibrary.github.io/research-tips/assets/handouts/vpn-connection-process.pdf" target="_blank">
           <img src="{{ '/assets/images/vpn-connection-handout-icon.jpg' | relative_url }}" class="mr-3" style="width: 150px;" alt="VPN remote access process overview handout"></a>
     <div class="media-body">
       Check out this handout that guides you through the VPN connection process from start to finish, step-by-step!<br>
