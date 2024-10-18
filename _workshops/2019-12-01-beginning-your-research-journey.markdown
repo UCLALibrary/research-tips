@@ -8,12 +8,14 @@ authors:
     - giselle-burns
     - kian-ravaei
     - xinyi-yan
+    - rumaysa-ahmad
 contributors:
     - Janet Goins
     - Kelly Kistner
     - Tama Hasson
     - renee-romero
     - doug-worsham
+    - mohsinmalikali
 awards:
     - primo2020
     - merlot-5-star-editor-review
@@ -24,9 +26,10 @@ references:
 thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
 sort-weight: 1
 learning-outcomes:
-    - Identify your areas of interest for a research project
+    - Describe the nature of research
+    - Identify reasons to do research
+    - Articulate your goals and necessary skills for doing research
     - Find campus resources that match your needs and interests
-    - Create a concrete plan with the first steps for getting involved in research
 accessibility-info:
     - { text: 'WAVE tested - 0 errors', date: '2020-05-22', url: 'https://wave.webaim.org/' }
     - { text: 'Closed Captioning Available' }
