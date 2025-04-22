@@ -8,7 +8,7 @@ position: Science Librarian & WI+RE Co-Founder
 background: 
 start-date:   YYYY-MM-DD 
 end-date:
-category: Creative Team
+category: Alumni
 bio: >- 
     Renee Romero is a Sciences Librarian at UCLA Library, and one of the founders of WI+RE. She works on outreach initiatives, and serves as a liaison to the science and engineering community and the Interracial Dynamics Cluster. Renee enjoys devising practical steps to reach theoretical ideals, and critically examining the ways we think, learn, and teach.
 profile: /assets/images/team/renee.png
