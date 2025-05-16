@@ -5,6 +5,7 @@ authors:
     - doug-worsham
     - taylor-harper
     - shannon-roux
+    - mohsinmalikali
 contributors: 
     - caitlin-meyer
     - renee-romero
@@ -12,6 +13,7 @@ contributors:
 notes: ""
 description: "Improve the effectiveness of your searches by generating a variety of keywords."
 handout-url: /assets/handouts/turn-questions-into-keywords-d2-form.pdf
+handout-url: https://docs.google.com/document/d/1l3dHcus_uS_9deIGtm4O6fpEEZNRWV4QRHPwJ9QSTmo/edit?tab=t.0
 thumbnail: /assets/handouts/thumbnails/turn-questions-into-keywords-tn.png
 embed-url: https://drive.google.com/file/d/19FhasaYHirsqBOzg_yfieSTjykKTtPfV/preview
 category: Finding and Citing Sources
