@@ -12,6 +12,7 @@ layout: post
                   <h5 class="card-title">{{ page.title }}</h5>
                 <p class="card-text">{{ page.description }}</p>
                 <a href="{{ page.handout-url  | relative_url }}" class="btn btn-primary">PDF</a>
+                {% if page.google-doc-url %}<a href="{{ page.google-doc-url }}" class="btn btn-primary">Google Doc</a>{% endif %}          
               </div>
             </div>
 </div>
