@@ -34,6 +34,7 @@ background:
                         <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
                             <a href="{{ handout.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">More information</a>
                             <a href="{{ handout.handout-url | relative_url }}" class="btn btn-primary">PDF</a>
+                            {% if handout.google-doc-url %}<a href="{{ handout.google-doc-url }}" class="btn btn-primary">Google Doc</a>{% endif %}
                         </div>
                     </div>
                 </li>
