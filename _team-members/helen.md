@@ -10,7 +10,7 @@ end-date:
 category: Creative Team
 bio: >- 
    Helen is the Instructional Design and Outreach Specialist for Arts, Music and Powell Libraries. 
-profile: /assets/
+profile: /assets/images/team/Helen Song.jpeg
 features:
     - feature-title: 
       feature-img: 
