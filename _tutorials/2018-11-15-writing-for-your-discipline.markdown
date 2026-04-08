@@ -60,7 +60,7 @@ tags:
         </div>
         <div class="col col-sm-12 col-md-7">
             <p class="card-text">The <i>Writing for Your Discipline</i> Style Guide is a fillable Google Doc that helps you identify key aspects of writing in a certain field and guides you through the process of creating your own writing guide.</p>
-                <a href="https://docs.google.com/document/d/1Mg1rUtDZHHTbVoZsMxM-jjf6HAcm92Omkz4A5Rnulv0/copy?copyComments=true" target="_blank" class="btn btn-outline-primary btn-block" aria-label="Open the guide in new window">Writing for Your Discipline Style Guide <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+                <a href="https://docs.google.com/document/d/1i4BQYppzAG6KUGkv3rtPNJEwW7cRgsk1/edit?usp=sharing&ouid=115187974680180758423&rtpof=true&sd=true" target="_blank" class="btn btn-outline-primary btn-block" aria-label="Open the guide in new window">Writing for Your Discipline Style Guide <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
         </div>
     </div>
   </div>
