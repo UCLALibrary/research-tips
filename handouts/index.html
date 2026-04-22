@@ -1,14 +1,14 @@
-<div class="announcement">
-  <p>
-    WI+RE is moving to the <a href="https://www.library.ucla.edu/about/programs/writing-instruction-and-research-education-wi-re">UCLA Library WI+RE site</a>. This site retires Aug 1, 2026. Resources are being updated for accessibility, and some content may change. Questions? Contact uclawire@library.ucla.edu. 
-  </p>
-</div>
 ---
 layout: page
 title: Handouts
 permalink: /handouts/
 background: 
 ---
+<div class="announcement">
+  <p>
+    WI+RE is moving to the <a href="https://www.library.ucla.edu/about/programs/writing-instruction-and-research-education-wi-re">UCLA Library WI+RE site</a>. This site retires Aug 1, 2026. Resources are being updated for accessibility, and some content may change. Questions? Contact uclawire@library.ucla.edu. 
+  </p>
+</div>
 {% assign groups = site.handouts | group_by: "category" | sort: "date" %}
 {% for group in groups %}
     <div class="card mt-5">
