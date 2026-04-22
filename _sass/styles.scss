@@ -1,2 +1,15 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+.site-announcement {
+  background: #f8f9fa;
+  color: #212529;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+.site-announcement a {
+  font-weight: 700;
+}
