@@ -6,7 +6,7 @@
   color: #7a1f1f;
   text-align: center;
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.5;
   padding: 0.5rem 3rem;
   position: relative;
@@ -14,9 +14,12 @@
 }
 
 .site-announcement a {
-  color: #8b0000;
-  font-weight: 700;
+  color: #8b1e3f;
   text-decoration: underline;
+}
+.site-announcement a:hover,
+.site-announcement a:focus {
+  color: #5c1028;
 }
 
 #mainNav {
