@@ -10,11 +10,16 @@
   line-height: 1.5;
   padding: 0.9rem 1rem;
   position: relative;
-  z-index: 1030;
+  z-index: 1000;
 }
 
 .site-announcement a {
   color: #8b0000;
   font-weight: 700;
   text-decoration: underline;
+}
+
+.navbar {
+  position: relative;
+  z-index: 1030;
 }
