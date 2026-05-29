@@ -17,7 +17,7 @@ description: "This handout is your roadmap to understanding the differences betw
 #
 handout-url: /assets/handouts/scholarly_popular_sources_finalversion.pdf
 thumbnail: /assets/tutorials/thumbnails/thumbnail_scholarlypopular.png
-embed-url: https://drive.google.com/file/d/1t6-YEyo4M5GjvVcTzk_To_TwbQ20sQLy/preview 
+embed-url: https://drive.google.com/file/d/11_yHyv8WT1sKMSWj5OD10yDqLw6Lwjo0/preview
 category: Finding and Citing Sources
 tags:
     - scholarly Sources
