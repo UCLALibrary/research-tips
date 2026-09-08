@@ -18,7 +18,7 @@ date:   2020-07-15
 # LAST UPDATED DATE
 # If you make updates, update the date here! Leave this blank if this is being published for the first time.
 #
-last-updated:
+last-updated: 2026-09-08
 #
 # Featured: yes
 # make it possible to feature this, e.g., on the homepage
@@ -119,11 +119,11 @@ tags:
 
 <div class="row">
     <div class="col-sm-12 col-md-5">
-    <a href="https://docs.google.com/document/d/1ncqaLXnoCXr9epE6mz_uNLcpFRtBHHAmjiyPeF2VEwE/copy?copyComments=true" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/BreakingDownYourPrompt.png' | relative_url }}"   alt="Screenshot of Breaking Down Your Prompt Google Doc." data-caption="Screenshot of Breaking Down Your Prompt Google Doc."></a>
+    <a href="https://docs.google.com/document/d/17wqFoonhu8FGtqFFYg7x8JYIC9-YIsLD/copy" target="_blank" class="btn btn-outline-primary" aria-label="Open the guide in new window"><img class="img-fluid img-thumbnail" src="{{ '/assets/images/BreakingDownYourPrompt.png' | relative_url }}"   alt="Screenshot of Breaking Down Your Prompt Google Doc." data-caption="Screenshot of Breaking Down Your Prompt Google Doc."></a>
     </div>
     <div class="col-sm-12 col-md-7">
         <p class="card-text">This fillable Google Doc helps you break down any prompt into its main tasks and requirements, list helpful resources and readings, and brainstorm ideas for answering the prompt. Make a copy and use it as many times as you need!</p>
-            <a href="https://docs.google.com/document/d/1ncqaLXnoCXr9epE6mz_uNLcpFRtBHHAmjiyPeF2VEwE/copy?copyComments=true" target="_blank" class="btn btn-outline-primary btn-block" aria-label="Open the guide in new window">Breaking Down Your Prompt <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+            <a href="https://docs.google.com/document/d/17wqFoonhu8FGtqFFYg7x8JYIC9-YIsLD/copy" target="_blank" class="btn btn-outline-primary btn-block" aria-label="Open the guide in new window">Breaking Down Your Prompt <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
     </div>
 </div>
 
